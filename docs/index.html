@@ -30,6 +30,62 @@
     <span id="updated">—</span>
   </footer>
 
+  <!-- 追加ボタン -->
+  <button id="fab" class="fab" aria-label="情報を追加">＋</button>
+
+  <!-- 追加画面 -->
+  <div id="sheet" class="sheet" hidden>
+    <div class="sheet-head">
+      <h2>情報を追加</h2>
+      <button id="sheetClose" class="sheet-close" aria-label="閉じる">×</button>
+    </div>
+    <div class="sheet-body">
+
+      <!-- トークン未設定の案内 -->
+      <div id="tokenNotice" class="notice" hidden>
+        <b>初回設定：GitHub連携</b>
+        <p>追加した情報を自動でMacに届けるため、最初に一度だけGitHubトークンを登録します。下のボタンから設定してください。</p>
+        <button id="openSettings" class="btn-outline">トークンを設定する</button>
+      </div>
+
+      <!-- 追加フォーム -->
+      <form id="addForm" class="add-form">
+        <label>トピック名
+          <input name="name" placeholder="例）好きなバンド ○○" required />
+        </label>
+        <div class="form-row">
+          <label>カテゴリ
+            <input name="category" list="catList" placeholder="例）音楽" required />
+            <datalist id="catList"></datalist>
+          </label>
+          <label>アイコン
+            <input name="emoji" placeholder="🎵" maxlength="4" />
+          </label>
+        </div>
+        <label>検索キーワード（1行に1つ）
+          <textarea name="queries" rows="3" placeholder="例）○○ (ライブ OR ツアー OR チケット)" required></textarea>
+        </label>
+        <button type="submit" class="btn-primary">この情報を追加する</button>
+        <p class="hint">追加すると次回の更新（1時間以内）から収集が始まります。</p>
+      </form>
+
+      <!-- 追加済みリスト -->
+      <h3 class="list-title">追加済みの情報</h3>
+      <div id="userList" class="user-list"><p class="muted">読み込み中…</p></div>
+
+      <!-- 設定（トークン） -->
+      <details id="settings" class="settings">
+        <summary>⚙️ 設定（GitHubトークン）</summary>
+        <p class="hint">トークンは端末内にのみ保存され、公開されません。</p>
+        <input id="tokenInput" type="password" placeholder="ghp_... または github_pat_..." />
+        <button id="saveToken" class="btn-outline">保存</button>
+        <a id="tokenHelp" href="https://github.com/settings/tokens?type=beta" target="_blank" rel="noopener" class="help-link">トークンの作り方 ↗</a>
+      </details>
+    </div>
+  </div>
+
+  <div id="toast" class="toast" hidden></div>
+
   <script src="app.js"></script>
 </body>
 </html>

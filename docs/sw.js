@@ -1,6 +1,6 @@
 // MyNews Service Worker
 // アプリ枠(シェル)はキャッシュ優先、データは常に最新を取りに行く
-const CACHE = 'mynews-v1';
+const CACHE = 'mynews-v2';
 const SHELL = [
   './',
   './index.html',

@@ -96,6 +96,84 @@ html, body {
   display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
 }
 
+/* ---- 追加ボタン(FAB) ---- */
+.fab {
+  position: fixed; right: 18px; bottom: calc(46px + env(safe-area-inset-bottom));
+  z-index: 200; width: 56px; height: 56px; border-radius: 50%;
+  background: var(--accent); color: #fff; border: none;
+  font-size: 30px; font-weight: 300; line-height: 1;
+  box-shadow: 0 4px 14px rgba(0,0,0,.3); cursor: pointer;
+}
+.fab:active { transform: scale(.94); }
+
+/* ---- 追加シート ---- */
+.sheet {
+  position: fixed; inset: 0; z-index: 300; background: var(--bg);
+  display: flex; flex-direction: column; animation: slideup .2s ease;
+}
+@keyframes slideup { from { transform: translateY(100%); } to { transform: translateY(0); } }
+.sheet-head {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: calc(12px + env(safe-area-inset-top)) 16px 12px;
+  background: var(--card); border-bottom: 1px solid var(--border);
+}
+.sheet-head h2 { font-size: 17px; margin: 0; }
+.sheet-close { border: none; background: transparent; color: var(--text); font-size: 28px; cursor: pointer; line-height: 1; }
+.sheet-body { flex: 1; overflow-y: auto; padding: 16px; max-width: 640px; width: 100%; margin: 0 auto; }
+
+.notice {
+  background: rgba(192,57,43,.07); border: 1px solid rgba(192,57,43,.25);
+  border-radius: 12px; padding: 14px; margin-bottom: 16px; font-size: 13px;
+}
+.notice p { color: var(--sub); margin: 6px 0 10px; }
+
+.add-form label { display: block; font-size: 13px; font-weight: 700; margin-bottom: 12px; }
+.add-form input, .add-form textarea, #tokenInput {
+  width: 100%; margin-top: 5px; padding: 11px 12px; font-size: 15px;
+  border: 1px solid var(--border); border-radius: 10px;
+  background: var(--card); color: var(--text); font-family: inherit;
+}
+.add-form textarea { resize: vertical; }
+.form-row { display: flex; gap: 10px; }
+.form-row label:first-child { flex: 1; }
+.form-row label:last-child { width: 84px; }
+
+.btn-primary {
+  width: 100%; padding: 13px; border: none; border-radius: 10px;
+  background: var(--accent); color: #fff; font-size: 15px; font-weight: 700;
+  cursor: pointer; margin-top: 4px;
+}
+.btn-primary:disabled { opacity: .5; }
+.btn-outline {
+  padding: 9px 14px; border: 1px solid var(--accent); border-radius: 9px;
+  background: transparent; color: var(--accent); font-weight: 700; font-size: 13px; cursor: pointer;
+}
+.hint { font-size: 11.5px; color: var(--sub); margin: 8px 0 0; }
+.muted { color: var(--sub); font-size: 13px; }
+
+.list-title { font-size: 14px; margin: 24px 0 10px; }
+.user-list { display: flex; flex-direction: column; gap: 8px; }
+.u-item {
+  background: var(--card); border: 1px solid var(--border); border-radius: 11px;
+  padding: 11px 13px; display: flex; align-items: flex-start; gap: 10px;
+}
+.u-item .u-main { flex: 1; min-width: 0; }
+.u-item .u-name { font-weight: 700; font-size: 14px; }
+.u-item .u-q { font-size: 11.5px; color: var(--sub); margin-top: 3px; word-break: break-word; }
+.u-del { border: none; background: transparent; color: #c0392b; font-size: 13px; cursor: pointer; padding: 4px; flex: 0 0 auto; }
+
+.settings { margin-top: 26px; border-top: 1px solid var(--border); padding-top: 14px; }
+.settings summary { font-size: 13px; font-weight: 700; cursor: pointer; color: var(--sub); }
+.settings input { margin: 10px 0; }
+.help-link { display: inline-block; margin-left: 12px; font-size: 12px; color: var(--accent); }
+
+.toast {
+  position: fixed; bottom: 90px; left: 50%; transform: translateX(-50%);
+  background: #222; color: #fff; padding: 11px 18px; border-radius: 22px;
+  font-size: 13px; z-index: 500; max-width: 86%; text-align: center;
+  box-shadow: 0 4px 14px rgba(0,0,0,.3);
+}
+
 /* ---- フッター ---- */
 .app-footer {
   position: fixed; bottom: 0; left: 0; right: 0;
