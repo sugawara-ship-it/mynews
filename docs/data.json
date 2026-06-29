@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-06-29T05:51:34.272809+00:00",
+  "generated_at": "2026-06-29T06:30:03.335742+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 4
+      "count": 3
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,6 +67,50 @@
   ],
   "items": [
     {
+      "title": "マルシィ Live Blu-ray「マルシィ one man live 2026 \"Because of you\" in 横浜アリーナ」 2026年9月30日に発売決定！",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXY2MzVUclJPMDd3NW1xVm9QNWJ0VVNCSERtdW9Bd0RueHN1eWFMaU5raGZ6a0t2RjFEMWEzbnFiemJHbVl3bGpfZUF3UzlyZjJONFoxZ0dwRGE1aW4xcXY4andJUzBOcWhZZGdNWnpVOExxUlVjOFhXbXpqVXEtUEdBUWd0WlhiQ2wwNUFIN0N2OTBqSzdjcDNsOHB6ak9J?oc=5",
+      "source": "USEN",
+      "published": "2026-06-29T06:23:52+00:00",
+      "summary": "マルシィ Live Blu-ray「マルシィ one man live 2026 \"Because of you\" in 横浜アリーナ」 2026年9月30日に発売決定！ USEN",
+      "id": "b072f9afae1a4ebd",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤"
+    },
+    {
+      "title": "女性起業家のWEB集客とAIの総合研究所「集まる集客(R)総研」で女性起業家のためのClaude Codeセミナーを開催",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRYkVGWldXUnZxZEdSVk1pOVdzVTM3b3RBMVZrSGtJOFB2RnhrOWhaSzFMYXJWNTdhNzVjSTVJSFp0N2hyNkFzVnNPX2VUaU9kQ205OVR1cHhFV2tJUzZpaUljNTh3YVFmRmJZaUNJajFQMDlaR2VUZXpidw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-06-29T06:03:20+00:00",
+      "summary": "女性起業家のWEB集客とAIの総合研究所「集まる集客(R)総研」で女性起業家のためのClaude Codeセミナーを開催 ニコニコニュース",
+      "id": "515335d04a4d2f91",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Anthropic、基本給最大138万ドル H-1B申請資料で判明",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjIydmdjdjhUenBmeE51M3FNQ1ZadFZaN3RNbE5MNjVBQ1ZDMEtKY1hyTUU1cTVWMkV1cjVXbi14ZkxjOG05ejBVdWV2SndSU1pvMmhEd0tfNUxtX01zbnZ5ZTRQcFVkTWJ2TVdERlpndVhuZl9fdndyUUotOFlhQlkyeUxqMDFVZDJqVndEVERkeXNNZzNkTWM2NFd1NUdTZTNCM0xqSDdkTDFS?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-06-29T05:54:12+00:00",
+      "summary": "Anthropic、基本給最大138万ドル H-1B申請資料で判明 디지털투데이",
+      "id": "433f31f640ec7297",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖"
+    },
+    {
+      "title": "プレスリリース：株式会社playknot、Anthropic「Claude Partner Network」に認定（PR TIMES）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xdGhyRDUzclFBWlBsVVUtQ1plejJmbkF6bFRGSkE0ZzdhZUk2bFhaallVQV8tUHBHTWp2enpwY3ZoS2pTZUh5ZGZKbTdrVkhMWVNjcWpKdmRZQkV6NlJ0N2NPdDNOclZV?oc=5",
+      "source": "毎日新聞",
+      "published": "2026-06-29T05:21:33+00:00",
+      "summary": "プレスリリース：株式会社playknot、Anthropic「Claude Partner Network」に認定（PR TIMES） 毎日新聞",
+      "id": "a78c4d4630514974",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖"
+    },
+    {
       "title": "アシスト、AnthropicとAWS上で提供する「Claude」のリセラー契約を締結",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lbTZkSGJwcDllWlhNcUhIdXA5RkRkNkRvY3ZWcmk1d0Q5Q3FHTEkxT0lUdDJkQ2VWcFp4Rjg2T1NjU0RsTlVLaDVmZkpjckcyaWtMYjFjUjctdEFBZzdsWXNuZmtHSk91UEtCdzF1Z0lLT2tJNjQ3cjFncw?oc=5",
       "source": "ニコニコニュース",
@@ -98,6 +142,17 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖"
+    },
+    {
+      "title": "予想インフレ率2%割れ 長期金利低下限られ実質金利は上昇",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOSjMwZFEwREUwdlZ3dGZPX3hnc0M0S09GckltMVRfN1pNYmJtTTUydF9FWjhobjVyRDk1bTg5eWg4cUNnWWY2N2JPRHNONlVrX1dOYlRvb0Q4cnhoNlRYZkdzLW8yaUZLRmI2RA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-06-29T03:06:35+00:00",
+      "summary": "予想インフレ率2%割れ 長期金利低下限られ実質金利は上昇 日本経済新聞",
+      "id": "d5ac4cbc6926a8c6",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹"
     },
     {
       "title": "米津玄師「折り烏」公開、サッカー日本対ブラジル戦を前に",
@@ -188,17 +243,6 @@
       "emoji": "🤖"
     },
     {
-      "title": "【8月19日(水)19:00～渋谷開催】生成AIで変わるEC業界――年商117億円企業代表も登壇、EC・DX人材が最先端グロース戦略を学ぶ交流会を開催！",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02ME9xY2k2eTFzRGFtSnBrMlg1VlFmUHhPRkNaSVhvXzJnUk0xUTByNGd6cWZVRDVhbGtxLXN5c2xib251RmFBV1lkNnBMWkFCdkxSa0Y3X1Rmb21aTWdnSEdkX2ZDWmFRR2c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-06-29T01:10:02+00:00",
-      "summary": "【8月19日(水)19:00～渋谷開催】生成AIで変わるEC業界――年商117億円企業代表も登壇、EC・DX人材が最先端グロース戦略を学ぶ交流会を開催！ PR TIMES",
-      "id": "639944b54c04e5a3",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖"
-    },
-    {
       "title": "角松敏生、デビュー45周年を記念して行われた横浜アリーナ公演の模様を3部に分けてWOWOWで独占放送・配信！",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HVlhuLVVPWnU2RTI4d2tKQ0YtYXV6SFBPT1dsRTk2QVlrdFp3aVZJa3ZWZ3BJcHRwYm14X21OT2ZYaVJPVWc?oc=5",
       "source": "POPSCENE - ポップシーン",
@@ -210,17 +254,6 @@
       "emoji": "🎤"
     },
     {
-      "title": "動画生成AIを活用した「共創型地域PR動画コンテスト」を全国へ、地域共創パートナーを募集",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84S2hfSFpaeFVRdjNZSnd3OWFfT0ZYbV9fZWNRVWxObFNyX2JfLXFvR3cyV3FOdFpuT21JV2ExOHNXdTM1V2FPcXhEeFB5SVNMd05nUVAxNGJGQk4yOFVaTHpEV2ZZSEhmVGc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-06-29T00:48:07+00:00",
-      "summary": "動画生成AIを活用した「共創型地域PR動画コンテスト」を全国へ、地域共創パートナーを募集 PR TIMES",
-      "id": "1cd7ccce088289db",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖"
-    },
-    {
       "title": "≠MEが12thシングルのリリースイベント開催！話題の表題曲のほかカップリング曲も披露",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IaklQNlVlQmphaXR2eklBNDZrbm9YUWx4MkpjTGZ5REhzdVhHc1JUUE1XWWFTNHNRYjVJOElwb0RKQmtRemRzemZ3a1c?oc=5",
       "source": "ナタリー",
@@ -230,17 +263,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤"
-    },
-    {
-      "title": "Anthropic、「Mythos 5」提供再開　米国の重要インフラ組織限定　Fable 5再開は依然協議中 | チバテレ＋プラス",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaUnpuVzczbmxQdEJETlVrSDNuUVRJQUFQazhZM3VvdDNzOG5rNVByRFdoZ2ZtclppU1A3eDI0dk1vXzZ0bTJIeTQwOU1WdlJUaTZGcTR6Q2o0bXVTQkFN0gFkQVVfeXFMUGdrVlRScmVSTlFUTF9PSXd6bFNNV2VOa2R1eU1PWUo1MzVraTkyM3BmUkhBX0xjTVZPeGEwS1l3U3BfVXdzRk12c0pydlp3LWNPbGpLRlFuQzRXUC04MTl0R2hSaw?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "published": "2026-06-28T23:59:24+00:00",
-      "summary": "Anthropic、「Mythos 5」提供再開 米国の重要インフラ組織限定 Fable 5再開は依然協議中 | チバテレ＋プラス 千葉テレビ放送株式会社",
-      "id": "fb01fb7b6d324043",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖"
     },
     {
       "title": "ブタ腎臓移植 28年にも国内で治験",
@@ -518,17 +540,6 @@
       "emoji": "💹"
     },
     {
-      "title": "『第4回 IDOL RUNWAY COLLECTION 2026 AUTUMN/WINTER Supported by TGC』9月に横浜アリーナにて開催決定",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kWGtxT0NrZHM5aEsxNFhYNElMcWJfQ0dMTElOZURscnlONXdsZ1hoWmZta1Q1VFlvOVZnWUV6Vmp2UEVlRm1mYzVRbw?oc=5",
-      "source": "アソビシステム株式会社",
-      "published": "2026-06-26T12:14:05+00:00",
-      "summary": "『第4回 IDOL RUNWAY COLLECTION 2026 AUTUMN/WINTER Supported by TGC』9月に横浜アリーナにて開催決定 アソビシステム株式会社",
-      "id": "6719b1f641151bbc",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤"
-    },
-    {
       "title": "世界最大規模の合気道武術フェスティバルと選手権大会が釜山で開催",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRak9mVkVKeUp3Z243SEVnaDdVQVdoVko2NE0xRUk3LTNIMXZXeF9xUnZYc0ZCQXJiWjl4YVBYTmVUVFZYWU5hYnRLcVRXemlseDdLSlFMdWlVMmY1VGlz?oc=5",
       "source": "저스트 이코노믹스",
@@ -749,17 +760,6 @@
       "emoji": "🥋"
     },
     {
-      "title": "カウンターワークス、プロダクトマネージャーの松原 幹が日本初となるプロダクトマーケティングカンファレンス「PMM",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lM3ZRRFJIODcwWXFjbHp0dWIwdldLZFhYbTJ0WmoyQVh5WWNFbnVpX3lmYXZUNzJtZWZBb3h4S1JOT1h5WWFQeWR0akxGem9BZVJCNQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-06-24T08:48:16+00:00",
-      "summary": "カウンターワークス、プロダクトマネージャーの松原 幹が日本初となるプロダクトマーケティングカンファレンス「PMM ニコニコニュース",
-      "id": "d229b0799d4224c1",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠"
-    },
-    {
       "title": "禅道会 総合武道セミナー＆体験会(福島県)の情報",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jczQwSElRSngwTWFKcTVUYzQ3Wm0wM2RiRWFEdGx0QnlDVWdUUUNZaDFIME1sVmRTLWplM3FsMGVVN2RqUmFkR1pOTUFLckN4YjFTOEJxRFB2QUE?oc=5",
       "source": "ウォーカープラス",
@@ -799,17 +799,6 @@
       "published": "2026-06-23T21:10:16+00:00",
       "summary": "「住宅ローンが上がって大変だ」という報道の落とし穴 金利が上がらなければ物価爆上がりで日本経済も崩壊する（デイリー新潮） Yahoo!ニュース",
       "id": "228b243cc6134b13",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹"
-    },
-    {
-      "title": "日銀次回「12月利上げ」は遅いか早いか、政策金利1％でも“円安基調”変わらず",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wV214Nl9YcWV4dk1XV1htYlBlejBubjJ4Qk1CUDNsb0RpUGZ4RXB4MmtVUGRDMEQxcVk3aXc4dTdiQTJVOWFDUWV0ODjSAU9BVV95cUxObDMwOUVYM0M4Z0piR1BoSnE4YnYxd3JpUkRCbHlhQU5HRk5HVm5OdVc2bWo4ZWVuYzR6QlpCckxUcFJZSDFlWjBKYXdacnhv?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-06-23T19:25:00+00:00",
-      "summary": "日銀次回「12月利上げ」は遅いか早いか、政策金利1％でも“円安基調”変わらず ダイヤモンド・オンライン",
-      "id": "d6e9c77668fa6975",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹"
@@ -925,17 +914,6 @@
       "emoji": "🥋"
     },
     {
-      "title": "2026年人民警察軍事・武道・スポーツ大会第3地域（ラムドン）開会式",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0RjLTRZV3d2aHM1eE1YZUl5NjdEdnpoQjQzbHAxZE1NXzMweWp2X2Q5a1AxcVRsWUNPaVFCTlhaUmpfTUtJaTc4c1psR3R4RzVzUmlobWRvOVFteDdRYnNORFF3aXFCZ3Nza0FhRDBJaVpJaWVNQkg5cWFkLXVvT0toSG1NLVU3bnFjdzkyNzV1U0o3MllfRjhlSUJzM3phMncxYk53d3liS09McVROZjZQZ2dfd25qRjk1QjZDS3U?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-06-20T15:23:48+00:00",
-      "summary": "2026年人民警察軍事・武道・スポーツ大会第3地域（ラムドン）開会式 Vietnam.vn",
-      "id": "cae7661fdb7df1a2",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋"
-    },
-    {
       "title": "【第29回フルコンタクト合気道選手権大会】開催予定。合気道覇天会・藤崎天敬宗家のもと試合・演武・講習会を実施予定。",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EWUFLWXplVzktSHRKcktJS3dUT0NiUm81aWo5TllyakRWeng5S3NQQUtvRDMtWXpDa3dqeFQ2aGw1VzZWb3F4MFRGSXJjUHcwSTF3ZUxrT3ktNTA?oc=5",
       "source": "valuepress",
@@ -1035,6 +1013,17 @@
       "emoji": "🏠"
     },
     {
+      "title": "※こちらのイベントは終了しました※【2026宮崎イベント】6月19日(金)‐21日(日)三股町武道体育館にて「みまたモノづくりフェア2026 つくりびとのカタチ」開催！(三股町)",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KNllDOHNsWVVTYXhsbTVXc0Nua2FQdVoybVREa25MZ0hqaFo1cDVNNXpVLWh2VDM0WEJacnQ5TVduY0t5V3dNRHRDd2VSNHVn?oc=5",
+      "source": "UMKテレビ宮崎",
+      "published": "2026-06-15T07:59:44+00:00",
+      "summary": "※こちらのイベントは終了しました※【2026宮崎イベント】6月19日(金)‐21日(日)三股町武道体育館にて「みまたモノづくりフェア2026 つくりびとのカタチ」開催！(三股町) UMKテレビ宮崎",
+      "id": "41028b50228728dd",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋"
+    },
+    {
       "title": "【品川区】都内最大級「大井競馬場フリーマーケット」6/20(土)・21(日)開催♪",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZZENITDNRbjVIcVFhUFZRaDlTX2pyM3NyT201STdRT0xjckE0ajRVSURtYnpycVJQbUY5TS1fQXlIZndUUTVYMXhVUlVtRncxMW1ET2thOHBqbFQxdWtMZERTcw?oc=5",
       "source": "号外NET 品川区",
@@ -1046,5 +1035,5 @@
       "emoji": "📍"
     }
   ],
-  "count": 89
+  "count": 88
 }
