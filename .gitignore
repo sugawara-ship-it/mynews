@@ -1,0 +1,9 @@
+# 個人設定・収集エンジンは非公開（docs/ のサイトだけ公開する）
+config.json
+fetch_news.py
+run.sh
+*.plist
+logs/
+__pycache__/
+.DS_Store
+.env
