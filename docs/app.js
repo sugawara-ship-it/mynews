@@ -57,15 +57,21 @@ function renderFeed() {
     a.href = it.url;
     a.target = '_blank';
     a.rel = 'noopener';
+    const thumb = it.image
+      ? `<img class="card-thumb" loading="lazy" src="${escapeHtml(it.image)}" alt="" onerror="this.outerHTML='<div class=&quot;card-thumb placeholder&quot;>${it.emoji || '📰'}</div>'">`
+      : `<div class="card-thumb placeholder">${it.emoji || '📰'}</div>`;
     a.innerHTML = `
-      <div class="card-meta">
-        <span class="chip">${it.emoji || ''} ${escapeHtml(it.category || '')}</span>
-        <span>${escapeHtml(it.source || '')}</span>
-        <span>·</span>
-        <span>${timeAgo(it.published)}</span>
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="chip">${it.emoji || ''} ${escapeHtml(it.category || '')}</span>
+          <span>${escapeHtml(it.source || '')}</span>
+          <span>·</span>
+          <span>${timeAgo(it.published)}</span>
+        </div>
+        <p class="card-title">${escapeHtml(it.title)}</p>
+        ${it.summary ? `<p class="card-summary">${escapeHtml(it.summary)}</p>` : ''}
       </div>
-      <p class="card-title">${escapeHtml(it.title)}</p>
-      ${it.summary ? `<p class="card-summary">${escapeHtml(it.summary)}</p>` : ''}
+      ${thumb}
     `;
     feedEl.appendChild(a);
   });
