@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-06-30T06:10:00.003931+00:00",
+  "generated_at": "2026-06-30T07:20:22.861987+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 4
+      "count": 3
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,6 +67,42 @@
   ],
   "items": [
     {
+      "title": "TOKAIコミュニケーションズ、米Anthropic社とAWS上で提供するAIモデル「Claude」のリセラー契約を締結",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWMnl3dkxHaU9VaFZoZ3NiZV9tVER1aFNBa1E4YXBKSEpBVzhJUE1aZ3lDLU8tZUdHY3V2VjNjRklNQ01WNTZ3QU5pUDgzQUh4RXdqNDl2QkY?oc=5",
+      "source": "日刊工業新聞",
+      "published": "2026-06-30T07:04:52+00:00",
+      "summary": "TOKAIコミュニケーションズ、米Anthropic社とAWS上で提供するAIモデル「Claude」のリセラー契約を締結 日刊工業新聞",
+      "id": "fd2a74b2bfd9b4a0",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ＴＯＫＡＩホールディングス[3167]：ＴＯＫＡＩコミュニケーションズ 米国 Anthropic 社との AI モデル「Claude」リセラー契約締結について ～ 社会価値創造企業への飛躍に向けた AI 活用推進 ～ 2026年6月30日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43cmUzU1llaFA3YWkyb005YWMxeGNHQzZQVS1IZjlsMTN3MVh3Q0x3a2o3SzQwTFh6TDNRTFd3bzloYVUydnhjSlJHTk9paC1Cek9qd0F3TkVTT0FfTmhESkdzdV96cVFNSUE?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-06-30T06:30:00+00:00",
+      "summary": "ＴＯＫＡＩホールディングス[3167]：ＴＯＫＡＩコミュニケーションズ 米国 Anthropic 社との AI モデル「Claude」リセラー契約締結について ～ 社会価値創造企業への飛躍に向けた AI 活用推進 ～ 2026年6月30日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "id": "34f343ddab7054c7",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "KnowBe4 Japan、AIで自社専用のセキュリティ教材を自動生成する新機能「コンテンツ生成エージェント」日本語版を提供開始",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LZjh1R0xndV9OTmRDYl80ME80eEZmS3FoV3FTRkN1MzJQVmY3c250TmtEZVQ4TFZ6V29sbjlLWkVNNXJkUFZwakw5Z0ItUW4xMzFObEpDM20zRzNuNUZkY0lxVWlZa3V0TjZfazB2QkJHTWRHdnFwLWZjcw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-06-30T06:18:20+00:00",
+      "summary": "KnowBe4 Japan、AIで自社専用のセキュリティ教材を自動生成する新機能「コンテンツ生成エージェント」日本語版を提供開始 ニコニコニュース",
+      "id": "95d3a7238bc7c283",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Claudeをかたる攻撃がアジア太平洋地域で多発 偽広告から不正コード実行へ（ITmedia エンタープライズ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fYW1RMVlteXl4dWphdVRTRGpyblhUSEhxWDdCOUFsb3BhYkZmZ1BXcUFFcThMaGFWUWlWeVNUWDNxUG1nRFdzdklyT0hyNWc0RHM0UlpaUURxYXMwR2l0VXB0cE5fel9YenA1dDMyblFraW5mZkc0X1EyRWNTU2M?oc=5",
       "source": "Yahoo!ニュース",
@@ -76,6 +112,18 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ファン・ミンヒョンが日本の八百屋に！？鎌倉で撮った写真を続々公開",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKaWtCd2dHUnd2MExoUkI5ajBCOFVUX1A1ZEFTcXpKbFc2S0VEZkUzWVZ3TWRFckx4M3NORlZKVEhTc2hBRHl4WlVuMGNIZmNlMl9VYnZZcW94TFlD?oc=5",
+      "source": "Kstyle",
+      "published": "2026-06-30T04:54:53+00:00",
+      "summary": "ファン・ミンヒョンが日本の八百屋に！？鎌倉で撮った写真を続々公開 Kstyle",
+      "id": "75c9aabfd417e0b0",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -103,15 +151,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【2026年】IP360補助金とは？コンテンツ産業を支援する新制度の概要や支援メニューを徹底解説！",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56VndJb1dudjFwMkZyZnI1eWNlajZqb3ZyLXRDaS1YSGN3ZUxvdGFLaGN3LVctOGJUeEFaZVVIR3RKbkhhWXRMa3JzaGw?oc=5",
-      "source": "sogyotecho.jp",
-      "published": "2026-06-30T03:20:27+00:00",
-      "summary": "【2026年】IP360補助金とは？コンテンツ産業を支援する新制度の概要や支援メニューを徹底解説！ sogyotecho.jp",
-      "id": "c5d10550c6ed45c1",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
+      "title": "STARTRADER、OpenAIとAnthropicのIPO前取引を開始——AI企業の上場競争が激化",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0M3l5blJwSVVUeXcycVQtWXBOSWNWNHNmTXFFZXNwcDA3ODViMXFMd2NlZl9zVVJfRTBXcEpmcGNIVVYzakZoQjFlWXpVMGNER3MzQXdtUEIya2RHdjdXVHhWS2RJU3pHYjBRYzl2eTF3dzBz?oc=5",
+      "source": "finance.biggo.jp",
+      "published": "2026-06-30T04:06:00+00:00",
+      "summary": "STARTRADER、OpenAIとAnthropicのIPO前取引を開始——AI企業の上場競争が激化 finance.biggo.jp",
+      "id": "41b92bae8db3c66f",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -187,36 +235,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "「防御では手遅れ」WithSecure幹部が警鐘、Claude Mythosが示したAI時代の新常識",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YUXNod1libmFqV2xQRXVhb1ZSMWxZQUpjLUh4MDA5U29EUzF6MTRPM3A5TE1SVG5kcmt2QnNhV0hKdmUycERaTGNaMUhHbWVYLUdjRi1faVNjeDBhUXBCNmJWZVNvaE05U0tFdDMwbW9USk4y?oc=5",
+      "source": "finance.biggo.jp",
+      "published": "2026-06-30T00:45:00+00:00",
+      "summary": "「防御では手遅れ」WithSecure幹部が警鐘、Claude Mythosが示したAI時代の新常識 finance.biggo.jp",
+      "id": "51bc494ab060ddcb",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Anthropic調査、AIの自動化利用者ほど雇用・賃金見通しに前向き",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVDVGTXRLRzdOUDBleU9YdmRTT0JqRFMyb3FKbElhcUJqaFZzM08zVHEzbk1JMlVpRlFjb1gyYXJYQkI1Nkdudm1BQ2oxaUpvUWo3ek53N3h5Vk56ZU9rbGhObzRiQVk4Tl9FUVZnYnpVbjFqc0s3b0hDX25mal9ra3ItenJMMEM1VFVBMG0ta1VNZE9PNWUtdXg5aS1peWtwVFE4Y2Z4R1BiUDRQRGFFSGk0UVVTMGJvVGxCVlRWMA?oc=5",
       "source": "디지털투데이",
       "published": "2026-06-30T00:43:42+00:00",
       "summary": "Anthropic調査、AIの自動化利用者ほど雇用・賃金見通しに前向き 디지털투데이",
       "id": "37d2aed8fd8566de",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、Claudeの利用動向を分析 平日は業務、週末は個人利用が増加",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZm13SjU2NU1rbFE2SXNvYkpNaUdQSkhhRldES0szc2sxTE9DcmhxYWFIdkRObW1KSUFDZkNwRGdWT055VWVFZUZ1ZWlsZV8wcVpKR1BCM21YYXdONHBRbE5aSlQ0S2QxMVF1T19hUGZWUGJ2Q08zaTBxdXM1MDV1MW9MY2ZsZUljT09OZmFLck9OWVpDb29XdlA5WThSd25xbXQ0ZUJaRm9ZRjI4T2tXRllrb2tQLTl6bmxtbHdtZVQ?oc=5",
-      "source": "디지털투데이",
-      "published": "2026-06-30T00:17:34+00:00",
-      "summary": "Anthropic、Claudeの利用動向を分析 平日は業務、週末は個人利用が増加 디지털투데이",
-      "id": "77bd1912683aa015",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "NotebookLMを卒業してClaudeでポッドキャストを作るやり方（ライフハッカー・ジャパン）",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2ptcHJaVnlGNUJ4bzFMVkhDMm9VNU9kZlNjVWtmZXBuQXpPZ2hDejZySi00Y1FveDRjcEtST0dFam04RFlxTVNkNkpYMXZpRXlraS1CUVBHb3ZzQnJONEJzaEN4QUotVkpMYmhqNVU0SzU3T09ROW01SzhGVl9qY0JNdHd6SGNu?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-06-30T00:11:02+00:00",
-      "summary": "NotebookLMを卒業してClaudeでポッドキャストを作るやり方（ライフハッカー・ジャパン） Yahoo!ニュース",
-      "id": "2c9461179d5c30a0",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -232,42 +268,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "NotebookLMを卒業してClaudeでポッドキャストを作るやり方",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQmRYblpUdVhCcXFPbEFlajM5Y2VxczA3TUNCbWY0NGJJc3hibHNfaF9EVVdoZTg0a3ZVX0g5aWE3TzExYmYxdEFqQ2NEajREaVo0ZmRQQ2RzVFhWb3pfR213NV9Wck45NXJqaW03QlI2SlE0d3h2MVE1LXhKeHJZMU5uZUUyWm55VlBqc1I3YlQ0VkJVMEtUU3g2bllqeE9Vci1UWjJobWNCaVhrNXdnNmpIb2FMZFM1cWEzaUp5by10V2wtMVFrOA?oc=5",
-      "source": "ライフハッカー・ジャパン",
-      "published": "2026-06-30T00:00:00+00:00",
-      "summary": "NotebookLMを卒業してClaudeでポッドキャストを作るやり方 ライフハッカー・ジャパン",
-      "id": "5ce6dc8786c7f217",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Codeで採用業務の作業時間を4分の1にした〜ペルソナ設計からスカウト生成まで、実装工程をすべて公開〜｜アーカイブ配信開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKNnk0cS1Nd2ZlcHdkWkphN3RzX0VmQUV2UDMxRUE0NDJJMzE3R29seU1ILWhweFFsblBvQm92U2Z2dnItVGdaSDA5dzE3ejRFamtncWtreEdGaE83SlpfbTd2Um83V3hIQXc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-06-29T23:01:14+00:00",
-      "summary": "Claude Codeで採用業務の作業時間を4分の1にした〜ペルソナ設計からスカウト生成まで、実装工程をすべて公開〜｜アーカイブ配信開始 PR TIMES",
-      "id": "c985e4540d13e379",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「Fable 5を全タスクに使う必要はない」 Anthropic開発者直伝のトークンコスト節約術",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zVnNJdHRlcWxYeGlaNXFPYlFrTzlDUkx0QVVYWFV4dUhSV2pYMkNIUDFZMUtCcUt6bXNVSG9DLW56ZEVVV1hyWjAzYU5wQnFYVGk3U05Fa3ZkS1NGRVBYMW9oZ19wcmNwZEVUTQ?oc=5",
-      "source": "ITmedia",
-      "published": "2026-06-29T23:00:00+00:00",
-      "summary": "「Fable 5を全タスクに使う必要はない」 Anthropic開発者直伝のトークンコスト節約術 ITmedia",
-      "id": "448ceeae356a5246",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -499,6 +499,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【鎌倉市】鎌倉生涯学習センターで「らんま先生のeco実験パフォーマンスショー」開催！7月22日",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TSFVWVGRIeTdwSmpyaFlvb2F6T2pRdkJybkVvQ2JjdkFoNTZWWTBMVldhMFhha01Ib1MyLUJSN1NYNVp2b0txSEFRQXdWbVprZTgzdTZ3SHowWnJhRlF5SFRkbzRrTHFpVUJWbEF3UVI?oc=5",
+      "source": "湘南人",
+      "published": "2026-06-29T01:00:00+00:00",
+      "summary": "【鎌倉市】鎌倉生涯学習センターで「らんま先生のeco実験パフォーマンスショー」開催！7月22日 湘南人",
+      "id": "37cf856b297998ce",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ブタ腎臓移植 28年にも国内で治験",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFUXhRTVlrM0lvekZWQlZRa1JFaTR6Ujh6QjNkd3VfR1BqOFY0Y3ozNzVORDhvVlJuWDNkd0pROW8xNWNpSDBHcW1ndS12R2RT?oc=5",
       "source": "Yahoo!ニュース",
@@ -643,27 +655,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【中継】神奈川・鎌倉市では国道沿いの歩道2カ所で陥没 通行止で復旧作業 藤沢市では土砂崩れも",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iZFBJcjJRSUFjMk9rdHRuOVl0VWhoTVExekZWV0xoTjNoLU52dV9lOG5fUVpWZTZiZkdoUDI1Sk1Zb2lNOTBzRXRxS1I4aUJzMlhlTGhMMTJXVDh5TEJnT0R2Y2VDcDlfZzJPRV82SnNLT05HNWJqdDFaRlhtems?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-06-27T09:35:31+00:00",
-      "summary": "【中継】神奈川・鎌倉市では国道沿いの歩道2カ所で陥没 通行止で復旧作業 藤沢市では土砂崩れも Yahoo!ニュース",
-      "id": "d1419be68934c66f",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ファン・ミンヒョン、東京＆鎌倉旅行の記録を収めた写真展を開催！予告映像が公開（Kstyle）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOcy1kNHd5UXdQdXZIUmh3dUJzdUpXRkZNRVFXb296cUNxNWZsQkF3ZW02TUR4UEtHb2JuOURwRHRIbHJ3U1Ixa0hUNDNJQjRvU3czQjlicUFuTEFLMGowSjR1TDJTbTlhNjNwNDlvVkppRUxMMlRCT1dPdTlCd0E?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-06-27T07:51:18+00:00",
-      "summary": "ファン・ミンヒョン、東京＆鎌倉旅行の記録を収めた写真展を開催！予告映像が公開（Kstyle） Yahoo!ニュース",
-      "id": "c06a76fec8860127",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
+      "title": "道民生活応援ポイント給付事業（物価高対策緊急支援事業）について - 経済部経済企画局経済企画課",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OOWJneFJMdnE1Y0tOSVlJQl9tZXlBSWFQYkIwdUJ3ak1pdkVzTW1ZMjlzU1BSZmRlanNDYk5zRmpMTEVwTkxnZGdkSE5TM0ZmOU9Bc1VGVFVmaEVjT3NV?oc=5",
+      "source": "pref.hokkaido.lg.jp",
+      "published": "2026-06-27T07:00:00+00:00",
+      "summary": "道民生活応援ポイント給付事業（物価高対策緊急支援事業）について - 経済部経済企画局経済企画課 pref.hokkaido.lg.jp",
+      "id": "7f544a21d8e812e0",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -691,12 +691,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【2026年最新】中小企業省力化投資補助金とは？仕組みやメリット、申請フローなどを徹底解説！",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42YTlDQnZFQnpaYXY5ZkpvalhTS0ticGpPNXdFbERNeGs0dkYtUG9LMFNUdkZxbzY0Zm1DbzU4TndfVTZDR2xIZW50MjVDcmNIZnV5RA?oc=5",
-      "source": "sogyotecho.jp",
-      "published": "2026-06-26T02:52:32+00:00",
-      "summary": "【2026年最新】中小企業省力化投資補助金とは？仕組みやメリット、申請フローなどを徹底解説！ sogyotecho.jp",
-      "id": "c642e8ee1dc4eebf",
+      "title": "令和8年度予算「成長型中小企業等研究開発支援事業」の補助事業者を採択しました",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XS1ppaDA5NHlnRlYtaF9LRnJ4ZERaS01OM3VfX3R0OW9QT3FzY25oSDJ4T3dPTk5lLUZwX0lScGMzZ05nc3JxNG9Ta2dUSnRacmpSUms5UXppQ2RFUE90RWlubVNCRlVydzBXbXVHd1RWT3lndGtZSV9CaUNydw?oc=5",
+      "source": "chusho.meti.go.jp",
+      "published": "2026-06-26T05:16:38+00:00",
+      "summary": "令和8年度予算「成長型中小企業等研究開発支援事業」の補助事業者を採択しました chusho.meti.go.jp",
+      "id": "e4bc4998655c0922",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -721,6 +721,18 @@
       "published": "2026-06-26T01:25:59+00:00",
       "summary": "米津玄師 「烏」主要チャート6冠！Billboard JAPAN / オリコン週間首位独占！ USEN",
       "id": "cef82fd5c4ac2bf6",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米津玄師、2026 NHKサッカーテーマ「烏」ショートアニメ公開！",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OV242MWJ3MUxEeG42UHNzaUtuR0VMNlViNzdhT0NvYmpvTmJoN2s4OTBjQWFfLXdXMVRQT3YtRXc4STY4TWc?oc=5",
+      "source": "POPSCENE - ポップシーン",
+      "published": "2026-06-25T11:00:00+00:00",
+      "summary": "米津玄師、2026 NHKサッカーテーマ「烏」ショートアニメ公開！ POPSCENE - ポップシーン",
+      "id": "2b8f9f3e3e2a9748",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -799,6 +811,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【2026年最新】最低賃金引上げ対策ガイド｜使える助成金・補助金・税制・融資32選",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XNG1TSEJEMFFqUC0xN1czN0VmTmpEMENCSl9qMzN0WEprQU5PVllRMjVSamgtMjZLY2xYbVR6SHF6dnRWeG41RFYyR0dpZWRvb2xGS0wwb3VUY0Nh?oc=5",
+      "source": "寺田税理士･社会保険労務士事務所",
+      "published": "2026-06-24T07:00:00+00:00",
+      "summary": "【2026年最新】最低賃金引上げ対策ガイド｜使える助成金・補助金・税制・融資32選 寺田税理士･社会保険労務士事務所",
+      "id": "57d7752181fca070",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「住宅ローンが上がって大変だ」という報道の落とし穴 金利が上がらなければ物価爆上がりで日本経済も崩壊する（デイリー新潮）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtZThxaFVvTzh4aXBVMmtHU2I3c2lrdXQ3Y1VOWFVpUUM1a19DaTVXdUhPYmxwbXlhcDNMVU5lOHlKZ3h0cE1rYXo3Mm4ySXkycmJLVnZheTdJb25ZTjRFRFlMSi1HS3ZFRUJia1RpaDM0UmFPOWFySHl2MG1mMGM?oc=5",
       "source": "Yahoo!ニュース",
@@ -835,12 +859,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "神戸市省エネ設備更新補助金",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaLXVmTDBVU2thOHNSdGJWNUR6VzJEYlFXTkhWU1RPOFhyQXpncXE0WGpkRWtQQldzMTBoTkRVLTl1WFhtcWdaal9YZVVRNHlvbkgyT0N3azRXNmxEcEljRVJfSmNWdw?oc=5",
-      "source": "city.kobe.lg.jp",
+      "title": "人材確保奨励金・支援金（人材確保支援事業）について",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfNDBGaFp4WGd0SWN6WTZoa19TLV8xRGpRY2d2SnRhajdoSUZPdXlzbm9qN09zblVKeXJNWTRhZmpTVm1aVnNkTGZ4ZFRDVk1vQ240M1lTaWptTVNkZXZJ?oc=5",
+      "source": "pref.hokkaido.lg.jp",
       "published": "2026-06-23T07:00:00+00:00",
-      "summary": "神戸市省エネ設備更新補助金 city.kobe.lg.jp",
-      "id": "8b81d880b82ada6c",
+      "summary": "人材確保奨励金・支援金（人材確保支援事業）について pref.hokkaido.lg.jp",
+      "id": "3ff7da367f96f660",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -871,6 +895,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "米津玄師 2026 NHKサッカーテーマ 「烏」 カラスの羽フェイスペイント TikTokエフェクト公開",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfbE1Icjc1WHk0X1ZnZWpmYk05N2JiblR2RVQ4dG02ZnRWOXM5TDdaMHNPZGUtWW03NkFkNlNsSG15MXRzYktxR0tqOW1ZcTY5d1FveUdiRHFNRWktbGtiQlMtdXVxTXN2c3c?oc=5",
+      "source": "USEN",
+      "published": "2026-06-22T04:42:49+00:00",
+      "summary": "米津玄師 2026 NHKサッカーテーマ 「烏」 カラスの羽フェイスペイント TikTokエフェクト公開 USEN",
+      "id": "639ed6c3c98d01ec",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「フードマーケット マム」を運営するタカラ・エムシーが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DYmxUcDRueVU0WWhaWjlKQjVKZUdEUVE4WDJqbHVpTlVKMTY5Y3MwQzJ2SmVFcDdhQ19sQ1FiVTFkZk8zNnVKTk1nZVRhSTVGeHh0OUk2aHIyUUxTM2U5ZnFUa0pjZDNhTmc?oc=5",
       "source": "PR TIMES",
@@ -883,6 +919,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "米津玄師 2026 NHKサッカーテーマ 「烏」MV公開",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JODZPakxidUxOLWJFLXc0WG1hTHExVm1NTDlqUVl1dkxtS2hJbFdpalZqQ01PaHFPNk9LREVSbDlxUG8tUzNDLTJQSUpzNDE4aG9id2czb3U0VS1TdVZ5QkV3?oc=5",
+      "source": "USEN",
+      "published": "2026-06-21T01:03:30+00:00",
+      "summary": "米津玄師 2026 NHKサッカーテーマ 「烏」MV公開 USEN",
+      "id": "923b085b4397a102",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【品川区】毎月第一水曜日開催！「REACH大崎クラフトマーケット」7/1(水)開催♪",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12aW43TWJvSVV3eFNaUzYtUHlXbXNIUEF5TWpZSDBfQi1zQUJsckgtSks1NC0yNy1rTHc2NTdzaV93OEM2X3I0WERpb0RwODk1WVdJc1c3SFlzSFZoMGs3VVhLMA?oc=5",
       "source": "号外NET 品川区",
@@ -892,18 +940,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【やさしく解説】政策金利で紐解く日本経済、「31年ぶりの1％」は何を意味するのか",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ubHg5STlRVVF5alloYkd1aVF2b2hRM3oyZW05dFcwczdwdEJZdHUyY05XUG9zamlzLUFoWTFJeTFYcWNKVk42SkJUeTNITDBoZHJBSW1B?oc=5",
-      "source": "JBpress",
-      "published": "2026-06-20T21:00:00+00:00",
-      "summary": "【やさしく解説】政策金利で紐解く日本経済、「31年ぶりの1％」は何を意味するのか JBpress",
-      "id": "a3714560fd9adb2b",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -982,21 +1018,9 @@
       "title": "あいみょん、地元・阪神甲子園球場ライブ目前にFM802で1時間特番放送",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU2syS2c1NjQyUXZXRFR4TG5zVmhTTnBPQXVGVjY4VXluODBZZ0hIa1VqaTgySHRLLW05NGVrRVJwa1lxQ0Y4bkRhQnJSbENfa0x1WHpnVUdKQzJUdHNpQ3NSYzUwRFQ3ODNicDNaRFJVMmVKcm05MElCMS1xZVY5NTdrSHRnWnp4SHfSAY8BQVVfeXFMUDN3V3dqUTZ3bGczMXJQNHgzLWtiazF0a2puZ3JYdjRCZV9GMjFjTzBzWmdTTjJrbk5mWS1OeGdCbVNqdzl3aFRvajlKWGh3ZjlzbzBtUTJ2bGJjeFpDUjk3TXlLdWs3YzhoTGdJY25LTDJOMjlDX0gzRTRqRFR1OXMxLVI2QXhTeC1wU09Tajg?oc=5",
       "source": "ｄメニューニュース",
-      "published": "2026-06-18T07:00:00+00:00",
+      "published": "2026-06-17T23:00:00+00:00",
       "summary": "あいみょん、地元・阪神甲子園球場ライブ目前にFM802で1時間特番放送 ｄメニューニュース",
       "id": "8fc598a2c32abe78",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょん、2度目の甲子園ライブ直前！FM802で本人DJの特別番組放送決定！バンド編成への熱い意気込みをイメトレ実況でお届け！",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4S1pMOFpqVUQtTERXRFhIb2t6dHllLXl6ZHppZVRSbXBPbHNiSDZpTnlvQVd4VzA4bk03ZWNHY0Z5NHdaUVRlZ2lmSFpmQQ?oc=5",
-      "source": "日刊エンタメクリップ",
-      "published": "2026-06-17T10:56:16+00:00",
-      "summary": "あいみょん、2度目の甲子園ライブ直前！FM802で本人DJの特別番組放送決定！バンド編成への熱い意気込みをイメトレ実況でお届け！ 日刊エンタメクリップ",
-      "id": "e44ff4baa29444f0",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -1013,43 +1037,7 @@
       "topic": "地域ニュース 品川",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょん甲子園ライブ直前“イメトレ”特番をオンエア！ 地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番が決定！",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jQW9PRHN2cG5NUm9nSEdtem9TUllnYXBGZ1dFa194Y3JwTDYxTnZkZk44T2l5bkpvcnJrWW5WTDZsS1NKc2h5bjRYYlJQa3k0MXhreGdvVERXSmFkcFVzU1A1cmNEU3g1cGNTTk5RbVlQNlhYWkt5ajg4dXQ3QdIBgwFBVV95cUxOdFdLdWt4NVVHU1Y0alVLalh2UC02ck1hMWF3R1RzM0RvSnEzU21kaENZUmlsTzJETFh4eU5HdWVvNTRHSGEyOFJhLVNHYWw0OFZ4NEcyMjBmMFdLdjJ3UzBvX0kwMXRjSGRObmtmX21NOG1qc2FsRE14SDhERHRkclZlRQ?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-06-16T17:03:59+00:00",
-      "summary": "あいみょん甲子園ライブ直前“イメトレ”特番をオンエア！ 地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番が決定！ ｄメニューニュース",
-      "id": "51c26705e2741a7b",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょんが地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番をお届け！",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Xd2VEUDZPdU1JMzhrVUk2TlA5UjVmaWdNZ3BsUmlfbkhXWUFYX28xYktxV0lIXzRWeUpLd0l6b2p2UEludC1GR0lsTjVNSVd2OEZuemsxRndmVmk0T2pz0gFkQVVfeXFMT01rcnFnRzZIODU3NHpjQmpNTHN6TjhhZWlmUEJNUmFtblJxNHd5V2lHc2hvZ1ZRNmJFZ1RPanVQOG5xTjV5S1dWTC1OYkdHU2Zkdzl2NkQtRG1ubGVodHpoMWFxQg?oc=5",
-      "source": "radiko",
-      "published": "2026-06-16T07:00:00+00:00",
-      "summary": "あいみょんが地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番をお届け！ radiko",
-      "id": "d9e91c0f97d2f672",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "東京23区 居抜き店舗物件の区別賃料相場ランキングを「居抜きの神様」が発表",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tdlJQWDlnMTFvS2FOR2lkVXBqb3U4aUpkM0VYeHFxVDlnN1ppdmR0RG9fekNHdjNSb2NDTFpXd2RZZ1JHNlJVVGVwb29jQlBhNWpKcA?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-06-16T07:00:00+00:00",
-      "summary": "東京23区 居抜き店舗物件の区別賃料相場ランキングを「居抜きの神様」が発表 ニコニコニュース",
-      "id": "8592000178f9de93",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 82
+  "count": 81
 }
