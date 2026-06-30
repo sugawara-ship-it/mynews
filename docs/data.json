@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-06-30T00:24:03.644222+00:00",
+  "generated_at": "2026-06-30T02:26:56.211623+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -67,12 +67,84 @@
   ],
   "items": [
     {
+      "title": "Claude Codeで採用業務の作業時間を4分の1にした～ペルソナ設計からスカウト生成まで、実装工程をすべて公開～｜アーカイブ配信開始",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GWUhGTDM5eHVhamIxNk02c1ZOSWRjNENUZ3pUUkY1R0xVN25sZFl6ZFJDRXpVeVNZcmV2SC1YS3o2XzVjeDZBUHNVdU15Qi1ZVmw2ajVtVU8yWS1aN1RvNE96RkVPeTdaTTlnS3ROOUFQR1RJVnB3QmtObw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-06-30T01:30:37+00:00",
+      "summary": "Claude Codeで採用業務の作業時間を4分の1にした～ペルソナ設計からスカウト生成まで、実装工程をすべて公開～｜アーカイブ配信開始 ニコニコニュース",
+      "id": "c985e4540d13e379",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "電通総研、自治体向け生成AI「minnect AIアシスト」に議会データの利活用を高度化する新機能を追加",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12ZUs3ZV9pUGx1ZzdvNXE3dE12UTdoMktFaFI4VVpZNDEwNEI4UFByQm41dnF3clNHTUY3OFpQcUg5VmIyb0ZoMndrWFVoMlVGd0lMSlh6Q0hnMzZYS2hjazdHYnNsUUE?oc=5",
+      "source": "クラウド Watch",
+      "published": "2026-06-30T01:00:00+00:00",
+      "summary": "電通総研、自治体向け生成AI「minnect AIアシスト」に議会データの利活用を高度化する新機能を追加 クラウド Watch",
+      "id": "775f7223cc254493",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、Claudeの利用動向を分析 平日は業務、週末は個人利用が増加",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZm13SjU2NU1rbFE2SXNvYkpNaUdQSkhhRldES0szc2sxTE9DcmhxYWFIdkRObW1KSUFDZkNwRGdWT055VWVFZUZ1ZWlsZV8wcVpKR1BCM21YYXdONHBRbE5aSlQ0S2QxMVF1T19hUGZWUGJ2Q08zaTBxdXM1MDV1MW9MY2ZsZUljT09OZmFLck9OWVpDb29XdlA5WThSd25xbXQ0ZUJaRm9ZRjI4T2tXRllrb2tQLTl6bmxtbHdtZVQ?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-06-30T00:17:34+00:00",
+      "summary": "Anthropic、Claudeの利用動向を分析 平日は業務、週末は個人利用が増加 디지털투데이",
+      "id": "77bd1912683aa015",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "NotebookLMを卒業してClaudeでポッドキャストを作るやり方（ライフハッカー・ジャパン）",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2ptcHJaVnlGNUJ4bzFMVkhDMm9VNU9kZlNjVWtmZXBuQXpPZ2hDejZySi00Y1FveDRjcEtST0dFam04RFlxTVNkNkpYMXZpRXlraS1CUVBHb3ZzQnJONEJzaEN4QUotVkpMYmhqNVU0SzU3T09ROW01SzhGVl9qY0JNdHd6SGNu?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-06-30T00:11:02+00:00",
+      "summary": "NotebookLMを卒業してClaudeでポッドキャストを作るやり方（ライフハッカー・ジャパン） Yahoo!ニュース",
+      "id": "2c9461179d5c30a0",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "高校野球対戦校決まる　172チームが出場〈鎌倉市〉",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZN21qY1h0dUYxVllUNEl3QjJGRzdRQm9iMlVXWGxQZ1JIZTBoa0VBcXJlN1ZyWmthb09ybDZUa21EN3VxS2F2d2RES1llR3gxWnJjenlEbkcwcGJka2p3QUo3TjJVcnlSMWdNTjNtbTBJQS0tc3FBb2x3UdIBgAFBVV95cUxPRmhZY0NzOTBVcHR3R1RmZURvYVJTMko3eWhoWHZpcTRZbU9aaXZEYXFkMkpBbHRQV1l3UzZxVTdBbHFvbndHNTR5Q0lqNTUybUhDVHAzVWx2SkFhMTAxRDByb1N1Y2JVRVp2RlBBaU1yZmtiX0JpTXJtN3ZVX1huNw?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "高校野球対戦校決まる 172チームが出場〈鎌倉市〉 ｄメニューニュース",
+      "id": "e6cb66298477496f",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「Fable 5を全タスクに使う必要はない」 Anthropic開発者直伝のトークンコスト節約術",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zVnNJdHRlcWxYeGlaNXFPYlFrTzlDUkx0QVVYWFV4dUhSV2pYMkNIUDFZMUtCcUt6bXNVSG9DLW56ZEVVV1hyWjAzYU5wQnFYVGk3U05Fa3ZkS1NGRVBYMW9oZ19wcmNwZEVUTQ?oc=5",
       "source": "ITmedia",
       "published": "2026-06-29T23:00:00+00:00",
       "summary": "「Fable 5を全タスクに使う必要はない」 Anthropic開発者直伝のトークンコスト節約術 ITmedia",
       "id": "448ceeae356a5246",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "わずか5日間で完成。「Claude」が実現した現役大学生のヴィンテージ市場開拓（海外）（BUSINESS INSIDER JAPAN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11OTBHMHpGWWpaX2toaFJLdFY2NE5yTUJERkU5TGxMekRtVmkwazNVVzd6WWllSzBVWm1fdHJDLXQxeWJSbHY5QkphYXdwLVNDSlF0MG82SjVzWndYeTU2RVhvdS1kUEhDMTNyazlYR2lVUXdFbmh6WklCYW84VkU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-06-29T22:10:02+00:00",
+      "summary": "わずか5日間で完成。「Claude」が実現した現役大学生のヴィンテージ市場開拓（海外）（BUSINESS INSIDER JAPAN） Yahoo!ニュース",
+      "id": "089f87457cdbf297",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -103,12 +175,36 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "アンソロピック、エヌビディアGB300 GPU搭載のマイクロソフトAzureでClaudeモデルを提供開始 執筆",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40SmhfUUhXSEluTk1OdDNBbE40My04SEJNWDhjSjFKdzdJY1ZtM01nOXE4VFlaV2F5V21VUExVa0ZWTzRRR2hnZ3k2eWRYYmYteGNsYkpTbGJXYTNrMlZVQlF3WmJxRlFCaWNhbllZTnE?oc=5",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "published": "2026-06-29T17:47:00+00:00",
+      "summary": "アンソロピック、エヌビディアGB300 GPU搭載のマイクロソフトAzureでClaudeモデルを提供開始 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "id": "f2cec72afb3d020a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Reze、レセプト業務の自動化の第一歩目となる「請求業務ワークスペース」をリリース",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPeXU3c0lORHU2UFN6czlURFhpYTdXdmQ1WmNKTHNpc29jRWd0VGRSTGtxMjV2bE5NUDF0akZoeDZIQ29rWFpBYnNuaVBBV3FTakxXc0lDY3VHeUxjT2o1QWVwbGgydzF4NFZ5d0VUNUlDX21jSjVmMTJRUQ?oc=5",
       "source": "ニコニコニュース",
       "published": "2026-06-29T14:15:24+00:00",
       "summary": "Reze、レセプト業務の自動化の第一歩目となる「請求業務ワークスペース」をリリース ニコニコニュース",
       "id": "4b217f5e76f965ad",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【AIの本質を30分で体系化】生成AIの潮流と最新ニュースを“点から線へ”整理するセミナーを7/30開催＜イプロスAI 2026 夏＞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uaDhjdm9mamhRMjdjejdJZmhadV82WHFVRUU3akdUaE5CMm82aEVnWEtmSTB5MGpNbXdDRTVHbWtZSVVzenhxbExsSVIwaHdTdUxRcVdodmwtdGZvbFI1cXNGeW83RkRzSHc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-06-29T11:39:46+00:00",
+      "summary": "【AIの本質を30分で体系化】生成AIの潮流と最新ニュースを“点から線へ”整理するセミナーを7/30開催＜イプロスAI 2026 夏＞ PR TIMES",
+      "id": "bc2eed5cdb96d29a",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -163,36 +259,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【未確認】カルパシー氏の作とされる「CLAUDE.md」10原則が流出か、AIコーディングの自律ループを制御する新ルール",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OYWZsYmwtdFFDeEcwNnl5TzV4cVQxa1Q0SXBrMUE4RUpaRF9fNS1DRWFXcGFvM1RwR0ViUkJNWWFQeWxMcTJVMDE0OURmYzF6Rko3SE9fR0FaOEhGelF1bk1LONIBaEFVX3lxTE9YMU5CdXl5TTNlUFhXSnlhLUl4Yjlsb0ZzSDlheWxaaUhnOWdWZkFKbGJsVTJmMUd4SEVUV2gxTWFYU0daVTdUcFBoYWJ1R0EyS3FoTXJYeE85YV9DVjhMNkR0Z3JMYnFG?oc=5",
+      "source": "財経新聞",
+      "published": "2026-06-29T09:58:02+00:00",
+      "summary": "【未確認】カルパシー氏の作とされる「CLAUDE.md」10原則が流出か、AIコーディングの自律ループを制御する新ルール 財経新聞",
+      "id": "79e1472fc1b958f5",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "米商務省、Anthropicの「Claude Mythos 5」を重要インフラ防衛向けに限定復旧、一般向けの「Fable 5」は停止継続",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Pd3ZqLWxmLUhVVVBrS3ZLSGRsNTJGdFp2VHAwZXIxajlOWGdEYlVJcHV4OFF5OUN5b21tcDZjMkNkcnVvX0w5S3UzdXQ2ZGhITXpWUmRYWVBVX0VQMXhrMndGd9IBaEFVX3lxTE11OG15NmZpQVM0M0VkUk1YM0VMMlpzMkx4dkJ2Q0E5QnFkTWx3dWNhUncwMDROdFJXU2Y3ckNrMVpvRTVqWkY4WjROS2NGNjA1OU5WMXNOVmRvcE91VTNobEU0OEhkV3FB?oc=5",
       "source": "財経新聞",
       "published": "2026-06-29T09:57:53+00:00",
       "summary": "米商務省、Anthropicの「Claude Mythos 5」を重要インフラ防衛向けに限定復旧、一般向けの「Fable 5」は停止継続 財経新聞",
       "id": "88e06106c70b2675",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Slack向け「Claude Tag」が登場、8月3日までに移行が必要に――常駐型AIがもたらす変革と管理者の課題",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LN3lQYmJmcnFMbExtendzLW1teTJ5WUtiTDBqNGUxTURkT2NDQzdrZ2U5RTYtR1Jfa2JXZVU3eWswbHhNN1QzNnctOUQ5TmNfUGkyZzFnU3NGUU5hYldYSnRvY9IBaEFVX3lxTFBTeVdmc25rUVVMdFBPa195ZkxHMXdaWHJ5ZWRYeUFMcDlObGJZNWdkb0w3MWRPZEdyVFU2VTFhR1ZkcTY2aEJkSHUtc2ZuQVh3R2dvZkUtSnVLZmpyMlFpLUtjS0FOX2JP?oc=5",
-      "source": "財経新聞",
-      "published": "2026-06-29T09:57:18+00:00",
-      "summary": "Slack向け「Claude Tag」が登場、8月3日までに移行が必要に――常駐型AIがもたらす変革と管理者の課題 財経新聞",
-      "id": "062453d5dc89afce",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、Claude Mythos 5へのアクセスを再開 Claude Fable 5は依然アクセス停止中",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UcEtNVG9NcU8yb1R6d3NTNVNTbzFiV1VpTkpDV01wQnRjSDlWQWZYSm1ULXBaSG9SQ3h4RFhKZVZyQ0tjZkJ5bzFUTl90eU8xNXp3eV9acU9TVXpqeDNvNDFXWQ?oc=5",
-      "source": "株式会社インプレス",
-      "published": "2026-06-29T09:09:06+00:00",
-      "summary": "Anthropic、Claude Mythos 5へのアクセスを再開 Claude Fable 5は依然アクセス停止中 株式会社インプレス",
-      "id": "8abf8a24041cd93f",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -247,24 +331,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "B’z『FYOP+』ツアー横浜公演 進化を続ける二人の“Passion”が炸裂 最新作と名曲群が響き合った圧巻のステージ【ライブレポ】",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VU2JYS3o5LVFhdGpJYkhrbXQxcjBvOGtRQ1V3QnVUblBQMzdETDVZTWhMVTJfYjFwTERjZUJCM1pNOVZJRlZELU84UWpWQUdPbmxtNzdn?oc=5",
-      "source": "オリコンニュース",
-      "published": "2026-06-29T09:00:00+00:00",
-      "summary": "B’z『FYOP+』ツアー横浜公演 進化を続ける二人の“Passion”が炸裂 最新作と名曲群が響き合った圧巻のステージ【ライブレポ】 オリコンニュース",
-      "id": "1468c2b52aeb6972",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "B'z「FYOP」ツアー、パッションで満たされついに完結",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nbmRIckhWZnViSDhmWHdGSVp5aFZkNUNESHhVQVBfems2enlpOWNkU3pyNERlc01YX0RCOHhsb0VDSVF1LWNBZUtUUWg?oc=5",
       "source": "ナタリー",
       "published": "2026-06-29T09:00:00+00:00",
       "summary": "B'z「FYOP」ツアー、パッションで満たされついに完結 ナタリー",
       "id": "338071a36edd525e",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "B’z『FYOP+』ツアー横浜公演 進化を続ける二人の“Passion”が炸裂 最新作と名曲群が響き合った圧巻のステージ【ライブレポ】",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VU2JYS3o5LVFhdGpJYkhrbXQxcjBvOGtRQ1V3QnVUblBQMzdETDVZTWhMVTJfYjFwTERjZUJCM1pNOVZJRlZELU84UWpWQUdPbmxtNzdn?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-06-29T09:00:00+00:00",
+      "summary": "B’z『FYOP+』ツアー横浜公演 進化を続ける二人の“Passion”が炸裂 最新作と名曲群が響き合った圧巻のステージ【ライブレポ】 オリコンニュース",
+      "id": "1468c2b52aeb6972",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -283,18 +367,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "人材紹介の「求職者推薦文」を生成AIで半自動化、属人化を解消し業務効率化を実現",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4QURGVENBR2lsS2lvTHQ0bzlCc3VoNkJibjBkaW5wbmd2OEFHN0VUZWJHdFp2cHd4NzdUeXZMUHNEVVpwNWxiMzVGX2doM3dxZGIycjRTMmhhdXNVdFc5Q3QxTldySWJPX2c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-06-29T08:10:02+00:00",
-      "summary": "人材紹介の「求職者推薦文」を生成AIで半自動化、属人化を解消し業務効率化を実現 PR TIMES",
-      "id": "67454477fa4359d2",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "STORM BLADE ASLボードシリーズ試乗会が鎌倉・由比ヶ浜で開催！【AD】",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByeGFpYnhFc05ZRjMtNFNTeEU2QzlueXlnVVJrRFl6aDNVR3VjeXBETElvc3lVNnhINDFuZFhUQlFBQ2M5SEs0RndacXZ4bHkxaXBaMzZfa3F3TnhBZFIwSTF4elU?oc=5",
       "source": "波伝説 サーフィン波情報",
@@ -304,30 +376,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "教育現場の生成AI活用、普及の鍵は「現場キーパーソン」",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UT2RKWjVFTE5VOEpHRTJRcU8yZzFjX1JYTHh6TmNON3ViR0M3V3ptaktWN2kwZ19YWHRYaXQ5VE1VdDRWcG92UXVEZkRwR0lzU0hqWVczdEY4ZzhnM3JCTFNRd1BPQktENmc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-06-29T08:00:01+00:00",
-      "summary": "教育現場の生成AI活用、普及の鍵は「現場キーパーソン」 PR TIMES",
-      "id": "ebf2eac2b48d1991",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「土日の方がAIの個人用途は多い」「女性の方が使用時間は長い」「高賃金タスクは夜間も実行されがち」などClaudeの利用実態レポートが公開される",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YeVRxUFo2Wm04dU4zWGsxanlfSGhEQkowbTBsb1d3TkVaQWdQRlQtU0taTzdIMWlscURfa1dmclFMdkZJZm0tZ1A2ZmhyU3VZeENBdVZVT0dpUHY1TUhKRzlqLWtFdjdJWVM0S05n?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-06-29T07:54:00+00:00",
-      "summary": "「土日の方がAIの個人用途は多い」「女性の方が使用時間は長い」「高賃金タスクは夜間も実行されがち」などClaudeの利用実態レポートが公開される GIGAZINE",
-      "id": "4801a63176d2c02c",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -343,42 +391,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Fotographer AI、世界中で利用される3Dレンダリングソフトウェア「V-Ray」を提供するChaosグループ傘下のCylindoと戦略的パートナーシップを締結",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oMkIwMGJTd0UwVThjVm43eDZNZ1NlYUI0MUdEZGlfQUNRR3R1clhWbDZpdU0xakNDODBHWWhCY29MWll1U3hDcDM2VWlRWFpZUk5BczRuUXE2bWdIdFhjQUhkX091bENTZWc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-06-29T07:30:01+00:00",
-      "summary": "Fotographer AI、世界中で利用される3Dレンダリングソフトウェア「V-Ray」を提供するChaosグループ傘下のCylindoと戦略的パートナーシップを締結 PR TIMES",
-      "id": "71f133b0525488b3",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "KMS ／KMS、AIスライド自動生成機能を追加",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXNUxIbHVXZHBjRXVETG82blhwUDRxd05jMjJTeFREeEszQ1lOTFNvdkw4TW5fS1NUbThFOE9OSnVXYnQ2T0E?oc=5",
-      "source": "pr-free.jp",
-      "published": "2026-06-29T07:09:53+00:00",
-      "summary": "KMS ／KMS、AIスライド自動生成機能を追加 pr-free.jp",
-      "id": "42b00e5d5675db50",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropicの「Fable 5」、米政府の制限が近く解除か？",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZV0s2cHphZWtGdV9pRWtqS1dpREFSUTQzNEozdGl2OUdTeDN6TmVSY0M3VHk2LUZEdU1jZTIwUnltc2V1ZGJyNjF5amE0LTE3OEZWR2tUU1JicVJGaHpYcXdLVlUtTkRw?oc=5",
-      "source": "マイナビニュース",
-      "published": "2026-06-29T07:01:02+00:00",
-      "summary": "Anthropicの「Fable 5」、米政府の制限が近く解除か？ マイナビニュース",
-      "id": "fc54647b695e8f3e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "マルシィ Live Blu-ray「マルシィ one man live 2026 \"Because of you\" in 横浜アリーナ」 2026年9月30日に発売決定！",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXY2MzVUclJPMDd3NW1xVm9QNWJ0VVNCSERtdW9Bd0RueHN1eWFMaU5raGZ6a0t2RjFEMWEzbnFiemJHbVl3bGpfZUF3UzlyZjJONFoxZ0dwRGE1aW4xcXY4andJUzBOcWhZZGdNWnpVOExxUlVjOFhXbXpqVXEtUEdBUWd0WlhiQ2wwNUFIN0N2OTBqSzdjcDNsOHB6ak9J?oc=5",
       "source": "USEN",
@@ -388,6 +400,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「中小企業省力化投資補助金（一般型）」第7回公募",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eDVUc2R4TmVZWGZSZHJ0NjdZYUJLY2ppZU05ZkExTUhZUEVYcjNiclBCOFROY295Sm9UMm1BMWRRc0dTc01KZnlxeUNDN3VLbVU2dVNyTjM1Zw?oc=5",
+      "source": "sogyotecho.jp",
+      "published": "2026-06-29T06:03:00+00:00",
+      "summary": "「中小企業省力化投資補助金（一般型）」第7回公募 sogyotecho.jp",
+      "id": "d4d74fe2a3456514",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -703,24 +727,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "米津玄師 「烏」主要チャート6冠！Billboard JAPAN / オリコン週間首位独占！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RV1ZQN3NVbTNQbEZrVEhHYWo4UlUwRGJfQlFmdHpKVWFYNTNnRzVRWi1mRkpCLTF4S0Y2SE9kMFpOb1pmUngta3dCMU1KRW5RcDFnRmxTRG1GUWlzR3IwSlJFSVlENGxWakE?oc=5",
+      "source": "USEN",
+      "published": "2026-06-26T01:25:59+00:00",
+      "summary": "米津玄師 「烏」主要チャート6冠！Billboard JAPAN / オリコン週間首位独占！ USEN",
+      "id": "cef82fd5c4ac2bf6",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "鎌倉山かるた会渡辺令恵さん ｢かるたの聖地｣で連覇 全日本シニアで通算５度目V",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzdXBheWUyWVBjLTVEMDFNVXUwQnROTFh6SlRqX19EejhzRm80QWdQUXdyWkMySHBkTkxKYTBFdVNJdVRqSUhTbk5aZkNicUZfSjRqNnVPek54VXZUX0Y1aFNwaGs?oc=5",
       "source": "タウンニュース",
       "published": "2026-06-25T15:00:00+00:00",
       "summary": "鎌倉山かるた会渡辺令恵さん ｢かるたの聖地｣で連覇 全日本シニアで通算５度目V タウンニュース",
       "id": "5393984d9799792f",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "いちご園でマルシェ ６月27日（土） 10時から",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kc09QXzlybnlIeFVrSmVkUHl3TS1adlY2VmhvTnlfWkpDSWdPTGJwbGxHbHRhczIyLUtwcW1MR3FJd2Q3VE1OQm1mTzlBTV8zM1RMa29Ka1cwTXN5OGNnMkdlZjY?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-06-25T15:00:00+00:00",
-      "summary": "いちご園でマルシェ ６月27日（土） 10時から タウンニュース",
-      "id": "25e88b75d2ae9686",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -775,18 +799,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米津玄師、2026 NHKサッカーテーマ「烏」主要チャート完全制覇6冠！",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zYkJfUEdCVEprcW5uQTB5VnJkVENzLXdaQ29WRDNhX3UzTDJLcF9CZ2RNUTRUT3FCSU9OTl9aaEx3RXBfVkE?oc=5",
-      "source": "POPSCENE - ポップシーン",
-      "published": "2026-06-24T12:30:00+00:00",
-      "summary": "米津玄師、2026 NHKサッカーテーマ「烏」主要チャート完全制覇6冠！ POPSCENE - ポップシーン",
-      "id": "38de446dc2562820",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "カウンターワークス、プロダクトマネージャーの松原 幹が日本初となるプロダクトマーケティングカンファレンス「PMM",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lM3ZRRFJIODcwWXFjbHp0dWIwdldLZFhYbTJ0WmoyQVh5WWNFbnVpX3lmYXZUNzJtZWZBb3h4S1JOT1h5WWFQeWR0akxGem9BZVJCNQ?oc=5",
       "source": "ニコニコニュース",
@@ -817,18 +829,6 @@
       "published": "2026-06-23T21:10:16+00:00",
       "summary": "「住宅ローンが上がって大変だ」という報道の落とし穴 金利が上がらなければ物価爆上がりで日本経済も崩壊する（デイリー新潮） Yahoo!ニュース",
       "id": "228b243cc6134b13",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "日銀次回「12月利上げ」は遅いか早いか、政策金利1％でも“円安基調”変わらず",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wV214Nl9YcWV4dk1XV1htYlBlejBubjJ4Qk1CUDNsb0RpUGZ4RXB4MmtVUGRDMEQxcVk3aXc4dTdiQTJVOWFDUWV0ODjSAU9BVV95cUxObDMwOUVYM0M4Z0piR1BoSnE4YnYxd3JpUkRCbHlhQU5HRk5HVm5OdVc2bWo4ZWVuYzR6QlpCckxUcFJZSDFlWjBKYXdacnhv?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-06-23T19:25:00+00:00",
-      "summary": "日銀次回「12月利上げ」は遅いか早いか、政策金利1％でも“円安基調”変わらず ダイヤモンド・オンライン",
-      "id": "d6e9c77668fa6975",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
