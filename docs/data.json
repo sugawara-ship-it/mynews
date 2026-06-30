@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-06-29T19:43:03.781782+00:00",
+  "generated_at": "2026-06-30T00:24:03.644222+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 9
+      "count": 7
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,22 +67,34 @@
   ],
   "items": [
     {
-      "title": "英長期金利が低下、首相候補バーナム氏「財政規律守る」発言に安心感",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDTnpCUnhTUEthdTQ3QlNiMWNQTTBENG1qTmpqallDSGZhTjRlZmdlanRuXzRmM0xhWDBBT2VzVVV0ZVNEVWRlRGRDNkxheEVXODRKckl3XzV3eGlBQ2gtOHBaNzg1dUFibHA5aQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-06-29T18:17:05+00:00",
-      "summary": "英長期金利が低下、首相候補バーナム氏「財政規律守る」発言に安心感 日本経済新聞",
-      "id": "9c2cf535a2b8bec5",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
+      "title": "「Fable 5を全タスクに使う必要はない」 Anthropic開発者直伝のトークンコスト節約術",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zVnNJdHRlcWxYeGlaNXFPYlFrTzlDUkx0QVVYWFV4dUhSV2pYMkNIUDFZMUtCcUt6bXNVSG9DLW56ZEVVV1hyWjAzYU5wQnFYVGk3U05Fa3ZkS1NGRVBYMW9oZ19wcmNwZEVUTQ?oc=5",
+      "source": "ITmedia",
+      "published": "2026-06-29T23:00:00+00:00",
+      "summary": "「Fable 5を全タスクに使う必要はない」 Anthropic開発者直伝のトークンコスト節約術 ITmedia",
+      "id": "448ceeae356a5246",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "アプリ構築のトークン消費は通常の3倍 Anthropicデータが明かす、高度なタスクと計算資源のリアル",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDQXVlMnFoaW1KMlBYUjNRUUpkZGh4WHFEb2lndjlDUFBpeU1YY2c0WEJsUFBLZkp3SkZKZGEyb0xJRl9Bd3lPcFBVdU1keFpLNnJwNXRaSHRNNzByelZ4bklFeTZkZ1hmT2Q4eldHSUY4WF9H?oc=5",
+      "source": "ITmedia",
+      "published": "2026-06-29T22:00:00+00:00",
+      "summary": "アプリ構築のトークン消費は通常の3倍 Anthropicデータが明かす、高度なタスクと計算資源のリアル ITmedia",
+      "id": "84ec1376f4b5f0ac",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "title": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ6月30日（火）～7月6日（月）：北鎌倉のあじさい、鎌倉交響楽団、発掘調査速報展にも注目",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd0dPYTlJMFhCM054WWhfVFZJSlpuVUlySHo5aVA2LVhxd1RsdlBKNkE3eUhTYm1wZTRkVEF2VmNXN0NkNGt3NFF0QWN1N29GSUdsSVlKbTdMZVdnYV9xTDdWNGMyanNmeVU5dGtaSVlIdkFMLURleDhfU1B6N3RkZS1pUQ?oc=5",
       "source": "湘南人",
-      "published": "2026-06-29T14:56:43+00:00",
+      "published": "2026-06-29T20:56:43+00:00",
       "summary": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ6月30日（火）～7月6日（月）：北鎌倉のあじさい、鎌倉交響楽団、発掘調査速報展にも注目 湘南人",
       "id": "739bab6016dcb4a5",
       "category": "地域",
@@ -103,6 +115,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "米津玄師の新曲「烏」(からす)が26年NHKサッカーテーマに、W杯放送を熱く彩る楽曲",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OSGwzUV8zb2hwTjRnRXRIQmp5OXZGbVdSYTNkVHlUZ3F6MWtYX0ltczNWVDlOdDY4YVd5UEQydHA1U1pNLUtoTjBBb1JRVkp0TEhz?oc=5",
+      "source": "ファッションプレス",
+      "published": "2026-06-29T11:15:54+00:00",
+      "summary": "米津玄師の新曲「烏」(からす)が26年NHKサッカーテーマに、W杯放送を熱く彩る楽曲 ファッションプレス",
+      "id": "ff02cf60c8b7343e",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【鎌倉市】MARY QUANTが大船ルミネウイングに登場！2026年8月まで限定ポップアップショップ開催",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Hb1ZVTFNsN2QyWnhpQVFSbFRJVURVeHp3RmZVaXVKekpqU2s0TVlCTGlEZndxUUI5ODhnWlFJT3JPamlUYTlrS3NBYVlBN3NCSXNTcV9wcldqQjdrYzFRUlBtQWtTWEd4MU9Nck14RDAydw?oc=5",
       "source": "湘南人",
@@ -112,6 +136,18 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【2026】M!LKセトリ！ ARENA TOUR 2026-2027「シャカリキレボリューション」のライブセットリストを随時更新",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tMlF5LVV4T1h0SmYwcnBha0hRSFJMcUVvZkFSZEphbUJ5NzJmVlliYkNldDg2eWZ4MzZzaFlSUm93blQ1dHFuSGJ6X0ZSbXFlNVBrRkdyaG1LT3JHOTVGUUstazVJeVdEX0RJ?oc=5",
+      "source": "UtaTen",
+      "published": "2026-06-29T10:31:45+00:00",
+      "summary": "【2026】M!LKセトリ！ ARENA TOUR 2026-2027「シャカリキレボリューション」のライブセットリストを随時更新 UtaTen",
+      "id": "eda705af2b00856f",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -187,18 +223,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "＜ライブレポート＞「パッションの赴くままに」――B'zが【B’z LIVE-GYM 2026 -FYOP＋-】で見せた圧巻の120分",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xWGt3dDZaQldNZ09wcXJJcW5makpwRnNhZWc0RGlGeUpYNUJjcjB5TWVnQTZHOUJXQURFNi11eVlrS0JKenZ4dGxYMVdjQ2xxaGxsS0JNZUZHOE9WamJJWUVjZHA?oc=5",
-      "source": "Billboard JAPAN",
-      "published": "2026-06-29T09:00:00+00:00",
-      "summary": "＜ライブレポート＞「パッションの赴くままに」――B'zが【B’z LIVE-GYM 2026 -FYOP＋-】で見せた圧巻の120分 Billboard JAPAN",
-      "id": "974783763e226118",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【ライブレポート】B’z、全国アリーナツアー＜FYOP＋＞横浜公演が放った膨大なエネルギー「それを持って帰って、また明日につなげます」",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1OWFlGT1JvR3hmQnZiN1F4a1NmMkFYQmRyeGJmZkpscS0yZDJLT3QyUHcyMi1yd2lIWlRMXy1BQkRhUXM?oc=5",
       "source": "BARKS",
@@ -211,12 +235,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "B'z「FYOP」ツアー、パッションで満たされついに完結",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nbmRIckhWZnViSDhmWHdGSVp5aFZkNUNESHhVQVBfems2enlpOWNkU3pyNERlc01YX0RCOHhsb0VDSVF1LWNBZUtUUWg?oc=5",
-      "source": "ナタリー",
+      "title": "＜ライブレポート＞「パッションの赴くままに」――B'zが【B’z LIVE-GYM 2026 -FYOP＋-】で見せた圧巻の120分",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xWGt3dDZaQldNZ09wcXJJcW5makpwRnNhZWc0RGlGeUpYNUJjcjB5TWVnQTZHOUJXQURFNi11eVlrS0JKenZ4dGxYMVdjQ2xxaGxsS0JNZUZHOE9WamJJWUVjZHA?oc=5",
+      "source": "Billboard JAPAN",
       "published": "2026-06-29T09:00:00+00:00",
-      "summary": "B'z「FYOP」ツアー、パッションで満たされついに完結 ナタリー",
-      "id": "338071a36edd525e",
+      "summary": "＜ライブレポート＞「パッションの赴くままに」――B'zが【B’z LIVE-GYM 2026 -FYOP＋-】で見せた圧巻の120分 Billboard JAPAN",
+      "id": "974783763e226118",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -235,24 +259,36 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "B'z「FYOP」ツアー、パッションで満たされついに完結",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nbmRIckhWZnViSDhmWHdGSVp5aFZkNUNESHhVQVBfems2enlpOWNkU3pyNERlc01YX0RCOHhsb0VDSVF1LWNBZUtUUWg?oc=5",
+      "source": "ナタリー",
+      "published": "2026-06-29T09:00:00+00:00",
+      "summary": "B'z「FYOP」ツアー、パッションで満たされついに完結 ナタリー",
+      "id": "338071a36edd525e",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "中東情勢改善でも低下しないインフレリスク～改定見通し－日本経済情報2026年6月号",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oaDlNc0ozWmdBUE1GNThFaWZGQlhMeWVpUFVMTTNDbXZiUFRIcWVWMEVpQ0Q3ZHJzTlBzaFlXV1pWT3o1ejFEVUJsU3pWYThhRVZkWml2MlJCblRHbTM5MTZn?oc=5",
+      "source": "itochu-research.com",
+      "published": "2026-06-29T08:56:26+00:00",
+      "summary": "中東情勢改善でも低下しないインフレリスク～改定見通し－日本経済情報2026年6月号 itochu-research.com",
+      "id": "448f041307cff623",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "人材紹介の「求職者推薦文」を生成AIで半自動化、属人化を解消し業務効率化を実現",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4QURGVENBR2lsS2lvTHQ0bzlCc3VoNkJibjBkaW5wbmd2OEFHN0VUZWJHdFp2cHd4NzdUeXZMUHNEVVpwNWxiMzVGX2doM3dxZGIycjRTMmhhdXNVdFc5Q3QxTldySWJPX2c?oc=5",
       "source": "PR TIMES",
       "published": "2026-06-29T08:10:02+00:00",
       "summary": "人材紹介の「求職者推薦文」を生成AIで半自動化、属人化を解消し業務効率化を実現 PR TIMES",
       "id": "67454477fa4359d2",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米政権、AI規制強化でOpenAIの「GPT-5.6」を分割提供、Anthropic「Mythos 5」の一部禁止解除",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jcEcwc0FmS09QQWgyTFRlZl8zS0lhQUFGU0lxdFhqcWRfQjZWQVVlMmJadnpjYkhFa04tYWNJRDJXcW1ra1pueVpRVFI0ODBiZFIyQUYtejktMnZNdzhCUGp3VEFnNWh4dmExeXZ3YVlTZC03?oc=5",
-      "source": "finance.biggo.jp",
-      "published": "2026-06-29T08:05:00+00:00",
-      "summary": "米政権、AI規制強化でOpenAIの「GPT-5.6」を分割提供、Anthropic「Mythos 5」の一部禁止解除 finance.biggo.jp",
-      "id": "b32c043d39e63a1c",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -343,18 +379,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "イーロンマスク氏「Grok 4.5」Cursorのデータ統合で「Claude Opus越え」明言",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FNEd2bThuNkVuY0s3UHROMElZLThOUENrOUl1R3VIXzhjRDd0RER2bWQweV80TERXT2R6VjhmLWozSjFKcEVzLVBCU2FNazJXRGlR?oc=5",
-      "source": "ビジネス+IT",
-      "published": "2026-06-29T07:00:00+00:00",
-      "summary": "イーロンマスク氏「Grok 4.5」Cursorのデータ統合で「Claude Opus越え」明言 ビジネス+IT",
-      "id": "dff8bd567e6f4995",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "マルシィ Live Blu-ray「マルシィ one man live 2026 \"Because of you\" in 横浜アリーナ」 2026年9月30日に発売決定！",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXY2MzVUclJPMDd3NW1xVm9QNWJ0VVNCSERtdW9Bd0RueHN1eWFMaU5raGZ6a0t2RjFEMWEzbnFiemJHbVl3bGpfZUF3UzlyZjJONFoxZ0dwRGE1aW4xcXY4andJUzBOcWhZZGdNWnpVOExxUlVjOFhXbXpqVXEtUEdBUWd0WlhiQ2wwNUFIN0N2OTBqSzdjcDNsOHB6ak9J?oc=5",
       "source": "USEN",
@@ -364,6 +388,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "株式会社10Xが「デジタル化・AI導入補助金2026」のIT導入支援事業者に認定される",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBaDRlVUt4UnIwcXpDRDFFcmVVTVpRQjlCdUdyX2FPZlBqcGZ3bDQzLWhpMVoxLWFWWnktbV9Rb2lUeUhFRVlWNFcyLWRnNTFOSnljZG85dDFxVTBEYnA0aFI2R3JYZTkzTWM4?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-06-29T04:26:55+00:00",
+      "summary": "株式会社10Xが「デジタル化・AI導入補助金2026」のIT導入支援事業者に認定される ニュースメディアVOIX",
+      "id": "0b3532a1f9122850",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -547,42 +583,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "角松敏生が横浜アリーナで6時間におよぶライブ、デビュー45周年の思いを込めて",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5od2xrZDNfbDVUQi05UVk0WFBkWXZ5WnFWRE12UkIzMFJNa3F5emhsYjFqUVRyTU5zQVpmVTU3SFZ2Y09UQzJIM2h1UkU?oc=5",
-      "source": "ナタリー",
-      "published": "2026-06-28T01:46:00+00:00",
-      "summary": "角松敏生が横浜アリーナで6時間におよぶライブ、デビュー45周年の思いを込めて ナタリー",
-      "id": "b703330b1aa3ba02",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【品川区】五反田ＪＰビルディング 「五反田マルシェ」7/2(木)・3(金)開催♪",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MT25uLS04MjNtb0dLZ1htc2N1cjQtamg2SDB5dEJUMExNYUFVaXpHdGg2QjZmZ3VsZkI5Mzk0MTFySjVhYjZqYktpZS1CWUpHWDdzY1ZUbnlRclBhUzZBbmYtdw?oc=5",
-      "source": "号外NET 品川区",
-      "published": "2026-06-28T01:45:54+00:00",
-      "summary": "【品川区】五反田ＪＰビルディング 「五反田マルシェ」7/2(木)・3(金)開催♪ 号外NET 品川区",
-      "id": "d1818c9ebddf1fcc",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【東京都品川区】北三陸酒場 ひろので岩手県洋野町の旬と幻の日本酒を味わう期間限定フェア開催",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWeUh0OTRfMG1DVWloSWNENHhEX2FFVnl5YUxORkg3VTVnejBxcjdQcFhYNVhyQVpKVkdEejZGZFhRNVk0SmJuMUtlMkhKdlVMQXRR?oc=5",
-      "source": "STRAIGHT PRESS",
-      "published": "2026-06-27T15:24:37+00:00",
-      "summary": "【東京都品川区】北三陸酒場 ひろので岩手県洋野町の旬と幻の日本酒を味わう期間限定フェア開催 STRAIGHT PRESS",
-      "id": "16b912c448aadfd9",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "あいみょん、NHKでメジャーデビュー10周年特番 ライブ＆貴重映像、特別トークも「初めて歌った時の映像がやばいです」",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CT2dUR25lX1lHNkVmRnh4T01wN3RsR2d6aW1UeDg4dENzNUhnNWlYam5qMy1KRjhDZFYtdDlneFA5blljdDZmYTBlT3ZSM1F0WFFlNXZLbU5QZUU?oc=5",
       "source": "山陽新聞",
@@ -655,18 +655,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "揺れた“1％の判断” 舞台裏は？【経済コラム】",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4T1BmdVhycW5PMTBEM0dIX1lNZEJ0NzlOY0Q0eGFBMUFaOFVUeUNVTzctODdsQXJoOHVhbGhfN0xuUjA1LVJ0S2xtOFlVRUdTNFN1bXFNaldVQW0xM0xj?oc=5",
-      "source": "NHKニュース",
-      "published": "2026-06-26T09:59:16+00:00",
-      "summary": "揺れた“1％の判断” 舞台裏は？【経済コラム】 NHKニュース",
-      "id": "441f732d9dfd9b71",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "山場を迎える高市政権マクロ政策 金融政策、財政政策ともに6月こそが重要な分岐点の可能性 野村證券・森田京平 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DZWVTUzRzdHRSei01Skw5NW12RS1mVDJxQXF5NWdYaF9wcW9IN0ZQY1JoRjU0VThPRUl6NDkxbGMzYi1HVnhzLWFKRTlOYnJvNzAyWnR2ei02RE5jWGhZ?oc=5",
       "source": "nomura.co.jp",
@@ -715,36 +703,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "＜仮設施設長期活用支援事業（自治体向け）＞に係る助成金交付申請の受付を開始しました",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DWm50alhRRmJubnp1NWRMQlpxU2RJTUFLVnRYd3owS0RWRVA3a1RvSzVhd2d2clpQNDUzX2ZsZjljamM4a3k0LWRMdldlX2NycWF2Wm5GaDdkY19rMG0zaUpIVHMtdXFhWkE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-06-26T01:00:02+00:00",
-      "summary": "＜仮設施設長期活用支援事業（自治体向け）＞に係る助成金交付申請の受付を開始しました PR TIMES",
-      "id": "dc8bad6f58971093",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "補助金クラウド運営のStayway、栄町リサーチ＆コンサルティングと業務提携を開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84X1UzWnNxUTdYeHZkcEY5dENTQWJ6QWszMUFid3E3YlFUUENUeFJHdEZKQWRmOVFMLXFFLVlmSmRxNEZDWUNINFhlZ21LOWk3a2dDVk9JX0kwZWp4VzVzcmxQYUJiLUZ1RHc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-06-25T23:00:01+00:00",
-      "summary": "補助金クラウド運営のStayway、栄町リサーチ＆コンサルティングと業務提携を開始 PR TIMES",
-      "id": "b062d757e30be472",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "2025年観光客数 前年比101％の1,620万人 花火中止も海水浴場など好調",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OM0R4a2tQTWJNU2hZTGkzMDN4dWpUMUFnTFpoVmo2N180dmlhR3pGSGZmaXhMNGppR2pZUnFBVVB4T3RIaVF5WjJlZi1hOVpWeUN6ZmJLUmg5TjNvU0ZnMGdtaUQ?oc=5",
+      "title": "鎌倉山かるた会渡辺令恵さん ｢かるたの聖地｣で連覇 全日本シニアで通算５度目V",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzdXBheWUyWVBjLTVEMDFNVXUwQnROTFh6SlRqX19EejhzRm80QWdQUXdyWkMySHBkTkxKYTBFdVNJdVRqSUhTbk5aZkNicUZfSjRqNnVPek54VXZUX0Y1aFNwaGs?oc=5",
       "source": "タウンニュース",
       "published": "2026-06-25T15:00:00+00:00",
-      "summary": "2025年観光客数 前年比101％の1,620万人 花火中止も海水浴場など好調 タウンニュース",
-      "id": "c7c33e93066ad358",
+      "summary": "鎌倉山かるた会渡辺令恵さん ｢かるたの聖地｣で連覇 全日本シニアで通算５度目V タウンニュース",
+      "id": "5393984d9799792f",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -847,6 +811,30 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "「住宅ローンが上がって大変だ」という報道の落とし穴 金利が上がらなければ物価爆上がりで日本経済も崩壊する（デイリー新潮）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtZThxaFVvTzh4aXBVMmtHU2I3c2lrdXQ3Y1VOWFVpUUM1a19DaTVXdUhPYmxwbXlhcDNMVU5lOHlKZ3h0cE1rYXo3Mm4ySXkycmJLVnZheTdJb25ZTjRFRFlMSi1HS3ZFRUJia1RpaDM0UmFPOWFySHl2MG1mMGM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-06-23T21:10:16+00:00",
+      "summary": "「住宅ローンが上がって大変だ」という報道の落とし穴 金利が上がらなければ物価爆上がりで日本経済も崩壊する（デイリー新潮） Yahoo!ニュース",
+      "id": "228b243cc6134b13",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "日銀次回「12月利上げ」は遅いか早いか、政策金利1％でも“円安基調”変わらず",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wV214Nl9YcWV4dk1XV1htYlBlejBubjJ4Qk1CUDNsb0RpUGZ4RXB4MmtVUGRDMEQxcVk3aXc4dTdiQTJVOWFDUWV0ODjSAU9BVV95cUxObDMwOUVYM0M4Z0piR1BoSnE4YnYxd3JpUkRCbHlhQU5HRk5HVm5OdVc2bWo4ZWVuYzR6QlpCckxUcFJZSDFlWjBKYXdacnhv?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-06-23T19:25:00+00:00",
+      "summary": "日銀次回「12月利上げ」は遅いか早いか、政策金利1％でも“円安基調”変わらず ダイヤモンド・オンライン",
+      "id": "d6e9c77668fa6975",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "浸水対策工事の現場公開…去年9月に冠水被害 東京・品川区（日テレNEWS NNN）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aQ2JJTmVxbmFJRGR0RGtzaTJiX3pkWGVIN2pwaGFHWUNUT2hPODZuYUZRbG9oTmpjdlVZQlFiRmRBcG5EeF91Znd6SWdBVkhhalRXRFpUa3FMSW51TmZxcHRqSEhEMjNlSzhZU1RmQ05mQmxxc2I2M3poZnpqQ3M?oc=5",
       "source": "Yahoo!ニュース",
@@ -919,24 +907,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "2026年人民公安軍事・武道・スポーツ大会",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2VoNThhV1FYU3dxNVl0cGtaMWlCWUkwSkhHRnBIek1ZV1dvcTJUamtOaTIxZTFKRDBMQmY1cTlMSHZaN1JxM2gzSlcydTNhWTFGMFhCZFVLLWFlREhKU1dqUFBKbWNNdUtLY0hqdlpjM1ZFS0ljUzBBb1lZRERORU1mcjZPeUhILWVCRFdMVEtOeXc?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-06-20T15:54:22+00:00",
-      "summary": "2026年人民公安軍事・武道・スポーツ大会 Vietnam.vn",
-      "id": "f365cf408fa75043",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "警察・軍事・武道・スポーツフェスティバルでの華々しいパフォーマンス。",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVmNVZ3J4SEVzN2V2X3o1UGUtZGdsWENqZnRBRVpMUzU4aVl3WmZ6ckhPUUtGRGFPd2ZCZmg2RjdqOFVDMTZnVGZaNVhsdGI1RkV4OFBMbjRYUUN6NjdiUkJaNmt1bEduRzNpQTBsUHVZNm5rR21laV9VZDFaNGM2alBwbng3MTdiNTJVS1lRVTVqQzdBMGJud21sT2Q?oc=5",
       "source": "Vietnam.vn",
       "published": "2026-06-20T15:34:57+00:00",
       "summary": "警察・軍事・武道・スポーツフェスティバルでの華々しいパフォーマンス。 Vietnam.vn",
       "id": "a506dbd09f7ac6a4",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "2026年人民公安軍事・武道・スポーツ大会",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2VoNThhV1FYU3dxNVl0cGtaMWlCWUkwSkhHRnBIek1ZV1dvcTJUamtOaTIxZTFKRDBMQmY1cTlMSHZaN1JxM2gzSlcydTNhWTFGMFhCZFVLLWFlREhKU1dqUFBKbWNNdUtLY0hqdlpjM1ZFS0ljUzBBb1lZRERORU1mcjZPeUhILWVCRFdMVEtOeXc?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-06-20T07:00:00+00:00",
+      "summary": "2026年人民公安軍事・武道・スポーツ大会 Vietnam.vn",
+      "id": "f365cf408fa75043",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
@@ -1039,18 +1027,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょんが地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番をお届け！",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Xd2VEUDZPdU1JMzhrVUk2TlA5UjVmaWdNZ3BsUmlfbkhXWUFYX28xYktxV0lIXzRWeUpLd0l6b2p2UEludC1GR0lsTjVNSVd2OEZuemsxRndmVmk0T2pz0gFkQVVfeXFMT01rcnFnRzZIODU3NHpjQmpNTHN6TjhhZWlmUEJNUmFtblJxNHd5V2lHc2hvZ1ZRNmJFZ1RPanVQOG5xTjV5S1dWTC1OYkdHU2Zkdzl2NkQtRG1ubGVodHpoMWFxQg?oc=5",
-      "source": "radiko news",
-      "published": "2026-06-16T07:00:00+00:00",
-      "summary": "あいみょんが地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番をお届け！ radiko news",
-      "id": "d9e91c0f97d2f672",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "東京23区 居抜き店舗物件の区別賃料相場ランキングを「居抜きの神様」が発表",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tdlJQWDlnMTFvS2FOR2lkVXBqb3U4aUpkM0VYeHFxVDlnN1ppdmR0RG9fekNHdjNSb2NDTFpXd2RZZ1JHNlJVVGVwb29jQlBhNWpKcA?oc=5",
       "source": "ニコニコニュース",
@@ -1063,5 +1039,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 83
+  "count": 81
 }
