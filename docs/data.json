@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-03T05:01:38.159962+00:00",
+  "generated_at": "2026-07-03T06:17:55.871016+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -14,7 +14,7 @@
       "name": "推しアーティスト",
       "category": "音楽",
       "emoji": "🎵",
-      "count": 5
+      "count": 4
     },
     {
       "name": "ライブ・コンサート全般",
@@ -32,7 +32,7 @@
       "name": "道場物件（鎌倉・湘南）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 0
+      "count": 1
     },
     {
       "name": "地域ニュース 品川",
@@ -67,6 +67,30 @@
   ],
   "items": [
     {
+      "title": "株式会社GENAI、経営者・役員専用「Claude Code・Codex 完全解説セミナー」を無料開催",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFWlVuaWRVb1gySGZDTnhGdHBGMjRrcEd4VW1DV2JtUHR0dTRHXzk5alFmRi14NDB2aGZCOWV0TUE0ZjQ2MkhUcllJaWRNSndWRzB4MlpzUEhJdnplR0Zldm5jUXZ0cUh4T2pN?oc=5",
+      "source": "時事ドットコム",
+      "published": "2026-07-03T05:15:00+00:00",
+      "summary": "株式会社GENAI、経営者・役員専用「Claude Code・Codex 完全解説セミナー」を無料開催 時事ドットコム",
+      "id": "166e325a685d669f",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【宮崎AI】ルウ王子・長置庄平が登壇｜宮崎AIギルウド、Claude",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CVU10OUc3NVllVUpFSnhmMHN6a050cm9uSzA0WjJOcU5wOTBKRUFHS1UzaXRrc3hYSkpDdXBtdERrMUNONGxTUGQ1akZHRm5NUGg3WlQ3eGs3NEEzWTdTVlNyd0pzVVNHUlhqU1dLWURHSlN6TG9RNlhTSQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-07-03T05:03:27+00:00",
+      "summary": "【宮崎AI】ルウ王子・長置庄平が登壇｜宮崎AIギルウド、Claude ニコニコニュース",
+      "id": "ed03bb473c0406d9",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Anthropic、Samsungと独自AIチップ製造を協議か？NVIDIAを軸に計算基盤を拡張",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zUFBrX2ZwcXJyVFdCUzJrYmo3emtmSmd0eEdvTG5TUnkwNW5kT0FDakNQTFRDRmxmbmc1aEUwWTB1RWlNMVdIRENOZi15Sm9uaWNJQk9ydzNPTlVqb2tHVzAtWF9ucXlTWG14MnQyN1Zsdw?oc=5",
       "source": "XenoSpectrum",
@@ -91,12 +115,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic、Samsungと独自AIチップで協議か 報道受けNVIDIAなど半導体関連株が下落（ITmedia NEWS）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByN0hJd05ZdFBsQUQ5VGtkUkt0T0xOZXpYbnRxaGJieHJhdy1LanRJR2dFeHh6WG96WG8zME5LdzFqOXRsaUNMVHFJRzVIMFhJRXZ2Zl9MMTd3c19aQ2hVdjlFRTNRT0hrSGhPQ1BYUW9fYWdMbjJXRkliQk5EVTA?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-03T04:41:18+00:00",
-      "summary": "Anthropic、Samsungと独自AIチップで協議か 報道受けNVIDIAなど半導体関連株が下落（ITmedia NEWS） Yahoo!ニュース",
-      "id": "cbddc7861473477c",
+      "title": "Anthropic、Samsungと独自AIチップで協議か 報道受けNVIDIAなど半導体関連株が下落",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxNTZ2aWNEWV9RemRoZjYwc2RfSk80bm9aaktjSDFpa05ULUk4ZHo3VDlKVUZQcEVWX1FyZHNqdUNTbmVRMkVSdWl4RGpsQXpBNXpDcW5yTGo5aTNNVGRBMGlfa2d1M0FnSGpjOQ?oc=5",
+      "source": "ITmedia",
+      "published": "2026-07-03T04:36:00+00:00",
+      "summary": "Anthropic、Samsungと独自AIチップで協議か 報道受けNVIDIAなど半導体関連株が下落 ITmedia",
+      "id": "a0289a69f1996cf3",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -115,24 +139,36 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Meta、テキスト入力で遊べるミニゲームを生成するAIアプリ「Pocket」を静かにリリース",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xMFdEaXdKaXlLX0JzdnQ3bFN5bmV5QnFIYmRGMDlCcURIMEhHbFJFYWVWUUFlSkJqYUs0ZFFjYldCYUdQRTgzV09YUHA1Q3ZPVEk5NTEyUDdNNGhudDktLU1lT1hrSjkxVkdoOWo3NVd1dlJ3?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-07-03T04:25:00+00:00",
-      "summary": "Meta、テキスト入力で遊べるミニゲームを生成するAIアプリ「Pocket」を静かにリリース BigGo ファイナンス",
-      "id": "4771514e8a9ccc0f",
+      "title": "AXer、生成AIの動画制作フローを拡張。シーンの質と複数動画の一貫性を安定化",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zclRMVzNIbmtENjFaRXQzSThPQ1l2a0pRaTItMHp1REdvRmFMN3AySTFHamE0ZFB5S2s0b05jd3pKck82S1dZWWlXZlBnVjJBTHVSRjJDalVVcFlzVzhPMEVjU3RjMThoX3c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-03T04:30:01+00:00",
+      "summary": "AXer、生成AIの動画制作フローを拡張。シーンの質と複数動画の一貫性を安定化 PR TIMES",
+      "id": "0c47280faa6f3e4b",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「Claude Fable 5」の性能が落ちた？ 提供停止前後で比べた結果 米AI企業2社がそれぞれ報告（ITmedia NEWS）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VRXoxNjNBTXVMaWxyMmRFWFBIQktOUTRwemZBSkplN2RvaFBwdW4tMFdhUVhUcjhzbWppdGc2bGVWOHRiaHhQRWpTaG5pb1ZRMHg5X21YbnZzVDlkV1ZLWl9TN3c0ZTR6S0QxVjJHd3JTdVpLQldjdm05V0t1UjQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-03T04:02:28+00:00",
-      "summary": "「Claude Fable 5」の性能が落ちた？ 提供停止前後で比べた結果 米AI企業2社がそれぞれ報告（ITmedia NEWS） Yahoo!ニュース",
-      "id": "6e491ebabb76bad3",
+      "title": "【宮崎AI】ルウ王子・長置庄平が登壇｜宮崎AIギルウド、Claude Code実演の無料オンラインセミナーを7月7日開催 宮崎の中小企業・個人事業主がAIを仕事の武器にするための実践セミナー。Claudeの基本、プロンプト活用、M365連携、PowerPoint作成まで紹介",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBa19hVThBREdFOU15TV9WV1Nndko3cmlveXBvWFY0b3VaVWh2VUNnUUY1SVV6VFZ4Wk1DcklCd0RSSG9IZ1FtMkItWDFMa0xsTnNRWWhpZXVwMFpEcmYyaUs2VlhkY19QeUE?oc=5",
+      "source": "Excite エキサイト",
+      "published": "2026-07-03T04:30:00+00:00",
+      "summary": "【宮崎AI】ルウ王子・長置庄平が登壇｜宮崎AIギルウド、Claude Code実演の無料オンラインセミナーを7月7日開催 宮崎の中小企業・個人事業主がAIを仕事の武器にするための実践セミナー。Claudeの基本、プロンプト活用、M365連携、PowerPoint作成まで紹介 Excite エキサイト",
+      "id": "bea9f79ff083028c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Meta、テキスト入力で遊べるミニゲームを生成するAIアプリ「Pocket」を静かにリリース",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xMFdEaXdKaXlLX0JzdnQ3bFN5bmV5QnFIYmRGMDlCcURIMEhHbFJFYWVWUUFlSkJqYUs0ZFFjYldCYUdQRTgzV09YUHA1Q3ZPVEk5NTEyUDdNNGhudDktLU1lT1hrSjkxVkdoOWo3NVd1dlJ3?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-03T04:25:00+00:00",
+      "summary": "Meta、テキスト入力で遊べるミニゲームを生成するAIアプリ「Pocket」を静かにリリース BigGo ファイナンス",
+      "id": "4771514e8a9ccc0f",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -163,24 +199,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Pro/MaxプランでもWebアプリ共有機能「Artifacts」が利用可能に（PC Watch）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04ZEU4bzl2T2tYZXJxbDFmTVZCOTFQZlpLTGxhNHhmRXJ2RG56TlgxUnNaUFdTc2ZmTnNQZ18tRHI1MThISHdrU0FhU2NkWlhBRTdUczdWWC1lcHkwZGU4OS1hTVE0ZERYTnF3eDhldTBwQUR6WTByZ19ObVFZY0k?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-03T03:42:00+00:00",
-      "summary": "Claude Pro/MaxプランでもWebアプリ共有機能「Artifacts」が利用可能に（PC Watch） Yahoo!ニュース",
-      "id": "3a82ed44e22c0413",
+      "title": "「Claude Fable 5」の性能が落ちた？ 提供停止前後で比べた結果 米AI企業2社がそれぞれ報告",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xLVBidGpkcXoxc25Bcm00Wmp1Z3MtWEQyaTBSNkxYbGUtWGNobnoyLVY1NjhrMHVhUXlnaWRJbnhIZC1xMFJKaFdTRjBWMDUycFZKWTVGSWVCbnNOLWRGTlFkOTNwUEJCcW5jZA?oc=5",
+      "source": "ITmedia",
+      "published": "2026-07-03T03:59:30+00:00",
+      "summary": "「Claude Fable 5」の性能が落ちた？ 提供停止前後で比べた結果 米AI企業2社がそれぞれ報告 ITmedia",
+      "id": "bde4fe90fc2efb2b",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Codeから中国勢Agent軍団へ：アリババ、テンセント、バイトダンスが続々参入、AI実装の「ラストワンマイル」を制するのは誰か",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4ZG4weVhWTDZHbmFiNkh0Y1hJVVBVbk5CX1ZzTXNLUXdxMlBDS0N3T1FUZlBCUTdFSVFyN05ieXpaQmFVM19sWnk2NnhOb3hDeTlTbEh5cWJEUTljLUFWeFRCcWw3UWhNbUx6YkRTVE0xLXlr?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-07-03T03:36:00+00:00",
-      "summary": "Claude Codeから中国勢Agent軍団へ：アリババ、テンセント、バイトダンスが続々参入、AI実装の「ラストワンマイル」を制するのは誰か BigGo ファイナンス",
-      "id": "94b5930287d3af2a",
+      "title": "Claude Pro/MaxプランでもWebアプリ共有機能「Artifacts」が利用可能に",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1POGtEZmo1aG41bnJ0VWN5amZHSWdqMVVYaWdTeDItTWY1T1pHdUFCLW90bTJRUlNXUGJ4a19HQ3JJaUxGcHlrejhhWF9ZNVBVbXJOUTFSdlFqRzRoaUx0VHZNaw?oc=5",
+      "source": "PC Watch",
+      "published": "2026-07-03T03:42:05+00:00",
+      "summary": "Claude Pro/MaxプランでもWebアプリ共有機能「Artifacts」が利用可能に PC Watch",
+      "id": "762e24a5c8be8dc9",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -211,30 +247,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "日本初AIタレント動画生成サービス「AvaMo」資料から説明動画生成までを自律実行するAIエージェント機能を提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2WXFxUDUyZnF1RjBJNmtIb0hkX0JqTXVZSnRURmxhdGZFTHVpeEY3NERwOVFYcnAtdkotYU5SckREc0ZLMUQ3Mnh2VzNlRkk2LTFsc3I5Ym5Qc1JfRXJZQXMtN0VFQ1pvY3c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-03T02:30:01+00:00",
-      "summary": "日本初AIタレント動画生成サービス「AvaMo」資料から説明動画生成までを自律実行するAIエージェント機能を提供開始 PR TIMES",
-      "id": "d97dfeb1e7e8eda6",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicがSamsungと独自のAIカスタムチップ開発について協議しているという報道",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BUHdNaE5jZHNJR09PZmJHUTBsZXJ2aGdNVmFuRDR0OG1kWmJXVXlVNHd3Vl92SHgxZkZMQmpPc3BGZWhUcXl5UEpsT1FYaTVoMEx3QmZTel9mMjVXTTRhcVZWY0dsbFdQQmZ5Vmp3?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-07-03T02:16:00+00:00",
-      "summary": "AnthropicがSamsungと独自のAIカスタムチップ開発について協議しているという報道 GIGAZINE",
-      "id": "07f328daff825c59",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【品川区】都内最大級「大井競馬場フリーマーケット」7/4(土)・5(日)開催",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Kc1hyWUp4RzF2UHZ3T1FZY1ZZYkZCOFVpMkFMZlVQZkpYb1NIdHNKOEFFUVdHUDBRMDJNUTBPTm84UmViQzdNRmR0aW1CZ3dXaGNRNzc3NmlYenR1d3VIRy0tVkg3aFdpVWxvczN2b3pDbll2LVE?oc=5",
       "source": "号外NET 品川区",
@@ -259,18 +271,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "DAL、EDI/iPaaSデータ連携「ACMS Cloud 2.0」をリリース、AIがAPIを解析して自動設定",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01LXJ4U253NGtuam5WOFU1OVFZemVuTVBXVHVPUUZtblNTTW1WYmo4eTNlMURMWWVSRElQT3FZRXpMSGFITVhyWkpmZTJtTVJsQ2hZ?oc=5",
-      "source": "IT Leaders",
-      "published": "2026-07-03T01:12:21+00:00",
-      "summary": "DAL、EDI/iPaaSデータ連携「ACMS Cloud 2.0」をリリース、AIがAPIを解析して自動設定 IT Leaders",
-      "id": "edadd1089719b717",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "timelesz、横アリで全開ステージ 喉の不調から復帰の菊池風磨「顔がスッキリして渡りに船。改めて健康は大事」",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wSFRSMUMwdGhwNzlpV2RDVGNOeGdwSjk2YTl0X0RTRzBGRVFuT1lTcE5EWThfbWxmVHphMnFXWGRWckFtdVZyMU0xWnZEV0FXTTNZU2pocmN6WXNvMlpIQVRySkxQQzBPYXBDUVZKNDM?oc=5",
       "source": "Excite エキサイト",
@@ -280,6 +280,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "長期金利上昇、一時30年ぶり2.810% 日銀利上げ遅れるとの懸念",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yTGt6TWVhcGNLdDFEbnh5YnNnMnlPelJnYTdVRFU3TnRlRG5Oc3hRUm1USU4xOE9xUkhTb2UzM1NJVHpaRF9felBSR0VxWlk4dlRFNmsyTl9zNTdrb3h0MENSWlJMM21VR1BSUg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-07-02T23:54:21+00:00",
+      "summary": "長期金利上昇、一時30年ぶり2.810% 日銀利上げ遅れるとの懸念 日本経済新聞",
+      "id": "0c90255552870a4d",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -631,15 +643,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【補助金採択結果】新事業進出補助金（第3回公募）の補助金交付候補者を採択",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VbVVGWk1leDNQRUNrazRfTUQxN0dnU0I0MEtfMnEwS0F6aDFTWTJiQkFuS05Hb2c0VUZlelBEZ1RFYTdTSVdGUVZLVWdmQ1F2VWtXbHlDNDE?oc=5",
-      "source": "中小企業庁 ミラサポplus",
-      "published": "2026-07-01T12:25:49+00:00",
-      "summary": "【補助金採択結果】新事業進出補助金（第3回公募）の補助金交付候補者を採択 中小企業庁 ミラサポplus",
-      "id": "85b0ea636629c26a",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
+      "title": "PRESS | CLASSY.[クラッシィ]",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LRTkwX3NhVW5ySzB0bkFmVlBRRkVGbHJndEZXaTBZUXkzX1BOX3ZwRTVmWWh3YW9veG12SUQyOEVPeG4wejRwV3lpWktLa1MzM01PT2hTMjA?oc=5",
+      "source": "CLASSY.[クラッシィ]",
+      "published": "2026-07-01T18:54:35+00:00",
+      "summary": "PRESS | CLASSY.[クラッシィ] CLASSY.[クラッシィ]",
+      "id": "453564edc183b5fc",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -691,18 +703,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "aiko、アリーナツアー『Love Like Pop vol.26』開催　大阪城ホールではカウントダウンライブも",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NcG8tZGNzVHZIUV9adjFJaHBMV1VIei1WSmZpWDFxQnRUa0J0U250bElCSC1UaFBGSW5SeVdwVTI2QWlVSmtXc1BicjhNVkU4SWxLUTlHOWdtd9IBX0FVX3lxTE8zOWd6TUJVdXU3WEloOTB5VlJZWUt6bXlaOGsxUDNWMGFZRWNiQ243LThHVEFXR3RxZlNfbEwyN0FpMDlUYldZTWZuWXJTS0JRZnVORTl3c3otczQ4RXU0?oc=5",
-      "source": "Real Sound｜リアルサウンド",
-      "published": "2026-07-01T06:00:21+00:00",
-      "summary": "aiko、アリーナツアー『Love Like Pop vol.26』開催 大阪城ホールではカウントダウンライブも Real Sound｜リアルサウンド",
-      "id": "8b5a1f103532fbbd",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ダナンで開催された人民公安軍事武道・スポーツ競技大会の決勝には、4,700人以上の兵士が参加した。",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRy1LWTRvVW5wV05ncjRSX2cyU3E0WW9NckF5SG9Tc0Rscm9YSGpDZ3dXX29rSHJUcG9EbmwzSExSd1hFV3VqSktMNDFfNXJ2WHRPRktqSVM0T0lvMkJ0MEd2VlVxUnZWSHNpNjhVTjUyMjYwWXdzMWQxTEJ0SE1VTHAxbWUwM0thS2hzaGk2R3cwZ21Xa2loc0lTazlxMV9YMWFxSkRoU3VnSjNvZXIwOWZDTFVJdWJPdkxDaXlHdzRZNUs0LWlfdy1B?oc=5",
       "source": "Vietnam.vn",
@@ -712,18 +712,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "東京23区に南北一直線！ 品川～板橋を結ぶ「環6.5」こと「補助第26号線」はどこまでできた？ 未開通区間の現状【いま気になる道路計画】（くるくら） | 自動車情報・ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2tycWdObUgwdzhUSlFnYW9CQ0tSREE0WUg0THdkVXFGZTZza0dxNWQzcWdIWGNhd0txb1h2clh4RWxJYWc3eFI0SkpCWnRQa19rRy1ST0dOR3pmcmpWZmpYcHhOSmZlcDd1RkNKZk8yTWFhbHNJeTB5RGNLcUxKcjdaUmduSWFU?oc=5",
-      "source": "carview!",
-      "published": "2026-07-01T05:36:08+00:00",
-      "summary": "東京23区に南北一直線！ 品川～板橋を結ぶ「環6.5」こと「補助第26号線」はどこまでできた？ 未開通区間の現状【いま気になる道路計画】（くるくら） | 自動車情報・ニュース carview!",
-      "id": "431289a732ad2a63",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -784,6 +772,18 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "湘南モノレールがカレンダーの写真募集中 ことしで全線開通55周年",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzeFY3Q0dqbU1GM1dKSUJydE5aaTY4Wk1PbE0xY25qb2tjU2dpRGlFaVQzb1dpOW1MTlhGeFQtSkZfRXFBQnVyY2V4RU56RnVrM05ZZWFXZVJhdnFJUktvSm9vN0Q?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-06-29T15:00:00+00:00",
+      "summary": "湘南モノレールがカレンダーの写真募集中 ことしで全線開通55周年 タウンニュース",
+      "id": "5a567afcd8a6f8d7",
+      "category": "不動産",
+      "topic": "道場物件（鎌倉・湘南）",
+      "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -919,6 +919,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "浸水対策工事の現場公開…去年9月に冠水被害 東京・品川区（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aQ2JJTmVxbmFJRGR0RGtzaTJiX3pkWGVIN2pwaGFHWUNUT2hPODZuYUZRbG9oTmpjdlVZQlFiRmRBcG5EeF91Znd6SWdBVkhhalRXRFpUa3FMSW51TmZxcHRqSEhEMjNlSzhZU1RmQ05mQmxxc2I2M3poZnpqQ3M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-06-23T07:00:00+00:00",
+      "summary": "浸水対策工事の現場公開…去年9月に冠水被害 東京・品川区（日テレNEWS NNN） Yahoo!ニュース",
+      "id": "cc524ea8beb0c94c",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "合気道団体の演武動画が物議、韓国警察が採用方式を見直しへ【独自】(1/2)",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56RENPTEIybXcxalA2RU53eU1FRHNWTWdPdlM5V1J0TV9kS2ZPNmJPRDVkNktETjRncDhPcjJubnNkSDhDWUlwMkNIUE1kVXhhSlFXNGhzbGlQaFBQT2JjVVB1WDBuZHgxczVNV05UeWFtRHgxOElMUzdn?oc=5",
       "source": "朝鮮日報",
@@ -976,18 +988,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米津玄師「烏」フェイスペイントを楽しもう、遊び心あふれるTikTokエフェクトで",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DZnVBd3k4TWhnU0Jlb3d1YnVHSVRLZ0tEbnp4M1gwZkhhbTBBRVN2Y1dTaUlKRkRSS1RtVC1qSE1reDVOWlRWZUJhT094aVMyWHY1bzVzTnZlSlFoQXAzWGxkNA?oc=5",
-      "source": "Billboard JAPAN",
-      "published": "2026-06-20T07:00:00+00:00",
-      "summary": "米津玄師「烏」フェイスペイントを楽しもう、遊び心あふれるTikTokエフェクトで Billboard JAPAN",
-      "id": "e925d4639ff7652e",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
