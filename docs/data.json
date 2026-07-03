@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-03T18:29:57.072782+00:00",
+  "generated_at": "2026-07-03T20:54:44.302228+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -14,7 +14,7 @@
       "name": "推しアーティスト",
       "category": "音楽",
       "emoji": "🎵",
-      "count": 10
+      "count": 9
     },
     {
       "name": "ライブ・コンサート全般",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 12
+      "count": 11
     },
     {
       "name": "経済・ビジネス",
@@ -76,6 +76,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AnthropicがUCバークレーのCS部門長ジェラニ・ネルソン氏を招聘、AI人材獲得競争は「理論と数学」の新局面へ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sSW1qZDZwZmFITXZfZlczdWJkbU0zeFY5U1NKMlp2TGMtcWZUUC1DUEU1RzY0bURJS1Bud2EyOHpxMURvdGZneldzNUVjMF9ySEhSYUJFOFd3Ym1sS1hNQkd0Y9IBaEFVX3lxTE52S1YzSmFKSmN5VEFzUnBEeDM1dFJIeVBkX1Q2YUtuVHI0SHBwUVUwcXFONlBGSGdEVXFXMlE1U210VDlTblM0X2dhV2NhYW5pb0hLc1lGRHptTXozX3RyVU5rUy0tQ3gw?oc=5",
+      "source": "財経新聞",
+      "published": "2026-07-03T14:11:51+00:00",
+      "summary": "AnthropicがUCバークレーのCS部門長ジェラニ・ネルソン氏を招聘、AI人材獲得競争は「理論と数学」の新局面へ 財経新聞",
+      "id": "6604b3893f2375ed",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -307,6 +319,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "みんがく、「スクールAI」で学校内の生成AI活用を可視化する「利用状況ダッシュボード」リリース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90QXRPVlotYVN6STZMOVRoNWY4bGstQy04OVRyYVJ1cllqQjRKd2VkNXVSaFhSbFVEeVVXenI5WjJoRlRRR29YZjNrMGp1VWF1LTYxNQ?oc=5",
+      "source": "ICT教育ニュース",
+      "published": "2026-07-03T07:52:55+00:00",
+      "summary": "みんがく、「スクールAI」で学校内の生成AI活用を可視化する「利用状況ダッシュボード」リリース ICT教育ニュース",
+      "id": "f08d85bbc7f06208",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Anthropic、「Claude Sonnet 5」を発表 ～「Opus 4.8」に迫る性能をリーズナブルな価格で【7月3日追記】（窓の杜）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlY0d1QVhaWkRpWkdlMVAyQU5EZFkzOVlBOGtKOUFTbTdnRHFlQ25zLTgxLW9kcUpVQ1pBRDlDdWd0MHhHejFRVE9JWnkwbTc0U1ZEejhnbkRFdmhZNmJPandrSWVLZHZGNFdGblBXSi10R3M0VThlU0FvcnNVSjg?oc=5",
       "source": "Yahoo!ニュース",
@@ -355,18 +379,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropicとアメリカ政府の関係悪化の経緯が裁判で提出されたメールによって明らかに、ダリオ・アモデイCEOと国防総省幹部のメール内容が公開される",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GbkpaYTZpajl2NmZ3bXhDMUwzb2tDUEtiXzBJUDR3TzVDUU9QTENoU0RXYnJlVVBXSFNwSVhsNVFmalRaOVVaRkNvOFNwQldJNkZ1TnhKM1hjU1NUR1Utb1d2WkVOR0xnVlZjTw?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-07-03T07:02:00+00:00",
-      "summary": "Anthropicとアメリカ政府の関係悪化の経緯が裁判で提出されたメールによって明らかに、ダリオ・アモデイCEOと国防総省幹部のメール内容が公開される GIGAZINE",
-      "id": "01e44b9f733fca59",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "AI電話の導入を後押し。「pickupon」がデジタル化・AI導入補助金2026（旧IT導入補助金）の対象ツールとして登録",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LQ2Y2eVNzbWpWdGt6QkZaZVlaM3NTenZMTC1yaXdrMkV2b3VUZWZjWnZQbG1ZYnhVeUFncl93RTIwMDJoNkNPaFdUUmRDLUtLYTRCM01fcUVYQnVleEFnX3o2TW82NGJ3T1E?oc=5",
       "source": "PR TIMES",
@@ -376,18 +388,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の「早期復活目指す」",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqNnplaU9lLXZKRDZUZURMYjlqN3piNm5wLVJsM3plN2M4OG5aXzlPVEJyN0JlYXBPR1RNRlN6WnA2Q2RFRW0zejE0amotanNNZThtTjFISHdNU0E2ZDRWVGlJbHNOc0xick9wUw?oc=5",
-      "source": "ITmedia",
-      "published": "2026-07-03T06:34:43+00:00",
-      "summary": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の「早期復活目指す」 ITmedia",
-      "id": "970b27f89257897e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -607,24 +607,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉市在住の渡邊さん、ジュニアソフトテニス混成ペアで大舞台へ 関東と東日本小学生選抜に出場",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwU3FRWEZESkwwS0oybkNPLTRxcm8xYlBrV2o2MDhzU1VIUGY5d1M1SndDQnA0cHFnRndjVG9TUkh6eGRZSG5UaFU2eHNMd2lsNEc3VjJ0eW5YalV3R055WXZvM2E?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-07-02T15:00:00+00:00",
-      "summary": "鎌倉市在住の渡邊さん、ジュニアソフトテニス混成ペアで大舞台へ 関東と東日本小学生選抜に出場 タウンニュース",
-      "id": "f0a93e8a86493f7b",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鎌倉インテルの四方代表 ｢越境人｣を20冊寄贈",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56bWh3TW9zd19JdFlIYXpuRzJFeklMeUhSdlEzV1JSbk9mTEtRSVlJOWYzdU5ibHQ5STN1VEdteV9hWm9xeUpwYkdJU1RoNU9oS2VwV1pkV2dBNUhXRXp0OGYtbnA?oc=5",
       "source": "タウンニュース",
       "published": "2026-07-02T15:00:00+00:00",
       "summary": "鎌倉インテルの四方代表 ｢越境人｣を20冊寄贈 タウンニュース",
       "id": "70803dde6f53787f",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "鎌倉市在住の渡邊さん、ジュニアソフトテニス混成ペアで大舞台へ 関東と東日本小学生選抜に出場",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwU3FRWEZESkwwS0oybkNPLTRxcm8xYlBrV2o2MDhzU1VIUGY5d1M1SndDQnA0cHFnRndjVG9TUkh6eGRZSG5UaFU2eHNMd2lsNEc3VjJ0eW5YalV3R055WXZvM2E?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-07-02T15:00:00+00:00",
+      "summary": "鎌倉市在住の渡邊さん、ジュニアソフトテニス混成ペアで大舞台へ 関東と東日本小学生選抜に出場 タウンニュース",
+      "id": "f0a93e8a86493f7b",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -811,18 +811,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米津玄師「折り烏」公開、サッカー日本対ブラジル戦を前に",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tUUxIMllENEozRUktMGtrYTNNc2lmZkVOd2hKVWMtLUkzdlp0QzJJbEtWbjdJMTMtaUNMTHVPd0ZZTUNDdzZTNGYxa2g?oc=5",
-      "source": "ナタリー",
-      "published": "2026-06-29T03:00:00+00:00",
-      "summary": "米津玄師「折り烏」公開、サッカー日本対ブラジル戦を前に ナタリー",
-      "id": "685a44e86188c962",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【品川区周辺】全国の祭りと食が集結！「MATSURI JAPAN 2026」8/8(土)・9(日)開催♪",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CWjZDVW1JME5tSVJlcjZMNTFkSHFmSEVkUUgyQkd3T01vTFAyc2tPb3JhNjlRRllVWjRTa2VUMW42cmtCcFVueEFmaWt2b2ZObzhjMTM3dUNMV2VlME9YVXpLLWdYSkc2bmg1aw?oc=5",
       "source": "号外NET 品川区",
@@ -925,18 +913,6 @@
       "published": "2026-06-25T02:35:00+00:00",
       "summary": "合気道団体の演武動画が物議、韓国警察が採用方式を見直しへ【独自】 (朝鮮日報日本語版) Yahoo!ニュース",
       "id": "a11094e14619f4ea",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "警察・軍事・武道競技大会は、多くの新種目で高い成績を収めている。",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGV1U184LXNFMFdHZUVmblhsM3BjalhDc3plMnAzdTFHWV9DVUFuLXhnMVZIbjVyVF9UMkkyb3p1d01XZFR6eGNBOFdtem83amJ2d0lzZlNGUTZiZnFVdzctMFhqVU9reFYwX0U0aW16dkNVZTJCU0drVlB6d2FoVGotY1VGVDY1RHZPTjRRNDh3M1VJTWN1TA?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-06-24T07:33:47+00:00",
-      "summary": "警察・軍事・武道競技大会は、多くの新種目で高い成績を収めている。 Vietnam.vn",
-      "id": "d177c1f66477bfb4",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
@@ -1087,5 +1063,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 85
+  "count": 83
 }
