@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-03T11:25:00.092700+00:00",
+  "generated_at": "2026-07-03T12:40:31.034419+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -14,7 +14,7 @@
       "name": "推しアーティスト",
       "category": "音楽",
       "emoji": "🎵",
-      "count": 6
+      "count": 7
     },
     {
       "name": "ライブ・コンサート全般",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 4
+      "count": 3
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 12
+      "count": 11
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -66,6 +66,18 @@
     }
   ],
   "items": [
+    {
+      "title": "【NHK ONE LIVE あいみょん】ライブ直後の舞台裏に密着！│NHK│4K完全版もお楽しみに！ Benson Boone (v2Q6VKkgDp)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pTEgtQ1ozRkpiT1dlc0dKck95LS1BdFlrVk5uRk94WmptM2FsZ3U3d3RmeFAydVVWelhYamJlTFZJOW45OFVuT2NFU20tSVJ6bHRvRGpfcEc5UDg?oc=5",
+      "source": "Mshale",
+      "published": "2026-07-03T11:22:16+00:00",
+      "summary": "【NHK ONE LIVE あいみょん】ライブ直後の舞台裏に密着！│NHK│4K完全版もお楽しみに！ Benson Boone (v2Q6VKkgDp) Mshale",
+      "id": "18ba13a0bb3c4da6",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "【鎌倉市】《海沿いのキコリ食堂》で「鎌倉花火大会」を満喫！材木座テラスBBQ特別プランが登場",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54OWxtNUxjZVRTT3BiQzQ2aUNBd1kwRXZOS3hNYnM1Q0FoZncxekVHUVU3WGdfSDJaOEIwQ2xSTGVyRDFUaHFQeDg1bnNHakJpTFdRb0xtNGVmMXhpTnd4SjFodXU4X0I5bzFmbDEwbU1obW42OUE?oc=5",
@@ -100,6 +112,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【独自】鎌倉のジュエリーショップで窃盗事件 防犯カメラ映像に犯行の一部始終が（tvkニュース（テレビ神奈川））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ld3lvdkdGckgtTmNaczN5YVA3d0pzdk51UTVmRGdVQl9lTm1vdmdUUG1JNUlYM19PMTU5eFBmMHpkMFYxX2NNUlJvWm52WmZjS09sbDhuTE1CVUJzcTc1b3kwVWt0YklPbWpGb0dUTVhubWNyUXdUS21xWmxJU2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-03T09:28:42+00:00",
+      "summary": "【独自】鎌倉のジュエリーショップで窃盗事件 防犯カメラ映像に犯行の一部始終が（tvkニュース（テレビ神奈川）） Yahoo!ニュース",
+      "id": "f138b65bb339627a",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -163,18 +187,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "マルシィ Live Blu-ray「マルシィ one man live 2026 \"Because of you\" in 横浜アリーナ」 2026年9月30日に発売決定！",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXY2MzVUclJPMDd3NW1xVm9QNWJ0VVNCSERtdW9Bd0RueHN1eWFMaU5raGZ6a0t2RjFEMWEzbnFiemJHbVl3bGpfZUF3UzlyZjJONFoxZ0dwRGE1aW4xcXY4andJUzBOcWhZZGdNWnpVOExxUlVjOFhXbXpqVXEtUEdBUWd0WlhiQ2wwNUFIN0N2OTBqSzdjcDNsOHB6ak9J?oc=5",
-      "source": "USEN",
-      "published": "2026-07-03T08:41:18+00:00",
-      "summary": "マルシィ Live Blu-ray「マルシィ one man live 2026 \"Because of you\" in 横浜アリーナ」 2026年9月30日に発売決定！ USEN",
-      "id": "b072f9afae1a4ebd",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "中国Z.ai、Claude Code型AI開発エージェント「ZCode」を展開 月18ドルから、GLM-5.2と連携",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGc3VlSElCX1BuTnVRc3MxWFZ0bnRGSG43b2JGNlJVN2hNLUtVUUpoS2U2Zm9ETldiUGJ2d3JvMjZQTW1GUHd2NGt2Smx1NTM4M1BHbTdYcFFsc2VxZ05fVVpMZUVtbGdW?oc=5",
       "source": "Ledge.ai",
@@ -212,10 +224,10 @@
     },
     {
       "title": "exaBase AI、最新モデル「Claude Sonnet 5」を提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HbXNaSnZ3d2xFM1hyemZZS3UyTHVoa0JQMUk0alBjNWdUQ2dXQUNOMDJ3cGRvNkVpWFdNQnpVV3ZQWU8tcGQ2VEg2U1Q2djd6QVRZZFlGa1B0cVJxQmNhMmRtcDJOMXNYbHhRWFhiQmRjc1VBeDJvNEFB?oc=5",
-      "source": "イザ！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zY05HbFctbm5xS2ZxMndtUVFzSGZPdWxXSGNneV85Z3NPN0dtRFJLdlpZV1RoUjhuTlBCWU96cnhGVEc0OFpYcXNIVnB6R2pJMHB1RFRMZnBiR2hFWTlfUy1CMk90a3N1T0E?oc=5",
+      "source": "PR TIMES",
       "published": "2026-07-03T07:15:18+00:00",
-      "summary": "exaBase AI、最新モデル「Claude Sonnet 5」を提供開始 イザ！",
+      "summary": "exaBase AI、最新モデル「Claude Sonnet 5」を提供開始 PR TIMES",
       "id": "dfe805e1cd4123d4",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -283,6 +295,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "2026年版「生成AI時代のDX人材育成に関する実態調査」を無料公開！｜株式会社リンプレス",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sTHVhSUxTeWZmcTAwektpWjBWZ2NsWW9scmJYSGpyNE9HM0lzZmtwekt4ejdpUTItQTZwc0lUTXV1UzI2V0VlTTRKUzFHTDFLMW9ORFc4NmFJai1FZFFuWDNZaFZUdDktb0E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-03T06:01:01+00:00",
+      "summary": "2026年版「生成AI時代のDX人材育成に関する実態調査」を無料公開！｜株式会社リンプレス PR TIMES",
+      "id": "364296b3d9758cf3",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "城内経財相、金利上昇の要因「積極財政だけと言えず」 市場に発信へ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9idmUtdm16OXljWTVYeEVJZGozYjlXQ1RpRXNRWWJoQ2xweHFVMXYzS0M0QUdlc05MaVJJZjZ1MGN1dGl4Qm96WnlhbjdvaWdJSmE2Y0Z0NFlaZ1RnQ0tzN0xQZjYxaGx5NF9XRg?oc=5",
       "source": "日本経済新聞",
@@ -325,18 +349,6 @@
       "published": "2026-07-03T04:44:00+00:00",
       "summary": "アンソロピック、中国企業によるClaude不正アクセスの抜け穴を封鎖へ 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
       "id": "ee645b580610d60e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、独自AIチップでサムスンと協議 - OpenAIのカスタムチップ発表に対抗か",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRQkRkLTF0aDhxVWtXV3d3X2tDVTJZRV8wRXMxeldyd2RRUF94ZmRpYWpJRDYwVFcxRVFyWTVLU01Vak9HTXJsUXIyYXVxb1l3NXNlMldCT0dDVXV6NF8wMXI0TXZrVkZf?oc=5",
-      "source": "マイナビニュース",
-      "published": "2026-07-03T04:43:53+00:00",
-      "summary": "Anthropic、独自AIチップでサムスンと協議 - OpenAIのカスタムチップ発表に対抗か マイナビニュース",
-      "id": "8b76a67c4bab62dc",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -607,18 +619,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "大船観音寺と新幹線０系がコラボ 御朱印やアクリルお守りを頒布",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lTlZ0eHl5Xzlod0RkOTd0aDB5QnpjX2pqNVdvWGNuWWdOcFMwQnFYN0VmalVCMmg3Z2l2eGtFRURXVXVhaWM4NEpFTjFucFlMdnJ0SWJtUUNxN3QxbXI0WG5XLWQ?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-07-02T15:00:00+00:00",
-      "summary": "大船観音寺と新幹線０系がコラボ 御朱印やアクリルお守りを頒布 タウンニュース",
-      "id": "5eb797b12ae2ed15",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Ado、初のドームツアー【よだか】映像作品化",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9feXZkZi1VVTE0MkdoaFdDb1NlQnphZmltSkZtdm5RYmNzSVBWQ093OEZsVmg1OC1ramRWRGZaeGpxZW5jckt0WDdKVkdIa1I5c0ctclphU3VKb2pZM09McU9R?oc=5",
       "source": "Billboard JAPAN",
@@ -727,6 +727,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "aiko、アリーナツアー『Love Like Pop vol.26』開催　大阪城ホールではカウントダウンライブも",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NcG8tZGNzVHZIUV9adjFJaHBMV1VIei1WSmZpWDFxQnRUa0J0U250bElCSC1UaFBGSW5SeVdwVTI2QWlVSmtXc1BicjhNVkU4SWxLUTlHOWdtd9IBX0FVX3lxTE8zOWd6TUJVdXU3WEloOTB5VlJZWUt6bXlaOGsxUDNWMGFZRWNiQ243LThHVEFXR3RxZlNfbEwyN0FpMDlUYldZTWZuWXJTS0JRZnVORTl3c3otczQ4RXU0?oc=5",
+      "source": "Real Sound｜リアルサウンド",
+      "published": "2026-07-01T06:00:21+00:00",
+      "summary": "aiko、アリーナツアー『Love Like Pop vol.26』開催 大阪城ホールではカウントダウンライブも Real Sound｜リアルサウンド",
+      "id": "8b5a1f103532fbbd",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ダナンで開催された人民公安軍事武道・スポーツ競技大会の決勝には、4,700人以上の兵士が参加した。",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRy1LWTRvVW5wV05ncjRSX2cyU3E0WW9NckF5SG9Tc0Rscm9YSGpDZ3dXX29rSHJUcG9EbmwzSExSd1hFV3VqSktMNDFfNXJ2WHRPRktqSVM0T0lvMkJ0MEd2VlVxUnZWSHNpNjhVTjUyMjYwWXdzMWQxTEJ0SE1VTHAxbWUwM0thS2hzaGk2R3cwZ21Xa2loc0lTazlxMV9YMWFxSkRoU3VnSjNvZXIwOWZDTFVJdWJPdkxDaXlHdzRZNUs0LWlfdy1B?oc=5",
       "source": "Vietnam.vn",
@@ -769,18 +781,6 @@
       "published": "2026-07-01T03:04:48+00:00",
       "summary": "【品川区】盆踊りに模擬店！品川区民まつり7/18(土)・19(日)「杜松ホーム」で開催されます♪ 号外NET 品川区",
       "id": "194564f8e52fdb48",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "きせつ風(品川第二地域ニュース)令和8年7月号 No.245",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPaWFzSUZaMDdiSVpCMExrVEE0TGFoSmFaUlpYVngwNFN4T3lnZmpoajlyMzNSWm5JeXVCZlUxTEd6S1U4SDZnMGpQNFRkNnBQRWtyc1BJaXgzNHBVNHI2eFhseGh0SFU1S0t4cjc2MXdDX0FuckoxdnpsWVlNdGRKUEMyMUh2eHE2dFJodWZaQ1oybGNRRFhFVXZoOG80ek0zbG9fR01SamlWMzlTV041YVpwSXJDSFlXZWJBemJFdTVJRXQ5WDYxNWhva1RMa2hoSVR3SjVRMEVqX0VpRC13dDhiUnVOMGZabVowa3dyd2ZIOEhGMmpLYXRnWnppZ21MOFhBWDVHNEtOdWJGWWdWMFctV2ZGLUpuNUNaRDZuVlZxRnlSbThiMFFhYUg?oc=5",
-      "source": "city.shinagawa.tokyo.jp",
-      "published": "2026-06-30T21:29:19+00:00",
-      "summary": "きせつ風(品川第二地域ニュース)令和8年7月号 No.245 city.shinagawa.tokyo.jp",
-      "id": "3f7fd0e9cbbef08b",
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
@@ -919,18 +919,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "カウンターワークス、プロダクトマネージャーの松原 幹が日本初となるプロダクトマーケティングカンファレンス「PMM",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lM3ZRRFJIODcwWXFjbHp0dWIwdldLZFhYbTJ0WmoyQVh5WWNFbnVpX3lmYXZUNzJtZWZBb3h4S1JOT1h5WWFQeWR0akxGem9BZVJCNQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-06-24T08:48:16+00:00",
-      "summary": "カウンターワークス、プロダクトマネージャーの松原 幹が日本初となるプロダクトマーケティングカンファレンス「PMM ニコニコニュース",
-      "id": "d229b0799d4224c1",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "あたまの元気度チェック",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbkZSSlIyV092WGR1MUE3bTM1MWl6X0d3c0dIZUhNcC1hUHdqVkg2SkxKTW1kUXVMQXlyVWtmZVpCbk5sS2xtT2pQaTNUNU5iRVBhTGR0emo4TVBNREEyTVRyb3puUmxta0xTemVNY1JxTEtIa3Rqb0NuVlQxemFYeE1UQjI1X1Y4SEE?oc=5",
       "source": "city.shinagawa.tokyo.jp",
@@ -943,12 +931,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【品川区】天王洲ハーバーマーケット「天王洲夏夜祭 with OKINAWA」7/24(金)・25(土)開催♪",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FMGJ3ZmtKN0pIVEpTRHNuXzRNdU5fR3h6dWpDWkN6RDJoTllCYURyeTBTcmZPeWtLRWx5NEVNY2J3dThLRUZLUGpGaWZ5QkZwdUFzWjNmbWM4UVVVVVFEdkE4Y3BfbzhpZ2I0d3NBa0M5MW1wa3h6ZjVtS1BaZHc?oc=5",
-      "source": "号外NET 品川区",
+      "title": "浸水対策工事の現場公開…去年9月に冠水被害 東京・品川区（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aQ2JJTmVxbmFJRGR0RGtzaTJiX3pkWGVIN2pwaGFHWUNUT2hPODZuYUZRbG9oTmpjdlVZQlFiRmRBcG5EeF91Znd6SWdBVkhhalRXRFpUa3FMSW51TmZxcHRqSEhEMjNlSzhZU1RmQ05mQmxxc2I2M3poZnpqQ3M?oc=5",
+      "source": "Yahoo!ニュース",
       "published": "2026-06-23T07:00:00+00:00",
-      "summary": "【品川区】天王洲ハーバーマーケット「天王洲夏夜祭 with OKINAWA」7/24(金)・25(土)開催♪ 号外NET 品川区",
-      "id": "0935019971e4800d",
+      "summary": "浸水対策工事の現場公開…去年9月に冠水被害 東京・品川区（日テレNEWS NNN） Yahoo!ニュース",
+      "id": "cc524ea8beb0c94c",
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
@@ -1051,5 +1039,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 82
+  "count": 81
 }
