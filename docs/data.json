@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-04T04:29:14.874771+00:00",
+  "generated_at": "2026-07-04T10:39:45.094592+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -14,7 +14,7 @@
       "name": "推しアーティスト",
       "category": "音楽",
       "emoji": "🎵",
-      "count": 10
+      "count": 8
     },
     {
       "name": "ライブ・コンサート全般",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 10
+      "count": 11
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 12
+      "count": 9
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,78 @@
     }
   ],
   "items": [
+    {
+      "title": "Claude Desktop for Linux始動：非公式頼りから公式ベータへ、Ubuntu・Debianで使うClaude Code",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WUFBXNnFTVDIwLVQ2QUd2US1IcFByRkFXWmRWNkRjMnVkZm9wQXZwR244MkozeGVlbGtqOXN2NkRmTXVKbDkyM2NGd3VjN1JsTWVv?oc=5",
+      "source": "innovaTopia",
+      "published": "2026-07-04T10:07:43+00:00",
+      "summary": "Claude Desktop for Linux始動：非公式頼りから公式ベータへ、Ubuntu・Debianで使うClaude Code innovaTopia",
+      "id": "d988e602abde625e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "非上場のAnthropic・OpenAI、IPO控えETF・クローズドエンド型ファンド投資法に「注目」",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iZWtaclotRE40dGl4RVRyWG0xNkxiTi11SFpRSUR2YTdMd2tob1dOTjZ2YlFwSjdIeWdGNkdUaFN3NVZISzVHYzUxWXV5OTItZHo4WDlBQUlCdEcwZF91VGRtM2VSNHdyMlhpck5SN21oUk91?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-04T10:05:00+00:00",
+      "summary": "非上場のAnthropic・OpenAI、IPO控えETF・クローズドエンド型ファンド投資法に「注目」 BigGo ファイナンス",
+      "id": "11af4ac96b7334cf",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GPT-5.6、7月7日発表か——Claude Fable 5の「空白期間」を狙い撃つ戦略的タイミング、コード流出で3つのサブモデルが判明",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81SEJweldGNHA3bDU2Wi0yTEc0WGdEbWJDcU9mdkV4akNRNmZReGVmUmp5LS1xdVBqRVExbVFYcjNsSkRWWnJ3VDh0bDZ5ci1aRzhhMlhNV3EzeVp3RmlfT0dNNTlBSmpkRTdEd0R5SzJ0MlJm?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-04T08:55:00+00:00",
+      "summary": "GPT-5.6、7月7日発表か——Claude Fable 5の「空白期間」を狙い撃つ戦略的タイミング、コード流出で3つのサブモデルが判明 BigGo ファイナンス",
+      "id": "cc426fd8323dc883",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "砂月凜々香、ライブパフォーマンス映像を続々公開 米津玄師やAliAのカバー歌唱動画も（リアルサウンド）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00c3c2N2JjY3ByV1dEeWhkbGhBZEMyTHhCTTY3Rlo4WTJkVjlBdENBcXByQXVfMkstUVRqZndVcGxWUUVPdjlqU2tJbnJIcmxFY1A3SnY1ckFtNF9YTDlBWFdPaVNOb1YxcUl4Umo3UVBqeDZSUjVtb1ptNXFJQVE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-04T07:33:10+00:00",
+      "summary": "砂月凜々香、ライブパフォーマンス映像を続々公開 米津玄師やAliAのカバー歌唱動画も（リアルサウンド） Yahoo!ニュース",
+      "id": "7eba1565cb1e095a",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【品川区】夏を満喫できるイベント盛りだくさん！「昭和医科大学 第39回 旗ケ岡盆踊り」7/24(金)開催♪",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vMTEtS245cDNrX2hNbmExSW1kc3o3QVpfUmtSbnpwc1dlWm1TeWVqai1YRTZkS1NDWUo2dzVRWDQ1Z0FIU01uZWJlbFR0RGJQZk1zSEgtVmVsNUtzcm56S3J4NnpNTHhZLUE?oc=5",
+      "source": "号外NET 品川区",
+      "published": "2026-07-04T04:31:47+00:00",
+      "summary": "【品川区】夏を満喫できるイベント盛りだくさん！「昭和医科大学 第39回 旗ケ岡盆踊り」7/24(金)開催♪ 号外NET 品川区",
+      "id": "7eaad247ae6488ff",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「Claudeの6分の1」で攻める中国のKimi、ARR480億円突破 評価額5兆円規模へ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PNGRmVWkwek90SjRaMm1CRThZZVg1RUhNLU1qay1NZUhxN2phZ0JSYk00aUoyR1ByZExTcjhLY1RZU0lya2UxeGtuSHNWdHJMYnZ4S3JQN3dJVnY1d21HUFplbDFjcDF0RnFJX0FUcTkyUmk1aEpqdC1hN2tnX3M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-04T04:30:27+00:00",
+      "summary": "「Claudeの6分の1」で攻める中国のKimi、ARR480億円突破 評価額5兆円規模へ Yahoo!ニュース",
+      "id": "c37dadf112fe4ddb",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "【鎌倉市】鎌倉紅谷がジェイアール名古屋タカシマヤの夏スイーツ催事に出店！クルミッ子など多数販売",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xa2NVMVlaRkJyUmdnZUZVclVPNWlGX0pKVHVnVi1BZzhaMDVnU0laNWctQ29MbEJyNTQ2LTlrMGFQX1RVNUxvQ1lwWElnbFlpNTdHUHYtdXBpaXJ3QUJ5cUNhZUc3MkxpanNZNkFYWTFJdmNIRG5LR0NpdXI?oc=5",
@@ -89,6 +161,18 @@
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
       "image": ""
+    },
+    {
+      "title": "サムスン2nm、Meta・Anthropicを獲得…ファウンドリー受注残高50兆ウォンに迫る",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12UlBlY0E5UFJDdXZIOXlSNEh5ekxhWnhSczFrdFliMHBqa0hGdlJCNVlZRTc4ODJHc1VkTk42NVNhN2tzS0VoT2RoU0RZa1QzZGo2TmQ5V0RNbk9pVEt0ZzcwZWlZTXVjYjJNcDFfeXNoeDhI?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-04T02:55:00+00:00",
+      "summary": "サムスン2nm、Meta・Anthropicを獲得…ファウンドリー受注残高50兆ウォンに迫る BigGo ファイナンス",
+      "id": "786312e32fb6a3f6",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "title": "アリババ、7月10日からClaude Codeを全面禁止に——自社開発「Qoder」への移行を推奨",
@@ -184,18 +268,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicがUCバークレーのCS部門長ジェラニ・ネルソン氏を招聘、AI人材獲得競争は「理論と数学」の新局面へ",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sSW1qZDZwZmFITXZfZlczdWJkbU0zeFY5U1NKMlp2TGMtcWZUUC1DUEU1RzY0bURJS1Bud2EyOHpxMURvdGZneldzNUVjMF9ySEhSYUJFOFd3Ym1sS1hNQkd0Y9IBaEFVX3lxTE52S1YzSmFKSmN5VEFzUnBEeDM1dFJIeVBkX1Q2YUtuVHI0SHBwUVUwcXFONlBGSGdEVXFXMlE1U210VDlTblM0X2dhV2NhYW5pb0hLc1lGRHptTXozX3RyVU5rUy0tQ3gw?oc=5",
-      "source": "財経新聞",
-      "published": "2026-07-03T14:11:51+00:00",
-      "summary": "AnthropicがUCバークレーのCS部門長ジェラニ・ネルソン氏を招聘、AI人材獲得競争は「理論と数学」の新局面へ 財経新聞",
-      "id": "6604b3893f2375ed",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -319,18 +391,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Fable 5が規制解除で復活：性能は健在も、過剰な安全審査に開発者から不満噴出",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pTEtjZ3FVOVNuWndWTlFLMFNaNTRJSWlha0F6NzJwWDNIY3F3dkRwd1dWRTVsQjYtR0pxUmdTemxvYUdqM2dWQTdLM0lXdXQyUVViRVBLTEhta3BrYUZuc3JDZ0l4akItdzYwZjJiSUhpcVJD?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-07-03T09:15:00+00:00",
-      "summary": "Claude Fable 5が規制解除で復活：性能は健在も、過剰な安全審査に開発者から不満噴出 BigGo ファイナンス",
-      "id": "ba81053813812d4f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "米津玄師、ライブツアー『米津玄師 2026 TOUR / GHOST』チケット一般発売決定！再びライブステージへ",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlbk5vZXlpWTFzQTJsbjkzZE5Ha3hhajNSSk5FR1dXZndwaUdRaTBsNDFNamYxNXRpcVpWZ3Qyam9QRjFBcEdBbVJuanBBSG1ZMjE4Y1F1Mk8?oc=5",
       "source": "THE FIRST TIMES",
@@ -340,42 +400,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "株式会社Mavericksは、動画生成AI「NoLang」にポーランド語・チェコ語・スロバキア語・ルーマニア語を追加。翻訳会社への外注やナレーション収録を介さず中欧向け動画を内製できる体制を構築",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2UldkSXJDMTl2OGNyMmthcVVZRTVGSU9RUS1rWWRael9kd1JxZ2FxcThPTmJQSnlYcGFENHB2VzBlQjlWZ01xbGVsN096YlpUT0VvWmxIb0hueVI5aWNtenVFcllxV3JUVVE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-03T09:03:42+00:00",
-      "summary": "株式会社Mavericksは、動画生成AI「NoLang」にポーランド語・チェコ語・スロバキア語・ルーマニア語を追加。翻訳会社への外注やナレーション収録を介さず中欧向け動画を内製できる体制を構築 PR TIMES",
-      "id": "f2070171658f4845",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【完全版】Claudeアーティファクト(Artifacts)の使い方・ビジネス活用法・プロンプト例",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NYk9naDc0cmpZLUd4VUlfalEwQ2IxUUZUb2laUmtwdGZCTVcwZEE0R2xZd1NLam9jSThQclFuWkI0T3hXTDBHdzJKc19vYUZYUmt3NnA0bkNUNkZDX3doZ2FESQ?oc=5",
-      "source": "AIsmiley",
-      "published": "2026-07-03T09:03:38+00:00",
-      "summary": "【完全版】Claudeアーティファクト(Artifacts)の使い方・ビジネス活用法・プロンプト例 AIsmiley",
-      "id": "f04a091d6ad03863",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、米政府の輸出規制解除により「Fable 5」と「Mythos 5」の提供を再開",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UdkZUVW1CcS1KMTkxMVN6YnRzVnVFcGlfcW9sZ3QxbjZyOVV2bjdvd3B5TFdOVEhLRVhqRWNpbW1WSTIySnBTb2FneVpUTWRXY3R1c3ZUdnBkYlNFaUlzdHNwT05MUFFlV25Hb2dKLTNfT1U?oc=5",
-      "source": "AIsmiley",
-      "published": "2026-07-03T09:03:38+00:00",
-      "summary": "Anthropic、米政府の輸出規制解除により「Fable 5」と「Mythos 5」の提供を再開 AIsmiley",
-      "id": "fc1e87f11ea6f07e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -451,18 +475,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【補助金】新事業進出・ものづくり商業サービス補助金の第１回公募要領を公開【申請受付期間：8/31～9/30】",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jT28wWThZWDhjdDF1bTlZeVpUT0NyaUNYY3h4bVFxZDBYbnR6STREOWNUWXdSS3ZpaVp3ZlNNZ005UV9YdzNmZ2FNSGttZWUzV2tBcVVYUHk?oc=5",
-      "source": "中小企業庁 ミラサポplus",
-      "published": "2026-07-03T04:32:02+00:00",
-      "summary": "【補助金】新事業進出・ものづくり商業サービス補助金の第１回公募要領を公開【申請受付期間：8/31～9/30】 中小企業庁 ミラサポplus",
-      "id": "49dcccc576fc2f27",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "片山財務相「国債市場での信認維持」、長期金利約30年ぶり高水準",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FdVNJOHNSYXBtalRpTzNBLXF3VXVEOTFqenh5RkFEd3VEdUROVWJHOUN4YW11d2ZKS3NwRmhTeF9Ib0d3RnI0UGxwYk5VQ3prc2ZBbHdScTV5V2tGR2FmZ0hhMzhHTWhNemw2RQ?oc=5",
       "source": "日本経済新聞",
@@ -484,18 +496,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "2026年6月版のデータ整備を行いました。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zcHBobzdJTEdEbXFNZEVmMTllTndUVTZNTnBXUmlSVEhfRjd2RzlMdnR1VXVCampTb2hkbWFjSEpwNTY0ZHd1bkV0b3JkSUhUVlYxSVVfN2RkVXBFbTlyM1NjbGtMMGx3c1E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-03T01:21:08+00:00",
-      "summary": "2026年6月版のデータ整備を行いました。 PR TIMES",
-      "id": "1d5e8f58c400c628",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -667,12 +667,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉インテルの四方代表 ｢越境人｣を20冊寄贈",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56bWh3TW9zd19JdFlIYXpuRzJFeklMeUhSdlEzV1JSbk9mTEtRSVlJOWYzdU5ibHQ5STN1VEdteV9hWm9xeUpwYkdJU1RoNU9oS2VwV1pkV2dBNUhXRXp0OGYtbnA?oc=5",
+      "title": "鎌倉市在住の渡邊さん、ジュニアソフトテニス混成ペアで大舞台へ 関東と東日本小学生選抜に出場",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwU3FRWEZESkwwS0oybkNPLTRxcm8xYlBrV2o2MDhzU1VIUGY5d1M1SndDQnA0cHFnRndjVG9TUkh6eGRZSG5UaFU2eHNMd2lsNEc3VjJ0eW5YalV3R055WXZvM2E?oc=5",
       "source": "タウンニュース",
       "published": "2026-07-02T15:00:00+00:00",
-      "summary": "鎌倉インテルの四方代表 ｢越境人｣を20冊寄贈 タウンニュース",
-      "id": "70803dde6f53787f",
+      "summary": "鎌倉市在住の渡邊さん、ジュニアソフトテニス混成ペアで大舞台へ 関東と東日本小学生選抜に出場 タウンニュース",
+      "id": "f0a93e8a86493f7b",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -716,11 +716,35 @@
     },
     {
       "title": "【保存版】全国の企業が選ぶ！補助金支援に強い会計事務所TOP10【2026年度最新版】",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tQzc2RTdrZ054bWhrMjJ6SHBNNmR0VVBiT0JCaTMzYnJuRk9xSDVYSVZRQTFqZzdVVU9zLTgyVW43OFdLY3EyTHhRRWI0d0xfN2hsbHBWWVhvOEtVRV9ybUVralpSaWl4cWQ3RE55d3pQUQ?oc=5",
-      "source": "宮崎日日新聞",
-      "published": "2026-07-02T07:00:00+00:00",
-      "summary": "【保存版】全国の企業が選ぶ！補助金支援に強い会計事務所TOP10【2026年度最新版】 宮崎日日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9meEk5eFlZbV90dWVRTG45X2ZjZ0JLX2g0NVlLNDVDX3RhZ1AwN283LTFtaGcyUDZUNzdCSjFaOEtCT3UtZEpuUmFiTS1qTTNoRUswSzZteV9hcE84N0FyZm0yNm9PcXFLTmc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-02T07:00:02+00:00",
+      "summary": "【保存版】全国の企業が選ぶ！補助金支援に強い会計事務所TOP10【2026年度最新版】 PR TIMES",
       "id": "c1dae5ed2a95bddd",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【補助金】新事業進出・ものづくり商業サービス補助金の第１回公募要領を公開【申請受付期間：8/31～9/30】",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jT28wWThZWDhjdDF1bTlZeVpUT0NyaUNYY3h4bVFxZDBYbnR6STREOWNUWXdSS3ZpaVp3ZlNNZ005UV9YdzNmZ2FNSGttZWUzV2tBcVVYUHk?oc=5",
+      "source": "中小企業庁 ミラサポplus",
+      "published": "2026-07-02T07:00:00+00:00",
+      "summary": "【補助金】新事業進出・ものづくり商業サービス補助金の第１回公募要領を公開【申請受付期間：8/31～9/30】 中小企業庁 ミラサポplus",
+      "id": "49dcccc576fc2f27",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "長期金利2.775%に上昇 1カ月半ぶり、入札「低調」で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoOVpQdkFHQkFFNjRWYlYxQzdpMW1NVlNLTVl3OXBNZXVGeFFVc1lPRXV4SHk1TFdRQmhxc0MzbThWVXh6dExCRC1PWFdOS2pXbFFwSld3d3Yzb1JvcEVPa0ZyV0ZLZlZUZUZpNQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-07-02T05:25:50+00:00",
+      "summary": "長期金利2.775%に上昇 1カ月半ぶり、入札「低調」で 日本経済新聞",
+      "id": "3eac7f4862171aae",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -895,18 +919,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米津玄師 「烏」主要チャート6冠！Billboard JAPAN / オリコン週間首位独占！",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RV1ZQN3NVbTNQbEZrVEhHYWo4UlUwRGJfQlFmdHpKVWFYNTNnRzVRWi1mRkpCLTF4S0Y2SE9kMFpOb1pmUngta3dCMU1KRW5RcDFnRmxTRG1GUWlzR3IwSlJFSVlENGxWakE?oc=5",
-      "source": "USEN",
-      "published": "2026-06-26T01:25:59+00:00",
-      "summary": "米津玄師 「烏」主要チャート6冠！Billboard JAPAN / オリコン週間首位独占！ USEN",
-      "id": "cef82fd5c4ac2bf6",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "合気道団体の演武動画が物議、韓国警察が採用方式を見直しへ【独自】",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTMwdHVuRFV1WjAtcEhqelhvNlpLOFdsdVdiQi1URWx2OFVPMmVFTU1aTGFvWHhkc2kyaU5udEtKZmo0U2lPVlhtWnViaWVsaVB0TDV5UUU0ZTdDY1pEUnJWOXNzT19ZaXFpWEt0R3pGV09tU2VnTmlaQzRqaWp1aWlMZ9IBfEFVX3lxTFA2NWJTTDR4TzN3cGJWV05DRjc4X2xSZkVTYjJ5TFFqbEpXYUpIT3F5XzZDdzYtaTVWVW5zZkVEb1ZuLUlkd3VjbkZacGEyNXBvNVhwMHlNTUlDUThFSTRsTlZxLUZQRk1QVmVoQzc3VWtPQVBqSXp3bVJQYXQ?oc=5",
       "source": "朝鮮日報",
@@ -1003,18 +1015,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米津玄師 2026 NHKサッカーテーマ 「烏」 カラスの羽フェイスペイント TikTokエフェクト公開",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfbE1Icjc1WHk0X1ZnZWpmYk05N2JiblR2RVQ4dG02ZnRWOXM5TDdaMHNPZGUtWW03NkFkNlNsSG15MXRzYktxR0tqOW1ZcTY5d1FveUdiRHFNRWktbGtiQlMtdXVxTXN2c3c?oc=5",
-      "source": "USEN",
-      "published": "2026-06-22T04:42:49+00:00",
-      "summary": "米津玄師 2026 NHKサッカーテーマ 「烏」 カラスの羽フェイスペイント TikTokエフェクト公開 USEN",
-      "id": "639ed6c3c98d01ec",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【品川区】毎月第一水曜日開催！「REACH大崎クラフトマーケット」7/1(水)開催♪",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12aW43TWJvSVV3eFNaUzYtUHlXbXNIUEF5TWpZSDBfQi1zQUJsckgtSks1NC0yNy1rTHc2NTdzaV93OEM2X3I0WERpb0RwODk1WVdJc1c3SFlzSFZoMGs3VVhLMA?oc=5",
       "source": "号外NET 品川区",
@@ -1037,55 +1037,7 @@
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米津玄師 2026 NHKサッカーテーマ 「烏」MV公開",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JODZPakxidUxOLWJFLXc0WG1hTHExVm1NTDlqUVl1dkxtS2hJbFdpalZqQ01PaHFPNk9LREVSbDlxUG8tUzNDLTJQSUpzNDE4aG9id2czb3U0VS1TdVZ5QkV3?oc=5",
-      "source": "USEN",
-      "published": "2026-06-21T01:03:30+00:00",
-      "summary": "米津玄師 2026 NHKサッカーテーマ 「烏」MV公開 USEN",
-      "id": "923b085b4397a102",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【第29回フルコンタクト合気道選手権大会】開催予定。合気道覇天会・藤崎天敬宗家のもと試合・演武・講習会を実施予定。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EWUFLWXplVzktSHRKcktJS3dUT0NiUm81aWo5TllyakRWeng5S3NQQUtvRDMtWXpDa3dqeFQ2aGw1VzZWb3F4MFRGSXJjUHcwSTF3ZUxrT3ktNTA?oc=5",
-      "source": "valuepress",
-      "published": "2026-06-20T07:00:00+00:00",
-      "summary": "【第29回フルコンタクト合気道選手権大会】開催予定。合気道覇天会・藤崎天敬宗家のもと試合・演武・講習会を実施予定。 valuepress",
-      "id": "16f7aee136aca36b",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "警察・軍事・武道・スポーツフェスティバルでの華々しいパフォーマンス。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVmNVZ3J4SEVzN2V2X3o1UGUtZGdsWENqZnRBRVpMUzU4aVl3WmZ6ckhPUUtGRGFPd2ZCZmg2RjdqOFVDMTZnVGZaNVhsdGI1RkV4OFBMbjRYUUN6NjdiUkJaNmt1bEduRzNpQTBsUHVZNm5rR21laV9VZDFaNGM2alBwbng3MTdiNTJVS1lRVTVqQzdBMGJud21sT2Q?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-06-20T07:00:00+00:00",
-      "summary": "警察・軍事・武道・スポーツフェスティバルでの華々しいパフォーマンス。 Vietnam.vn",
-      "id": "a506dbd09f7ac6a4",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "2026年人民警察軍事・武道・スポーツ大会第3地域（ラムドン）開会式",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0RjLTRZV3d2aHM1eE1YZUl5NjdEdnpoQjQzbHAxZE1NXzMweWp2X2Q5a1AxcVRsWUNPaVFCTlhaUmpfTUtJaTc4c1psR3R4RzVzUmlobWRvOVFteDdRYnNORFF3aXFCZ3Nza0FhRDBJaVpJaWVNQkg5cWFkLXVvT0toSG1NLVU3bnFjdzkyNzV1U0o3MllfRjhlSUJzM3phMncxYk53d3liS09McVROZjZQZ2dfd25qRjk1QjZDS3U?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-06-20T07:00:00+00:00",
-      "summary": "2026年人民警察軍事・武道・スポーツ大会第3地域（ラムドン）開会式 Vietnam.vn",
-      "id": "cae7661fdb7df1a2",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 85
+  "count": 81
 }
