@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-04T16:55:42.583662+00:00",
+  "generated_at": "2026-07-04T18:08:35.024375+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -66,6 +66,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Anthropic が Claude Science Workbench を発表、自社での創薬にも注力へ",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVpVOEh2cmNxTkVQSEVmVGNWRmc3eFJmVlFqR1o2emViVTFEQ3FoTHktSm1mbHhCOFlpdmxlRW42ZTFtdVlLdHZBN0ZSNkc5UDZETDJoNEkzUGJtNUhlY0NMV0toMFhRZXR6RlJMOHlIWXFiOHhVa2pUbVRvUm1OQXZaWVlDUHRMZWlGWlFrM1BRMkZUTXlYc0xwek1FZEc2MG5WY3BFdzFVbWEyVERKdGRR?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-04T16:50:00+00:00",
+      "summary": "Anthropic が Claude Science Workbench を発表、自社での創薬にも注力へ BigGo ファイナンス",
+      "id": "0797819f0be80547",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "アリババが従業員のClaude Code使用を禁止、セキュリティリスクの懸念のため",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uQW5INGlrUVRTZTdWVi1LS21XWDRKQnNNeFBUZlltVDNVVVkzVFpIQks1MXBBMUJhM1EybHluU2lPMC1WT3dUb2d5NXZtcDFBWEJBU211T0NSa2kyaUFManZDSC1nc1RpSUh6bg?oc=5",
@@ -187,12 +199,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "AnthropicのAI「Fable 5」が“心の声”を漏洩？「GRRR」「GAAAH」の謎、覚醒か速記か",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QSko5SXNUQm1ZNVY4bFR0bUZFZFFtYTRlSVNtZGlDRFNCQXBORDE3d0g2VDlvcUtiNWxJWS1EUVJjQjZHd1RSMEJjRnp0S3hpNTV3bS1idHBkQU1rdWNPTE1FOW42Q05MdWtLdUhIejE3aGdw?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-07-04T05:35:00+00:00",
-      "summary": "AnthropicのAI「Fable 5」が“心の声”を漏洩？「GRRR」「GAAAH」の謎、覚醒か速記か BigGo ファイナンス",
-      "id": "a02b692d72fa10f8",
+      "title": "AI生成画像・動画、「AI生成表示を望む」62.7％。「AIだと分からないまま使われること」に66.0％が抵抗",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93dWpHT3M0OHJZSDBoNEZtUDVpZFpldklJeW5rc1l2LUMwTGJ0VVJ0RWxFOFZSN0ppeGFHZVk4dDlkMUt6eURSYURQckVFVzBHZllLUVFvSlRDSG5KdWp1ck1MZWoxWDdSYmc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-04T05:20:02+00:00",
+      "summary": "AI生成画像・動画、「AI生成表示を望む」62.7％。「AIだと分からないまま使われること」に66.0％が抵抗 PR TIMES",
+      "id": "3806dc17e64adbb7",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -325,18 +337,6 @@
       "published": "2026-07-03T22:36:42+00:00",
       "summary": "【Excelダウンロード】Claude Fable 5「重い仕事を丸ごと任せる」実務プロンプト 10選 ビジネス+IT",
       "id": "5bedb63611960b54",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": ""
-    },
-    {
-      "title": "自前AIチップの開発でサムスンと協議を始めたアンソロピックの思惑、TSMCの一極集中に生じた新たな揺らぎ 【生成AI事件簿】OpenAIに続く自前半導体戦略、推論コスト低下と日本の半導体勢に広がる数年後の商機(1/5)",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TcGRhRldodjFUTEoyZkIyYldkWjRmRVB5dGRFOU1rMEM4ZW9jNklnOUZCRE9VSUpqYnVnTGZJMVFfbm9sdFZsc1VsX2FNRnA5eXhvcnNn?oc=5",
-      "source": "JBpress",
-      "published": "2026-07-03T21:00:00+00:00",
-      "summary": "自前AIチップの開発でサムスンと協議を始めたアンソロピックの思惑、TSMCの一極集中に生じた新たな揺らぎ 【生成AI事件簿】OpenAIに続く自前半導体戦略、推論コスト低下と日本の半導体勢に広がる数年後の商機(1/5) JBpress",
-      "id": "fa094596ca6bbb5d",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
