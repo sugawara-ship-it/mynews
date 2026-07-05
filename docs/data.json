@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-05T14:15:21.188717+00:00",
+  "generated_at": "2026-07-05T17:06:10.269713+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 7
+      "count": 8
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -66,6 +66,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Anthropicに7500万ドルの著作権侵害訴訟",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObENCSEQ1cV9kMmQ0WndvUHFvU182YVVKLVROV01xRjcxd055OVd0ZXVwd1I4VU53b2hlQlUxTjNsdWJleWRNVXNBcFN3TUtBT0R1SmVhZTNneVI3WDI4N1VOLV9GNzFhNWZ2WXJJanhqRzZpZEtLaUtMTnY5d2NWTUxrbmpGaEEx?oc=5",
+      "source": "BeInCrypto",
+      "published": "2026-07-05T14:53:53+00:00",
+      "summary": "Anthropicに7500万ドルの著作権侵害訴訟 BeInCrypto",
+      "id": "57b5873c39a1ee00",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "AIに社会を任せるシミュレーション。犯罪ゼロはClaudeだけ。Grokは4日で滅亡",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIYURXcGttQmVtbllkbGw1bDM2dElqVHJYQTBFWnZuZnNtSzV0YngyaVpVbTVobzlGaFp2NTVpZGVpM3VONHBOeFpFR2o0SkNaTFZZS2YwSkVpUi1SeEUtbnhPYXlzcEdnNUlBTDA2c1hEby0wWG92UU4zZ2Y?oc=5",
@@ -307,18 +319,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "国家インフラ崩壊の危機か？最凶AI「Claude Mythos」の衝撃",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5QS1lJUjU2SjFfdlpDNjRqNmtNS3BrMnJ2NGcyX0phQTBLWDRPLWpyZFMwbzl4cF9RUU1WNjF0NHBvbm5N?oc=5",
-      "source": "@DIME アットダイム",
-      "published": "2026-07-04T22:32:43+00:00",
-      "summary": "国家インフラ崩壊の危機か？最凶AI「Claude Mythos」の衝撃 @DIME アットダイム",
-      "id": "e6cbbe980b650f6c",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Aぇ! group末澤誠也、演出＆衣装の“お金事情”ぶっちゃけ？正門良規ツッコミ「生々しい」【囲み取材全文前編／Aぇ! group LIVE TOUR 2026 Runway】",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6bnpJRXBKMmN2ZWl6TWlXT1NROTRGRXFNdFk3TkZKX1JYckljdVBVMVFZMU5IeGg3aC1IRXc3TWVDczFKdWVDY0VpMDQ0SjZwWE4zQWkzeHdrelV2WVNQNi15SDJVNXQwUVhHVUYtZ1o1cjlCamlxSVB0RQ?oc=5",
       "source": "プラメポータル",
@@ -373,6 +373,18 @@
       "published": "2026-07-04T19:00:00+00:00",
       "summary": "Aぇ! group、新体制初ツアーで“新たな夢”掲げる「ドームに行きましょう！」【ライブレ… TOKAIネットワーククラブ（TNC）",
       "id": "e804054053c2b080",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Aぇ! group、4人体制初ツアーに決意 草間リチャード敬太の復帰に「ホッとしている部分が」（オリコン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rQTRWOXhyYTNpdkVDOGRYVVh0ZVJkRXhZdHFxbTB4a0ZOZHNEV1FwbHVBODJqT2VkT0J4Szc0ckpSSUJjaE9YcmhKX3BMa0ZSUDZmTkdQSWxfeFpibXVpOXlVZk0zUldCUnFxZWlKZk1NS0p2RHhjY0EwRkpfUGs?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-04T19:00:00+00:00",
+      "summary": "Aぇ! group、4人体制初ツアーに決意 草間リチャード敬太の復帰に「ホッとしている部分が」（オリコン） Yahoo!ニュース",
+      "id": "9eb88779dca7712f",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -655,15 +667,27 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Aぇ! group 4th Single「でこぼこライフ」、Aぇ! group LIVE TOUR 2026 Runway記念特典付販売が横浜・静岡会場でも実施決定！",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uSWc1Q3Nqc0g4Nkl3MnRicEVvS3NHeG1MUXNIOHRPV2VlYkpWXzk3eFdIOWFRRFVGd0ZOT0JVazViWThnSXVpVkhUMWRRaEhVUVc3a2hhVDRvSTI1SUE3ZFA1SFd1SnVIYlE?oc=5",
-      "source": "UNIVERSAL MUSIC JAPAN",
-      "published": "2026-07-03T08:07:24+00:00",
-      "summary": "Aぇ! group 4th Single「でこぼこライフ」、Aぇ! group LIVE TOUR 2026 Runway記念特典付販売が横浜・静岡会場でも実施決定！ UNIVERSAL MUSIC JAPAN",
-      "id": "791afe2cdb55d5f3",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
+      "title": "山場を迎える高市政権マクロ政策 金融政策、財政政策ともに6月こそが重要な分岐点の可能性 野村證券・森田京平",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DZWVTUzRzdHRSei01Skw5NW12RS1mVDJxQXF5NWdYaF9wcW9IN0ZQY1JoRjU0VThPRUl6NDkxbGMzYi1HVnhzLWFKRTlOYnJvNzAyWnR2ei02RE5jWGhZ?oc=5",
+      "source": "nomura.co.jp",
+      "published": "2026-07-03T07:00:00+00:00",
+      "summary": "山場を迎える高市政権マクロ政策 金融政策、財政政策ともに6月こそが重要な分岐点の可能性 野村證券・森田京平 nomura.co.jp",
+      "id": "6068bbea3d007d41",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "2025～27年度の経済見通し改定 消費税減税は2027年度実質GDPを0.2％押し上げと予想 野村證券・森田京平",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HeGwxSHc4V0lBa25ibV9EMTI1NkNmSHBXUlRSTXlnTk8ycmEzV05EcW02ektHQWdYTXl1WEhZVjY5MGVDd2pSRk9RMFZUVVNzX3dtdHd2dGZ1WUdhVmow?oc=5",
+      "source": "nomura.co.jp",
+      "published": "2026-07-03T07:00:00+00:00",
+      "summary": "2025～27年度の経済見通し改定 消費税減税は2027年度実質GDPを0.2％押し上げと予想 野村證券・森田京平 nomura.co.jp",
+      "id": "66610acb3a904366",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -703,6 +727,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【品川区】都内最大級「大井競馬場フリーマーケット」7/4(土)・5(日)開催",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Kc1hyWUp4RzF2UHZ3T1FZY1ZZYkZCOFVpMkFMZlVQZkpYb1NIdHNKOEFFUVdHUDBRMDJNUTBPTm84UmViQzdNRmR0aW1CZ3dXaGNRNzc3NmlYenR1d3VIRy0tVkg3aFdpVWxvczN2b3pDbll2LVE?oc=5",
+      "source": "号外NET 品川区",
+      "published": "2026-07-03T01:50:12+00:00",
+      "summary": "【品川区】都内最大級「大井競馬場フリーマーケット」7/4(土)・5(日)開催 号外NET 品川区",
+      "id": "4d9e7651fd4200a8",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "武道・格闘技に打ち込む選手が和菓子で和やかなひととき 創業50周年の明日香野が「道着MMA交流大会」に参加",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPdzNPM0l6Z2JnTmN1bFo2NlNDNlVxTzNsSFBzVmFBOVRDV0pwOHJwTDNBS3dnNVZYMnZZV0NoRmV1Tm5fU1dFSkhrVTF2Vkh2dWxlMkpmVzY2bjlKUERtUUdmWThpUTlQ?oc=5",
       "source": "ニコニコニュース",
@@ -712,18 +748,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【参加無料】大反響の顧問先限定ウェビナーを一般公開！助成金を「成長投資」に変える『2026年度の最新動向と基礎知識』を7月22日（水）に開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02SFlpcl9jS1VLSlM2OTE4NE0wcVhfbVlpem0zaUxwTS10dW1mVERTLUptR1JCS2RqbmtXSTJadTI1N3htdkdkcjM4WW9wbHowZjJqRVJ2RlNsd3V3YkNPcmllZ19TWEJzaEE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-03T00:30:02+00:00",
-      "summary": "【参加無料】大反響の顧問先限定ウェビナーを一般公開！助成金を「成長投資」に変える『2026年度の最新動向と基礎知識』を7月22日（水）に開催 PR TIMES",
-      "id": "b4d18e60d088100e",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -769,18 +793,6 @@
       "published": "2026-07-02T07:03:33+00:00",
       "summary": "「骨太ショック」が招く金利上昇、10年債入札は「低調」 日本経済新聞",
       "id": "691834b63eaace9a",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【保存版】全国の企業が選ぶ！補助金支援に強い会計事務所TOP10【2026年度最新版】",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9meEk5eFlZbV90dWVRTG45X2ZjZ0JLX2g0NVlLNDVDX3RhZ1AwN283LTFtaGcyUDZUNzdCSjFaOEtCT3UtZEpuUmFiTS1qTTNoRUswSzZteV9hcE84N0FyZm0yNm9PcXFLTmc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-02T07:00:02+00:00",
-      "summary": "【保存版】全国の企業が選ぶ！補助金支援に強い会計事務所TOP10【2026年度最新版】 PR TIMES",
-      "id": "c1dae5ed2a95bddd",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -991,5 +1003,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 77
+  "count": 78
 }
