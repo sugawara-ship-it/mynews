@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-05T17:06:10.269713+00:00",
+  "generated_at": "2026-07-05T22:07:19.194203+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 8
+      "count": 9
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,12 +67,72 @@
   ],
   "items": [
     {
+      "title": "青和信用組合の生成AIアシスタントをアップデート",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6V1hyM1hnX1VtZURMN29xUno2c0pWVGxvQ3gzYWhBdkpUam1oZGxRWmtxQ1ZkUHZLMFNCSU1PWEJ4UExhQWJRVXNvcGFPTzlyTFB6Wm9MZFFDR3hYRHdQSUlRODFNT0RfQUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-05T21:40:01+00:00",
+      "summary": "青和信用組合の生成AIアシスタントをアップデート PR TIMES",
+      "id": "0db1b7bdbf9fbe0b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Fable 5では“あなたの盲点”が命取りに？Claude Codeチームが明かす、実装前の1分間チェック法",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QWHR5Zk1sSlVHd3JkRlRuREF5NkZfU25LbWxoMG12bkVPZEVnWnNicmI3cjNTdnNUOGVwVllicVVtRXg4MjZEaE45VXRIdjBvdFBWWHVsUVRGMVN3cFZseGZPdG1OXzNETUJOT3M5aw?oc=5",
+      "source": "XenoSpectrum",
+      "published": "2026-07-05T21:06:38+00:00",
+      "summary": "Fable 5では“あなたの盲点”が命取りに？Claude Codeチームが明かす、実装前の1分間チェック法 XenoSpectrum",
+      "id": "8865fb05f7795857",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "鎌倉市 イベント紹介 発掘調査速報展2026",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xbFVfeThxWjF0eE8wWkZtZllkSXhMajJVdV9NLUV3SG13SFc2WW9wMWRCNWNiX0lGZjV4Q19pbmgzUUp5MUZtV3owektjcjZlUFJSZTRVelVMbldpMGFV?oc=5",
+      "source": "選挙ドットコム",
+      "published": "2026-07-05T21:02:33+00:00",
+      "summary": "鎌倉市 イベント紹介 発掘調査速報展2026 選挙ドットコム",
+      "id": "690f35b4ac42fae9",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Anthropicに7500万ドルの著作権侵害訴訟",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObENCSEQ1cV9kMmQ0WndvUHFvU182YVVKLVROV01xRjcxd055OVd0ZXVwd1I4VU53b2hlQlUxTjNsdWJleWRNVXNBcFN3TUtBT0R1SmVhZTNneVI3WDI4N1VOLV9GNzFhNWZ2WXJJanhqRzZpZEtLaUtMTnY5d2NWTUxrbmpGaEEx?oc=5",
       "source": "BeInCrypto",
-      "published": "2026-07-05T14:53:53+00:00",
+      "published": "2026-07-05T18:12:36+00:00",
       "summary": "Anthropicに7500万ドルの著作権侵害訴訟 BeInCrypto",
       "id": "57b5873c39a1ee00",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "欧州機械団体会長がみる景気 同時多発危機、投資手控え",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWmQxb2FZU1d2MUo4WklQYjFpUUY3bUszT1pRTE9TZUFvd1FXMFltY2ZaSzNDaUd5VmFTc0dILW85Nzl3WHBaWDFfbEpocnJmRE9SU05MWHg3Wm1LMFNRWWVHRmFTTWVvczZVbA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-07-05T17:00:00+00:00",
+      "summary": "欧州機械団体会長がみる景気 同時多発危機、投資手控え 日本経済新聞",
+      "id": "b5ead5bba48f1f0d",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「もうプロンプトは書かない」Claude Code開発者が提唱するループエンジニアリング",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6VmFaU2RnUEJFZnluVnVORHhfMVhfVzBhOE02MWhvS2t1TFpEWk02aEdXQm5yTjd2cDhVR3VSY2pLX0NVSzVQSmV5RnJ4RS1NeE1hQkEycFJITHg3M0ZjWXN5bGxYRmJ1?oc=5",
+      "source": "株式会社エクサウィザーズ",
+      "published": "2026-07-05T16:07:30+00:00",
+      "summary": "「もうプロンプトは書かない」Claude Code開発者が提唱するループエンジニアリング 株式会社エクサウィザーズ",
+      "id": "5a5365c5e8c0be5c",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -223,36 +283,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "プレスリリース：株式会社Mavericksは、動画生成AI「NoLang」にクロアチア語・ブルガリア語・ウクライナ語・ギリシャ語の東欧・バルカン4言語を追加。翻訳会社やナレーターを介さず現地語動画を内製可能に（PR TIMES）",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UN0JHeV8zT0hKbzNjV1poVWlPbVBzTHNnVllxUWdqUG5jaE84WjVxZFFfWjdtbFFPcU5HdjBMcmQ3S29Mak4xdnBxQ0FUUlh4dGdWUTNVV1lkbmU2REpNak80dE8tUkJT?oc=5",
-      "source": "毎日新聞",
-      "published": "2026-07-05T00:21:12+00:00",
-      "summary": "プレスリリース：株式会社Mavericksは、動画生成AI「NoLang」にクロアチア語・ブルガリア語・ウクライナ語・ギリシャ語の東欧・バルカン4言語を追加。翻訳会社やナレーターを介さず現地語動画を内製可能に（PR TIMES） 毎日新聞",
-      "id": "1b56804cd2dfbda2",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Claude Code をアリババが社内禁止へ｜バックドア疑惑と米中AI対立の深層",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QelZGTzE2WEEyelJmNmxuV2RCSlB2SmlUMFhnSG8xd1h2OGd5WV9oRFR3NDRtZTZ5bTBJWEpuZmlGc09vLXduYkRjS3I1ekw5eTBj?oc=5",
       "source": "innovaTopia",
       "published": "2026-07-05T00:04:20+00:00",
       "summary": "Claude Code をアリババが社内禁止へ｜バックドア疑惑と米中AI対立の深層 innovaTopia",
       "id": "eed3080c4d2433d3",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Alibaba、7月10日からClaude Codeの社内利用を禁止",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVYzWXdNZEZ5bUNhZFEzWURYZk1tc3NYbXhRbzlYeUpBQUNheWhHYUE0dUxzUktGRE1rWU1faTdjZXJ4QmwyUXhkbENBQlBJUEc3VzNSLVdZdkNEV0gzTjYxNFMyclgyVG1EWl8wNG8zZEFiS0oyNFJmYnYtUEJxZ1YxZWF5OFZZMWdEWG8zekdoREJ6Vmc?oc=5",
-      "source": "디지털투데이",
-      "published": "2026-07-05T00:04:19+00:00",
-      "summary": "Alibaba、7月10日からClaude Codeの社内利用を禁止 디지털투데이",
-      "id": "e30889bf37ce242f",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -304,18 +340,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropicが科学研究向けAIワークベンチ「Claude Science」を発表",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KN2JVUUJsalBRZTJtNkMwT0dRYUpUVXdybzBXSHBidVhvLUFMWE9ETlliMEY1YXY5VnhXdDlkT2w3V1FhdUlQcl80S0FwTUk4Wm1v?oc=5",
-      "source": "ビジネス+IT",
-      "published": "2026-07-04T23:00:00+00:00",
-      "summary": "Anthropicが科学研究向けAIワークベンチ「Claude Science」を発表 ビジネス+IT",
-      "id": "b6dc241b72a3cc09",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -379,18 +403,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Aぇ! group、4人体制初ツアーに決意 草間リチャード敬太の復帰に「ホッとしている部分が」（オリコン）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rQTRWOXhyYTNpdkVDOGRYVVh0ZVJkRXhZdHFxbTB4a0ZOZHNEV1FwbHVBODJqT2VkT0J4Szc0ckpSSUJjaE9YcmhKX3BMa0ZSUDZmTkdQSWxfeFpibXVpOXlVZk0zUldCUnFxZWlKZk1NS0p2RHhjY0EwRkpfUGs?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-04T19:00:00+00:00",
-      "summary": "Aぇ! group、4人体制初ツアーに決意 草間リチャード敬太の復帰に「ホッとしている部分が」（オリコン） Yahoo!ニュース",
-      "id": "9eb88779dca7712f",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Aぇ! group佐野晶哉「怖かった」小島健「続けてきて正解やった」新体制4人の本音と決意【メンバー挨拶全文／Aぇ! group LIVE TOUR 2026 Runway】",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlbGJWbkJaTXNCVmxBY3NycDB6Q3U4UjlvdFJfeTBaNlpwUXNoTzE2WFJ2SmxpUDE3ZjFZR1VDd2NoWjVGckEwTEp6eUF5V1NBSzBnUkNhR2ZPWHVZTmxXdE9zTzBudw?oc=5",
       "source": "Excite エキサイト",
@@ -427,30 +439,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【鎌倉市】鎌倉発フレグランスブランド「HATAGO」が銀座 蔦屋書店でポップアップ開催！全ラインナップを展示・販売",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16N0dORGppY2NHS1JuRXNHX3ZSd3NyX09EZlAzZUVLTEN1TU9FWHZwcmdMdXc0TFFoaWlaNGxULXVlM2lhX25zX2xPQ2lwcHhwWk5vZmVxb0l3MnZUUEUzN0NWVG9QakpYQ3I1a0syY3Q?oc=5",
-      "source": "湘南人",
-      "published": "2026-07-04T10:59:38+00:00",
-      "summary": "【鎌倉市】鎌倉発フレグランスブランド「HATAGO」が銀座 蔦屋書店でポップアップ開催！全ラインナップを展示・販売 湘南人",
-      "id": "46b7ea3394c5b395",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "話題の江ノ電新型700形&タンコロを特別公開！テレ朝 じゅん散歩、7月6日に「鎌倉 極楽寺」",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aQkw4eTRzc3JqTU12T2dUME1LUHhod0NWVmRWWEhIUl9LXzlDZ0h2dHRSa0xzTS1kVno0TmtGbHRtcWlWM3BMWTdZOXB6QQ?oc=5",
-      "source": "raillab.jp",
-      "published": "2026-07-04T08:33:00+00:00",
-      "summary": "話題の江ノ電新型700形&タンコロを特別公開！テレ朝 じゅん散歩、7月6日に「鎌倉 極楽寺」 raillab.jp",
-      "id": "4e96017c48919c0f",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "砂月凜々香、ライブパフォーマンス映像を続々公開 米津玄師やAliAのカバー歌唱動画も（リアルサウンド）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00c3c2N2JjY3ByV1dEeWhkbGhBZEMyTHhCTTY3Rlo4WTJkVjlBdENBcXByQXVfMkstUVRqZndVcGxWUUVPdjlqU2tJbnJIcmxFY1A3SnY1ckFtNF9YTDlBWFdPaVNOb1YxcUl4Umo3UVBqeDZSUjVtb1ptNXFJQVE?oc=5",
       "source": "Yahoo!ニュース",
@@ -473,18 +461,6 @@
       "topic": "地域ニュース 品川",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【鎌倉市】鎌倉紅谷がジェイアール名古屋タカシマヤの夏スイーツ催事に出店！クルミッ子など多数販売",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xa2NVMVlaRkJyUmdnZUZVclVPNWlGX0pKVHVnVi1BZzhaMDVnU0laNWctQ29MbEJyNTQ2LTlrMGFQX1RVNUxvQ1lwWElnbFlpNTdHUHYtdXBpaXJ3QUJ5cUNhZUc3MkxpanNZNkFYWTFJdmNIRG5LR0NpdXI?oc=5",
-      "source": "湘南人",
-      "published": "2026-07-04T04:05:17+00:00",
-      "summary": "【鎌倉市】鎌倉紅谷がジェイアール名古屋タカシマヤの夏スイーツ催事に出店！クルミッ子など多数販売 湘南人",
-      "id": "9e9e25caa7ad28ca",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": ""
     },
     {
       "title": "Aぇ! group「自分たちで選んだこの道は正解やった」、横アリでドーム公演の夢を堂々宣言",
@@ -548,10 +524,10 @@
     },
     {
       "title": "ねぐせ。が初の横浜アリーナで鳴らした、3時間超の壮大なラブソング",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVeHFLS1Z5bnZRa2xid093VHhYWm43UU40MkVRdFlCeXRqYjRqajI1VHVKbHhteDJNaTZXWm11Tzk1b0daYVdUNWpsc0szUVRjWnFIdHgzNWljdnprX01sX1M2bXd6Rlk?oc=5",
-      "source": "Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JLWNfWFEzOW9iUThGaTlJaC0wajJPd05PdVBpMVlFaDgwd1BBYnkxQkZFbmw4RkVGTkRJY1ljMV9MZEFTOXFLSTVFLXhFWjZUbl9vX1ZxVGZtYWl6?oc=5",
+      "source": "マイナビニュース",
       "published": "2026-07-03T13:00:00+00:00",
-      "summary": "ねぐせ。が初の横浜アリーナで鳴らした、3時間超の壮大なラブソング Excite エキサイト",
+      "summary": "ねぐせ。が初の横浜アリーナで鳴らした、3時間超の壮大なラブソング マイナビニュース",
       "id": "25d81f908697f92b",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -583,14 +559,14 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【鎌倉市】《海沿いのキコリ食堂》で「鎌倉花火大会」を満喫！材木座テラスBBQ特別プランが登場",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54OWxtNUxjZVRTT3BiQzQ2aUNBd1kwRXZOS3hNYnM1Q0FoZncxekVHUVU3WGdfSDJaOEIwQ2xSTGVyRDFUaHFQeDg1bnNHakJpTFdRb0xtNGVmMXhpTnd4SjFodXU4X0I5bzFmbDEwbU1obW42OUE?oc=5",
-      "source": "湘南人",
-      "published": "2026-07-03T10:05:57+00:00",
-      "summary": "【鎌倉市】《海沿いのキコリ食堂》で「鎌倉花火大会」を満喫！材木座テラスBBQ特別プランが登場 湘南人",
-      "id": "e7217c2d5d4bd637",
+      "title": "令和8年度品川区民まつり（大崎第二地区）を開催",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPb1NTckIxMHVFZnc4SGFlcUxBVFp2NkxvMXJkbDl5OEZDLWRFNU1mbzJ0V1g2OXhnVFFJS09idTFEajVOQm03SkkxcVV0eFgtR3ozZUI3Zjh1RnEycXJFM1RvR1JjZkEwM2ZYMjlHVHRvTGZoZF91eDRrbGNjcEViQklEU0ZXUURpY25KZzJWV25tbm5pVkpjV0tiMFF5OEZPWGZ6OHhnYjB0M2tCcUVVWXZMNnEzM2dzWEZCYUt1aVpBSDFmbk9sV3dLX2xFWXJQVnM2NjFyS20tVTl5bE9ETXJPeVo3Qk9wSm9IeTZjd2pzcUVKUExGQ0ZPTzZza1R6WWVWUXhQTTZ4anpMX1piVjllRjFLS1Fi?oc=5",
+      "source": "city.shinagawa.tokyo.jp",
+      "published": "2026-07-03T10:30:40+00:00",
+      "summary": "令和8年度品川区民まつり（大崎第二地区）を開催 city.shinagawa.tokyo.jp",
+      "id": "2bbb18b100dd2c09",
       "category": "地域",
-      "topic": "地域ニュース 鎌倉",
+      "topic": "地域ニュース 品川",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
@@ -631,6 +607,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【独自】鎌倉のジュエリーショップで窃盗事件 防犯カメラ映像に犯行の一部始終が（tvkニュース（テレビ神奈川））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ld3lvdkdGckgtTmNaczN5YVA3d0pzdk51UTVmRGdVQl9lTm1vdmdUUG1JNUlYM19PMTU5eFBmMHpkMFYxX2NNUlJvWm52WmZjS09sbDhuTE1CVUJzcTc1b3kwVWt0YklPbWpGb0dUTVhubWNyUXdUS21xWmxJU2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-03T09:28:42+00:00",
+      "summary": "【独自】鎌倉のジュエリーショップで窃盗事件 防犯カメラ映像に犯行の一部始終が（tvkニュース（テレビ神奈川）） Yahoo!ニュース",
+      "id": "f138b65bb339627a",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "米津玄師、ライブツアー『米津玄師 2026 TOUR / GHOST』チケット一般発売決定！再びライブステージへ (THE FIRST TIMES)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMUdrYXlvSlhKcTV2ZHhlY01OWG1OeTVLLWhzaGFiMEFTd1V1cXJoakxNckxSMXlsbTFXM3FiZVdUNjFiaDZGcFY2dlZqQnh4V0YwbDkwa2l6ckxxNnl5MUNfcTJjb1dEeERHam41WGljeVhZZWpNZlYtUkJ1TXYweDNaRnFsRi13aExQeVN3?oc=5",
       "source": "Yahoo!ニュース",
@@ -664,6 +652,42 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【鎌倉・逗子・葉山エリア】今週のニュースまとめ5選 6月27日（土）～7月3日（金）：台風対応や海開き、子育て支援サービス開始",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1VXYXZuNWd5S19iV2l6NE53LTE0SWx0UEFibnZCWGdnWWJ4YVhobzF6MUxaejEyOGhBcEl0ZWFQU0o3VWk1TU5MaGgzY0FpMFplU2pxS3JydGRwcnJoVTZGVlQtRkJQcExXcVdMTTlVaU53Z1NTQjQtZU5NdUc2dA?oc=5",
+      "source": "湘南人",
+      "published": "2026-07-03T08:55:46+00:00",
+      "summary": "【鎌倉・逗子・葉山エリア】今週のニュースまとめ5選 6月27日（土）～7月3日（金）：台風対応や海開き、子育て支援サービス開始 湘南人",
+      "id": "c1704e417d78857d",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Aぇ! group 4th Single「でこぼこライフ」、Aぇ! group LIVE TOUR 2026 Runway記念特典付販売が横浜・静岡会場でも実施決定！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uSWc1Q3Nqc0g4Nkl3MnRicEVvS3NHeG1MUXNIOHRPV2VlYkpWXzk3eFdIOWFRRFVGd0ZOT0JVazViWThnSXVpVkhUMWRRaEhVUVc3a2hhVDRvSTI1SUE3ZFA1SFd1SnVIYlE?oc=5",
+      "source": "UNIVERSAL MUSIC JAPAN",
+      "published": "2026-07-03T08:07:24+00:00",
+      "summary": "Aぇ! group 4th Single「でこぼこライフ」、Aぇ! group LIVE TOUR 2026 Runway記念特典付販売が横浜・静岡会場でも実施決定！ UNIVERSAL MUSIC JAPAN",
+      "id": "791afe2cdb55d5f3",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "リベンジ鎌倉　ギリギリ紫陽花間に合いました！",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WbkxSNkpwUGc3ZDk4dVBmcmh2ZnZNdlAxMW1tZU1xaWtLZW9scVFaVXBCQV9ma2VaY053eFRyQnEtYjZ4UVpRajYtbnpaZTZYWkRON3hkZVZ0U3JrS1ZSQkh5akRYbUFRRlBqMmo3YWZWU2pfbTE40gF3QVVfeXFMT1ZuTFI2SnBQZzdkOTh1UGZyaHZmdk12UDExbW1lTXFpa0tlb2xxUVpVcEJBX2ZrZVpjTnd4VHJCcS1iNnhRWlFqNi1uelplNlhaRE43eGRlVnRTcmtLVlJCSHlqRFhtQVFGUGoyajdhZlZTal9tMTg?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-07-03T07:07:00+00:00",
+      "summary": "リベンジ鎌倉 ギリギリ紫陽花間に合いました！ ｄメニューニュース",
+      "id": "97462e232a7860f8",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -727,18 +751,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【品川区】都内最大級「大井競馬場フリーマーケット」7/4(土)・5(日)開催",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Kc1hyWUp4RzF2UHZ3T1FZY1ZZYkZCOFVpMkFMZlVQZkpYb1NIdHNKOEFFUVdHUDBRMDJNUTBPTm84UmViQzdNRmR0aW1CZ3dXaGNRNzc3NmlYenR1d3VIRy0tVkg3aFdpVWxvczN2b3pDbll2LVE?oc=5",
-      "source": "号外NET 品川区",
-      "published": "2026-07-03T01:50:12+00:00",
-      "summary": "【品川区】都内最大級「大井競馬場フリーマーケット」7/4(土)・5(日)開催 号外NET 品川区",
-      "id": "4d9e7651fd4200a8",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "武道・格闘技に打ち込む選手が和菓子で和やかなひととき 創業50周年の明日香野が「道着MMA交流大会」に参加",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPdzNPM0l6Z2JnTmN1bFo2NlNDNlVxTzNsSFBzVmFBOVRDV0pwOHJwTDNBS3dnNVZYMnZZV0NoRmV1Tm5fU1dFSkhrVTF2Vkh2dWxlMkpmVzY2bjlKUERtUUdmWThpUTlQ?oc=5",
       "source": "ニコニコニュース",
@@ -787,15 +799,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「骨太ショック」が招く金利上昇、10年債入札は「低調」",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FaFRIVHBVOU1XV1prdkxPZHVzY3UycXJLanBFQlZYVUZtblZucGtYMlZRZmhqRGRfaGNjRzZ5c3g1T0dWeFJaaW5XM3hueWZESlQ5Y3F3UXVQRE5xVEhuTUFCbnQ0MkRIQ2hBXw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-02T07:03:33+00:00",
-      "summary": "「骨太ショック」が招く金利上昇、10年債入札は「低調」 日本経済新聞",
-      "id": "691834b63eaace9a",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
+      "title": "【品川区】模擬店・盆踊り！品川学園「しなフェス2026」7/19(日)開催♪",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RYl9SWUR3NGdOdkVuMHEycUxIQzNUNFlsVkNKTU85eTVURVlfLVk2dk9SZWxxcXpvcjk2eEJZUlVkMXpBQmVtbUxDeFNpRlJXd0t6dEw1VEsteXhad2tzWWlvTVk1UQ?oc=5",
+      "source": "号外NET 品川区",
+      "published": "2026-07-01T22:43:00+00:00",
+      "summary": "【品川区】模擬店・盆踊り！品川学園「しなフェス2026」7/19(日)開催♪ 号外NET 品川区",
+      "id": "662d591093780f79",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1003,5 +1015,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 78
+  "count": 79
 }
