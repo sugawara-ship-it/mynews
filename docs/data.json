@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-06T05:37:17.758415+00:00",
+  "generated_at": "2026-07-06T07:07:43.326328+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 4
+      "count": 3
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -66,6 +66,54 @@
     }
   ],
   "items": [
+    {
+      "title": "Uravation代表 佐藤傑の新刊『Claude仕事術』、7月16日にSBクリエイティブより発売。Amazonにて予約受付中",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YcGJwVDFlX1oxU3dvVzlfRXRIczVJaDRjQVRnam1lc1VkWld6V0wwUjY4aUYyQzllUWo5b0lLMmFYN2JtQU5zUkxJMlI3WDVMbFNQbXRtNFhlUE0zUzhPcWxyVXRZdW5KZ2lCa2cxM0ZiWFYzamc?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-07-06T06:48:30+00:00",
+      "summary": "Uravation代表 佐藤傑の新刊『Claude仕事術』、7月16日にSBクリエイティブより発売。Amazonにて予約受付中 ニコニコニュース",
+      "id": "fb322b6cd4644b4d",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "日本経済、景気はいかに？ 元日銀審議委員が日銀短観から読み解く...要因は半導体、AIとインバウンド",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcEU1ZGZQX3duTThuYXZaRFdBa3ZkZ0ZOOTJHQWk0RkhTVlNKNWt6MmREQm02QUdoZFVCSWtES21zSHlmQzFLSmZsOThVcjJoeXExdXptcw?oc=5",
+      "source": "J-CAST ニュース",
+      "published": "2026-07-06T06:45:00+00:00",
+      "summary": "日本経済、景気はいかに？ 元日銀審議委員が日銀短観から読み解く...要因は半導体、AIとインバウンド J-CAST ニュース",
+      "id": "387a982e9daa46a7",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "個人開発者がClaude Fableを使って「Command ＆ Conquer Generals Zero Hour」をMac・iPhone・iPadに移植しオープンソースで無料公開",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qaklVdkhkVDR3eVlVVVlvSGZhNmdKRFFrNk9TSExRamFROFUybnp3RElyLVRvSUlVYWNPa3hqZnhsUEJ5UlZZZTUzNHZiQTNoNDJLNVYyc1U2cS1IeHk2VnNBR1djb3RULXN6VE9CcHBvTmZCT3d1VlR4Zw?oc=5",
+      "source": "GIGAZINE",
+      "published": "2026-07-06T06:45:00+00:00",
+      "summary": "個人開発者がClaude Fableを使って「Command ＆ Conquer Generals Zero Hour」をMac・iPhone・iPadに移植しオープンソースで無料公開 GIGAZINE",
+      "id": "2793ddadf5c626e6",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AI・DX推進担当向けの無料セミナー「Claude Cowork / Codeで変わるAX ～ツール投資で終わらない『AX推進』ベストプラクティス～」を開催",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ucWZReDFHTTkzdE1sWHh6UEwwWWZIcElMLTJiVmQ0M3ZiVEx0RzBTUm41b25RVkp6Y25wQklkUENPZDhRaHBaZ0dkQXJuWXlVWDNHYXQtakNfN2I3bWZJNDlaVEt5MVRWZ0FKTkdFZjZLRzhHaDJPekxB?oc=5",
+      "source": "イザ！",
+      "published": "2026-07-06T06:00:00+00:00",
+      "summary": "AI・DX推進担当向けの無料セミナー「Claude Cowork / Codeで変わるAX ～ツール投資で終わらない『AX推進』ベストプラクティス～」を開催 イザ！",
+      "id": "da0bedb2e6a2fabc",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "【大磯プリンスホテル、鎌倉プリンスホテル】進化系かき氷店「氷ヲ刻メ」のPOP UPイベントを開催",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nOV9lOWxKRFZGcjlzZ1AzZ255N0ZEMTBPakR4QW9jX3B2TnBOaFNBMjRWc0EyQ3A5eDljQm5GaEdTb2NNaHhMNzJfRk50SXJ4NUxackplbEI1UGJXTEE?oc=5",
@@ -199,12 +247,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Fable 5復帰が直面する「コストの正念場」：エンジニアの1回の呼び出しに173ドル、AI商業化は岐路に",
+      "title": "Claude Fable 5復活も「コスト精査」の洗礼：エンジニアの1回の呼び出しに173ドル、AI商用化は岐路に",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SeklsTVlNSXpYRjJWZi1ZRVlfdXNzYy1yMnBfN2QwczlGN2tnc2FsTWUwdUh0Q1lXcm1DT1ZoSEJERkRNb19XOGl5VGZmd2o0YTdOS1N4Q0I5bXhKZExDWTYtRXRlTXVEU2NZM0t5UnhBbHh5?oc=5",
       "source": "BigGo ファイナンス",
       "published": "2026-07-06T00:45:00+00:00",
-      "summary": "Claude Fable 5復帰が直面する「コストの正念場」：エンジニアの1回の呼び出しに173ドル、AI商業化は岐路に BigGo ファイナンス",
-      "id": "7e9ad8581239a9f8",
+      "summary": "Claude Fable 5復活も「コスト精査」の洗礼：エンジニアの1回の呼び出しに173ドル、AI商用化は岐路に BigGo ファイナンス",
+      "id": "92ec0164c3d0e6c7",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -235,30 +283,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic、Claude Enterpriseの管理者向けに分析・コスト管理の新機能を発表",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84QUFuRlN3Qk93WTBJbkp5LU9nV2lJb3FiRlJjeE1HekdSaWg0d0JyNWdXQ2wzNDk2Tl90X2VzT0EtbHJ4V3NmQTMxTDctZw?oc=5",
-      "source": "CodeZine",
-      "published": "2026-07-05T23:19:24+00:00",
-      "summary": "Anthropic、Claude Enterpriseの管理者向けに分析・コスト管理の新機能を発表 CodeZine",
-      "id": "1848af46e101740d",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Tenable Blog 第2回「Tenable が Anthropic の Project Glasswing に参加し、AI 時代におけるサイバー防御の強化を推進」",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ObTdlOHg4OXMzZjdWY1pCMW91N05Od0dhckRmRzlaRkNiZTFqU2FnTVpJdlctcERFQ0QtWV9qT3hsd2RTeTBBVnExMEZYMnpUOVpLclM4SGNFVVJVREdka29SdTRJbUJk?oc=5",
-      "source": "ScanNetSecurity",
-      "published": "2026-07-05T23:15:02+00:00",
-      "summary": "Tenable Blog 第2回「Tenable が Anthropic の Project Glasswing に参加し、AI 時代におけるサイバー防御の強化を推進」 ScanNetSecurity",
-      "id": "14221a9d5183c64e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Stayway、香川県へ自治体向け補助金DXサービス「補助金クラウド for Gov」を提供",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tcm10dHBIcnE0V1VtTWdGVlhIdk55cWR1Tm5RSDhFdnlyVF8wQ1FCSG0yM2VBcVRPMEU3QmlKci14RmJONnRkRm5Gb3pyalVLeWdfUGQ5ZWhWdXhYUG9CbjhaTWF5VDNsMkE?oc=5",
       "source": "PR TIMES",
@@ -280,18 +304,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "青和信用組合の生成AIアシスタントをアップデート",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6V1hyM1hnX1VtZURMN29xUno2c0pWVGxvQ3gzYWhBdkpUam1oZGxRWmtxQ1ZkUHZLMFNCSU1PWEJ4UExhQWJRVXNvcGFPTzlyTFB6Wm9MZFFDR3hYRHdQSUlRODFNT0RfQUE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-05T21:40:01+00:00",
-      "summary": "青和信用組合の生成AIアシスタントをアップデート PR TIMES",
-      "id": "0db1b7bdbf9fbe0b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -328,18 +340,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "大船フラワーセンターのハスが見頃に　早朝開園も実施中〈鎌倉市〉",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vcjdhSVo5dV9kMG1wTGoxbTE1a0NERVVnZ2lpNUlwWmlWRG9tbFAxVHp4bVVDSHFTMFRvWERrSTJCUHZRQ2RpU2lld1dsY2FNRW9Nelh1MVhCV2R4WE1QQTFMQ1dRUlc3SmNiaUJneTk1cldTTzk1M3pQNNIBgAFBVV95cUxOUFhOdWE0UW5neHA5UjV1M0tmdUhjcDlTZWE1RzllZmtIVG1vUHNxQXVyUkg3RHdlMUJMWjY1TGF6N3pjMWhWbllZeENCaWNSSjhuVHpTclRLTndGTVR6TmpaWUx3TnNaRjhfZzgyVzRlTUxyWlFRVFRlLV9KUUdlSQ?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-07-05T13:00:00+00:00",
-      "summary": "大船フラワーセンターのハスが見頃に 早朝開園も実施中〈鎌倉市〉 ｄメニューニュース",
-      "id": "07ac9070e8dabeb0",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -679,6 +679,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【鎌倉市】鎌倉市役所で「こどもみらいミーティング」開催！小4〜6対象のワークショップ＆市長室見学 8月13日",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDTlMwdUFsU2s5RmxjYjQwQTB6RmMyNE9pLUpiNFRoaFhNMF80dXhTWmlMOHNGYl9WT09JdlNmdWJKSVE0QUdEV2Fqb2diLWpjdV9ORzlYWFlpUEQ2bEd6dVFjeTB6dnVWdGc?oc=5",
+      "source": "湘南人",
+      "published": "2026-07-03T09:47:53+00:00",
+      "summary": "【鎌倉市】鎌倉市役所で「こどもみらいミーティング」開催！小4〜6対象のワークショップ＆市長室見学 8月13日 湘南人",
+      "id": "fa554a4e75400a15",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "｢骨太ショック｣国債揺らす 長期金利3%視野、財政リスクに市場警鐘",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsWjFXTTZYVWRVd1JDakRGbXFXVHdnVFVIdGtRRGE3TTA5bnZqU1JsR3lqLUxPTXAxbjFCUGIzdWMxVF9zZWhTMmVqVTVXSXR2WE1SS3lqeE5LVmdIeGxRVHpBdnlDQWU3cWhKTA?oc=5",
       "source": "日本経済新聞",
@@ -727,12 +739,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "HY、結成25周年記念ライブ開催！あいみょん＆スキマスイッチ・大橋もお祝いに駆けつけた一夜限りのスペシャルライブに【オフィシャルレポート】",
+      "title": "『キングダム』初のシネマコンサートが開幕、作曲家・やまだ豊氏が語る注目ポイント【オフィシャルインタビュー】",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qR1RteVpZTjlTSlQ1dG5TVDV1R1R2Q3g4UDI4c2xmY3c0b0FkTTduMXE2aDh6dEpDVEFId0pVR01kS001TkRUbzQ1b1djUWJDMEZxSEhwZVktZ1ZWQ2dWY1V1cEpwaXNVWXNLZFVFZ0lMb0RXWGFuUHR3?oc=5",
       "source": "ぴあエンタメ情報",
       "published": "2026-07-03T07:00:00+00:00",
-      "summary": "HY、結成25周年記念ライブ開催！あいみょん＆スキマスイッチ・大橋もお祝いに駆けつけた一夜限りのスペシャルライブに【オフィシャルレポート】 ぴあエンタメ情報",
-      "id": "a897c4f5091ecf54",
+      "summary": "『キングダム』初のシネマコンサートが開幕、作曲家・やまだ豊氏が語る注目ポイント【オフィシャルインタビュー】 ぴあエンタメ情報",
+      "id": "6a6c12a3ab8f9222",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -769,18 +781,6 @@
       "published": "2026-07-03T07:00:00+00:00",
       "summary": "2025～27年度の経済見通し改定 消費税減税は2027年度実質GDPを0.2％押し上げと予想 野村證券・森田京平 nomura.co.jp",
       "id": "66610acb3a904366",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "城内経財相、金利上昇の要因「積極財政だけと言えず」 市場に発信へ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9idmUtdm16OXljWTVYeEVJZGozYjlXQ1RpRXNRWWJoQ2xweHFVMXYzS0M0QUdlc05MaVJJZjZ1MGN1dGl4Qm96WnlhbjdvaWdJSmE2Y0Z0NFlaZ1RnQ0tzN0xQZjYxaGx5NF9XRg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-03T05:59:06+00:00",
-      "summary": "城内経財相、金利上昇の要因「積極財政だけと言えず」 市場に発信へ 日本経済新聞",
-      "id": "43b8be598503cd71",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -1049,19 +1049,7 @@
       "topic": "道場物件（品川・大田）",
       "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「フードマーケット マム」を運営するタカラ・エムシーが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DYmxUcDRueVU0WWhaWjlKQjVKZUdEUVE4WDJqbHVpTlVKMTY5Y3MwQzJ2SmVFcDdhQ19sQ1FiVTFkZk8zNnVKTk1nZVRhSTVGeHh0OUk2aHIyUUxTM2U5ZnFUa0pjZDNhTmc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-06-22T07:00:00+00:00",
-      "summary": "「フードマーケット マム」を運営するタカラ・エムシーが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始 PR TIMES",
-      "id": "292c96ae8d8b95a0",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 83
+  "count": 82
 }
