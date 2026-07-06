@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-05T22:07:19.194203+00:00",
+  "generated_at": "2026-07-06T01:29:28.211637+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 9
+      "count": 8
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,12 +67,72 @@
   ],
   "items": [
     {
-      "title": "青和信用組合の生成AIアシスタントをアップデート",
+      "title": "Claude Fable 5復帰が直面する「コストの正念場」：エンジニアの1回の呼び出しに173ドル、AI商業化は岐路に",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SeklsTVlNSXpYRjJWZi1ZRVlfdXNzYy1yMnBfN2QwczlGN2tnc2FsTWUwdUh0Q1lXcm1DT1ZoSEJERkRNb19XOGl5VGZmd2o0YTdOS1N4Q0I5bXhKZExDWTYtRXRlTXVEU2NZM0t5UnhBbHh5?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-06T00:45:00+00:00",
+      "summary": "Claude Fable 5復帰が直面する「コストの正念場」：エンジニアの1回の呼び出しに173ドル、AI商業化は岐路に BigGo ファイナンス",
+      "id": "7e9ad8581239a9f8",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Squareが「ChatGPT」「Claude」と連携、AI経由での店舗発見と直接注文を実現",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaHR4OURMWE1WQ0NHLU9DWGRtT09LQTc3dUpuSTFDZmFYem5aVm5vWWtUc3BRbnhYdF96MnJYTTN0OWVzUmZwMVNUVktyM0p4NktKVGRPWW9mMWppRGRyMTQ3N0ZadEwxZGxwS0cwclp4bzFZcS1WVEVpcVJqZ0kyNjBDVk1XN2tiRGVLbUFVV29EMnZaUGZwR0lOMl9vMGtFeXRuTlVCUnhKYWFKekx1Qzlmd08xTDU3X3pKeHhOczlCVFJGVjJYME5KaFQ3SHZpN0dsWk00M2UxMGlBSE5mUXc3cGdCdHotNFo3QTU1SXZIU1VaeUJ4bkFiX1Q4NjJSa25NUtIBtAFBVV95cUxOQ2s1M0FTdDJiQldtTWhrYjRDaHZQZVhyV20xbVJCc2hRMXZLLUxVQjlLaHpsTjF2Tzc4akd2R3d0ZE43YjRjaDZrNXhoMS01V1JvTmdvSFBuV19EQ2NLaGFqZDQ5SWZqTDF0R0U3ZFlWaG1WN0tJZzhOVklfQUJkTWRHWF8wdVhtaE9oWHc2SldaTDM2TnhYOUpnLTlTUzNGRmV0Y3A3WkVjUlp2LVkwaFNJMW8?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-07-06T00:30:00+00:00",
+      "summary": "Squareが「ChatGPT」「Claude」と連携、AI経由での店舗発見と直接注文を実現 ｄメニューニュース",
+      "id": "52c659b8d9c5e4e7",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Code「スキル」分解：9分類のフレームワークが効率化を促進、専門性が鍵に",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xMWVJM0JKTl9VeHFJRW1reHdZbnNfdnFkNFllTDhMYXB1dlBDQzFBZDFkckhNeGkzR2hiQWJvekc3akpGem1jNklJRS1BNXY2RjV3QW9tTkpKRFFxaFdpYTRacEhuMXdHWnRzXzZWbWdLVjJ5?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-05T23:56:00+00:00",
+      "summary": "Claude Code「スキル」分解：9分類のフレームワークが効率化を促進、専門性が鍵に BigGo ファイナンス",
+      "id": "0330f9332b8a8a5a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、Claude Enterpriseの管理者向けに分析・コスト管理の新機能を発表",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84QUFuRlN3Qk93WTBJbkp5LU9nV2lJb3FiRlJjeE1HekdSaWg0d0JyNWdXQ2wzNDk2Tl90X2VzT0EtbHJ4V3NmQTMxTDctZw?oc=5",
+      "source": "CodeZine",
+      "published": "2026-07-05T23:15:00+00:00",
+      "summary": "Anthropic、Claude Enterpriseの管理者向けに分析・コスト管理の新機能を発表 CodeZine",
+      "id": "1848af46e101740d",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "世界最高峰のダンサーが日本バレエ発祥の地で夢の競演 「横浜バレエフェスティバル2026 in 鎌倉」開催",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SWmxlaWh1RnowbXhJWlh0eGY0eWN1cE5QaTdsdnEzUlMtS0hyemdEdzZ0RUlVdUJxZ0lVQVdfQTFMRVRmdFR4clhSNk85MzkyZEVpWGFVT0ZwcEN3UWc?oc=5",
+      "source": "Excite エキサイト",
+      "published": "2026-07-05T22:00:00+00:00",
+      "summary": "世界最高峰のダンサーが日本バレエ発祥の地で夢の競演 「横浜バレエフェスティバル2026 in 鎌倉」開催 Excite エキサイト",
+      "id": "fb233a8ed5011ba6",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "青和信用組合の生成AIアシスタントをアップデート | 株式会社Ippu Senkinのプレスリリース",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6V1hyM1hnX1VtZURMN29xUno2c0pWVGxvQ3gzYWhBdkpUam1oZGxRWmtxQ1ZkUHZLMFNCSU1PWEJ4UExhQWJRVXNvcGFPTzlyTFB6Wm9MZFFDR3hYRHdQSUlRODFNT0RfQUE?oc=5",
       "source": "PR TIMES",
       "published": "2026-07-05T21:40:01+00:00",
-      "summary": "青和信用組合の生成AIアシスタントをアップデート PR TIMES",
-      "id": "0db1b7bdbf9fbe0b",
+      "summary": "青和信用組合の生成AIアシスタントをアップデート | 株式会社Ippu Senkinのプレスリリース PR TIMES",
+      "id": "9999ff2d7b4a9b1f",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -100,6 +160,30 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "円相場「年内170円」に現実味 財政懸念で売り、米利上げ観測も重荷",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56SDdUNmgwNEJFSUgzeExJOE5CZVZSMkttd0d1ME0yd1pGNlNWcGdOd21MZHYxRzNQMnlZR2dyVmtvQW5CQWRxM0djOURTV1FrRjFFek9leHE2MEpIYURLTTdrb1BGWUFQOUFJZA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-07-05T20:00:00+00:00",
+      "summary": "円相場「年内170円」に現実味 財政懸念で売り、米利上げ観測も重荷 日本経済新聞",
+      "id": "5f94b928ab346c7b",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "“指示待ち”をやめたAI AnthropicのSlack常駐エージェント「Claude Tag」とは：AIは“呼び出す道具”からチームメイトへ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zeG9KOUduMHp1ZDhwNllJQjQyZXZ1UEtlV0FGbkYtQnZ2a2JCUFFXa09KTWlFNEhpVDRWT0JwRFJ5aTRvSU9mVzY5X3ZwU0dLNlV3ZjRWU2Y3SERldDlzbHpCazR1c05Rbk5uQQ?oc=5",
+      "source": "ITmedia",
+      "published": "2026-07-05T20:00:00+00:00",
+      "summary": "“指示待ち”をやめたAI AnthropicのSlack常駐エージェント「Claude Tag」とは：AIは“呼び出す道具”からチームメイトへ ITmedia",
+      "id": "cdbce9a47e7cf33e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -187,18 +271,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Fable 5が消える7月7日——「容量次第で復活」に懸けたAnthropicの賭け",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB4YjFCelgySWliTFBjZTNWZ1ZBYXpwSWRBUHJULVBfQ3lsR1htNE1iLWZiOW43dlExZHVubXBRUUE?oc=5",
-      "source": "shiritomo",
-      "published": "2026-07-05T08:12:13+00:00",
-      "summary": "Claude Fable 5が消える7月7日——「容量次第で復活」に懸けたAnthropicの賭け shiritomo",
-      "id": "979df78831b35705",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【西宮市】7月14日と15日に阪神甲子園球場で行われるあいみょんのライブに合わせて、ららぽーと甲子園でコラボイベント開催！7月3日から、館内にコラボフラッグが装飾されていますよ",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05U3JFN2NoNlF0dFpUT0U3a0FrbENTRjlQUDRVbVpWd2p4dWJuNWNHdkNzdEdJY08tSjdVbWs0YTB1c2g5ZXp4NTBzQU9HWnR1TXVjSXRtRGRCRlBwSlVFOFdUc0RFcUNKUHVj?oc=5",
       "source": "地域ニュースサイト号外NET",
@@ -259,18 +331,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "paiza、AIでのゲーム開発講座「バイブコーディング入門 Claude Code編 横スクロールゲームを作ってみよう」を無料公開",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40SXZMeUU3MXVCNGF1bWdKNHhGQmo0RHc0VFNiOVBRZnExZkFJTUhDd3Rod2NTZ01meWdOLTRHQW00eG9kd2FITERsMW5EdnB3Zndn?oc=5",
-      "source": "教育家庭新聞社",
-      "published": "2026-07-05T01:01:36+00:00",
-      "summary": "paiza、AIでのゲーム開発講座「バイブコーディング入門 Claude Code編 横スクロールゲームを作ってみよう」を無料公開 教育家庭新聞社",
-      "id": "fcdddc2a0cf19deb",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "中小企業が使える国の補助金概要とチラシ（2026/7/5時点）｜齊藤肇",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JZk9GekJXaGpDMTBISDBEQVEwQS1OYnNLVTh3ZzZ0TEgwOW91TjVJaXhhXzJ0MGlzdVotZ2RsZHZ3MVBuMk10N3hWdGxoN0lrNjl5UTdqcFB6dXlqZm8xa2UwTDF0MGtDVEtn?oc=5",
       "source": "mbp-japan.com",
@@ -283,30 +343,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Code をアリババが社内禁止へ｜バックドア疑惑と米中AI対立の深層",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QelZGTzE2WEEyelJmNmxuV2RCSlB2SmlUMFhnSG8xd1h2OGd5WV9oRFR3NDRtZTZ5bTBJWEpuZmlGc09vLXduYkRjS3I1ekw5eTBj?oc=5",
-      "source": "innovaTopia",
-      "published": "2026-07-05T00:04:20+00:00",
-      "summary": "Claude Code をアリババが社内禁止へ｜バックドア疑惑と米中AI対立の深層 innovaTopia",
-      "id": "eed3080c4d2433d3",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【最大80％給付対象】Tech Mentor「AI駆動開発&要件定義6ヶ月コース」を提供",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rSkM0ZmNtRGNGY3lxNnZlSS12QXMzcmN2NmQtaFotQ2JGRFRwWkZmNHdFSTBEY2VjajlqSk9GSm8tOUg4R0czYUVlWFZfYmtwODZGTzctUncwV3ZhZ1hIWFNCSm5odXNrclE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-05T00:00:02+00:00",
-      "summary": "【最大80％給付対象】Tech Mentor「AI駆動開発&要件定義6ヶ月コース」を提供 PR TIMES",
-      "id": "16a1207ac659a128",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "カンボジアの武道家たちがベトナムに到着し、MAD7ツーリストアリーナでの試合に臨む準備を整えている。",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0VsZFZJQk5HZ3N5VjM5bzhnemRnWXcxamlxSTBIQUlqRlZwelVLZDNxdk5YRGg5YjlJaThBd0NZMi1XYVA5cXNRZUdfbS01eF9qTy1fdGlZMWxiMXNENmhoNWQ0TWQzWGtGZnNkVEV6eDBpRmJ2UUZodWJVdTlMekloUzRhNjUyZ0dxYUZ0Qjg4Y19GNW1HVkdfUFY0ME1rNnZJ?oc=5",
       "source": "Vietnam.vn",
@@ -316,18 +352,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ClaudeのAPI費用が激減。システムプロンプトを「画像」として読ませる新ツールの仕組み",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1NUVRZnpEWENDUjkzYVYydktXdlAyOEY0Uld2WmFUVWVpS2ZURF8tVlZ4LWN0bHVzdUVzNlRNM0V1RkJRTDhMNjZ3Yl9LU2syR3ZHeENlcUh3dC1zbTJ0bWp1dzhyc2dtRzNCTWVaVzI?oc=5",
-      "source": "XenoSpectrum",
-      "published": "2026-07-04T23:51:35+00:00",
-      "summary": "ClaudeのAPI費用が激減。システムプロンプトを「画像」として読ませる新ツールの仕組み XenoSpectrum",
-      "id": "e7b78930aae05ab0",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -349,18 +373,6 @@
       "published": "2026-07-04T19:18:07+00:00",
       "summary": "Aぇ! group末澤誠也、演出＆衣装の“お金事情”ぶっちゃけ？正門良規ツッコミ「生々しい」【囲み取材全文前編／Aぇ! group LIVE TOUR 2026 Runway】 プラメポータル",
       "id": "c0b98fffd90e144c",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Aぇ！group 新体制初アリーナツアーで魅せた4人の結束 佐野晶哉「覚悟が全て詰まっています」 草間にもエール",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jMGY3Y2k0Z09McXc2QUhfX1JlYkxjT3NwS3JxdV84X2ZaOEJobnhrYzNyWnBoTG5BNDVmNWxJNTVQLVNhVktrRGRaTmpTSTNuTURSMmVYU3lrWFp1bjFmQUt3ZGQ4WmswaDV4MjNRbnQ?oc=5",
-      "source": "Excite エキサイト",
-      "published": "2026-07-04T19:01:00+00:00",
-      "summary": "Aぇ！group 新体制初アリーナツアーで魅せた4人の結束 佐野晶哉「覚悟が全て詰まっています」 草間にもエール Excite エキサイト",
-      "id": "16e1fe695b61eee4",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -397,6 +409,18 @@
       "published": "2026-07-04T19:00:00+00:00",
       "summary": "Aぇ! group、新体制初ツアーで“新たな夢”掲げる「ドームに行きましょう！」【ライブレ… TOKAIネットワーククラブ（TNC）",
       "id": "e804054053c2b080",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Aぇ! group、4人体制初ツアーに決意 草間リチャード敬太の復帰に「ホッとしている部分が」（オリコン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rQTRWOXhyYTNpdkVDOGRYVVh0ZVJkRXhZdHFxbTB4a0ZOZHNEV1FwbHVBODJqT2VkT0J4Szc0ckpSSUJjaE9YcmhKX3BMa0ZSUDZmTkdQSWxfeFpibXVpOXlVZk0zUldCUnFxZWlKZk1NS0p2RHhjY0EwRkpfUGs?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-04T19:00:00+00:00",
+      "summary": "Aぇ! group、4人体制初ツアーに決意 草間リチャード敬太の復帰に「ホッとしている部分が」（オリコン） Yahoo!ニュース",
+      "id": "9eb88779dca7712f",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -535,18 +559,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "｢防犯×救護｣で地域を守る　鎌倉ガーディアンズとキャンナス鎌倉が連携　７月10日の鎌倉花火大会から本格始動〈鎌倉市〉",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWk5KSHM1ekMwQWx2ZGtHTUhrTFFoXzc1N1hqYTdCbC1EYlJWR1hWbzQzd1JrWkJ6bFV3RTdyOFVXUWVXdE5CNk1KSVVhVDAta0Q1LXhsZkxaeldsbUdBQ1B1NE5EQ1Ztd2V1Vzc4MnNwT2QxTVpzYm1wWW5WdjBUN9IBgAFBVV95cUxQWk5KSHM1ekMwQWx2ZGtHTUhrTFFoXzc1N1hqYTdCbC1EYlJWR1hWbzQzd1JrWkJ6bFV3RTdyOFVXUWVXdE5CNk1KSVVhVDAta0Q1LXhsZkxaeldsbUdBQ1B1NE5EQ1Ztd2V1Vzc4MnNwT2QxTVpzYm1wWW5WdjBUNw?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-07-03T13:00:00+00:00",
-      "summary": "｢防犯×救護｣で地域を守る 鎌倉ガーディアンズとキャンナス鎌倉が連携 ７月10日の鎌倉花火大会から本格始動〈鎌倉市〉 ｄメニューニュース",
-      "id": "f160c7fca77c1fb2",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【NHK ONE LIVE あいみょん】ライブ直後の舞台裏に密着！│NHK│4K完全版もお楽しみに！ Benson Boone (v2Q6VKkgDp)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pTEgtQ1ozRkpiT1dlc0dKck95LS1BdFlrVk5uRk94WmptM2FsZ3U3d3RmeFAydVVWelhYamJlTFZJOW45OFVuT2NFU20tSVJ6bHRvRGpfcEc5UDg?oc=5",
       "source": "Mshale",
@@ -567,6 +579,18 @@
       "id": "2bbb18b100dd2c09",
       "category": "地域",
       "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【鎌倉市】《海沿いのキコリ食堂》で「鎌倉花火大会」を満喫！材木座テラスBBQ特別プランが登場",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54OWxtNUxjZVRTT3BiQzQ2aUNBd1kwRXZOS3hNYnM1Q0FoZncxekVHUVU3WGdfSDJaOEIwQ2xSTGVyRDFUaHFQeDg1bnNHakJpTFdRb0xtNGVmMXhpTnd4SjFodXU4X0I5bzFmbDEwbU1obW42OUE?oc=5",
+      "source": "湘南人",
+      "published": "2026-07-03T10:05:57+00:00",
+      "summary": "【鎌倉市】《海沿いのキコリ食堂》で「鎌倉花火大会」を満喫！材木座テラスBBQ特別プランが登場 湘南人",
+      "id": "e7217c2d5d4bd637",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
@@ -679,15 +703,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "リベンジ鎌倉　ギリギリ紫陽花間に合いました！",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WbkxSNkpwUGc3ZDk4dVBmcmh2ZnZNdlAxMW1tZU1xaWtLZW9scVFaVXBCQV9ma2VaY053eFRyQnEtYjZ4UVpRajYtbnpaZTZYWkRON3hkZVZ0U3JrS1ZSQkh5akRYbUFRRlBqMmo3YWZWU2pfbTE40gF3QVVfeXFMT1ZuTFI2SnBQZzdkOTh1UGZyaHZmdk12UDExbW1lTXFpa0tlb2xxUVpVcEJBX2ZrZVpjTnd4VHJCcS1iNnhRWlFqNi1uelplNlhaRE43eGRlVnRTcmtLVlJCSHlqRFhtQVFGUGoyajdhZlZTal9tMTg?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-07-03T07:07:00+00:00",
-      "summary": "リベンジ鎌倉 ギリギリ紫陽花間に合いました！ ｄメニューニュース",
-      "id": "97462e232a7860f8",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
+      "title": "日銀会合後、原油高で日本経済・日本株はどうなるか 注目材料と当面シナリオ 野村證券ストラテジストが解説",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCUVRqMUR2MWRMbFZkbDRsUjNQdnpPZXdWOW1LR3FGTUZZcFFPakNEUElXN1ZGMVRHSjhvcUY5TXJVbGxIRVR2dFNUM1B6b1BwazZiSWRJUURZNWdvbnlv?oc=5",
+      "source": "nomura.co.jp",
+      "published": "2026-07-03T07:00:00+00:00",
+      "summary": "日銀会合後、原油高で日本経済・日本株はどうなるか 注目材料と当面シナリオ 野村證券ストラテジストが解説 nomura.co.jp",
+      "id": "f8f2c60d67acffd4",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -763,18 +787,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "長期金利上昇、一時30年ぶり2.810% 日銀利上げ遅れるとの懸念",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yTGt6TWVhcGNLdDFEbnh5YnNnMnlPelJnYTdVRFU3TnRlRG5Oc3hRUm1USU4xOE9xUkhTb2UzM1NJVHpaRF9felBSR0VxWlk4dlRFNmsyTl9zNTdrb3h0MENSWlJMM21VR1BSUg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-02T23:54:21+00:00",
-      "summary": "長期金利上昇、一時30年ぶり2.810% 日銀利上げ遅れるとの懸念 日本経済新聞",
-      "id": "0c90255552870a4d",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Ado、初のドームツアー【よだか】映像作品化",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9feXZkZi1VVTE0MkdoaFdDb1NlQnphZmltSkZtdm5RYmNzSVBWQ093OEZsVmg1OC1ramRWRGZaeGpxZW5jckt0WDdKVkdIa1I5c0ctclphU3VKb2pZM09McU9R?oc=5",
       "source": "Billboard JAPAN",
@@ -784,18 +796,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "what happens NEXT 岐路に立つ日本経済 金利3％時代の財政運営 「骨太」の財源は？「ボーナス期終了」に注意？",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpMHZKVXJHMTBfNXo3cGR6MWlSeVBmTWFmSGRuMDVzVmVJQ3pOVm1HWGhuaDQ1OEVWZlNKcEliYnpKMlJsV3g0WDB3OFl4VHZFZmJBbjctU1MwZ2kyUzBhcEpiXzdQV1ByLU5N?oc=5",
-      "source": "テレ東BIZ",
-      "published": "2026-07-02T12:00:00+00:00",
-      "summary": "what happens NEXT 岐路に立つ日本経済 金利3％時代の財政運営 「骨太」の財源は？「ボーナス期終了」に注意？ テレ東BIZ",
-      "id": "117cf0abbf90cd86",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -892,18 +892,6 @@
       "category": "不動産",
       "topic": "道場物件（鎌倉・湘南）",
       "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【品川区周辺】全国の祭りと食が集結！「MATSURI JAPAN 2026」8/8(土)・9(日)開催♪",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CWjZDVW1JME5tSVJlcjZMNTFkSHFmSEVkUUgyQkd3T01vTFAyc2tPb3JhNjlRRllVWjRTa2VUMW42cmtCcFVueEFmaWt2b2ZObzhjMTM3dUNMV2VlME9YVXpLLWdYSkc2bmg1aw?oc=5",
-      "source": "号外NET 品川区",
-      "published": "2026-06-28T22:43:43+00:00",
-      "summary": "【品川区周辺】全国の祭りと食が集結！「MATSURI JAPAN 2026」8/8(土)・9(日)開催♪ 号外NET 品川区",
-      "id": "48b49e3155931184",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1015,5 +1003,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 79
+  "count": 78
 }
