@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-06T01:29:28.211637+00:00",
+  "generated_at": "2026-07-06T02:35:33.207077+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -14,7 +14,7 @@
       "name": "推しアーティスト",
       "category": "音楽",
       "emoji": "🎵",
-      "count": 9
+      "count": 8
     },
     {
       "name": "ライブ・コンサート全般",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 8
+      "count": 9
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -66,6 +66,42 @@
     }
   ],
   "items": [
+    {
+      "title": "Claude Fable 5が2003年のゲームをiOSへネイティブ移植、初ビルドまで40分",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Wc1dDcGZ0dG5RX2Y3aDlMRXk5WFJCTDJLUjZtUlZ2UGlycERmLTlVSEFva181ajNvTzAwNlFXenpWODF4ZXA2enQycTFRb1N6UGpJSEVZU2R1X3lxN0k1WURKQ21vLVFhWldGd0gzNDRVaWs?oc=5",
+      "source": "XenoSpectrum",
+      "published": "2026-07-06T01:58:53+00:00",
+      "summary": "Claude Fable 5が2003年のゲームをiOSへネイティブ移植、初ビルドまで40分 XenoSpectrum",
+      "id": "117a0c38d380caa6",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Tech Mentor、Claude Code特化の「生成AI×業務効率化 実践コース」を提供",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96eDhYcmJsZGFlal9UWl9xQVNVLTlmSndwN1BuN3hfeGlvZ0E2d2o3Zi13LUxIU2o0ODlmeTZlLWk4aXl2eXZXdEc1enl1ZzQ1RUVuQ05hLU96Y0RzXzJFTE1oTjFRUkZzeXV0TmVpM1AwTE5Oa0ZhaQ?oc=5",
+      "source": "RBB TODAY",
+      "published": "2026-07-06T01:15:56+00:00",
+      "summary": "Tech Mentor、Claude Code特化の「生成AI×業務効率化 実践コース」を提供 RBB TODAY",
+      "id": "35487a0866ac1816",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "鎌倉警察署　ロンドン警視庁から来日　若手警察官が国際交流〈鎌倉市〉",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLU4wZkNtdEloRzFiZmZ4QnpvSlhBcWVTSGVoa3Y2UUxwbDZqWTN6M21Qc2EwNjBnNmo3STZkaGtDdFpjUUxCYlVKSll6RWY0YU9xNlNHMmFHYnQzRnpMUTFJMWt0ZktJTzlMRzZCdUkwYTlJNlZvYThkTXozSmFHMHRfMjZETmxFRy1IZDNB0gGAAUFVX3lxTE1ncTNnVFV5OEtHMDJ6T21BUkhvQXFkYTV4bmNFdUNWY1lubzdYdVlWcXZOUnc5dXlhR3ZaMU43MUNnajhUc0lucVhjUTMza0E0dWpLMEtvWXhwWXA5VS16MlVCZXpZcUJGUENUYUNlZm8yTDd4bGxiVEpFTHFLS1Jl?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-07-06T01:00:00+00:00",
+      "summary": "鎌倉警察署 ロンドン警視庁から来日 若手警察官が国際交流〈鎌倉市〉 ｄメニューニュース",
+      "id": "8c9858bc7528135c",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "Claude Fable 5復帰が直面する「コストの正念場」：エンジニアの1回の呼び出しに173ドル、AI商業化は岐路に",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SeklsTVlNSXpYRjJWZi1ZRVlfdXNzYy1yMnBfN2QwczlGN2tnc2FsTWUwdUh0Q1lXcm1DT1ZoSEJERkRNb19XOGl5VGZmd2o0YTdOS1N4Q0I5bXhKZExDWTYtRXRlTXVEU2NZM0t5UnhBbHh5?oc=5",
@@ -214,7 +250,7 @@
       "title": "「もうプロンプトは書かない」Claude Code開発者が提唱するループエンジニアリング",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6VmFaU2RnUEJFZnluVnVORHhfMVhfVzBhOE02MWhvS2t1TFpEWk02aEdXQm5yTjd2cDhVR3VSY2pLX0NVSzVQSmV5RnJ4RS1NeE1hQkEycFJITHg3M0ZjWXN5bGxYRmJ1?oc=5",
       "source": "株式会社エクサウィザーズ",
-      "published": "2026-07-05T16:07:30+00:00",
+      "published": "2026-07-05T16:12:11+00:00",
       "summary": "「もうプロンプトは書かない」Claude Code開発者が提唱するループエンジニアリング 株式会社エクサウィザーズ",
       "id": "5a5365c5e8c0be5c",
       "category": "テック",
@@ -244,30 +280,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AI福祉研究が主流へ─Anthropic・Google・Meta、「AIに感情はあるか」を問い始めた1年",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RT2w3TW92bnlLekRXU0Fib2VLMDhHLThHa2lkSzVTUHR2WlRoWWRic3duUDlnYm9zQlBkOVVJUURScjZqdlZ1WmluS09jY3p6TWpJ?oc=5",
-      "source": "innovaTopia",
-      "published": "2026-07-05T12:02:24+00:00",
-      "summary": "AI福祉研究が主流へ─Anthropic・Google・Meta、「AIに感情はあるか」を問い始めた1年 innovaTopia",
-      "id": "9d70ab8d61fb7a12",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "流出したAnthropic社の文書によると、同社はオーストラリアから1.4GWの容量確保を計画しており、その総額は約216億ドルに上るとのことです。 最近$IRENリミテッド・オーディナリー・シェアーズ (IREN.US)$, $シャロンAIホールディングス (SHAZ.US)$、その他のネオクラウド企",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUEo0TXR6ZWNNQmNsT1hQRnJpaFpZazdib2xUZVJjc2FBeS1fTV9UNDI1bW9NUnVNb0dNSFJGNFVtN3JydGltaklNWndVNzhyODBpLVdkQUNSTk8yX3U3SGFNdjROM1M5SzU2ZWtDZ3pqeXp1bmczRVIxc28yREluVmtyZi1PT3Y0dUU0MmsxUy1rMlVnZDFhejRrTWVlemlKOENKbDhtU21NOXdIVElpalpudk8?oc=5",
-      "source": "Moomoo",
-      "published": "2026-07-05T09:52:42+00:00",
-      "summary": "流出したAnthropic社の文書によると、同社はオーストラリアから1.4GWの容量確保を計画しており、その総額は約216億ドルに上るとのことです。 最近$IRENリミテッド・オーディナリー・シェアーズ (IREN.US)$, $シャロンAIホールディングス (SHAZ.US)$、その他のネオクラウド企 Moomoo",
-      "id": "df2c750de48cd6eb",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -409,18 +421,6 @@
       "published": "2026-07-04T19:00:00+00:00",
       "summary": "Aぇ! group、新体制初ツアーで“新たな夢”掲げる「ドームに行きましょう！」【ライブレ… TOKAIネットワーククラブ（TNC）",
       "id": "e804054053c2b080",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Aぇ! group、4人体制初ツアーに決意 草間リチャード敬太の復帰に「ホッとしている部分が」（オリコン）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rQTRWOXhyYTNpdkVDOGRYVVh0ZVJkRXhZdHFxbTB4a0ZOZHNEV1FwbHVBODJqT2VkT0J4Szc0ckpSSUJjaE9YcmhKX3BMa0ZSUDZmTkdQSWxfeFpibXVpOXlVZk0zUldCUnFxZWlKZk1NS0p2RHhjY0EwRkpfUGs?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-04T19:00:00+00:00",
-      "summary": "Aぇ! group、4人体制初ツアーに決意 草間リチャード敬太の復帰に「ホッとしている部分が」（オリコン） Yahoo!ニュース",
-      "id": "9eb88779dca7712f",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -679,18 +679,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【鎌倉・逗子・葉山エリア】今週のニュースまとめ5選 6月27日（土）～7月3日（金）：台風対応や海開き、子育て支援サービス開始",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1VXYXZuNWd5S19iV2l6NE53LTE0SWx0UEFibnZCWGdnWWJ4YVhobzF6MUxaejEyOGhBcEl0ZWFQU0o3VWk1TU5MaGgzY0FpMFplU2pxS3JydGRwcnJoVTZGVlQtRkJQcExXcVdMTTlVaU53Z1NTQjQtZU5NdUc2dA?oc=5",
-      "source": "湘南人",
-      "published": "2026-07-03T08:55:46+00:00",
-      "summary": "【鎌倉・逗子・葉山エリア】今週のニュースまとめ5選 6月27日（土）～7月3日（金）：台風対応や海開き、子育て支援サービス開始 湘南人",
-      "id": "c1704e417d78857d",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Aぇ! group 4th Single「でこぼこライフ」、Aぇ! group LIVE TOUR 2026 Runway記念特典付販売が横浜・静岡会場でも実施決定！",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uSWc1Q3Nqc0g4Nkl3MnRicEVvS3NHeG1MUXNIOHRPV2VlYkpWXzk3eFdIOWFRRFVGd0ZOT0JVazViWThnSXVpVkhUMWRRaEhVUVc3a2hhVDRvSTI1SUE3ZFA1SFd1SnVIYlE?oc=5",
       "source": "UNIVERSAL MUSIC JAPAN",
@@ -787,15 +775,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Ado、初のドームツアー【よだか】映像作品化",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9feXZkZi1VVTE0MkdoaFdDb1NlQnphZmltSkZtdm5RYmNzSVBWQ093OEZsVmg1OC1ramRWRGZaeGpxZW5jckt0WDdKVkdIa1I5c0ctclphU3VKb2pZM09McU9R?oc=5",
-      "source": "Billboard JAPAN",
-      "published": "2026-07-02T12:55:00+00:00",
-      "summary": "Ado、初のドームツアー【よだか】映像作品化 Billboard JAPAN",
-      "id": "fa0d0c16f2240f9e",
+      "title": "timelesz・菊池風磨「結束力が強すぎて僕溶け込めなかったです」 活動復帰後に感じたこと（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UN0NGdzJVU1RKVDhJOVBfU1UwcGthbk9pQjZTaEFtOFlSQTE2VzJxbTBRRDQ3NnJoRERub1JpdzA4V0Ewdlg3Z3lUU2laT1Y0RzV4b05OZWpVTGVRNGkxMDhFeDExdGZ6ajdMSlR5V1FTTzI2NkVZWjYxTUcydXM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-02T21:35:00+00:00",
+      "summary": "timelesz・菊池風磨「結束力が強すぎて僕溶け込めなかったです」 活動復帰後に感じたこと（日テレNEWS NNN） Yahoo!ニュース",
+      "id": "97d54c62199ff806",
       "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -892,6 +880,18 @@
       "category": "不動産",
       "topic": "道場物件（鎌倉・湘南）",
       "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【品川区周辺】全国の祭りと食が集結！「MATSURI JAPAN 2026」8/8(土)・9(日)開催♪",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CWjZDVW1JME5tSVJlcjZMNTFkSHFmSEVkUUgyQkd3T01vTFAyc2tPb3JhNjlRRllVWjRTa2VUMW42cmtCcFVueEFmaWt2b2ZObzhjMTM3dUNMV2VlME9YVXpLLWdYSkc2bmg1aw?oc=5",
+      "source": "号外NET 品川区",
+      "published": "2026-06-28T22:43:43+00:00",
+      "summary": "【品川区周辺】全国の祭りと食が集結！「MATSURI JAPAN 2026」8/8(土)・9(日)開催♪ 号外NET 品川区",
+      "id": "48b49e3155931184",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
