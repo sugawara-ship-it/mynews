@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-06T11:26:02.742058+00:00",
+  "generated_at": "2026-07-06T21:07:12.771408+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 3
+      "count": 4
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 11
+      "count": 12
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 6
+      "count": 5
     },
     {
       "name": "経済・ビジネス",
@@ -67,10 +67,82 @@
   ],
   "items": [
     {
+      "title": "鎌倉市 イベント紹介 社会を明るくする運動 鎌倉市地区大会",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMDJGOF84SW4yZG5fZVBpZWlyX2ppWHJzTThMcWdRMzhjai1pelhfU0lCaDhPQWVuTHpTY0NNZnRITXI3OGVXZVlXenNNdGpfUEd4dGtadmJkV0U3MUV3?oc=5",
+      "source": "選挙ドットコム",
+      "published": "2026-07-06T21:03:18+00:00",
+      "summary": "鎌倉市 イベント紹介 社会を明るくする運動 鎌倉市地区大会 選挙ドットコム",
+      "id": "944b179980dad67d",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ7月7日（火）～7月13日（月）：鎌倉花火大会、桜貝ネックレス作り、逗子マリーナの音楽イベントなど",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOREh0UFdjVzcyNU9hUDVQZ2hycnVCcnVQQ3BuelpCdGJ5VFhyQ3d6bzdJa3I4b19XS3R2Qkc2SVZVc0tUeEtud0xIY0NvMi12Z1luejQxOGdfV1ZyVE44NjRYTU9LSXhoQmo5NDljcS1rWFh4bnY3empOeUtXaWV5czlNVQ?oc=5",
+      "source": "湘南人",
+      "published": "2026-07-06T20:59:36+00:00",
+      "summary": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ7月7日（火）～7月13日（月）：鎌倉花火大会、桜貝ネックレス作り、逗子マリーナの音楽イベントなど 湘南人",
+      "id": "89073365062b24de",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIコーディングの「ループ」4種類を完全入門 Anthropic公式が分かりやすく整理して解説",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzNF9SVzdOSTFNNnZraUlfTXlkUTgxanUzdS00SWFzajRSWl9EMnFzU2ozblhRZ2h4RnFQT3ZJWk4tekEtdGJCeTc1R3BWZTRFR3B3Wlg3ZnR2bzVVRHNiQjJ2R09UUVFJZ3JTUjE3SFM3dw?oc=5",
+      "source": "ITmedia",
+      "published": "2026-07-06T20:00:00+00:00",
+      "summary": "AIコーディングの「ループ」4種類を完全入門 Anthropic公式が分かりやすく整理して解説 ITmedia",
+      "id": "4ecee01871e22538",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【PINKY PROMISE YOU vol.2】SPECIAL企画 「DIGITAL BOOK」公開！",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4dWp0MVB0aXQzWExhRkhNdURMT0lKdmlYNTBQbVVjOHlaXzI5V1luOWRualVRWE85c2ZNVG1PUUlrdHdLTjU1MFFtVm1XZ3dB?oc=5",
+      "source": "あいみょん OFFICIAL SITE",
+      "published": "2026-07-06T13:37:40+00:00",
+      "summary": "【PINKY PROMISE YOU vol.2】SPECIAL企画 「DIGITAL BOOK」公開！ あいみょん OFFICIAL SITE",
+      "id": "8820f04fced395ea",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "宝の持ち腐れを防ぐ！有料版Claudeを最大限に使い倒す5つのアプローチ",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUNqREFweEEtalE3djB3X2FVQXg4SXRVUjJkWmRpaHFEV1dzMU9sN0F4V3Vkcllac2dMandYemh4ellwMGJUdWt5ZWR6cXB1Y1VWdGFZS1pZMjVEaW1qNEQ4X1BKSUwySlR3NHpJZ3g0WlVQV1JoQWRBcVM1bDdzMmVtZXdreF9zMjBraXd5bVI0UENwYUdZWXpmXzcwWlBjMkxWVjItNHFwTWM?oc=5",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-07-06T11:45:00+00:00",
+      "summary": "宝の持ち腐れを防ぐ！有料版Claudeを最大限に使い倒す5つのアプローチ ライフハッカー・ジャパン",
+      "id": "511b3addcbe615fa",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Uravation、新規事業として2泊3日の集中合宿「Claude Code合宿」を始動。第1回を招待制で開催",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9heXdLSW4zUXBkMWVkVGZFWEh0Y3htajBtQ0l6SUwzVnhZTkhYdmc1dDZfeUZZWW96ekVXQjVnSXNoSXRiZTd1OU9GVkJ2dFNvYlAzVmRNMHNyR25wYnpueWRrZmNjUTE0?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-07-06T10:45:21+00:00",
+      "summary": "Uravation、新規事業として2泊3日の集中合宿「Claude Code合宿」を始動。第1回を招待制で開催 ニコニコニュース",
+      "id": "7a881aafe0f3e8c7",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【鎌倉市】GRAND SHIPで無料ダイエット講座開催！セサミスポーツクラブ大船が体組成測定も 7月20日",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4ZlltNGdBNVRnMmRMXzdUSV82QkpmOVJkU0Z0eHFNTmEyWlNDMElDQlJoV3Uxd3NFVUVveEFFcTRTVjVMRmtIRElaMnpTVG5OR2lhOTJhbExDZWxvUTZsXzVlQ2VFLV85MkxwNA?oc=5",
       "source": "湘南人",
-      "published": "2026-07-06T10:03:33+00:00",
+      "published": "2026-07-06T10:04:11+00:00",
       "summary": "【鎌倉市】GRAND SHIPで無料ダイエット講座開催！セサミスポーツクラブ大船が体組成測定も 7月20日 湘南人",
       "id": "7a9e4c4151d44da8",
       "category": "地域",
@@ -91,24 +163,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ギークス主催の無料セミナー「Claude Cowork / Codeで変わるAX」開催決定、AI推進の実践的ステップを学ぶ機会",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uSlZsLWtUdjR2bURtbnFjbktpeVc2ZTBaYk5MdlY3aGl0cFBBbmRXVnI3amVSMTZCRUw2Q0hZZmFTbTFZQVdtRnd6SDUtUUxNc0dnUFBCczc0NXBHQWo0MmlwTGFJWF92QVBZZUFwRQ?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-07-06T09:57:09+00:00",
-      "summary": "ギークス主催の無料セミナー「Claude Cowork / Codeで変わるAX」開催決定、AI推進の実践的ステップを学ぶ機会 ニュースメディアVOIX",
-      "id": "88f81a3b505e52d5",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
+      "title": "【2026】NEWSセトリ！LIVE TOUR 2026 /// KMKセットリストを随時更新",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZVWdPZWgzMjVzUW5TV1JDc3k3b2d6dGFNTXNrejdIQjFqYjdMUzA2QWx0YjdyQmM5S2J6clptZW01bGw2WHRCSUlZUUhGemJhZW1zZGVWTQ?oc=5",
+      "source": "UtaTen",
+      "published": "2026-07-06T09:58:00+00:00",
+      "summary": "【2026】NEWSセトリ！LIVE TOUR 2026 /// KMKセットリストを随時更新 UtaTen",
+      "id": "ed8afee70a4d327a",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "パランティアCEOがOpenAIやAnthropicを批判 「AIモデルを強化するためのデータをなぜ顧客が渡すのか」（ITmedia NEWS）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Nb05lTy1ZemNyeWJjZnA3S0NSeE1LWDl6Ny1jY2ZGX2R6LWJUTHhjeERfSGcweE4zV2Z1cTd3VEh3S1AteGhpQmVyRHdHNUdtaUJyeDZvOE54UWJPYXI2a0RGQnY4d0t5YmFkMHloYnFRdU1KUmRCTmFENFkwelk?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-06T09:53:16+00:00",
-      "summary": "パランティアCEOがOpenAIやAnthropicを批判 「AIモデルを強化するためのデータをなぜ顧客が渡すのか」（ITmedia NEWS） Yahoo!ニュース",
-      "id": "1ea302f9a0c9b02e",
+      "title": "パランティアCEOがOpenAIやAnthropicを批判 「AIモデルを強化するためのデータをなぜ顧客が渡すのか」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95MnBkMkpYTGZ4enUyZmFsU04wYl9zVGw5YjdIWkg2OVpHM0taQllFdmowbDdQZVBZOExxQ0UwQmdfb1E0UkFGaERvYVRPSExqa2RZeUVqNGY0cEdjck9HaTdaYjFvZGlydV9vUw?oc=5",
+      "source": "ITmedia",
+      "published": "2026-07-06T09:50:54+00:00",
+      "summary": "パランティアCEOがOpenAIやAnthropicを批判 「AIモデルを強化するためのデータをなぜ顧客が渡すのか」 ITmedia",
+      "id": "c7cfa1600ec904bd",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -163,24 +235,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ7月7日（火）～7月13日（月）：鎌倉花火大会、桜貝ネックレス作り、逗子マリーナの音楽イベントなど",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOREh0UFdjVzcyNU9hUDVQZ2hycnVCcnVQQ3BuelpCdGJ5VFhyQ3d6bzdJa3I4b19XS3R2Qkc2SVZVc0tUeEtud0xIY0NvMi12Z1luejQxOGdfV1ZyVE44NjRYTU9LSXhoQmo5NDljcS1rWFh4bnY3empOeUtXaWV5czlNVQ?oc=5",
-      "source": "湘南人",
-      "published": "2026-07-06T09:09:28+00:00",
-      "summary": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ7月7日（火）～7月13日（月）：鎌倉花火大会、桜貝ネックレス作り、逗子マリーナの音楽イベントなど 湘南人",
-      "id": "89073365062b24de",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ハッカー、「Claude」を利用した米主要音楽フェス無料チケットの入手方法を発見",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FZmhUMHctcTFWdndvMDBQZjY4d3F6VWMwclNOOVBjb0x1WkotX0hzRXdYbmhZdGVUM01pVHdTVm16SnY2YUVmb1lBNUE4aWZDdmhQdg?oc=5",
-      "source": "音楽業界総合情報サイト",
-      "published": "2026-07-06T09:00:56+00:00",
-      "summary": "ハッカー、「Claude」を利用した米主要音楽フェス無料チケットの入手方法を発見 音楽業界総合情報サイト",
-      "id": "fd57813b339d3b86",
+      "title": "ハッカー、「Claude」を利用した米主要音楽フェス無料チケットの入手方法を発見 | ニュース | IT×エンタメの最前線を届ける",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XX2xzNkNHbmFlQ05vVEhjRERSRGYzR0xMRFRyUnh3UFpyV0d2bHVNR3Vic0hVNEVXSUpuRTB5MWxaZDc5N0E?oc=5",
+      "source": "MEDIAMIXI",
+      "published": "2026-07-06T09:05:55+00:00",
+      "summary": "ハッカー、「Claude」を利用した米主要音楽フェス無料チケットの入手方法を発見 | ニュース | IT×エンタメの最前線を届ける MEDIAMIXI",
+      "id": "b5070067f44a1809",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -235,35 +295,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Codeを安全に運用するための知識を学べる無料ウェビナーが7月8日に開催 - コード破損や課金肥大化・情報漏洩を防ぐには",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iaHNJbjBiMUR4aVc3V1JydVZ3RXo0YW1jdndCNzRVbTk2VEVTV3dMelNsLW1NUVQwc3FpVy1wV3hYR0p4Nlg5bFE3TTFvTXZWRWIyVFlQWUJfdGZYT2xOMGV3cTlMMmpyV2lTZ3dVMzVjQ21aNGww0gF8QVVfeXFMT0dEOC1Zc0twbjlJdVJwVnFxTXFoRG1RM2pXVnlZdFpmUU5ZVHI0V3lFbnJzQS1XblEydmVLWldENEZVWlY4eDdPZEREaDRndFFCOFlpcl91djQwZkZqTGljYzRZbklvakQ2ZFNNUXpqS25VdEd0NDhLWGhOaQ?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-07-06T08:02:00+00:00",
-      "summary": "Claude Codeを安全に運用するための知識を学べる無料ウェビナーが7月8日に開催 - コード破損や課金肥大化・情報漏洩を防ぐには ｄメニューニュース",
-      "id": "425a27f62d8867ca",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Uravation代表 佐藤傑の新刊『Claude仕事術』、7月16日にSBクリエイティブより発売。Amazonにて予約受付中",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YcGJwVDFlX1oxU3dvVzlfRXRIczVJaDRjQVRnam1lc1VkWld6V0wwUjY4aUYyQzllUWo5b0lLMmFYN2JtQU5zUkxJMlI3WDVMbFNQbXRtNFhlUE0zUzhPcWxyVXRZdW5KZ2lCa2cxM0ZiWFYzamc?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-07-06T06:48:30+00:00",
-      "summary": "Uravation代表 佐藤傑の新刊『Claude仕事術』、7月16日にSBクリエイティブより発売。Amazonにて予約受付中 ニコニコニュース",
-      "id": "fb322b6cd4644b4d",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "日本経済、景気はいかに？ 元日銀審議委員が日銀短観から読み解く...要因は半導体、AIとインバウンド",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhN0tlTU9YNWo0N3otdHFHLXF1blk5QzQwbHhvVVNfSW15eWZkV1NtWlBNaGRIY3lJZVdFYmtiUzd1MEQteXVuNjMxaUkxbUFLdlh3a3cxTm1aVEhiU1BN?oc=5",
-      "source": "J-CAST ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pX3NWMzFxWENVS3BuVjhjcUxkQzZXdVpfZjdlZ1JQRjFJLUdPYzdLRnZPdkI2bTBxVWNIT1ZjLU9Sck1sMmdOS25UdkRSd0Rtbzlhd2l6OUc1WV9vMHp5eDZKUHpKOXhucHhqdDlQVHJsZlZuQlRfQ293d3pVTjg?oc=5",
+      "source": "Yahoo!ニュース",
       "published": "2026-07-06T06:45:00+00:00",
-      "summary": "日本経済、景気はいかに？ 元日銀審議委員が日銀短観から読み解く...要因は半導体、AIとインバウンド J-CAST ニュース",
+      "summary": "日本経済、景気はいかに？ 元日銀審議委員が日銀短観から読み解く...要因は半導体、AIとインバウンド Yahoo!ニュース",
       "id": "387a982e9daa46a7",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -316,18 +352,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "鎌倉警察署　ロンドン警視庁から来日　若手警察官が国際交流〈鎌倉市〉",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLU4wZkNtdEloRzFiZmZ4QnpvSlhBcWVTSGVoa3Y2UUxwbDZqWTN6M21Qc2EwNjBnNmo3STZkaGtDdFpjUUxCYlVKSll6RWY0YU9xNlNHMmFHYnQzRnpMUTFJMWt0ZktJTzlMRzZCdUkwYTlJNlZvYThkTXozSmFHMHRfMjZETmxFRy1IZDNB0gGAAUFVX3lxTE1ncTNnVFV5OEtHMDJ6T21BUkhvQXFkYTV4bmNFdUNWY1lubzdYdVlWcXZOUnc5dXlhR3ZaMU43MUNnajhUc0lucVhjUTMza0E0dWpLMEtvWXhwWXA5VS16MlVCZXpZcUJGUENUYUNlZm8yTDd4bGxiVEpFTHFLS1Jl?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-07-06T01:00:00+00:00",
-      "summary": "鎌倉警察署 ロンドン警視庁から来日 若手警察官が国際交流〈鎌倉市〉 ｄメニューニュース",
-      "id": "8c9858bc7528135c",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -439,6 +463,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "岡山一番街、さんすてのテナント募集サイト開設",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXpTNWJTS2tMVmNjZXZaVWZGbjlydkRYTTAwZkg5MFBQTHJMc20zdU9DLTlHOWE1RDVLTDJiQ0tFX3dyZnM4MU5WQll3Rk1XSlo4YVVSZk5NVEh6VTdydnRTTHlzekZSMFRmaTNTQVZ2Q0cwMzdjeWkySWxqdnRsOGFnMXhJN3pSaVRKNnB3?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-07-05T01:14:39+00:00",
+      "summary": "岡山一番街、さんすてのテナント募集サイト開設 山陽新聞",
+      "id": "f6ac01b732630baa",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "中小企業が使える国の補助金概要とチラシ（2026/7/5時点）｜齊藤肇",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JZk9GekJXaGpDMTBISDBEQVEwQS1OYnNLVTh3ZzZ0TEgwOW91TjVJaXhhXzJ0MGlzdVotZ2RsZHZ3MVBuMk10N3hWdGxoN0lrNjl5UTdqcFB6dXlqZm8xa2UwTDF0MGtDVEtn?oc=5",
       "source": "mbp-japan.com",
@@ -448,6 +484,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "カンボジアの武道家たちがベトナムに到着し、MAD7ツーリストアリーナでの試合に臨む準備を整えている。",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0VsZFZJQk5HZ3N5VjM5bzhnemRnWXcxamlxSTBIQUlqRlZwelVLZDNxdk5YRGg5YjlJaThBd0NZMi1XYVA5cXNRZUdfbS01eF9qTy1fdGlZMWxiMXNENmhoNWQ0TWQzWGtGZnNkVEV6eDBpRmJ2UUZodWJVdTlMekloUzRhNjUyZ0dxYUZ0Qjg4Y19GNW1HVkdfUFY0ME1rNnZJ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-07-04T23:59:32+00:00",
+      "summary": "カンボジアの武道家たちがベトナムに到着し、MAD7ツーリストアリーナでの試合に臨む準備を整えている。 Vietnam.vn",
+      "id": "b31eb6a12183d770",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -535,6 +583,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【鎌倉市】鎌倉発フレグランスブランド「HATAGO」が銀座 蔦屋書店でポップアップ開催！全ラインナップを展示・販売",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16N0dORGppY2NHS1JuRXNHX3ZSd3NyX09EZlAzZUVLTEN1TU9FWHZwcmdMdXc0TFFoaWlaNGxULXVlM2lhX25zX2xPQ2lwcHhwWk5vZmVxb0l3MnZUUEUzN0NWVG9QakpYQ3I1a0syY3Q?oc=5",
+      "source": "湘南人",
+      "published": "2026-07-04T10:59:38+00:00",
+      "summary": "【鎌倉市】鎌倉発フレグランスブランド「HATAGO」が銀座 蔦屋書店でポップアップ開催！全ラインナップを展示・販売 湘南人",
+      "id": "46b7ea3394c5b395",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "砂月凜々香、ライブパフォーマンス映像を続々公開 米津玄師やAliAのカバー歌唱動画も（リアルサウンド）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00c3c2N2JjY3ByV1dEeWhkbGhBZEMyTHhCTTY3Rlo4WTJkVjlBdENBcXByQXVfMkstUVRqZndVcGxWUUVPdjlqU2tJbnJIcmxFY1A3SnY1ckFtNF9YTDlBWFdPaVNOb1YxcUl4Umo3UVBqeDZSUjVtb1ptNXFJQVE?oc=5",
       "source": "Yahoo!ニュース",
@@ -555,18 +615,6 @@
       "id": "7eaad247ae6488ff",
       "category": "地域",
       "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【鎌倉市】鎌倉紅谷がジェイアール名古屋タカシマヤの夏スイーツ催事に出店！クルミッ子など多数販売",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xa2NVMVlaRkJyUmdnZUZVclVPNWlGX0pKVHVnVi1BZzhaMDVnU0laNWctQ29MbEJyNTQ2LTlrMGFQX1RVNUxvQ1lwWElnbFlpNTdHUHYtdXBpaXJ3QUJ5cUNhZUc3MkxpanNZNkFYWTFJdmNIRG5LR0NpdXI?oc=5",
-      "source": "湘南人",
-      "published": "2026-07-04T04:05:17+00:00",
-      "summary": "【鎌倉市】鎌倉紅谷がジェイアール名古屋タカシマヤの夏スイーツ催事に出店！クルミッ子など多数販売 湘南人",
-      "id": "9e9e25caa7ad28ca",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
@@ -667,24 +715,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【鎌倉市】《海沿いのキコリ食堂》で「鎌倉花火大会」を満喫！材木座テラスBBQ特別プランが登場",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54OWxtNUxjZVRTT3BiQzQ2aUNBd1kwRXZOS3hNYnM1Q0FoZncxekVHUVU3WGdfSDJaOEIwQ2xSTGVyRDFUaHFQeDg1bnNHakJpTFdRb0xtNGVmMXhpTnd4SjFodXU4X0I5bzFmbDEwbU1obW42OUE?oc=5",
-      "source": "湘南人",
-      "published": "2026-07-03T10:05:57+00:00",
-      "summary": "【鎌倉市】《海沿いのキコリ食堂》で「鎌倉花火大会」を満喫！材木座テラスBBQ特別プランが登場 湘南人",
-      "id": "e7217c2d5d4bd637",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【鎌倉市】GARDEN HOUSE鎌倉で夏限定「ピーチセレクション」開催！旬の桃フェアが7月8日スタート",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rdUw1QUd5TnFZV05wbGlSNTZUek1vLUJyY3d4b0NVTHc1ejFfYlJoZl9jSFYzRHdxLVh3X3FDazB3aHM2QTFsMTBvanBjZDJBcjFPalZTUjI4LXgyYzdYZmlkclZkYjJNVG1rN3ZKSHFaY00?oc=5",
       "source": "湘南人",
       "published": "2026-07-03T10:05:56+00:00",
       "summary": "【鎌倉市】GARDEN HOUSE鎌倉で夏限定「ピーチセレクション」開催！旬の桃フェアが7月8日スタート 湘南人",
       "id": "43b1da21d107d199",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【鎌倉市】鎌倉市役所で「こどもみらいミーティング」開催！小4〜6対象のワークショップ＆市長室見学 8月13日",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDTlMwdUFsU2s5RmxjYjQwQTB6RmMyNE9pLUpiNFRoaFhNMF80dXhTWmlMOHNGYl9WT09JdlNmdWJKSVE0QUdEV2Fqb2diLWpjdV9ORzlYWFlpUEQ2bEd6dVFjeTB6dnVWdGc?oc=5",
+      "source": "湘南人",
+      "published": "2026-07-03T09:47:53+00:00",
+      "summary": "【鎌倉市】鎌倉市役所で「こどもみらいミーティング」開催！小4〜6対象のワークショップ＆市長室見学 8月13日 湘南人",
+      "id": "fa554a4e75400a15",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -739,36 +787,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Aぇ! group 4th Single「でこぼこライフ」、Aぇ! group LIVE TOUR 2026 Runway記念特典付販売が横浜・静岡会場でも実施決定！",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uSWc1Q3Nqc0g4Nkl3MnRicEVvS3NHeG1MUXNIOHRPV2VlYkpWXzk3eFdIOWFRRFVGd0ZOT0JVazViWThnSXVpVkhUMWRRaEhVUVc3a2hhVDRvSTI1SUE3ZFA1SFd1SnVIYlE?oc=5",
-      "source": "UNIVERSAL MUSIC JAPAN",
-      "published": "2026-07-03T08:07:24+00:00",
-      "summary": "Aぇ! group 4th Single「でこぼこライフ」、Aぇ! group LIVE TOUR 2026 Runway記念特典付販売が横浜・静岡会場でも実施決定！ UNIVERSAL MUSIC JAPAN",
-      "id": "791afe2cdb55d5f3",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "日銀会合後、原油高で日本経済・日本株はどうなるか 注目材料と当面シナリオ 野村證券ストラテジストが解説",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCUVRqMUR2MWRMbFZkbDRsUjNQdnpPZXdWOW1LR3FGTUZZcFFPakNEUElXN1ZGMVRHSjhvcUY5TXJVbGxIRVR2dFNUM1B6b1BwazZiSWRJUURZNWdvbnlv?oc=5",
       "source": "nomura.co.jp",
       "published": "2026-07-03T07:00:00+00:00",
       "summary": "日銀会合後、原油高で日本経済・日本株はどうなるか 注目材料と当面シナリオ 野村證券ストラテジストが解説 nomura.co.jp",
       "id": "f8f2c60d67acffd4",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "山場を迎える高市政権マクロ政策 金融政策、財政政策ともに6月こそが重要な分岐点の可能性 野村證券・森田京平",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DZWVTUzRzdHRSei01Skw5NW12RS1mVDJxQXF5NWdYaF9wcW9IN0ZQY1JoRjU0VThPRUl6NDkxbGMzYi1HVnhzLWFKRTlOYnJvNzAyWnR2ei02RE5jWGhZ?oc=5",
-      "source": "nomura.co.jp",
-      "published": "2026-07-03T07:00:00+00:00",
-      "summary": "山場を迎える高市政権マクロ政策 金融政策、財政政策ともに6月こそが重要な分岐点の可能性 野村證券・森田京平 nomura.co.jp",
-      "id": "6068bbea3d007d41",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -784,6 +808,18 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "what happens NEXT 岐路に立つ日本経済 金利3％時代の財政運営 「骨太」の財源は？「ボーナス期終了」に注意？",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpMHZKVXJHMTBfNXo3cGR6MWlSeVBmTWFmSGRuMDVzVmVJQ3pOVm1HWGhuaDQ1OEVWZlNKcEliYnpKMlJsV3g0WDB3OFl4VHZFZmJBbjctU1MwZ2kyUzBhcEpiXzdQV1ByLU5N?oc=5",
+      "source": "テレ東BIZ",
+      "published": "2026-07-02T12:00:00+00:00",
+      "summary": "what happens NEXT 岐路に立つ日本経済 金利3％時代の財政運営 「骨太」の財源は？「ボーナス期終了」に注意？ テレ東BIZ",
+      "id": "117cf0abbf90cd86",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -823,18 +859,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ダナンで開催された人民公安軍事武道・スポーツ競技大会の決勝には、4,700人以上の兵士が参加した。",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRy1LWTRvVW5wV05ncjRSX2cyU3E0WW9NckF5SG9Tc0Rscm9YSGpDZ3dXX29rSHJUcG9EbmwzSExSd1hFV3VqSktMNDFfNXJ2WHRPRktqSVM0T0lvMkJ0MEd2VlVxUnZWSHNpNjhVTjUyMjYwWXdzMWQxTEJ0SE1VTHAxbWUwM0thS2hzaGk2R3cwZ21Xa2loc0lTazlxMV9YMWFxSkRoU3VnSjNvZXIwOWZDTFVJdWJPdkxDaXlHdzRZNUs0LWlfdy1B?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-07-01T05:39:57+00:00",
-      "summary": "ダナンで開催された人民公安軍事武道・スポーツ競技大会の決勝には、4,700人以上の兵士が参加した。 Vietnam.vn",
-      "id": "46fc385efa4ca422",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "品川区「ヒカリの水辺プロジェクト」鈴懸歩道橋の特別ライトアップが2026年6月30日より開始",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QQzYzSjluUVU2V2ZMZWJuMDQtWmwzOUxEREpLbHE0VjduM3RaNC1HVTU1UGFBZjY3M0tfVEJBQWlCOS1kQTBlZzVNendNLVVuUE1xdkdB?oc=5",
       "source": "Panasonic Newsroom Global",
@@ -871,6 +895,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【品川区】夏本番！品川区民まつり7/5(日)・7/11(土)開催情報をお知らせ♪",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DeGZsUGtMSnE1eUMzeGxKYS1DUmRDSDIzLWljR0EtUTNEOEJPY0lUQW4ya2wzWXZUWHYzS0xtbU5fRlJPTUVXdXdOTWJCUWcxUWlNZTNUbVBBd2h0dlU1dzRGYw?oc=5",
+      "source": "号外NET 品川区",
+      "published": "2026-06-30T08:00:38+00:00",
+      "summary": "【品川区】夏本番！品川区民まつり7/5(日)・7/11(土)開催情報をお知らせ♪ 号外NET 品川区",
+      "id": "1dbc47e581eb03b7",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【品川区周辺】全国の祭りと食が集結！「MATSURI JAPAN 2026」8/8(土)・9(日)開催♪",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CWjZDVW1JME5tSVJlcjZMNTFkSHFmSEVkUUgyQkd3T01vTFAyc2tPb3JhNjlRRllVWjRTa2VUMW42cmtCcFVueEFmaWt2b2ZObzhjMTM3dUNMV2VlME9YVXpLLWdYSkc2bmg1aw?oc=5",
       "source": "号外NET 品川区",
@@ -895,36 +931,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米津玄師 2026 NHKサッカーテーマ「烏」 ショートアニメ公開",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BWHpRMEhuanZtRUtPUTJxTzM5VEhLeWdZTlI0bFVfZkotQ2hWU2wxcGxMU0pIX3BwOF9LcDBoeXp4bHRzang1dEJrMHl0b0lZTndmamRvZXVYTUd3V0dNbDVkZjg?oc=5",
-      "source": "USENの音楽情報サイト",
-      "published": "2026-06-27T23:53:08+00:00",
-      "summary": "米津玄師 2026 NHKサッカーテーマ「烏」 ショートアニメ公開 USENの音楽情報サイト",
-      "id": "2b8f9f3e3e2a9748",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【逗子市】逗子市スマイル講座で合気道体験！年長から高校生まで安全に護身術を学ぼう 6月13日・6月27日",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40aGZPcm9ScVdhOWF1TkRheXcwanUzeVJQZGlaRk5oWUdDSndObzNKTUFpVk1xVDRHUGZKM2s3Uk5xUjk4YXplUUpZLVFDWFRLMEtvUzd0d2FSUVZqLXl1RnllOA?oc=5",
       "source": "湘南人",
       "published": "2026-06-27T07:00:00+00:00",
       "summary": "【逗子市】逗子市スマイル講座で合気道体験！年長から高校生まで安全に護身術を学ぼう 6月13日・6月27日 湘南人",
       "id": "b0d7870cddaa00fc",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "世界最大規模の合気道武術フェスティバルと選手権大会が釜山で開催",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRak9mVkVKeUp3Z243SEVnaDdVQVdoVko2NE0xRUk3LTNIMXZXeF9xUnZYc0ZCQXJiWjl4YVBYTmVUVFZYWU5hYnRLcVRXemlseDdLSlFMdWlVMmY1VGlz?oc=5",
-      "source": "저스트 이코노믹스",
-      "published": "2026-06-26T11:50:00+00:00",
-      "summary": "世界最大規模の合気道武術フェスティバルと選手権大会が釜山で開催 저스트 이코노믹스",
-      "id": "3994500d7b51bc94",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
@@ -1003,5 +1015,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 78
+  "count": 79
 }
