@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-06T21:07:12.771408+00:00",
+  "generated_at": "2026-07-07T00:42:21.976349+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -14,7 +14,7 @@
       "name": "推しアーティスト",
       "category": "音楽",
       "emoji": "🎵",
-      "count": 10
+      "count": 11
     },
     {
       "name": "ライブ・コンサート全般",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 5
+      "count": 7
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,66 @@
     }
   ],
   "items": [
+    {
+      "title": "BTCマイナーのTeraWulf、Anthropicと190億ドル規模のリース契約締結（NADA NEWS）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FbWJlbkcwZWNON0taMUxwNzdRZktxemNaRHlTQU02bUsybkFYcGJPZ2JFLWVsQWRIOW40bndZdlhBZnJoVGN5Yy04LTZMTGtKbC1RaUlEZkNPQzZSVkprRVRvd19iVVZzVEZlM200N0FQbU1IV1dvdVZ3cTVOSTQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-06T23:40:09+00:00",
+      "summary": "BTCマイナーのTeraWulf、Anthropicと190億ドル規模のリース契約締結（NADA NEWS） Yahoo!ニュース",
+      "id": "c2315a881e760099",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "T3MP3ST登場、Claude CodeやCodexを自律型バグハンターに変えるオープンソースの衝撃",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVdm55UGltUTQtTk12QzU1Vnk5RlVSTno4NDZIR01qVmJ5em90bjhtRjZTUms3V3hKVTBHaTJoNGVWNDFsNGlDMGVPR0tLYVg4NzdrTHZ5Yw?oc=5",
+      "source": "innovaTopia",
+      "published": "2026-07-06T22:22:19+00:00",
+      "summary": "T3MP3ST登場、Claude CodeやCodexを自律型バグハンターに変えるオープンソースの衝撃 innovaTopia",
+      "id": "63ef1b2cb060d235",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米政府がClaudeの新モデルを止めた18日間に、中国AIが顧客を奪っていた",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5yOTdRWUpFWkt5UVRSNVJJTzBnbVI3ZVZJckdyUVYtN3lTLVJzRmtJd0Vuc29PdjRsNjViLVYzYWs?oc=5",
+      "source": "shiritomo",
+      "published": "2026-07-06T22:13:36+00:00",
+      "summary": "米政府がClaudeの新モデルを止めた18日間に、中国AIが顧客を奪っていた shiritomo",
+      "id": "0814a6c772c6968f",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Fable 5、サブスク無料枠が7月7日に終了――100万トークンあたり最大50ドルの従量課金に移行",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XWUZ5MlozQVBSTnd3N2NUb1RiNUhlTUIybVBqbFliTEN1TVJ3eDI4bnZzUGhLbldXZFpLcGtKNkdmczktdTM0UE9JTUJSV1hGU0hiUjVNbHkyUklNb0V5UnVMONIBaEFVX3lxTFBDTHhCenY0cUd4MnE1N0ZwQUxINEFlbDNLUlJ4QXVadWdWcGtiRzIxdkdHbTBHMk91VG9CYXM4Xy04TlF5S1NINnBMY2dWSW0yTmYtRTJSMlpHWEg0WjFmblcxSF9WOHdD?oc=5",
+      "source": "財経新聞",
+      "published": "2026-07-06T22:10:36+00:00",
+      "summary": "Claude Fable 5、サブスク無料枠が7月7日に終了――100万トークンあたり最大50ドルの従量課金に移行 財経新聞",
+      "id": "186848ee8f76379c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【神効率】定期タスクも“先回り”…Claude Coworkで育てる「AI秘書」が優秀すぎる",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBVms1dFg5QklIVkJWMVpMM0Z5Zzg2dXlTYU16dTBOODhqYWExbXh2b2pWYlhxcGNsQVYyR0F5XzNsNy1pRVZLX185RmotdVpHRVI0?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-07-06T21:10:00+00:00",
+      "summary": "【神効率】定期タスクも“先回り”…Claude Coworkで育てる「AI秘書」が優秀すぎる ビジネス+IT",
+      "id": "520ff40a769e4388",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "鎌倉市 イベント紹介 社会を明るくする運動 鎌倉市地区大会",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMDJGOF84SW4yZG5fZVBpZWlyX2ppWHJzTThMcWdRMzhjai1pelhfU0lCaDhPQWVuTHpTY0NNZnRITXI3OGVXZVlXenNNdGpfUEd4dGtadmJkV0U3MUV3?oc=5",
@@ -103,6 +163,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "IREN株が13%急騰、フリーダム・キャピタルの買い推奨とAnthropicの150億ドル規模データセンター入札が追い風",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LcmsySmoyXzJlQzIxTGczM2ZUazZlWkRuWURkTkVDbVU3dFBxV3c0OXh3UG9kM1hCZ3BoeldHdUVGdzdjcS1UQXlkbHFBTm12NXNmX0tqQmxNV0tQQzM4c2NjS1BKR1lsamg2b2FvUUtDdlFi?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-06T19:05:00+00:00",
+      "summary": "IREN株が13%急騰、フリーダム・キャピタルの買い推奨とAnthropicの150億ドル規模データセンター入札が追い風 BigGo ファイナンス",
+      "id": "41529df67e75ce75",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【PINKY PROMISE YOU vol.2】SPECIAL企画 「DIGITAL BOOK」公開！",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4dWp0MVB0aXQzWExhRkhNdURMT0lKdmlYNTBQbVVjOHlaXzI5V1luOWRualVRWE85c2ZNVG1PUUlrdHdLTjU1MFFtVm1XZ3dB?oc=5",
       "source": "あいみょん OFFICIAL SITE",
@@ -112,6 +184,18 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、「Claude Fable 5」脱獄報告のバグ報奨金プログラム開設…HackerOneで運営",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yUkUtVE5MMlh2QnpWLV91dzlLS0w1VFo0dTV6X1VfQlp1aERIbGZSMlJGZllhd0x1Zk8tb3JsSnZSbmhCcDVHcG5yMF9aZEZ2R3BFZU5XRHZiZXNQS21XMU1pOWEzVjVyNWpKY3BvTG5ZcjNU?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-06T13:35:00+00:00",
+      "summary": "Anthropic、「Claude Fable 5」脱獄報告のバグ報奨金プログラム開設…HackerOneで運営 BigGo ファイナンス",
+      "id": "e66606716a8b2d1a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -211,99 +295,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Tech Mentorが提供するClaude Code特化の生成AI技術習得コースの魅力",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zMDR1bE9TdXNRX2doekVHQ3RfSzZkSVZXSEtfM0pocVhkVUZlUkJKS2trd1RXeTVNWTRMSXZWdWM5c0VxTjJvdUhJYXctSjNWQ2ZrOWU5ZHprb3hqdjYwT0JVQzd6VGNRUjVKR1lfRQ?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-07-06T09:27:42+00:00",
-      "summary": "Tech Mentorが提供するClaude Code特化の生成AI技術習得コースの魅力 ニュースメディアVOIX",
-      "id": "4efd29466af8b614",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "プレスリリース：株式会社Mavericksは、動画生成AI「NoLang」の出力言語に「トルコ語」を追加。翻訳会社やナレーターを介さずトルコ市場向け動画を内製できる体制を構築（PR TIMES）",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Pc00yR2owYVlXQ1RxMEt2ZlFETVR6QVZGVERia1hIUk5Eb1J6THpiV3JpYkJxcV9pNXFZTmw1VkNHb3ExVzJNYXNucXNqaTViU3RNQnZBQlc4ZGtrUFNLSFdFMTFoOWhH?oc=5",
-      "source": "毎日新聞",
-      "published": "2026-07-06T09:21:21+00:00",
-      "summary": "プレスリリース：株式会社Mavericksは、動画生成AI「NoLang」の出力言語に「トルコ語」を追加。翻訳会社やナレーターを介さずトルコ市場向け動画を内製できる体制を構築（PR TIMES） 毎日新聞",
-      "id": "586f87a1c2cac303",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ハッカー、「Claude」を利用した米主要音楽フェス無料チケットの入手方法を発見 | ニュース | IT×エンタメの最前線を届ける",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XX2xzNkNHbmFlQ05vVEhjRERSRGYzR0xMRFRyUnh3UFpyV0d2bHVNR3Vic0hVNEVXSUpuRTB5MWxaZDc5N0E?oc=5",
-      "source": "MEDIAMIXI",
-      "published": "2026-07-06T09:05:55+00:00",
-      "summary": "ハッカー、「Claude」を利用した米主要音楽フェス無料チケットの入手方法を発見 | ニュース | IT×エンタメの最前線を届ける MEDIAMIXI",
-      "id": "b5070067f44a1809",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【7/24(金) 松江商工会議所開催】山陰の経営者様向け「Claude Codeセミナー」を松江にて開催",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bbk5GemhGb0FaQ0VsNnVlemdsXzJLWFBDdVBhblJvWU9QTEhSZmpuRkhZUzAyZ0NYbS1JbHNPdU9oYzVuNE5nSklFNDR5cHo2TUE?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-07-06T08:51:00+00:00",
-      "summary": "【7/24(金) 松江商工会議所開催】山陰の経営者様向け「Claude Codeセミナー」を松江にて開催 山陽新聞",
-      "id": "067aa03db39b17c8",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Squareが「ChatGPT」「Claude」と連携、AI経由での店舗発見と直接注文を実現（ネットショップ担当者フォーラム）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUQjJPdlRRUlJRTUlUOVgzUzlVN3F0Vk5NbTFNVTZ0LUxBWVo4Yzg5N05oOHlQaGlYZHFRUlppZUtpZUpURHNhVkRMdE9lVXpkcGNERk93M2E3bkFBTXZrYmlPUVN2MXRTRGZYTTNENzZQWnhacFlEYmlQTDBUTWM?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-06T08:31:39+00:00",
-      "summary": "Squareが「ChatGPT」「Claude」と連携、AI経由での店舗発見と直接注文を実現（ネットショップ担当者フォーラム） Yahoo!ニュース",
-      "id": "c727a97072417cc6",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "提供が再開された「Claude Fable 5」の使いこなし術を解説した書籍が無料公開",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nY0VVZHBwa2FKd0hlSGQ1WW1TNHRmcWdvNndCYTFTSTIyWTBsa0E3VFF3cnMyNmJ3SmM0WXg0NDJhSjI5LUpETXNpN1plU0ZoUWxodWVXT2tlUTBsV0tlTXduQUZnaTJxbVNtWnM5b3o2RFppM1E?oc=5",
-      "source": "窓の杜",
-      "published": "2026-07-06T08:27:00+00:00",
-      "summary": "提供が再開された「Claude Fable 5」の使いこなし術を解説した書籍が無料公開 窓の杜",
-      "id": "2a59dafc11e28b34",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "キャシさんのClaude Cowork講座 その作業、まだ手でやる？仕事のやり方をアップデートしよう！",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hZk1FT3U0NVlGRFFkNE1CWkxXQ3BlM0NUMGp4cWZ1b0NuaDNUOVpjdzVqbGZrd2VyQ245R2d4eFRQZFg5VDRyMkJGOVU2MVFLVmRTMUgwV3BPeVRpTnhCUWxWdXZTRXNaUEdWUg?oc=5",
-      "source": "CREATIVE VILLAGE",
-      "published": "2026-07-06T08:13:52+00:00",
-      "summary": "キャシさんのClaude Cowork講座 その作業、まだ手でやる？仕事のやり方をアップデートしよう！ CREATIVE VILLAGE",
-      "id": "1c9af84e2ba186c3",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "日本経済、景気はいかに？ 元日銀審議委員が日銀短観から読み解く...要因は半導体、AIとインバウンド",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pX3NWMzFxWENVS3BuVjhjcUxkQzZXdVpfZjdlZ1JQRjFJLUdPYzdLRnZPdkI2bTBxVWNIT1ZjLU9Sck1sMmdOS25UdkRSd0Rtbzlhd2l6OUc1WV9vMHp5eDZKUHpKOXhucHhqdDlQVHJsZlZuQlRfQ293d3pVTjg?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-06T06:45:00+00:00",
-      "summary": "日本経済、景気はいかに？ 元日銀審議委員が日銀短観から読み解く...要因は半導体、AIとインバウンド Yahoo!ニュース",
-      "id": "387a982e9daa46a7",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
+      "title": "親子で学ぶ合気道の護身術　厚木で参加者募集〈厚木市・愛川町・清川村〉",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1RXljSTBPVFVOTm0xSWc5ODNFZDdDaVlNUDRXTk1ySmsxR2hBdEdydVdhRUxnamowRGxRYVJKY1o1dnEzbmVNZ3lKaHBhc1lnNXpKV2wtZllHQlVLS1JQRTRwcmpqLXdFOEV1Rng1MVpldEdHaWNBeFVzc9IBgAFBVV95cUxPYU1ibXRzS19qcGNVZGdxb2lKSC1ldmt3U0JXOFhjeTBiMGptY2g5S2R4VUF4M1dQREp2UHNyMGxMdHpGMWI1enZlTW5OVDVOM24tOEV5LWUwcVJCeW1BZ2ZhenVlbU5LSWZ4NkhJWEUtaGpvem5ObUVrRU9nNjZOMQ?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-07-06T05:00:00+00:00",
+      "summary": "親子で学ぶ合気道の護身術 厚木で参加者募集〈厚木市・愛川町・清川村〉 ｄメニューニュース",
+      "id": "6f25281adb59b907",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -391,27 +391,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "円相場「年内170円」に現実味 財政懸念で売り、米利上げ観測も重荷",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56SDdUNmgwNEJFSUgzeExJOE5CZVZSMkttd0d1ME0yd1pGNlNWcGdOd21MZHYxRzNQMnlZR2dyVmtvQW5CQWRxM0djOURTV1FrRjFFek9leHE2MEpIYURLTTdrb1BGWUFQOUFJZA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-05T20:00:00+00:00",
-      "summary": "円相場「年内170円」に現実味 財政懸念で売り、米利上げ観測も重荷 日本経済新聞",
-      "id": "5f94b928ab346c7b",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "欧州機械団体会長がみる景気 同時多発危機、投資手控え",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWmQxb2FZU1d2MUo4WklQYjFpUUY3bUszT1pRTE9TZUFvd1FXMFltY2ZaSzNDaUd5VmFTc0dILW85Nzl3WHBaWDFfbEpocnJmRE9SU05MWHg3Wm1LMFNRWWVHRmFTTWVvczZVbA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-05T17:00:00+00:00",
-      "summary": "欧州機械団体会長がみる景気 同時多発危機、投資手控え 日本経済新聞",
-      "id": "b5ead5bba48f1f0d",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
+      "title": "【西宮市】7月14日と15日に阪神甲子園球場で行われるあいみょんのライブに合わせて、ららぽーと甲子園でコラボイベント開催！7月3日から、館内にコラボフラッグが装飾されていますよ",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05U3JFN2NoNlF0dFpUT0U3a0FrbENTRjlQUDRVbVpWd2p4dWJuNWNHdkNzdEdJY08tSjdVbWs0YTB1c2g5ZXp4NTBzQU9HWnR1TXVjSXRtRGRCRlBwSlVFOFdUc0RFcUNKUHVj?oc=5",
+      "source": "地域ニュースサイト号外NET",
+      "published": "2026-07-05T06:00:34+00:00",
+      "summary": "【西宮市】7月14日と15日に阪神甲子園球場で行われるあいみょんのライブに合わせて、ららぽーと甲子園でコラボイベント開催！7月3日から、館内にコラボフラッグが装飾されていますよ 地域ニュースサイト号外NET",
+      "id": "44a4f751c1669fc8",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -475,18 +463,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "中小企業が使える国の補助金概要とチラシ（2026/7/5時点）｜齊藤肇",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JZk9GekJXaGpDMTBISDBEQVEwQS1OYnNLVTh3ZzZ0TEgwOW91TjVJaXhhXzJ0MGlzdVotZ2RsZHZ3MVBuMk10N3hWdGxoN0lrNjl5UTdqcFB6dXlqZm8xa2UwTDF0MGtDVEtn?oc=5",
-      "source": "mbp-japan.com",
-      "published": "2026-07-05T00:47:23+00:00",
-      "summary": "中小企業が使える国の補助金概要とチラシ（2026/7/5時点）｜齊藤肇 mbp-japan.com",
-      "id": "05c6107865edb7ee",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "カンボジアの武道家たちがベトナムに到着し、MAD7ツーリストアリーナでの試合に臨む準備を整えている。",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0VsZFZJQk5HZ3N5VjM5bzhnemRnWXcxamlxSTBIQUlqRlZwelVLZDNxdk5YRGg5YjlJaThBd0NZMi1XYVA5cXNRZUdfbS01eF9qTy1fdGlZMWxiMXNENmhoNWQ0TWQzWGtGZnNkVEV6eDBpRmJ2UUZodWJVdTlMekloUzRhNjUyZ0dxYUZ0Qjg4Y19GNW1HVkdfUFY0ME1rNnZJ?oc=5",
       "source": "Vietnam.vn",
@@ -547,18 +523,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Aぇ! group、4人体制初ツアーに決意 草間リチャード敬太の復帰に「ホッとしている部分が」（オリコン）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rQTRWOXhyYTNpdkVDOGRYVVh0ZVJkRXhZdHFxbTB4a0ZOZHNEV1FwbHVBODJqT2VkT0J4Szc0ckpSSUJjaE9YcmhKX3BMa0ZSUDZmTkdQSWxfeFpibXVpOXlVZk0zUldCUnFxZWlKZk1NS0p2RHhjY0EwRkpfUGs?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-04T19:00:00+00:00",
-      "summary": "Aぇ! group、4人体制初ツアーに決意 草間リチャード敬太の復帰に「ホッとしている部分が」（オリコン） Yahoo!ニュース",
-      "id": "9eb88779dca7712f",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Aぇ! group佐野晶哉「怖かった」小島健「続けてきて正解やった」新体制4人の本音と決意【メンバー挨拶全文／Aぇ! group LIVE TOUR 2026 Runway】",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlbGJWbkJaTXNCVmxBY3NycDB6Q3U4UjlvdFJfeTBaNlpwUXNoTzE2WFJ2SmxpUDE3ZjFZR1VDd2NoWjVGckEwTEp6eUF5V1NBSzBnUkNhR2ZPWHVZTmxXdE9zTzBudw?oc=5",
       "source": "Excite エキサイト",
@@ -568,18 +532,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "日本が金利のある時代に戻るということの意味／中空麻奈氏（かんぽ経済研究所主席研究員）（ビデオニュース・ドットコム）",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcWFsZS1BYUhwNF9JYWVqQ19Ta1p6bEtqYmN0R0didWRHX044U3Rsd05pS2w3bGI0eENPMFZXcENieHJDODdzU0ZmR0NvU3h0NUNTak16XzZEQUhFalFKYkNGbUZERGlzcFZzZm1DY2ZXemoyYWkycmtoYXo3ZXJnWndWbGV5VmdXdExPcDlB?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-04T11:27:54+00:00",
-      "summary": "日本が金利のある時代に戻るということの意味／中空麻奈氏（かんぽ経済研究所主席研究員）（ビデオニュース・ドットコム） Yahoo!ニュース",
-      "id": "66b69f24fb52f545",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -667,18 +619,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "金利上昇要因「積極財政だけと言えず」",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGFtZzFkNVN6YURZaWdtYWE3SVZ2V3pZZ1N6Q0wxcktHczQzc3FRa0gyTDZoMnl2WEdUd0hOeTh4VlBsT2RNRXFFN2pZWEdwN2R2Q25MMDAwSEExdnBRVnhDTmVtQTg3empfV2RETndmd1E5bXdKdXhtbV9OWWxXcGxmbkpXVDNranlvNUlyenA5N3JrNFE1d185NkNnZklsbGYtTnRtcU0?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-03T17:06:44+00:00",
-      "summary": "金利上昇要因「積極財政だけと言えず」 日本経済新聞",
-      "id": "3c28776f40e32aef",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ねぐせ。が初の横浜アリーナで鳴らした、3時間超の壮大なラブソング",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JLWNfWFEzOW9iUThGaTlJaC0wajJPd05PdVBpMVlFaDgwd1BBYnkxQkZFbmw4RkVGTkRJY1ljMV9MZEFTOXFLSTVFLXhFWjZUbl9vX1ZxVGZtYWl6?oc=5",
       "source": "マイナビニュース",
@@ -739,18 +679,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "｢骨太ショック｣国債揺らす 長期金利3%視野、財政リスクに市場警鐘",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsWjFXTTZYVWRVd1JDakRGbXFXVHdnVFVIdGtRRGE3TTA5bnZqU1JsR3lqLUxPTXAxbjFCUGIzdWMxVF9zZWhTMmVqVTVXSXR2WE1SS3lqeE5LVmdIeGxRVHpBdnlDQWU3cWhKTA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-03T09:36:08+00:00",
-      "summary": "｢骨太ショック｣国債揺らす 長期金利3%視野、財政リスクに市場警鐘 日本経済新聞",
-      "id": "9d2329cbfd600c37",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "米津玄師、ライブツアー『米津玄師 2026 TOUR / GHOST』チケット一般発売決定！再びライブステージへ (THE FIRST TIMES)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMUdrYXlvSlhKcTV2ZHhlY01OWG1OeTVLLWhzaGFiMEFTd1V1cXJoakxNckxSMXlsbTFXM3FiZVdUNjFiaDZGcFY2dlZqQnh4V0YwbDkwa2l6ckxxNnl5MUNfcTJjb1dEeERHam41WGljeVhZZWpNZlYtUkJ1TXYweDNaRnFsRi13aExQeVN3?oc=5",
       "source": "Yahoo!ニュース",
@@ -787,15 +715,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "日銀会合後、原油高で日本経済・日本株はどうなるか 注目材料と当面シナリオ 野村證券ストラテジストが解説",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCUVRqMUR2MWRMbFZkbDRsUjNQdnpPZXdWOW1LR3FGTUZZcFFPakNEUElXN1ZGMVRHSjhvcUY5TXJVbGxIRVR2dFNUM1B6b1BwazZiSWRJUURZNWdvbnlv?oc=5",
-      "source": "nomura.co.jp",
-      "published": "2026-07-03T07:00:00+00:00",
-      "summary": "日銀会合後、原油高で日本経済・日本株はどうなるか 注目材料と当面シナリオ 野村證券ストラテジストが解説 nomura.co.jp",
-      "id": "f8f2c60d67acffd4",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
+      "title": "Aぇ! group 4th Single「でこぼこライフ」、Aぇ! group LIVE TOUR 2026 Runway記念特典付販売が横浜・静岡会場でも実施決定！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uSWc1Q3Nqc0g4Nkl3MnRicEVvS3NHeG1MUXNIOHRPV2VlYkpWXzk3eFdIOWFRRFVGd0ZOT0JVazViWThnSXVpVkhUMWRRaEhVUVc3a2hhVDRvSTI1SUE3ZFA1SFd1SnVIYlE?oc=5",
+      "source": "UNIVERSAL MUSIC JAPAN",
+      "published": "2026-07-03T08:07:24+00:00",
+      "summary": "Aぇ! group 4th Single「でこぼこライフ」、Aぇ! group LIVE TOUR 2026 Runway記念特典付販売が横浜・静岡会場でも実施決定！ UNIVERSAL MUSIC JAPAN",
+      "id": "791afe2cdb55d5f3",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -811,12 +739,36 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "what happens NEXT 岐路に立つ日本経済 金利3％時代の財政運営 「骨太」の財源は？「ボーナス期終了」に注意？",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpMHZKVXJHMTBfNXo3cGR6MWlSeVBmTWFmSGRuMDVzVmVJQ3pOVm1HWGhuaDQ1OEVWZlNKcEliYnpKMlJsV3g0WDB3OFl4VHZFZmJBbjctU1MwZ2kyUzBhcEpiXzdQV1ByLU5N?oc=5",
-      "source": "テレ東BIZ",
-      "published": "2026-07-02T12:00:00+00:00",
-      "summary": "what happens NEXT 岐路に立つ日本経済 金利3％時代の財政運営 「骨太」の財源は？「ボーナス期終了」に注意？ テレ東BIZ",
-      "id": "117cf0abbf90cd86",
+      "title": "【保存版】全国の企業が選ぶ！補助金支援に強い会計事務所TOP10【2026年度最新版】",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9meEk5eFlZbV90dWVRTG45X2ZjZ0JLX2g0NVlLNDVDX3RhZ1AwN283LTFtaGcyUDZUNzdCSjFaOEtCT3UtZEpuUmFiTS1qTTNoRUswSzZteV9hcE84N0FyZm0yNm9PcXFLTmc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-02T07:00:02+00:00",
+      "summary": "【保存版】全国の企業が選ぶ！補助金支援に強い会計事務所TOP10【2026年度最新版】 PR TIMES",
+      "id": "c1dae5ed2a95bddd",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【補助金】新事業進出・ものづくり商業サービス補助金の第１回公募要領を公開【申請受付期間：8/31～9/30】",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jT28wWThZWDhjdDF1bTlZeVpUT0NyaUNYY3h4bVFxZDBYbnR6STREOWNUWXdSS3ZpaVp3ZlNNZ005UV9YdzNmZ2FNSGttZWUzV2tBcVVYUHk?oc=5",
+      "source": "中小企業庁 ミラサポplus",
+      "published": "2026-07-02T07:00:00+00:00",
+      "summary": "【補助金】新事業進出・ものづくり商業サービス補助金の第１回公募要領を公開【申請受付期間：8/31～9/30】 中小企業庁 ミラサポplus",
+      "id": "49dcccc576fc2f27",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "新事業進出補助金の採択率は？第3回公募の結果とポイントを解説",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fVUtRMDFzWW1mZFAwS3hYc0U3NmlZMlQ0eDBFeGU2eGw0Uy1teG1qV2VmeWotcEFrNlFaUXEtNjF3NEZ0M1JMblJpb04tMWtZV2NvVXlaempCNmgxTUs5cG9zVy1yZzlPZjBXMDg2WFM?oc=5",
+      "source": "補助金ポータル",
+      "published": "2026-07-02T07:00:00+00:00",
+      "summary": "新事業進出補助金の採択率は？第3回公募の結果とポイントを解説 補助金ポータル",
+      "id": "b4788c58e4f28711",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -835,6 +787,30 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【補助金採択結果】新事業進出補助金（第3回公募）の補助金交付候補者を採択",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VbVVGWk1leDNQRUNrazRfTUQxN0dnU0I0MEtfMnEwS0F6aDFTWTJiQkFuS05Hb2c0VUZlelBEZ1RFYTdTSVdGUVZLVWdmQ1F2VWtXbHlDNDE?oc=5",
+      "source": "中小企業庁 ミラサポplus",
+      "published": "2026-07-01T12:25:49+00:00",
+      "summary": "【補助金採択結果】新事業進出補助金（第3回公募）の補助金交付候補者を採択 中小企業庁 ミラサポplus",
+      "id": "85b0ea636629c26a",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "＜中小企業新事業進出促進事業（第3回公募）＞の補助金交付候補者を採択しました",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxYmZmX1RSQzh2eTFZSzdCSnlROE5TTVpSUnVkM0ZVaTdQdjE2eTNsQmNWUWs5RWtPd2lyMzZjNThXMm9DU1dwNUVvRUZkajRUeEgyLVk1dW9uaGlBMlE4VkZNYmk1aGpsRnc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-01T09:00:01+00:00",
+      "summary": "＜中小企業新事業進出促進事業（第3回公募）＞の補助金交付候補者を採択しました PR TIMES",
+      "id": "741f99ab89d76045",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "クアンビ村が2026年夏季青少年武道大会を開催する。",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHU2XzdmNFdheVJVdm14M1FtalBITFotR3NUZVVpQmMtRi1mYnhibElVNWlCeUs2V0VIb2NELWZja1dFWU01Vkg1bWpnQXZWYy0yZWJMOVdod2J1ajdWRk1obDFWVEd0NjJ1cFhjMDk4SVk4ZnRhck1hMGNqenNra3RuRTdRXzNQUDNoRXo2bzV1b3R2ZklXNw?oc=5",
       "source": "Vietnam.vn",
@@ -847,6 +823,42 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "2026年 補助金まとめ！中小企業向け主要補助金のポイント解説",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+      "source": "補助金ポータル",
+      "published": "2026-07-01T07:00:00+00:00",
+      "summary": "2026年 補助金まとめ！中小企業向け主要補助金のポイント解説 補助金ポータル",
+      "id": "ca0b1c4edfd78726",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【補助金採択結果】デジタル化・AI導入補助金2026の補助事業者を採択",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QbFBnZXc0NGE0TUhGQmpobkUzZ0ozWkpVX1dHcGhZLWl2bEZ5UXF6TjlRbzZaX25MQ0hncGIzWEI0cEpRMDhrWUVvWXZnTGRaVWtqREdwVUE?oc=5",
+      "source": "中小企業庁 ミラサポplus",
+      "published": "2026-07-01T07:00:00+00:00",
+      "summary": "【補助金採択結果】デジタル化・AI導入補助金2026の補助事業者を採択 中小企業庁 ミラサポplus",
+      "id": "3ab6071fffe6db2e",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "中東情勢等を踏まえた中小企業・小規模事業者向け支援について",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55bVhSdkhkV3NTNGNUMkdQUFkzaVQxQnVCLU13U1BIYktOQUtXWWZWSGNtMWZMbWY0MXcwc3pDaDdWYzRkQUxZWXdTcjd0RlJDU3dJcU8zd1FDOTh3Z2Y1MVU0ZXhmRE0?oc=5",
+      "source": "chusho.meti.go.jp",
+      "published": "2026-07-01T07:00:00+00:00",
+      "summary": "中東情勢等を踏まえた中小企業・小規模事業者向け支援について chusho.meti.go.jp",
+      "id": "cf9837b8f2cc2d9d",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "イオン東北が商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XWjhCN3F2ZWU2a21OY1o2Q212OUdKcVBRNnczSkVOakRzLURnNHVGR0wxUXR5RzVicTI4cDJka0Q1WmdEX1QxYnhJX29CWmQ5M2xaeC1QbDdLNVU4VXFTbF9CVnEwaHdTRWQw?oc=5",
       "source": "時事ドットコム",
@@ -856,6 +868,30 @@
       "category": "不動産",
       "topic": "道場物件（品川・大田）",
       "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ダナンで開催された人民公安軍事武道・スポーツ競技大会の決勝には、4,700人以上の兵士が参加した。",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRy1LWTRvVW5wV05ncjRSX2cyU3E0WW9NckF5SG9Tc0Rscm9YSGpDZ3dXX29rSHJUcG9EbmwzSExSd1hFV3VqSktMNDFfNXJ2WHRPRktqSVM0T0lvMkJ0MEd2VlVxUnZWSHNpNjhVTjUyMjYwWXdzMWQxTEJ0SE1VTHAxbWUwM0thS2hzaGk2R3cwZ21Xa2loc0lTazlxMV9YMWFxSkRoU3VnSjNvZXIwOWZDTFVJdWJPdkxDaXlHdzRZNUs0LWlfdy1B?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-07-01T05:39:57+00:00",
+      "summary": "ダナンで開催された人民公安軍事武道・スポーツ競技大会の決勝には、4,700人以上の兵士が参加した。 Vietnam.vn",
+      "id": "46fc385efa4ca422",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "中小法人が今すぐ活用できる制度を解説「助成金•補助金活用セミナー2026 in 名古屋」7/28（火）開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NeE1XaTRzVENjZFd3UTR3WkxpRkpHeVRuYTFhVzJ3ZGdiZnBFWXY0U1k5eGxCSmhteC1KTGlUeHdzVFVoVklRbExzczhkdFplSmZOX3RGWWVwN25MS3Nqa3JWTlpsX2x3RkE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-01T04:48:53+00:00",
+      "summary": "中小法人が今すぐ活用できる制度を解説「助成金•補助金活用セミナー2026 in 名古屋」7/28（火）開催 PR TIMES",
+      "id": "9b1df6808672dd98",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1015,5 +1051,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 79
+  "count": 82
 }
