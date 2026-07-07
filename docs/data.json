@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-07T03:46:25.396362+00:00",
+  "generated_at": "2026-07-07T04:46:53.727194+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -14,7 +14,7 @@
       "name": "推しアーティスト",
       "category": "音楽",
       "emoji": "🎵",
-      "count": 12
+      "count": 11
     },
     {
       "name": "ライブ・コンサート全般",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 7
+      "count": 6
     },
     {
       "name": "経済・ビジネス",
@@ -67,12 +67,36 @@
   ],
   "items": [
     {
-      "title": "AIは“頭の中”で考えていた。Anthropic、Claudeの思考をのぞく新手法（PC Watch）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMOFBrRGpKTzRpbUdSQ1Y2c2RBUF9BQkVQWDVESVFoOEJqeXY3V3BJckVxV1ZqMWMtUHNVbmpPeG9ndEtSZWFnZ0dqc1BoYi1WZjFibzVEcXg1RENDM0RzdFZET016ZURSOFpBYXVuRGt1YmhrbHRfOVJtLUVKMzg?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-07T03:34:00+00:00",
-      "summary": "AIは“頭の中”で考えていた。Anthropic、Claudeの思考をのぞく新手法（PC Watch） Yahoo!ニュース",
-      "id": "e14ac8f53086f6f5",
+      "title": "UVERworld、TAKUYA∞生誕祭／クリスマス日本武道館公演など含むツアー【危ない】開催",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iMEN1WmJDV0I2c3M0NllWR180RlJ3LXJzcFdfclg4d255cWlfRGRaTWVWQ0hVWjY4WXptRVVVdjNWby1GNTRQUE5ac3ctV25abTNvRlZqYy1rMzhKVXdwRjVvV3dyX29WZjFSQXk1VkdMX2F2NGF0TjdCVQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-07-07T04:12:13+00:00",
+      "summary": "UVERworld、TAKUYA∞生誕祭／クリスマス日本武道館公演など含むツアー【危ない】開催 ニコニコニュース",
+      "id": "e93613d359f8c081",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIは“頭の中”で考えていた。Anthropic、Claudeの思考をのぞく新手法",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YbTVYQmN2SlRFMHZtcXN5LWhGOXJFSWdLU2ZZd05yZ0taZ0xwcE4tUGRBVGFtRW1OS3hRX3ItcW1OZGUtaEJzaGJwRzFBWnlseF8tTjFkbWRscV9BTk1UM2dlUQ?oc=5",
+      "source": "PC Watch",
+      "published": "2026-07-07T03:34:47+00:00",
+      "summary": "AIは“頭の中”で考えていた。Anthropic、Claudeの思考をのぞく新手法 PC Watch",
+      "id": "a725a3af2e1fc4f6",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "KING OF TIMEを提供するヒューマンテクノロジーズ、Claude Enterpriseを全従業員に導入",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xRUZpWnJLakF3UkozRWhqNHh6MzBBWHpOT0pnOVV4ZGtPcDFaY2VNc3FZWjlNYkI3eE0weUJzRVJIMmFyeUREWUo4Zjc2Yi1hQzFncEFDd1I5RWpLVkJPaXhBaGEwMGNhTXlzekhTem0xVE9q?oc=5",
+      "source": "Excite エキサイト",
+      "published": "2026-07-07T03:15:00+00:00",
+      "summary": "KING OF TIMEを提供するヒューマンテクノロジーズ、Claude Enterpriseを全従業員に導入 Excite エキサイト",
+      "id": "4419e63e19706675",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -223,24 +247,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kemk4dTUxdnlUek1ZZ2Z3NDhmRXQtSWdNc0gwYWExdWVfRDNvSGMxWkVLNEtVSVg4eXBOWk5ZMDc3ZU9zaUdSUEYybkozbWRkS3ZmTXNDSWNJSDZKSElHeGdwZUFMdkNNTnVwbA?oc=5",
-      "source": "ITmedia",
-      "published": "2026-07-07T00:48:03+00:00",
-      "summary": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用 ITmedia",
-      "id": "d02094f1b7d312eb",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「Claude Fable 5」が復活しても「Claude Opus 4.8」を使い続ける5つの理由",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMXBnNlpOYXNHMXdrQ3ZYZ1NITFdVdGpqOVpYVGFLVy1Cd0VHaEJyekZTN0NiWGppbGR5c3ZqVGZrX0hnaGEwUDBIbm1xQ0gzUFFXM3J2S2RDekVITTNFcTU5NXRIN1kwMVNwUVRLWnFMRVBDaVFsbW5zMzBFTVE?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-07T00:44:00+00:00",
-      "summary": "「Claude Fable 5」が復活しても「Claude Opus 4.8」を使い続ける5つの理由 Yahoo!ニュース",
-      "id": "391fddd99dfa6ef7",
+      "title": "音声解析×生成AIで作る次世代メンタルケアロボット“Care Cubeインサイト”提供開始〜音声解析AIを検知する技術から行動変容を促すサービスへ〜 - 株式会社サウンド＆ヴィジョンテクノロジーズのプレスリリース",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wM243MkRBUTFqTTlCS1YyV0tZeS1fYkQ3b2VXc1JQYURUZTRTS0JrRExXdUFaNWQwY01rMGNxVV80QmpERURKNVdrb0lKZUx1NlNVT1Nlc3d2QzA?oc=5",
+      "source": "valuepress",
+      "published": "2026-07-07T01:00:00+00:00",
+      "summary": "音声解析×生成AIで作る次世代メンタルケアロボット“Care Cubeインサイト”提供開始〜音声解析AIを検知する技術から行動変容を促すサービスへ〜 - 株式会社サウンド＆ヴィジョンテクノロジーズのプレスリリース valuepress",
+      "id": "17b1bccee2d99ae1",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -292,18 +304,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【2026】NEWSセトリ！LIVE TOUR 2026 /// KMKセットリストを随時更新",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZVWdPZWgzMjVzUW5TV1JDc3k3b2d6dGFNTXNrejdIQjFqYjdMUzA2QWx0YjdyQmM5S2J6clptZW01bGw2WHRCSUlZUUhGemJhZW1zZGVWTQ?oc=5",
-      "source": "UtaTen",
-      "published": "2026-07-06T09:58:00+00:00",
-      "summary": "【2026】NEWSセトリ！LIVE TOUR 2026 /// KMKセットリストを随時更新 UtaTen",
-      "id": "ed8afee70a4d327a",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -400,30 +400,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【最大4,000万円】共同輸配送や帰り荷確保等のためのデータ連携促進支援事業（中小物流事業者の労働生産性向上事業費補助金）とは？共同輸配送・帰り荷確保を支援する補助金の対象・申請方法|使いたい補助金・助成金・給付金があるなら補助金ポータル",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGcktVOGVpZ2xVdmxrdjUtaDBFa3hkSjVGbWVoWnJjb1h4XzJScnJDRE5iSlhaS014T2VyZ21BRTk3M1MwclV3RkotbWJsS2I3c3dqWjd6eHJSMUtfNWhRWElDS2JtblFXc0FnUQ?oc=5",
-      "source": "補助金ポータル",
-      "published": "2026-07-06T02:00:00+00:00",
-      "summary": "【最大4,000万円】共同輸配送や帰り荷確保等のためのデータ連携促進支援事業（中小物流事業者の労働生産性向上事業費補助金）とは？共同輸配送・帰り荷確保を支援する補助金の対象・申請方法|使いたい補助金・助成金・給付金があるなら補助金ポータル 補助金ポータル",
-      "id": "8dd992454d5523c7",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Stayway、香川県へ自治体向け補助金DXサービス「補助金クラウド for Gov」を提供",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tcm10dHBIcnE0V1VtTWdGVlhIdk55cWR1Tm5RSDhFdnlyVF8wQ1FCSG0yM2VBcVRPMEU3QmlKci14RmJONnRkRm5Gb3pyalVLeWdfUGQ5ZWhWdXhYUG9CbjhaTWF5VDNsMkE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-05T23:00:01+00:00",
-      "summary": "Stayway、香川県へ自治体向け補助金DXサービス「補助金クラウド for Gov」を提供 PR TIMES",
-      "id": "2c2c3b996db75a34",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -568,18 +544,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "カンボジアの武道家たちがベトナムに到着し、MAD7ツーリストアリーナでの試合に臨む準備を整えている。",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0VsZFZJQk5HZ3N5VjM5bzhnemRnWXcxamlxSTBIQUlqRlZwelVLZDNxdk5YRGg5YjlJaThBd0NZMi1XYVA5cXNRZUdfbS01eF9qTy1fdGlZMWxiMXNENmhoNWQ0TWQzWGtGZnNkVEV6eDBpRmJ2UUZodWJVdTlMekloUzRhNjUyZ0dxYUZ0Qjg4Y19GNW1HVkdfUFY0ME1rNnZJ?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-07-04T23:59:32+00:00",
-      "summary": "カンボジアの武道家たちがベトナムに到着し、MAD7ツーリストアリーナでの試合に臨む準備を整えている。 Vietnam.vn",
-      "id": "b31eb6a12183d770",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -811,18 +775,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょん甲子園チケット倍率・当落結果｜一般発売は終了？取り方も解説【2026】",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IV0FSOVhGa3BIQTUzMVBfSnZkRlVOdUZUUlVwSUo2d1VIeVdRbFR4UjljeWNtUmp2NDZQamNrdF9uN29fdU4zbEtfZGg?oc=5",
-      "source": "lignea.co.jp",
-      "published": "2026-07-03T08:47:57+00:00",
-      "summary": "あいみょん甲子園チケット倍率・当落結果｜一般発売は終了？取り方も解説【2026】 lignea.co.jp",
-      "id": "b9bd75edf9f697bc",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "日銀会合後、原油高で日本経済・日本株はどうなるか 注目材料と当面シナリオ 野村證券ストラテジストが解説",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCUVRqMUR2MWRMbFZkbDRsUjNQdnpPZXdWOW1LR3FGTUZZcFFPakNEUElXN1ZGMVRHSjhvcUY5TXJVbGxIRVR2dFNUM1B6b1BwazZiSWRJUURZNWdvbnlv?oc=5",
       "source": "nomura.co.jp",
@@ -853,6 +805,30 @@
       "published": "2026-07-02T12:00:00+00:00",
       "summary": "what happens NEXT 岐路に立つ日本経済 金利3％時代の財政運営 「骨太」の財源は？「ボーナス期終了」に注意？ テレ東BIZ",
       "id": "117cf0abbf90cd86",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【保存版】全国の企業が選ぶ！補助金支援に強い会計事務所TOP10【2026年度最新版】",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9meEk5eFlZbV90dWVRTG45X2ZjZ0JLX2g0NVlLNDVDX3RhZ1AwN283LTFtaGcyUDZUNzdCSjFaOEtCT3UtZEpuUmFiTS1qTTNoRUswSzZteV9hcE84N0FyZm0yNm9PcXFLTmc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-02T07:00:02+00:00",
+      "summary": "【保存版】全国の企業が選ぶ！補助金支援に強い会計事務所TOP10【2026年度最新版】 PR TIMES",
+      "id": "c1dae5ed2a95bddd",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【補助金】新事業進出・ものづくり商業サービス補助金の第１回公募要領を公開【申請受付期間：8/31～9/30】",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jT28wWThZWDhjdDF1bTlZeVpUT0NyaUNYY3h4bVFxZDBYbnR6STREOWNUWXdSS3ZpaVp3ZlNNZ005UV9YdzNmZ2FNSGttZWUzV2tBcVVYUHk?oc=5",
+      "source": "中小企業庁 ミラサポplus",
+      "published": "2026-07-02T07:00:00+00:00",
+      "summary": "【補助金】新事業進出・ものづくり商業サービス補助金の第１回公募要領を公開【申請受付期間：8/31～9/30】 中小企業庁 ミラサポplus",
+      "id": "49dcccc576fc2f27",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -1063,5 +1039,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 83
+  "count": 81
 }
