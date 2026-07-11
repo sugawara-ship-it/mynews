@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-11T14:52:13.040563+00:00",
+  "generated_at": "2026-07-11T16:08:18.113649+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 6
+      "count": 4
     },
     {
       "name": "経済・ビジネス",
@@ -112,18 +112,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "長期金利上昇は「ショック」なのか？ 高市政権「骨太の方針」（原案）が経済再生の第一歩になる理由（ニューズウィーク日本版）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96ckZob3hya3JiNUppUHNpbkRyOEE0MGpkOWpoOEY1S2htSUxZcUozX2JPSUR4QzhxQzhDNGJWX0VqS3h3MzVNeUdwSkdoSEVBZ05YS2kwQ1l0VkhEa3ZyRGtLaDdCaU1EUnE1dlloQ0Q1QXFzemxqNXNBNWdyeWc?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-11T08:01:04+00:00",
-      "summary": "長期金利上昇は「ショック」なのか？ 高市政権「骨太の方針」（原案）が経済再生の第一歩になる理由（ニューズウィーク日本版） Yahoo!ニュース",
-      "id": "ebd46ea164955f2f",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -229,9 +217,9 @@
       "published": "2026-07-11T01:30:01+00:00",
       "summary": "株式会社if、Claude Code伴走研修でセミナー動画の30秒ダイジェスト自動生成を構築支援──全国規模の中小企業向け事業協同組合で未経験メンバーが運用開始【導入事例】 PR TIMES",
       "id": "aac0a57b31f5cb55",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -280,6 +268,18 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "全自動で口パク動画をClaudeで作ってみる 【Macで生成AI動画作成】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WVEd6Vmw0cktlYWVuRVU1VnV5R1RVUTZpakNDTzhTVnN4TzYtdjdxaVVZcDRDLVdULTlITENhaDVSV2EyYlRfTjVQakRUM3diVWI3WnBjTQ?oc=5",
+      "source": "london3.jp",
+      "published": "2026-07-10T22:02:00+00:00",
+      "summary": "全自動で口パク動画をClaudeで作ってみる 【Macで生成AI動画作成】 london3.jp",
+      "id": "572478af6a14f89e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -355,12 +355,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 那覇」7/30(木）開催",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OSFVNWXN3YWFheC1TNHItTHdEYVNqUVZ3NU9vMjZickJ2R2tpVWFHUFlLSWdrX0YwaXRpNERfalNlRXU3QzZEMnc2SnZNNklzcHp0dnhMUDY0Q1hzV1BaU3d4Yk5laWthV1ZSMm91S3RlcDFHd1BySEFR?oc=5",
-      "source": "イザ！",
-      "published": "2026-07-10T10:44:12+00:00",
-      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 那覇」7/30(木）開催 イザ！",
-      "id": "0c4bd25e2f499881",
+      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 高知」8/4(火）開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5malMxM3k4ckZPbXdScDBRWVRJa0NJaE1KT0RVbWZWWVQxM3p5ZVFRRmlJaWJZZUJWWWViNm5wQVNiS0dSMHRRdUNvZGZ1LUpKT1BVV3F1U2lJdUpERXFZeWJLVVU1UlhHWlE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-10T10:54:55+00:00",
+      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 高知」8/4(火）開催 PR TIMES",
+      "id": "0445f88821d3a0b1",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -412,18 +412,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「SCS評価制度」を見据えた中小企業のセキュリティ対策、No.1が「SECURITY ACTION二つ星」の宣言・運用を伴走支援するコンサルプランを提供開始～専門人材不足の中小企業へ一気通貫サポート～",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91Q3FaSVBwbE1XLUtDS0xwRFM5dTJyc0xXcU55WERCYlExa1ZTRV8zVmtJQW53ZHhxcTM4dGVyU1RmRDk2Z2NnUHZ5bUdTeUh0UVFwQXhDdDg?oc=5",
-      "source": "日刊工業新聞",
-      "published": "2026-07-10T07:04:38+00:00",
-      "summary": "「SCS評価制度」を見据えた中小企業のセキュリティ対策、No.1が「SECURITY ACTION二つ星」の宣言・運用を伴走支援するコンサルプランを提供開始～専門人材不足の中小企業へ一気通貫サポート～ 日刊工業新聞",
-      "id": "06c3568ee08ef570",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -523,6 +511,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "全国の中小企業の温かい想いが子どもたちへ届く「子どもたちに音楽を届けるプロジェクト」",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fdmhWbEc4dGQ5UXJ5dFJfSU1DTmtIMDFncUkxRnBrbGxFNXhBcWV1MFE3NUhSQkRxd21GQndjR2FxLVl1dnFQVHZIUGt6U3J5bGlycURwdjl0OVpsNUkzOXZrZFkyb3RIbnc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-10T02:47:42+00:00",
+      "summary": "全国の中小企業の温かい想いが子どもたちへ届く「子どもたちに音楽を届けるプロジェクト」 PR TIMES",
+      "id": "62b2665a3f5ad411",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "『東武鉄道 presents ANIMAX MUSIX 2026 supported by Lemino』横浜アリーナにて11月20日（金）・21日（土）２Days開催決定！",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zTjU4c2VpdWt4TXo2TlBxbktlMFFRVTZ4Q0Vtd0JHb1pDc0hyaGhLcFR1Zmp5MDlxdjFXV25mcXFCZnhaSVZIbTNMWHZFR0VSUkdXZ0UzQlI1ck9ITFgtVkllVXRyOVZZ?oc=5",
       "source": "ニコニコニュース",
@@ -532,6 +532,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIで教育機関運営のDXを支援するGMOメディアの2サービスが、「デジタル化・AI導入補助金2026」の対象ツールに認定【GMOメディア】",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFNlNOLWNhTi05SFpvdHNKVEJ6Y2tOVjFpbkZfZTJkYktYRVdoVFVNaGpSUDhwNDVwQmkxSl9jZ0tjZGRvODNaQlJJWE1FQzhIYmVnMGNKaXRaSUl4c3hLcng2ZU96bzRVdFE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-10T01:00:02+00:00",
+      "summary": "AIで教育機関運営のDXを支援するGMOメディアの2サービスが、「デジタル化・AI導入補助金2026」の対象ツールに認定【GMOメディア】 PR TIMES",
+      "id": "4d4fd3c65e34bcff",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -595,6 +607,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "材木座 「やまぼん」初開催 20日 光明寺で盆踊り",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53bzRZc0VfU3FyZXhBUExkSTVic2dvQWpCN2dYRlczanhOejdwYzBKZHM3RFFQT1M1VGV0ekhYR0pXUEU3SUtQZUpabzlacW5xdk44UkhfUm9BclIzWGcwdklNa3E?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-07-09T15:00:00+00:00",
+      "summary": "材木座 「やまぼん」初開催 20日 光明寺で盆踊り タウンニュース",
+      "id": "b36bc38bdb1e61c0",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "鎌倉インテルが8月11日に地域交流イベント「クレスタ夏祭り」を開催 選手も縁日でお出迎え",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16ZnBuYVRyanNGaVRxS0pRZExaeGtWRUxXekE5LTA0VXZNcE41OGJMNGxMaGctYm5lNFZKN0I1UDVQQVpVZzZ5UGNjT0lmVzdUN2RQMmk5b3BiaGJaeVZrdEszSVM?oc=5",
       "source": "タウンニュース",
@@ -619,18 +643,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "材木座 「やまぼん」初開催 20日 光明寺で盆踊り",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53bzRZc0VfU3FyZXhBUExkSTVic2dvQWpCN2dYRlczanhOejdwYzBKZHM3RFFQT1M1VGV0ekhYR0pXUEU3SUtQZUpabzlacW5xdk44UkhfUm9BclIzWGcwdklNa3E?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-07-09T15:00:00+00:00",
-      "summary": "材木座 「やまぼん」初開催 20日 光明寺で盆踊り タウンニュース",
-      "id": "b36bc38bdb1e61c0",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "光明寺で7月20日に初開催するイベント「やまぼん」の実行委員長を務める とまそんさん（本名：林陽介） 材木座在住 45歳",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15TElEei1Pd1NuNmtodEY1cmdBUGJjTHVocmZMcG1hVzgwWFhSVm9aVF9pcy14blY2LWFCUXd3azcxUm5lNTV1MUs2SGw0ZU9oN2NvZWg4VEp2SlZ3T3NoQnhLLWk?oc=5",
       "source": "タウンニュース",
@@ -649,18 +661,6 @@
       "published": "2026-07-09T11:32:40+00:00",
       "summary": "11月21日(土)「東武鉄道 presents ANIMAX MUSIX 2026 supported by Lemino DAY2」に、いきづらい部！の出演が決定！ lovelive-anime.jp",
       "id": "075a8a56de04bd8f",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "アニメミュージックの祭典『ANIMAX MUSIX 2026』11月20日・21日 横浜アリーナにて開催 最速先行チケット7月10日より受付開始 第1弾アーティスト解禁",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SNFNGdGkwNDVZZm1lYUFLa3daYkMtZVFCUWxnTFJ5Q1pLRzNITTFSeGJzUTg3WVpSQjItdWF3Sl9wdlREaVd3VFJucm8tb3B5YTY2eWpiQlRVdw?oc=5",
-      "source": "uzurea.net",
-      "published": "2026-07-09T11:30:24+00:00",
-      "summary": "アニメミュージックの祭典『ANIMAX MUSIX 2026』11月20日・21日 横浜アリーナにて開催 最速先行チケット7月10日より受付開始 第1弾アーティスト解禁 uzurea.net",
-      "id": "215af783516702e8",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -727,6 +727,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "Aぇ! group「皆で最高の景色を見れるように」　新体制初のツアーで誓った夢、ファンと共に歩む不屈の旅路",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SakRUaDJ5Sm5tcjZGVG5xZ0R4cVRBTmVRdWhLVGxxbFItRlgteDRrM2pvNi1fa1FYVFg0M0s3NW9IQkVEMF9sbXJQUHdPdGJFT3ZkNFZROFNXQdIBX0FVX3lxTE40S0JUclNlU2dNNWc3Ym1GSFlpR0loN2l1UHhJMGhqR25mMHY5OVVnMloyTjlUb2RCVXRyR0NQSGRIb1lwYi1oa1dsVXFSdEVxUTBJVEhKSlFlakRIenNn?oc=5",
+      "source": "Real Sound｜リアルサウンド",
+      "published": "2026-07-09T09:00:42+00:00",
+      "summary": "Aぇ! group「皆で最高の景色を見れるように」 新体制初のツアーで誓った夢、ファンと共に歩む不屈の旅路 Real Sound｜リアルサウンド",
+      "id": "26e61cf5c0ed9106",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "長期金利上昇、木原官房長官「きわめて高い緊張感もち注視」",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DRm1aV01hX0xVVFkwdXdXa0dNMXRIMWRsVUxaaFdxbmZRMmUtUnBLYmVOTXAybGdWRUs4cGJqem1HcDZsR3czZlNkbE1uNVdsYU9EaXduWGlzaXhuWkl6VVBkc01RNTdaQ2JwSQ?oc=5",
       "source": "日本経済新聞",
@@ -748,18 +760,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "長期金利3%うかがう 5年債入札「無難」でも消えぬ不確実性",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxYkh4VEpndjhkd0pWd0NRRG13a3lZWFpZT2wyQnRZQzZOdG5lT1BaVU5rWjRyUEdUYkNSR01JZW9RUWF6OXdhNlRJWkJHd2JneWNXSl9xaHR5anpBZVk1WGE2LTBlZlBkUktBeQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-09T07:04:36+00:00",
-      "summary": "長期金利3%うかがう 5年債入札「無難」でも消えぬ不確実性 日本経済新聞",
-      "id": "872622febe445100",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -812,7 +812,7 @@
     },
     {
       "title": "武道に向き合う参加者に和菓子をお届け 創業50周年の明日香野が「中国地区昇級審査会・合同稽古会・RF交流大会」に参加",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZb29yQXBVeXNTRXRFNjJ5QXRzamtYWnY1cjc0amJHeVpWcEhJX055dHM3Mkc4THhxSlZIZTE3bWFEeC1zQUlwVm9hNnRYREFQVE1HNGRkWnBiQ29TaXQ2dXJHaUdiNVA4UnBmYlRpbUxYZUt4a3BCcy1n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tNkhtQnRrY2ZKbHRWRngtckNXWG5WSFpqTUpyOGZKNERNVWNWaHhQbkJXRTh4ODZncDJlUTVURGJyWldPUWV5V1kwYlVod0N4bHdlSA?oc=5",
       "source": "ニコニコニュース",
       "published": "2026-07-08T01:03:26+00:00",
       "summary": "武道に向き合う参加者に和菓子をお届け 創業50周年の明日香野が「中国地区昇級審査会・合同稽古会・RF交流大会」に参加 ニコニコニュース",
@@ -967,18 +967,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "武道・格闘技に打ち込む選手が和菓子で和やかなひととき 創業50周年の明日香野が「道着MMA交流大会」に参加",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BajgyRmx0RWNNc3pQdDVtb1NWR3ppNWNDR3RUM01PWGlfejhLUHMxdVoyaXZuZXltYmM2RmJUeWJSUldTX05MVzdxbDY1Q1FTSEV0Wg?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-07-03T01:03:32+00:00",
-      "summary": "武道・格闘技に打ち込む選手が和菓子で和やかなひととき 創業50周年の明日香野が「道着MMA交流大会」に参加 ニコニコニュース",
-      "id": "9574f2cd573ac547",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【品川区】模擬店・盆踊り！品川学園「しなフェス2026」7/19(日)開催♪",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RYl9SWUR3NGdOdkVuMHEycUxIQzNUNFlsVkNKTU85eTVURVlfLVk2dk9SZWxxcXpvcjk2eEJZUlVkMXpBQmVtbUxDeFNpRlJXd0t6dEw1VEsteXhad2tzWWlvTVk1UQ?oc=5",
       "source": "号外NET 品川区",
@@ -1015,18 +1003,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ダナンで開催された人民公安軍事武道・スポーツ競技大会の決勝には、4,700人以上の兵士が参加した。",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRy1LWTRvVW5wV05ncjRSX2cyU3E0WW9NckF5SG9Tc0Rscm9YSGpDZ3dXX29rSHJUcG9EbmwzSExSd1hFV3VqSktMNDFfNXJ2WHRPRktqSVM0T0lvMkJ0MEd2VlVxUnZWSHNpNjhVTjUyMjYwWXdzMWQxTEJ0SE1VTHAxbWUwM0thS2hzaGk2R3cwZ21Xa2loc0lTazlxMV9YMWFxSkRoU3VnSjNvZXIwOWZDTFVJdWJPdkxDaXlHdzRZNUs0LWlfdy1B?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-07-01T07:00:00+00:00",
-      "summary": "ダナンで開催された人民公安軍事武道・スポーツ競技大会の決勝には、4,700人以上の兵士が参加した。 Vietnam.vn",
-      "id": "46fc385efa4ca422",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "禅道会 総合武道セミナー＆体験会(福島県)の情報",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jczQwSElRSngwTWFKcTVUYzQ3Wm0wM2RiRWFEdGx0QnlDVWdUUUNZaDFIME1sVmRTLWplM3FsMGVVN2RqUmFkR1pOTUFLckN4YjFTOEJxRFB2QUE?oc=5",
       "source": "ウォーカープラス",
@@ -1051,5 +1027,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 82
+  "count": 80
 }
