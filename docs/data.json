@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-11T17:49:34.961481+00:00",
+  "generated_at": "2026-07-11T19:04:57.478260+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -66,6 +66,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Claudeは100万行の移植をどう検証したか、BunのRust化が示したAI開発の実像",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zZnhlQjJQUjluM0ZQOTd3cmNsR2phVUFiUTR3Vk9NUlFtQlMtMkFERGt5cFJvdlFTNjNpbEJvVWI1NFdNNHMtVzlGdmxlY2oxQS12NkgwOC1jUQ?oc=5",
+      "source": "XenoSpectrum",
+      "published": "2026-07-11T18:12:43+00:00",
+      "summary": "Claudeは100万行の移植をどう検証したか、BunのRust化が示したAI開発の実像 XenoSpectrum",
+      "id": "4942a5589146f9d8",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "メタ、AI計算基盤の自社構築へ——Anthropicの「Claude」を直接運用か",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NWkhxWFUxVjkxZFplZ0MzTDZvVTlsR2wwQmJtbi1UNWRfblFJVEstS25CU3JhZ2x2UVRkYWQ3Nml3S0JpeVlJY1hxRmFjRmVPOGZRYVlWZFVfcGtYV2hzd3AxT3dYWEhUY1NDVkhHcjkyZldV?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-11T18:05:00+00:00",
+      "summary": "メタ、AI計算基盤の自社構築へ——Anthropicの「Claude」を直接運用か BigGo ファイナンス",
+      "id": "c33f7d307f46f53b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "イーロン・マスク氏、アンソロピック批判を撤回",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSG9uaGh1SVY4UXBNNUtPcUlEMDEtZTRON3BXQXhTYzNvenpnU0VCN0tqMC1NbS1wQTVDSDdyakQta3h2VFJTQ09yMklVc082UUctVVE5c2MtUXotcE5qSEN6d2dHeTQxQUlEXzJZOWg0NjhBX0g4S2xVRTMtRDBIcA?oc=5",
@@ -235,18 +259,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "メタ、公開Instagram写真をAI画像生成に利用する新機能をプライバシー批判で撤回",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iblJ0Qjh0Y0ptNXdYelNjdHlwU29MQ0ctaEU2WU5pSHBJa01reEdZdUhXNENMeXdMUzg1SF94MF9xcW5mc3VXLXpfMXAzWGtHa3Ezb3hjcHlCaFl4ZFRBd1Y0eWxZRTFNbmVEa3pqY3VKZk1i?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-07-11T00:05:00+00:00",
-      "summary": "メタ、公開Instagram写真をAI画像生成に利用する新機能をプライバシー批判で撤回 BigGo ファイナンス",
-      "id": "ed8986838c585c3e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【品川区】模擬店・盆踊り！「第四日野小学校」で品川区民まつり7/25(土)開催♪",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4QnBIYkNwbGZwcUZIOXNWNV9yMnE1QkgtWHo3UV8taVdFM05SeF9rU0tFQk9OYXJTdW5hMk85RHNXaUpjTlNqUW0zb0xQMGRkTE1NSFRxRWZaQ01hU3dvN3prMA?oc=5",
       "source": "号外NET 品川区",
@@ -256,18 +268,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Codeデスクトップアプリにアプリ内ブラウザが登場、開発効率が激変",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaMjZuX0F2ZldWZm1EclBfRk02ZlRnQ0dFbElEUWpXanNEeC11WkswMS1WNDl2clBqaVQzNXFON29XRWE4Q3NqUEN5cWNUdWJPMjh5bFZTbw?oc=5",
-      "source": "x.com",
-      "published": "2026-07-10T22:13:01+00:00",
-      "summary": "Claude Codeデスクトップアプリにアプリ内ブラウザが登場、開発効率が激変 x.com",
-      "id": "b90b16a6416292a3",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -388,18 +388,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「SCS評価制度」を見据えた中小企業のセキュリティ対策、No.1が「SECURITY ACTION二つ星」の宣言・運用を伴走支援するコンサルプランを提供開始～専門人材不足の中小企業へ一気通貫サポート～",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91Q3FaSVBwbE1XLUtDS0xwRFM5dTJyc0xXcU55WERCYlExa1ZTRV8zVmtJQW53ZHhxcTM4dGVyU1RmRDk2Z2NnUHZ5bUdTeUh0UVFwQXhDdDg?oc=5",
-      "source": "日刊工業新聞",
-      "published": "2026-07-10T07:04:38+00:00",
-      "summary": "「SCS評価制度」を見据えた中小企業のセキュリティ対策、No.1が「SECURITY ACTION二つ星」の宣言・運用を伴走支援するコンサルプランを提供開始～専門人材不足の中小企業へ一気通貫サポート～ 日刊工業新聞",
-      "id": "06c3568ee08ef570",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -541,6 +529,18 @@
       "published": "2026-07-10T00:00:22+00:00",
       "summary": "『東武鉄道 presents ANIMAX MUSIX 2026 supported by Lemino』横浜アリーナにて11月20日（金）・21日（土）2Days開催決定！ PR TIMES",
       "id": "b193252a42b9e251",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "『東武鉄道 presents ANIMAX MUSIX 2026 supported by Lemino』横浜アリーナにて11月20日（金）・21日（土）２Days開催決定！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zNkM4UGVNVU13RWdQMEZ2MmEteWFxa2NtcUEwbnZlclNhc2RHdFctYldMZHpVdDhydEpNbTFCZ1Q3RW5wVW04NVIzc1o1QkczbndaOTNXMVZYalU3YjRXTXMxeHlON2c4VFE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-10T00:00:01+00:00",
+      "summary": "『東武鉄道 presents ANIMAX MUSIX 2026 supported by Lemino』横浜アリーナにて11月20日（金）・21日（土）２Days開催決定！ PR TIMES",
+      "id": "52e254557ea6aaa3",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -727,6 +727,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "世界で長期金利上昇、「中東発インフレ」再び 日本は30年ぶり2.9%",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96QzJDN0Q0cDhUX0dETXlfZG80Vml4R2o3Mm5uU1JVT0Nybjdqc2VkOTlBWnB3T2NxazdpQTlZeWJidGhidGxlYVpfYzEzZHZqdksyaURhbmdGRlNrYWcyZ1lwUi1oLWtaSW9oVg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-07-09T10:19:28+00:00",
+      "summary": "世界で長期金利上昇、「中東発インフレ」再び 日本は30年ぶり2.9% 日本経済新聞",
+      "id": "cc241d19f90606d3",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Aぇ! group「皆で最高の景色を見れるように」　新体制初のツアーで誓った夢、ファンと共に歩む不屈の旅路",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SakRUaDJ5Sm5tcjZGVG5xZ0R4cVRBTmVRdWhLVGxxbFItRlgteDRrM2pvNi1fa1FYVFg0M0s3NW9IQkVEMF9sbXJQUHdPdGJFT3ZkNFZROFNXQdIBX0FVX3lxTE40S0JUclNlU2dNNWc3Ym1GSFlpR0loN2l1UHhJMGhqR25mMHY5OVVnMloyTjlUb2RCVXRyR0NQSGRIb1lwYi1oa1dsVXFSdEVxUTBJVEhKSlFlakRIenNn?oc=5",
       "source": "Real Sound｜リアルサウンド",
@@ -796,18 +808,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【timelesz（タイムレス）ライブレポ】8人の絆と“美”に沸いた横浜アリーナ7月2日公演を詳細レポ！",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RQXhzUWdJcXZuaEFKTEJWeTNfSDRnVWRPRnRHV1dZdGE1OEVFZDlNWWV5Z0lveXh1OVpiS0tFSl9UVktRSF9HMGt3WDVlUkdyRE94Yw?oc=5",
-      "source": "MAQUIA",
-      "published": "2026-07-08T03:30:00+00:00",
-      "summary": "【timelesz（タイムレス）ライブレポ】8人の絆と“美”に沸いた横浜アリーナ7月2日公演を詳細レポ！ MAQUIA",
-      "id": "80af34bf9119d249",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
