@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-17T04:24:31.166545+00:00",
+  "generated_at": "2026-07-17T05:24:55.125596+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 1
+      "count": 2
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 9
+      "count": 10
     },
     {
       "name": "経済・ビジネス",
@@ -67,11 +67,35 @@
   ],
   "items": [
     {
-      "title": "AIをすべての人の道具へ、ChatGPTでもClaudeでもない「仕事を終わらせるAI」の正体に迫る(東洋経済オンライン)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXVjZ2NIeUFuNW0ya3ZWUDMzVHFiZmd4X0RwX2NqVU8wT192cENvNzg3VVpuVDBncW1JUWx4UE1mWFNLd1F2Q1h0QjRXczZmQ3M3bm12NzNNLTNRXzB3VGZyUjJ5YWE2UzRRY3VRdmdySDQ2X1hWYmdZSldESEhPSmlxd0cyZzA?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-07-17T04:00:00+00:00",
-      "summary": "AIをすべての人の道具へ、ChatGPTでもClaudeでもない「仕事を終わらせるAI」の正体に迫る(東洋経済オンライン) Yahoo!ファイナンス",
+      "title": "全国武術選手権大会には、600人以上の若い武道家が参加した。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenlRRkROMVZfV0pDeVAtaWJBTW53bmQwcXRxUlZPS1R6MDB4a3JqLV94YVdZVmVMNWk4Y3RKVU9xY00tSlE2YzZCWTdDZ3BkWUtGcXQ5SEVIZHFhVl9LdnlFbklzd0h5enlSOUphRHNlOWgwcUFvUk5nRGNCeWZtdnpkOU1OazlleUhJRUt3?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-07-17T05:18:19+00:00",
+      "summary": "全国武術選手権大会には、600人以上の若い武道家が参加した。 Vietnam.vn",
+      "id": "30ef627901e7fd95",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIエージェント導入の壁はモデル性能ではない─Anthropic幹部が説く、AIを生かすシステム設計の現実解",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EOWdXbFhNN05NQjdKSVJNamFtaWdwaEpPTDVEMmxMa0s4Sl9kQkM4ejRKbEdPNk1PQmlzYl9Sem1CYTRQSE0ycDJydXAzMTdPSU1B?oc=5",
+      "source": "IT Leaders",
+      "published": "2026-07-17T05:00:06+00:00",
+      "summary": "AIエージェント導入の壁はモデル性能ではない─Anthropic幹部が説く、AIを生かすシステム設計の現実解 IT Leaders",
+      "id": "12c1d933c1fc4b87",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIをすべての人の道具へ、ChatGPTでもClaudeでもない「仕事を終わらせるAI」の正体に迫る（東洋経済オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sTGhBaEVGbEpfNVVWV2w5VlBCMXFva2wzYmVlLXhua0tHaDFWVFBkeXBPazZOVEVhaEJGOVBwXzRPRVg2bkVQbHBpMk4zb0hrRUtJM18tclNQcUsxNF9GdTdxY0hLVTVPVUJNd0tkQ3JScjdBbnRrdDdJZVl2cVk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-17T04:00:38+00:00",
+      "summary": "AIをすべての人の道具へ、ChatGPTでもClaudeでもない「仕事を終わらせるAI」の正体に迫る（東洋経済オンライン） Yahoo!ニュース",
       "id": "2d0c6b6cbafa7305",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -133,6 +157,18 @@
       "published": "2026-07-17T02:21:58+00:00",
       "summary": "プレスリリース：［無料オンデマンド・ウェビナー］配信開始！「生成AI時代だからこそ身につけたい 他社と差がつく情報収集・利活用ノウハウ」～予告編～（PR TIMES） 毎日新聞",
       "id": "9e746772e56f0ae4",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "生成AIはWikipediaをどれくらい引用する？Optyino.aiがAI回答42,689件を分析、回答引用率は19.3%",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yYzlCR2gtYm5Jc19sTHIybWcwaWhxS3Fhc0gtR1dMWFhESGdFOGlCU2tmSVlKdkdmMjZFTXF2VUFKbWpMWXl6VDJVY2FOeEpndW0zdzBZYTFxeXdJNDdBNjVCaVFJNHlJZFE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-17T02:02:11+00:00",
+      "summary": "生成AIはWikipediaをどれくらい引用する？Optyino.aiがAI回答42,689件を分析、回答引用率は19.3% PR TIMES",
+      "id": "a8a064692e2dcfc2",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -235,30 +271,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「建設業で3割がDXに未着手、生成AIの業務利用は3割強にとどまる」インフォマート調査：調査レポート（1/2 ページ）",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Fem9DbGFyRDlwM0g2UWhJaHFzWUhaSVBtc1RWUWZIRlJJTUp3R1BpRERZY0FWMEtUVWs0SmdHdTlFVlpvbENWb1FhV2s0R3h6V0F0b0NFRUhBUDdGb0VNVDJ5enprVnNfN2YtdQ?oc=5",
-      "source": "ITmedia",
-      "published": "2026-07-17T00:00:00+00:00",
-      "summary": "「建設業で3割がDXに未着手、生成AIの業務利用は3割強にとどまる」インフォマート調査：調査レポート（1/2 ページ） ITmedia",
-      "id": "cf8145a436e9a213",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「Copilot」から「Claude」に乗り換えて検証。WordもExcelも効率がガラッと変わった",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd1p0aEZqVHNlVzAydVF0MkN6NWlwbFI3a3doeGlVNlZGUWpwS1JMcElFb0htam9QNTNET2hUSkRuRTMtdGhyTW0tSGdJeGFyRXh6VXRsUlh0aTBUVkx5Ykdtc2R4R21sbm0tYnJkVVZZUjlXMzBEQmdDWlFwcTd0RlpvOUx3QzNfSGZ1ZnI1d0Y5VE0?oc=5",
-      "source": "ライフハッカー・ジャパン",
-      "published": "2026-07-17T00:00:00+00:00",
-      "summary": "「Copilot」から「Claude」に乗り換えて検証。WordもExcelも効率がガラッと変わった ライフハッカー・ジャパン",
-      "id": "39ae97a8428e51df",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Stayway、自治体向け補助金DXサービス「補助金クラウド for Gov」を奈良県へ提供",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xMU9MTFRDbjB2c2d6ekU3M1QtLVhGOHNrLWhpb2YxSU00d0czTmNMTkp5ZVNkSklwNkRJLWpTRFZka0t5X09RZGZqck1wYzY5WnhPZ0xMeWtoZWVFYzBNOVNfWlZuTmhZTkE?oc=5",
       "source": "PR TIMES",
@@ -277,18 +289,6 @@
       "published": "2026-07-16T22:43:29+00:00",
       "summary": "【品川区】「第2回 しぶパラーと展 in 品川」8/1(土)・2日(日)スクエア荏原で開催♪ 号外NET 品川区",
       "id": "397485ac4b3fc776",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【東京】2026年7月18日・19日・20日三連休の無料イベント9選 大規模フェス＆夏祭りも",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XT0FJQUJ2SFZOaUY5b2o1NTNWV3FkMVFzS2dFZ3FCcnF4N2JQV2FYdDFscEZLU3NDZFNUeGZjRFFHaDNWdndwRFVXLXFkVG1rbWc?oc=5",
-      "source": "いこーよニュース",
-      "published": "2026-07-16T21:04:38+00:00",
-      "summary": "【東京】2026年7月18日・19日・20日三連休の無料イベント9選 大規模フェス＆夏祭りも いこーよニュース",
-      "id": "28c4a3962d0e39ec",
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
@@ -824,10 +824,10 @@
     },
     {
       "title": "痴漢被害防止に護身術指南 品川女子学院で防犯イベント",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SbGZLUjk4SHpSZFhlbF9LamdyVncyNTJBNVFsQkRQc2VnX3VPNWY4cXpSX3dSQTQ1RE9taURaUEFROEU5RFZoOWdkdDBSQQ?oc=5",
-      "source": "静岡新聞DIGITAL",
-      "published": "2026-07-15T08:05:00+00:00",
-      "summary": "痴漢被害防止に護身術指南 品川女子学院で防犯イベント 静岡新聞DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGZDdMYUxkN2wzZ3BhZ25SWmctVXZhMTFVTUtiV21McGp3R2dRRmtmRmdqb2NlMXVPSEwtSjk0Sk4yeEtzbmJGR3pISQ?oc=5",
+      "source": "47NEWS",
+      "published": "2026-07-15T08:26:00+00:00",
+      "summary": "痴漢被害防止に護身術指南 品川女子学院で防犯イベント 47NEWS",
       "id": "f1c43763351167ab",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -868,6 +868,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入施設数が2,000を突破",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42U3VKZmFpOUpWdGEzZUNmQ2ozYUxIY0hmNS12Y3VXdlgwNUE2aHVBS0UyRXNGelg4bGFhU0E5a0pOcUJrYXVMVEc5ZzNLWlViNHVQY2U3akVoVmJlU3FYM3dvTDM0TnZoWFE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-15T02:00:03+00:00",
+      "summary": "商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入施設数が2,000を突破 PR TIMES",
+      "id": "d66218161936759f",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -991,6 +1003,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【品川区】心地よい音楽とお酒を楽しもう！品川本照寺で「人と麦と音」が9/5 (土)に開催されます",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2bHFXUncwMkVKR2ZXUmNlanN2OU1wdHV5bGd0UzVBOGU3SVNBVTJISTFxRWgyemRJdTFocTcyRkdEWUUyQ2RkS2h5WnNXTF9WQ0F1VFIxaUFLM3NzblVPRjlycw?oc=5",
+      "source": "号外NET 品川区",
+      "published": "2026-07-10T04:14:13+00:00",
+      "summary": "【品川区】心地よい音楽とお酒を楽しもう！品川本照寺で「人と麦と音」が9/5 (土)に開催されます 号外NET 品川区",
+      "id": "b22b8e06d86a910c",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "阪急阪神ビルマネジメントが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ENW1JRnRrNWJMOVBXeWlNOXM1QzFIUHI2U09ucG10SzRmY2VBTnh6SW1vYWtGVFR2eHJIQUJpS3ROcDNKOTM3VHdQMmJUcjZUVldJZzVrcGxFNnN6TnJrUzRYbDRYY3lSNi1GSnd1cFFTdkVt?oc=5",
       "source": "Excite エキサイト",
@@ -1051,5 +1075,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 82
+  "count": 84
 }
