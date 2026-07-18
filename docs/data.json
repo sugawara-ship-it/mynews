@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-18T19:25:35.524585+00:00",
+  "generated_at": "2026-07-18T20:41:43.485300+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -247,6 +247,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "LLMを活用したソースコードのセキュリティ対策 — Eugene Yan（Anthropic）｜AI Engineer",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeEVUbF9oeUNMd1hhUkFyYTkyUGtQcHNyb2F4VnYwUjE2eVpFd1NBRzZFS284b3VNWk1oNGphNFhFVTU0cTd3RE84MktsTmVhT1JRUjdWSWU5TzgyVGc?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-07-18T06:55:28+00:00",
+      "summary": "LLMを活用したソースコードのセキュリティ対策 — Eugene Yan（Anthropic）｜AI Engineer BigGo ファイナンス",
+      "id": "8b150c866bd6bcbc",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ChatGPTの利用制限リセット再び、4日間で3回目。Claudeへの当てつけ？",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XaEY0Tmd1YVhsamJfRXhTSWtpcUxrTVAxQ1Flb1huQTdsdFM1UmUyVEl3em9FYWJubU5DMnFqTVk1YUlSV01DUUg2RFZSZGtEeGk4d0x6THVuS2JBUF9VU2tXSQ?oc=5",
       "source": "PC Watch",
@@ -355,18 +367,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "MetaがAnthropicへの最大100億ドルの計算資源貸与を協議、成立なら外販事業の初案件に",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1RlhHSW03ZzdaclZucTVHMFp5bDJSVGVWUGFjaHp2a2FCdUdmMmE5N2g0SEFLRlJ6RmZ5ZVNPWDRNZDZrUW9JenlwOUdwVnR0aFg2NkVMUXhOaWNJNzdGQ1o3UVJ4aHJEQjMzSQ?oc=5",
-      "source": "XenoSpectrum",
-      "published": "2026-07-18T03:15:42+00:00",
-      "summary": "MetaがAnthropicへの最大100億ドルの計算資源貸与を協議、成立なら外販事業の初案件に XenoSpectrum",
-      "id": "874db048cd0d66d7",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "「ROIROM特別１面新聞」7月19、20日横浜アリーナ周辺で発売",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAteHZFSU1aT281b1VBTTFwT0llZ1NuVHMyaFJENjVzejV6SFV0Z2l6VG5WNk52WTRzc1NHMHVNZ1Y3ek15YXJnNW14bVU5SEU4RDdUcDJ5M0xqSmtjVExWemlSdVQ1T3JuRnc?oc=5",
       "source": "PR TIMES",
@@ -445,18 +445,6 @@
       "published": "2026-07-17T13:00:00+00:00",
       "summary": "由比ガ浜中 次年度向け説明会〈鎌倉市〉 ｄメニューニュース",
       "id": "1ca1e38a206b9002",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "書の妙味と温かさ　鎌倉で第50回記念國藝書道院展",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkE3aDIxdHJ3NzVBMkh5TnBkOE1iR3gyRWRPN0YxVEY3aEJfOU1PdlJCRHpjYUFTeVAya245eWpRMlJvbzh4bVBUZ3FjQ08wSXhPanZ1aHB2M3Zzd3NrOW1XX2RJWGJUYzRoMUxSeWEzbUNobnpsaGhZUk1Wd2Rwd2VzS2ZEWnFoU3RNWFRMMkQtOXNJS2o1UGhtelDSAaIBQVVfeXFMT29QMXd6VHJjeExhWmZ4VGhYcFJ0SDJJekVQQ1FkU2cwNWR4YXIxbGc1VWxHUk5QbzQ1QmdSN0FFRXZzdk1GTUx6cE9hMWUtM0Nsa2hyRkJwOWVic2kyeXB6dXRxZkNQcDItM3hNa0J2UGRQQ3Jrb3k2T2NEUHBnal94RGNCNVJKcDlxejE3ZGU0YzRZOHhIZ0JfYWE1RUZtM2pB?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-07-17T12:54:00+00:00",
-      "summary": "書の妙味と温かさ 鎌倉で第50回記念國藝書道院展 ｄメニューニュース",
-      "id": "a4a78685357ea07f",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -640,6 +628,30 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "高校生が全国に挑む 鎌倉から県代表続々と",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ENzY1MThERTVoUUNSOXNyRkRPZDlPOG9aQV9DMkMxS1YyMGFpUHp1YUFTajBWUTJzYWM3SWNFZU5uUzM1QlZ2MzNRX3BfN0E3VDhKc2NKMG1JQmhHQWxjUTVHTk8?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-07-16T15:00:00+00:00",
+      "summary": "高校生が全国に挑む 鎌倉から県代表続々と タウンニュース",
+      "id": "aa39a153cf7e0976",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "薬師丸ひろ子コンサートチケット2026一般発売いつから？取り方と確実に取るコツも！",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUjNwd1ptVV9peDBiNEx6LS1zZjhEZkxKWHNVZ0tzN2NGVUw2cFp1VS1oS1UxZjVtczZIa2F0SWp2NEcyUWdHcE4xN083OXVkLXVYR2x2a3pRZy1GcFNJZmNseXg?oc=5",
+      "source": "株式会社マーケットプレイス",
+      "published": "2026-07-16T14:25:00+00:00",
+      "summary": "薬師丸ひろ子コンサートチケット2026一般発売いつから？取り方と確実に取るコツも！ 株式会社マーケットプレイス",
+      "id": "b616b6744af4453b",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -928,18 +940,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【Aぇ! group ライブリポート】新体制で目指すさらなる高みへ ファンとともに未来を照らす熱狂の横浜アリーナ（WEBザテレビジョン）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYmx1WjNIM3BLSzJrQXVVM1hyc3E5N1VaTjFOUmhtR3JaUmY1OThOTFpBY1ZseUM0al9DYWdKeWM2cm8xQ0NpcUVVMExUYTIwUHdSZldGY0s3M1BYc3lmbWxRSVpfQXpnakI4MVhfY2VyMzJaTGItODdWRUJLTFE?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-15T08:37:00+00:00",
-      "summary": "【Aぇ! group ライブリポート】新体制で目指すさらなる高みへ ファンとともに未来を照らす熱狂の横浜アリーナ（WEBザテレビジョン） Yahoo!ニュース",
-      "id": "251e3b612aa5262f",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
