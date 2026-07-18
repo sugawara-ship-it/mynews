@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-18T17:31:23.377982+00:00",
+  "generated_at": "2026-07-18T19:25:35.524585+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -244,18 +244,6 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBORW5hWHV5V0VIQWdpU1hsaTFudXhYV21jMzdmd2RqeWNNeUx2VWtKVlh3emE4WXl4QlZlWGhCNlB5QkU4cXBETy1GYW42ZG1NTXFEUXVoSG5HU2NueEw4?oc=5",
-      "source": "kamagaku.ac.jp",
-      "published": "2026-07-18T07:26:19+00:00",
-      "summary": "ニュース kamagaku.ac.jp",
-      "id": "96b86e2f2f506d28",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -583,24 +571,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Stayway、自治体向け補助金DXサービス「補助金クラウド for Gov」を奈良県へ提供",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXeGN6VUhqaEt0dHNieEdZZ0lpNTE2N2pNRlByNGtjU0FpWWFBTGdfNUwwU3BKWTBRMzhsUGtadERqRTdJWWtnNmRTdGs5Z19vaFh1X3Vkdk9wNDA1N0pqQTBKYlpBN0J4MWRoRWwwbnByTUlqRXJKN1JROA?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-07-17T01:15:37+00:00",
-      "summary": "Stayway、自治体向け補助金DXサービス「補助金クラウド for Gov」を奈良県へ提供 ニコニコニュース",
-      "id": "d04f8ff6f67ce9ed",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "円相場、チャートは「三角もちあい」に 売り買い交錯",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JQjA4N2lvU3ZyNlhRYm5wc2VpTThuejE3dFFneW1vbGdTV3BISkw5dVo4X19pXzJMMEFLZjk4R3Y1WlJVSWo1SmctVy05NkYxbUs5Z0ZsWkRpaFpTNm9TTzI1WnFBQzdtaF9LRA?oc=5",
       "source": "日本経済新聞",
       "published": "2026-07-17T00:48:41+00:00",
       "summary": "円相場、チャートは「三角もちあい」に 売り買い交錯 日本経済新聞",
       "id": "206a8ec6a2358011",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Stayway、自治体向け補助金DXサービス「補助金クラウド for Gov」を奈良県へ提供",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xMU9MTFRDbjB2c2d6ekU3M1QtLVhGOHNrLWhpb2YxSU00d0czTmNMTkp5ZVNkSklwNkRJLWpTRFZka0t5X09RZGZqck1wYzY5WnhPZ0xMeWtoZWVFYzBNOVNfWlZuTmhZTkE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-16T23:00:02+00:00",
+      "summary": "Stayway、自治体向け補助金DXサービス「補助金クラウド for Gov」を奈良県へ提供 PR TIMES",
+      "id": "d04f8ff6f67ce9ed",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -639,6 +627,18 @@
       "id": "28c4a3962d0e39ec",
       "category": "地域",
       "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【神奈川】2026年7月18日・19日・20日三連休の無料イベント8選 大規模フェス＆夏祭も",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wRE1PUllGUkVZN2JVandfODNiaVp5V1lMaDE0X1hudHhMX1c0QWl4X3F0U0dhY0ZYWVFDcjZ2WnhzSUJhNE1idTVuVC1LZGttNnc?oc=5",
+      "source": "いこーよニュース",
+      "published": "2026-07-16T21:04:38+00:00",
+      "summary": "【神奈川】2026年7月18日・19日・20日三連休の無料イベント8選 大規模フェス＆夏祭も いこーよニュース",
+      "id": "e1245260ee4cdcaf",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
