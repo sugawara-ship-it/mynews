@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-20T19:49:50.913977+00:00",
+  "generated_at": "2026-07-20T21:22:20.586307+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 12
+      "count": 11
     },
     {
       "name": "経済・ビジネス",
@@ -70,12 +70,48 @@
       "title": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ7月21日（火）～7月27日（月）：葉山海岸HANABI、桜貝ネックレス作り、わんにゃんアート体験に注目",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdmZudlQ3T0lhaDBNSTlSYWxocEotUnJfdk8wNEVFX0RiakpRT0JhYWhibHNtUUhBdkt3d29IUkV5VmFyN09Xc1dpYV84TkJlbGNDSHNybEpHekdNcVAyXy12VFN5ZDNYQ1Q5U184QjVPV1QtN05UbE8wZXgya1FlbGkxMA?oc=5",
       "source": "湘南人",
-      "published": "2026-07-20T15:35:57+00:00",
+      "published": "2026-07-20T21:03:50+00:00",
       "summary": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ7月21日（火）～7月27日（月）：葉山海岸HANABI、桜貝ネックレス作り、わんにゃんアート体験に注目 湘南人",
       "id": "5d103ecd3f54128f",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "横浜アリーナでデビュー後初コンサートを行ったROIROMの本多大夢（左）と浜川路己",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOel9RSHYxd1kwakNoNER0REJfczBzZ2xNZG5xaW54N0NFM0RoeFRJbWlPcjB1dFhQMVB4STlsOWJqSVdnTmlwcW1KZkpkLXRFY2FjaGxoYUV2Qy1rT3NEVWFGZkNRLTBVelIzSHFTVW9RYzVmWnhnU1BuRFBTME9JVVhWTXdNbE5XcjFMLW1EOUg4TU8zYVE?oc=5",
+      "source": "スポニチ Sponichi Annex",
+      "published": "2026-07-20T20:35:54+00:00",
+      "summary": "横浜アリーナでデビュー後初コンサートを行ったROIROMの本多大夢（左）と浜川路己 スポニチ Sponichi Annex",
+      "id": "753f6ca11e493007",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ROIROM「幸せ」 デビュー2カ月半で横浜アリーナ公演 2万人魅了20曲",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUNuUkNRXzN2RzVUa1h4Qy0tSFBsUlR3Qy1UVV9qVm15MDk2ZUFGeFg5LW4tOS1jamdBSVN2aWxXLTdabmh6M0EtOUYxczJRb19NVzZhME9HaFI1Rnd5Nnc0UDdQcldxbDM1UXB6ZnlqN2NSWDRKYVhOMzFoWkRwUGFfZXhLRGVnNmpjel81YkEtZGVZNWc?oc=5",
+      "source": "スポニチ Sponichi Annex",
+      "published": "2026-07-20T20:30:00+00:00",
+      "summary": "ROIROM「幸せ」 デビュー2カ月半で横浜アリーナ公演 2万人魅了20曲 スポニチ Sponichi Annex",
+      "id": "5077a6ac569cb6f6",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "中国Kimi K3が「Claude Fable 5超え？」の衝撃、2.8兆モデルの決定的な3つの論点",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrTU1vZGNlZFdjZHdMZ2NIakpHdHpyWGs3djdDaXhuVHJITXZXcW54WFhwQlUtbjZtSDlJblBaT0M4MUh6U29ZSmpRZFhIcHhXc25n?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-07-20T20:10:00+00:00",
+      "summary": "中国Kimi K3が「Claude Fable 5超え？」の衝撃、2.8兆モデルの決定的な3つの論点 ビジネス+IT",
+      "id": "0e36e64973e2538d",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -160,18 +196,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "時価総額9,650億ドルのAI大手Anthropic、今秋ナスダック上場へ向け投資家を招集",
-      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxOUEoxSUNyMlVvVlFzck8tazNsWU4wN2hhZmVjSEh5WWtub3NaeGMwYW04YjB1NFFJREJWYlVqUW5QQm1TSld3R3dCUUVod3MyRHFLYUNEWGt0ZW1ad3JWRnI0Q0NsamVZRTc1WVVFUS1LWEdZcWYyRHJ3R2xMQmFQeEhzSEdaaGotZ25Sc2V5VWdfdi00M1NmbVFtUlgwY1lQRUkwS0pGTjVtajdBaXdldkJLeEUwRkxyQzNYcjlTQzNmVjYzMEotODNNb1BZUEhYbEpuM0g2S0FnVnZCR3RWLTlIQlhWam15NDJkLXN2UmxFVXM5ZTZXbGpmZ0V0OG13ZkEtN0xibmFlWUl4a01ESGpzSGl4Y2lvTkdDQUJhYXhMMmswcmxBQTV2eHJPTlB1N2VxeVVTc2NCWXlZNVpaUVpuNW5OSjUtV0ktQjBfclp2bEF1VzUwRXBLdFl6YUNESEZUSXBqVGZuOTV4Nzc4VlZWTzRsamZDNXE3UlBRQnZDMEVMMWZza1AzcTFnT0RBOHZVRWxOTkxJMTBIbDl2WHlhaFhIZkVIdVNINXo5S1U?oc=5",
-      "source": "Yellow.com",
-      "published": "2026-07-20T10:58:20+00:00",
-      "summary": "時価総額9,650億ドルのAI大手Anthropic、今秋ナスダック上場へ向け投資家を招集 Yellow.com",
-      "id": "9566dca17b4368e0",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -460,30 +484,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "TMNETWORK、ツアー『QUANTUM』横浜アリーナ公演をWOWOWで独占放送・配信",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQVUVUZ3lkMllUQW5WVy1NRkZab0hGS3ZlNTc1dl9kcktwaFVPdnJOLW5HSnFOaFVCdjNFUGhEZlJUWV9YRU1UUW42NE1jRDdlRlBaX1dmNVNRdkd0dmMtN01Tb2xiWlRUbGlFdTlpcFFXd3lmZ0ZEdjQzMlFtNXVqdkNJbGNlbVh6X2JrYUtnZUZnbGd5X1Y2Q3dKem10d0R4ZEdPS0J2NlFJcHhkaXhoRnN0OWlMelJGSUk2bV9PV3pvV01CRWZBVXk5a1JCeGlfaVVWTlFiTDJEQ1R2Ym9YSFc2bnctV181ZjN2ejducXQwX2ZXMUNQcTVSa0ZiYkthZUtYQXRCNXFjd20wYXNHcG12RTJkclpJQk8yVThDb19KbXdOZkJzVlNfOG5KTk13bzctQy10WnpwN3dyNW55d3BFWUtyajcxd3NvQU0zM2JTS003ZVJFRFJXa0tZVzQwWmpMZA?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-07-19T07:11:39+00:00",
-      "summary": "TMNETWORK、ツアー『QUANTUM』横浜アリーナ公演をWOWOWで独占放送・配信 山陽新聞",
-      "id": "bb6b0fa31f016206",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "指原莉乃プロデュース ≠ME（ノットイコールミー） グループ初となるアリーナツアー ≠ME アリーナツアー2026「喝采パレード」 2days 3公演のツアーファイナルを横浜アリーナで開催！",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5haDhIVWtweEFjZko4dm5PYjM1NHRieTZvOXMtTEppMDdzRXZoQWFPcXV6MENMSkFxQXZFeVQ0ZjNzcmpLZGRPNXh4cS1mOWpuWEdFdDJuNVlWQ0F3N080TEhSNDhkZUtZbzA4?oc=5",
-      "source": "USENの音楽情報サイト",
-      "published": "2026-07-19T04:03:38+00:00",
-      "summary": "指原莉乃プロデュース ≠ME（ノットイコールミー） グループ初となるアリーナツアー ≠ME アリーナツアー2026「喝采パレード」 2days 3公演のツアーファイナルを横浜アリーナで開催！ USENの音楽情報サイト",
-      "id": "2f99bc5b8c54b9b3",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1073,19 +1073,7 @@
       "topic": "道場物件（品川・大田）",
       "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "武道に向き合う参加者に和菓子をお届け 創業50周年の明日香野が「中国地区昇級審査会・合同稽古会・RF交流大会」に参加",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tNkhtQnRrY2ZKbHRWRngtckNXWG5WSFpqTUpyOGZKNERNVWNWaHhQbkJXRTh4ODZncDJlUTVURGJyWldPUWV5V1kwYlVod0N4bHdlSA?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-07-08T01:03:26+00:00",
-      "summary": "武道に向き合う参加者に和菓子をお届け 創業50周年の明日香野が「中国地区昇級審査会・合同稽古会・RF交流大会」に参加 ニコニコニュース",
-      "id": "8f131f260419a2b7",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 85
+  "count": 84
 }
