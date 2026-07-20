@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-20T05:26:50.275185+00:00",
+  "generated_at": "2026-07-20T06:27:16.524941+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -66,6 +66,18 @@
     }
   ],
   "items": [
+    {
+      "title": "生成AIは調査レポートを引用する？Optyino.aiがAI回答9,715件を分析、導入判断では引用率21.8%（PR TIMES）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50RDhYMXRqSzM2ajJNT2Y3VWtQREFhbDFRdnljWEoyVHVycVBDM01JVUtRLXl4NXdYR1N6cXF3NWZQVFZtaWVZd3dyRlhUcG5XdEJ1VzhWM0QwWnB2T1BWRDUyWDEwYUFF?oc=5",
+      "source": "毎日新聞",
+      "published": "2026-07-20T04:51:27+00:00",
+      "summary": "生成AIは調査レポートを引用する？Optyino.aiがAI回答9,715件を分析、導入判断では引用率21.8%（PR TIMES） 毎日新聞",
+      "id": "55b65ff28484f549",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "AIブラックアウト：Anthropic（アンソロピック）のFable禁止措置がビジネスに意味するもの",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3M1NQdzZ4MUwtUEpZMlFYSnVzZDFEcm93VWdkNjFXckloNk5CQlRlWlZMSjV6OENTNmZIdHlQR2hQYU9LZkJ0SXJiQ2theWFibW1hX01TbHdfQQ?oc=5",
@@ -301,18 +313,6 @@
       "published": "2026-07-19T07:00:00+00:00",
       "summary": "3D CADの操作をClaudeに完全お任せ？ AIと会話して3Dパーツをデザインする方法 ライフハッカー・ジャパン",
       "id": "434ecfcbb61018fc",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、Claude Fable 5の課金方針を再転換、上位プランでの提供継続を発表",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hR2FOcXp0M1haaF8yVl8wWUZEVzhINmU1NWxGanlHWU5ZVWI2UzVRWFNtRlBTRmZVVGNJMDMtNm5FUTRvR0lXTWNad1JQVmVUd1ZyODdxVTNncThTbk9oNjZJZFUwRG9GTFl6SHJRLVhjdXZ5?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-07-19T06:25:00+00:00",
-      "summary": "Anthropic、Claude Fable 5の課金方針を再転換、上位プランでの提供継続を発表 BigGo ファイナンス",
-      "id": "d096d6d1f39605b2",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
