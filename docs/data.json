@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-22T05:02:22.612819+00:00",
+  "generated_at": "2026-07-22T06:25:43.837587+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -67,24 +67,96 @@
   ],
   "items": [
     {
-      "title": "AIマニュアル「Teachme Biz」、複数の動画やExcelからマニュアルを自動生成する新機能「スタジオ」をリリース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KMjRNUWp5cXBLRjBIVG5UejRzTFVQOXR5bkJSM0ZEaGVEeVVBN0Q3WFVnZExPY3VickFmRzQ0NGNaaFlkdDNzWElXWlZuV1lkR1hFSXpMWjJDakZtTjZTMkpfYktpcDVQTjBCZHJkZnRXN1kySkVPUzM3Yw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-07-22T04:30:14+00:00",
-      "summary": "AIマニュアル「Teachme Biz」、複数の動画やExcelからマニュアルを自動生成する新機能「スタジオ」をリリース ニコニコニュース",
-      "id": "7b6435180bdb49bd",
+      "title": "富士通、ClaudeやGPTなど複数AIでレガシーシステム刷新 移行期間を約40％短縮する新サービス",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UU3luVWRFc1ZQYkFrS1kwenJyZWdqWXdLQWFoSm9mYmtqeVpDQmRUVUxiY05uaHB1TXpycXNIdnFPaWdtMWpMZmNxbmRpNnJUa2ItWTdoMWxjTW5nZ0R4ZWRtSkl0MTlfUFNJRmQyWHdRRkE?oc=5",
+      "source": "Ledge.ai",
+      "published": "2026-07-22T06:05:48+00:00",
+      "summary": "富士通、ClaudeやGPTなど複数AIでレガシーシステム刷新 移行期間を約40％短縮する新サービス Ledge.ai",
+      "id": "3bce6b155496a48b",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude CodeにiOSシミュレータ連携機能追加。画面録画からスキルを作れる機能も",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83T0pvM3Q1MEZGWDBzbXpKT3VKQlJuYTEySFpZdjZjNGhVOHlSUEVfaWd4cllSOTVTNDRtS3Q1UjgwMmhELVQzRkU0T28telNyRFBESVBxRVFKNXRKOWU5cUpNRQ?oc=5",
-      "source": "PC Watch",
-      "published": "2026-07-22T04:28:09+00:00",
-      "summary": "Claude CodeにiOSシミュレータ連携機能追加。画面録画からスキルを作れる機能も PC Watch",
-      "id": "0eb47f66a731deb8",
+      "title": "AI推進担当・事業責任者向けの無料セミナー「Claude Code活用のためのデータ戦略」を開催を開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DY241RGhwNllCem5Pb3o4MUtYVUpiVE93SEZFYmZUazMwRWZFclNYS244R0dHSk1DUVVYeVpmM3FCeFVPajg5bnV2eEZlUkJKQS1GQ1o2RFJsTm11Q19XMlBLWFAwOVVOV1E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-22T06:00:01+00:00",
+      "summary": "AI推進担当・事業責任者向けの無料セミナー「Claude Code活用のためのデータ戦略」を開催を開催 PR TIMES",
+      "id": "ce14805479624108",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GPT-5.6やClaude Mythosなどの最先端AIモデルがタスク完了のため「不正行為」に手を染めたとのレポート",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jRkVMeDB5eHA5UmNDN3dXQWUteHJvTFc2d1lSWkZQaHVmZ1YxWVVSVXVaMmY4TVo4NEhZeVN1allzQlJpdEozN3E5Q1VYMG4tYlNMQnAwX2pUVkFYS21pZ0o3aFBjTy1XNm9kcmUybEdTRHpjQ3haU2tZYVU?oc=5",
+      "source": "GIGAZINE",
+      "published": "2026-07-22T06:00:00+00:00",
+      "summary": "GPT-5.6やClaude Mythosなどの最先端AIモデルがタスク完了のため「不正行為」に手を染めたとのレポート GIGAZINE",
+      "id": "41436315485c7fbc",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "桜庭和志×須藤元気の強力タッグが実現…“日本武道の聖地”京都「旧武徳殿」初のプロ格闘技イベント「QUINTET」をLemino独占生配信（WEBザテレビジョン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43OG51ZDZUZGs3UVVuaGo0YnRHc0prM2dFWTNmUmdkVFBIbnlEUzE2dkl2UWJ5YjY0ck9JeG5PQUQwNzJQR3FCVjRJdDFwME96NXFnY1RLYTlHZjZGQWpXd3EzOHNtZktGSmpwSjE4N3hPMDU3NEFtdlpFSE1HVEE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-22T05:07:21+00:00",
+      "summary": "桜庭和志×須藤元気の強力タッグが実現…“日本武道の聖地”京都「旧武徳殿」初のプロ格闘技イベント「QUINTET」をLemino独占生配信（WEBザテレビジョン） Yahoo!ニュース",
+      "id": "c21f9bcb84beadaa",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "容器文化ミュージアム（東京都品川区） 小学生向け夏休みイベントを8月5日（水）・６日（木）に開催",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5YZkF0dmNhU20xaERaZUVoR21xSzQyLUZkN0dlMG9vcHFTU21JY1NpbFNtSlE1OFZibXFhcExGcWpMeWc?oc=5",
+      "source": "Digital PR Platform",
+      "published": "2026-07-22T05:00:41+00:00",
+      "summary": "容器文化ミュージアム（東京都品川区） 小学生向け夏休みイベントを8月5日（水）・６日（木）に開催 Digital PR Platform",
+      "id": "99550915bad26aec",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "病院向け生成AIサービス「OPTiM AI ホスピタル」ver.3.1、 申し送り業務を支援するAI機能を強化",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wOWNZbHhoOG13OFUzQTRhNDNXOTFyQ0ZuOThIbVNsMU9idExmZEJHR0s3Q05ZZVBoOEhvQjZ2QzNUOUw4ekl2c3JUMDdlUQ?oc=5",
+      "source": "アットプレス",
+      "published": "2026-07-22T05:00:00+00:00",
+      "summary": "病院向け生成AIサービス「OPTiM AI ホスピタル」ver.3.1、 申し送り業務を支援するAI機能を強化 アットプレス",
+      "id": "5a542b6cccc56ca6",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude CodeにiOSシミュレータ連携機能追加。画面録画からスキルを作れる機能も（PC Watch）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xWU44SnVRbG1yaUtJSVBzSDJkRUV6TGlveUtyWndaWHEzeUFWZFhlamtVMHFsQUdKTGxOZW16NHF2OE9GVHpfN1JTTUp6SEdOa0hua0t4dmZVZENDMmVaTE1ITFNZemotTV9sSW9ldjZUS0ZwcGZqM21kLUF2Z2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-22T04:43:00+00:00",
+      "summary": "Claude CodeにiOSシミュレータ連携機能追加。画面録画からスキルを作れる機能も（PC Watch） Yahoo!ニュース",
+      "id": "1d9b00be9235934a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIマニュアル「Teachme Biz」、複数の動画やExcelからマニュアルを自動生成する新機能「スタジオ」をリリース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KMjRNUWp5cXBLRjBIVG5UejRzTFVQOXR5bkJSM0ZEaGVEeVVBN0Q3WFVnZExPY3VickFmRzQ0NGNaaFlkdDNzWElXWlZuV1lkR1hFSXpMWjJDakZtTjZTMkpfYktpcDVQTjBCZHJkZnRXN1kySkVPUzM3Yw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-07-22T04:30:14+00:00",
+      "summary": "AIマニュアル「Teachme Biz」、複数の動画やExcelからマニュアルを自動生成する新機能「スタジオ」をリリース ニコニコニュース",
+      "id": "7b6435180bdb49bd",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -151,18 +223,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "生成AIで“世界に一つだけ”のビックリマングッズを作れる「ビックリマンAIグッズメーカー」をリリース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44bjV5NG5xUkZvSW1NejNqWkI2em55VmhKb1h6Ykk2aFZiMHJNdDhyeDNJMkhiMWxTcElxMzR0QnlSUkhaYmdpNVpBZGFkdjlfaU15WFlIc3BMZWpsSS12SWdZb19PcmVoNHB1bG5BT2NNWVI3U2ZfcjIyRQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-07-22T03:15:40+00:00",
-      "summary": "生成AIで“世界に一つだけ”のビックリマングッズを作れる「ビックリマンAIグッズメーカー」をリリース ニコニコニュース",
-      "id": "261351987feadc06",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "AnthropicのClaude CodeにiOSシミュレータ統合、パブリックベータ開始",
       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9uSnRNQUMtUWhGQnZOLWVvbzlSWllKR1o5RW5nNVRncXl4WmU2dWxSRXhaV0VFbU9Yb0lBWmFFYUM?oc=5",
       "source": "shiritomo",
@@ -193,42 +253,6 @@
       "published": "2026-07-22T02:59:51+00:00",
       "summary": "Anthropicの著作権訴訟、15億ドルの和解を最終承認――1作品3000ドル、拘束力ある判例にはならず 財経新聞",
       "id": "d60f7080c0e41991",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "画像生成AI「Qwen-Image-3.0」が登場したので使ってみた、イラストや日本語テキストの描画性能はいかに",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95WDdzV0R5OFNXSTVEeDltOXNINHVlNHFiS2FHbkRZcFIwM0p3bTF2NFBPSHpLZFUyeHl4bWdJNFZ1V0FRM1JqeWhoQVNNWGh3dml5SFA0eGlyWllv?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-07-22T02:06:00+00:00",
-      "summary": "画像生成AI「Qwen-Image-3.0」が登場したので使ってみた、イラストや日本語テキストの描画性能はいかに GIGAZINE",
-      "id": "553d2c5b963031fe",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "日本のコンテンツ産業と生成AI開発の持続的な発展を支えるデータエコシステム基盤「GaranAI」のベータ版を提供開始～多段階加工でデータを保護し、コンテンツホルダーの新たな収益機会とAI開発事業者の価値創出を支援～ | 企業・IR",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3Y2VBSlhtRWtHZ1pxUHZBR09nSUwyZFk5RlFMbHpRYjVaT0JkNDNTaU00QXR1WkVWVG5DVlNvUDFYcG1jX0VtX1ZUSTNFTElwMDdlVFN0Q1N2dW5za2RLZTlQX1hkU1d6enREUklIcw?oc=5",
-      "source": "ソフトバンク",
-      "published": "2026-07-22T02:00:00+00:00",
-      "summary": "日本のコンテンツ産業と生成AI開発の持続的な発展を支えるデータエコシステム基盤「GaranAI」のベータ版を提供開始～多段階加工でデータを保護し、コンテンツホルダーの新たな収益機会とAI開発事業者の価値創出を支援～ | 企業・IR ソフトバンク",
-      "id": "03a3393b29e898ba",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Codeのスキル機構を解剖：Markdownファイル一式が実現するコンテキストの「遅延読み込み」",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MR0RVb3lQd2FXamd4eWtDeEFDYms5OVVkNklBX1NVTTVFak5mZW91SEgyazRUeEdGX2E4REh4b09JSW1lLXR4SG01WUxYai10VzREWS11S2ltNkctT1dkbkZvMlZzTkdYeFRaenBpUklHcDNn?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-07-22T01:36:00+00:00",
-      "summary": "Claude Codeのスキル機構を解剖：Markdownファイル一式が実現するコンテキストの「遅延読み込み」 BigGo ファイナンス",
-      "id": "f543805740c5fa60",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -277,18 +301,6 @@
       "published": "2026-07-21T11:00:00+00:00",
       "summary": "King Gnu「CEN+RAL」ツアー横浜で大団円！アリーナのド真ん中で放った轟音、降り注いだ狂騒 ナタリー",
       "id": "7f22d87d7f56355b",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ROIROM、横浜アリーナ公演セトリ公開 リリース前の11楽曲を含め全曲オリジナル20曲",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeGVNel9IeFBPcVVVOTd0QTVYVXpsU2F5SWFxN09aTGNTUTN0Z2ZMZjZTZm1pcFhSU2llQ2xlZEp6Y0h4OG1leTdyZlpFZU10cThNajNmMXV1Tm1xWFVrODJGS2xRVC1oOEFOaEFkYTgzVE5zcWV1X1lNN3RfTl9ISzJ4MEc0M3B1bFJ5bzl4QnZtaTRUVWc?oc=5",
-      "source": "日刊スポーツ",
-      "published": "2026-07-21T10:30:00+00:00",
-      "summary": "ROIROM、横浜アリーナ公演セトリ公開 リリース前の11楽曲を含め全曲オリジナル20曲 日刊スポーツ",
-      "id": "82f0b5a7b0acc19c",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -367,30 +379,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "≠ME、初アリーナツアー完走！ 横浜アリーナで3万人が熱狂！［ライブレポート］【コメントあり】",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhSUotdUZIQmUwczFlTlpacjdad3hpYzdpTGtyOFo0bFhJU2VTbjNvT21IcDVXZXBUUHNRUFlWY1l3c1Q4Rkc4dmFn?oc=5",
-      "source": "Pop'n'Roll.tv",
-      "published": "2026-07-21T06:32:41+00:00",
-      "summary": "≠ME、初アリーナツアー完走！ 横浜アリーナで3万人が熱狂！［ライブレポート］【コメントあり】 Pop'n'Roll.tv",
-      "id": "0834ded360c48e29",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【ライブレポート】ROIROM、横浜アリーナを揺らす！「ROIROMの最年長、色気担当の本多大夢です」「ROIROMの最年少、かわいい美少年、浜川路己です」",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NeDdaYnQ4aFNTYUxuSlBzbC0yV1JpYzVId0xTUlNfX2p0dFNaam9hem1pOGRkSlVJV1RTaHlGVkl0cmx5X3FJZ2xEbE15RDBuOUdGZWkzRC1XbWs?oc=5",
-      "source": "THE FIRST TIMES",
-      "published": "2026-07-21T06:08:09+00:00",
-      "summary": "【ライブレポート】ROIROM、横浜アリーナを揺らす！「ROIROMの最年長、色気担当の本多大夢です」「ROIROMの最年少、かわいい美少年、浜川路己です」 THE FIRST TIMES",
-      "id": "0add74f561a9b297",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "原油反発、半値戻し迫る 長期金利を押し上げへ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzY3RjdTk4Y1RZRWR6a1JvZ2xtdjlpUWlTU2drbDhpbmZybl9fX3RZWEJrSGVTai0tWEZGSFBvY3BJMW44cWl1Y2dqaHUyVXdta3JsQjJXOXc5enhqSEd1Mk4xdUhKQjNxRW8yWA?oc=5",
       "source": "日本経済新聞",
@@ -400,6 +388,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ROIROM、初の横浜アリーナ単独公演で2万人魅了 未発表曲11曲を披露【オフィシャルライブレポート】",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2ZkRJeVlkRWRTRWhhLVEtRG5aQ0pGZ1hJQ0N1dVhHV0V5ZEdjU3B4bDBZaEk2NFdldDlVR2FvbE9XNnRIcFJtclRnaWQ5aFlSSGl1N1Z3?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-07-21T02:45:00+00:00",
+      "summary": "ROIROM、初の横浜アリーナ単独公演で2万人魅了 未発表曲11曲を披露【オフィシャルライブレポート】 オリコンニュース",
+      "id": "699f6a341a601329",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -523,6 +523,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "ROIROM、横浜アリーナ公演セトリ公開　リリース前の11楽曲を含め全曲オリジナル20曲",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWEZpUF8zdnY2SHdQTWpwc0NzdUJaQ2pwWl9ZUkhYa3dfWk9ZSV94SVRYdG5zVU5LSVYxa05hRjNrZEgtYTM0UGZEX2xSUG9ENU5XdS1INW94eDhLRng0MmFBZUxDWWkyTjk4ZHl6MG5pWnJ6Tzc0a3BTUGVReHBGUmh6Vi1SRzF0VUdPUDFrM0U0akVILUdZY0s3RVFTN0E0NDRVYtIBpAFBVV95cUxQWEZpUF8zdnY2SHdQTWpwc0NzdUJaQ2pwWl9ZUkhYa3dfWk9ZSV94SVRYdG5zVU5LSVYxa05hRjNrZEgtYTM0UGZEX2xSUG9ENU5XdS1INW94eDhLRng0MmFBZUxDWWkyTjk4ZHl6MG5pWnJ6Tzc0a3BTUGVReHBGUmh6Vi1SRzF0VUdPUDFrM0U0akVILUdZY0s3RVFTN0E0NDRVYg?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-07-20T14:24:00+00:00",
+      "summary": "ROIROM、横浜アリーナ公演セトリ公開 リリース前の11楽曲を含め全曲オリジナル20曲 ｄメニューニュース",
+      "id": "82f0b5a7b0acc19c",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "マルシィが新曲「花火が瞬いて」リリース、テレビ西日本「じもちゃんねる」タイアップソング",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOMVRYYkVyWXdCM3FqTmd5MU1qMHd0UEpEVVduOEUtZ0VjTWMwLTlWeWlIWEt6RWtVNzlfWVBzWGVBRlNKVUFzcml2OWk?oc=5",
       "source": "ナタリー",
@@ -568,6 +580,18 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ＲＯＩＲＯＭ　横浜アリーナ公演２日間で２万人魅了　地元凱旋の大夢「幸せです」路己は「ｃＨａＲｍ」１０月の４都市ツアーも発表",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcFV5UUJIQ1lORVhGMXVjMWpYYkhGd3pxampENGt5dWJjRlVya2gtUTBqcEU0bjNFTUJmXzRwbXFTUWpHWk5GRmJiaXBKcDZtT0xXc1MwT1M4emk0OXI1Vk5LZHhYdk1sTEdEUEZ6bW9VNnFOMFVlTTNGTWJoTFVmM0dPWUUzVTc3TWVfdnBWREdYRTDSAZMBQVVfeXFMTXBVeVFCSENZTkVYRjF1YzFqWGJIRnd6cWpqRDRreXViY0ZVcmtoLVEwanBFNG4zRU1CZl80cG1xU1FqR1pORkZiYmlwSnA2bU9MV3NTME9TOHppNDlyNVZOS2R4WHZNbExHRFBGem1vVTZxTjBVZU0zRk1iaExVZjNHT1lFM1U3N01lX3ZwVkRHWEUw?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-07-20T10:29:00+00:00",
+      "summary": "ＲＯＩＲＯＭ 横浜アリーナ公演２日間で２万人魅了 地元凱旋の大夢「幸せです」路己は「ｃＨａＲｍ」１０月の４都市ツアーも発表 ｄメニューニュース",
+      "id": "f3602dc7c20c55de",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1039,36 +1063,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【大阪府大阪市・東京都品川区】STARRYWORKSが、「光る音展」を開催！光と音のインスタレーション作品を展示",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xbzRPNnloT2RJNHVSU01JWkxiNmRMVGZ0OUpCY01tbkNNY1ZVOXZ3SmF2RVc1SC1QcDhwY3N1dzRXUVAxU3lvbHVWNS1HSUhQX00w?oc=5",
-      "source": "STRAIGHT PRESS",
-      "published": "2026-07-13T09:40:00+00:00",
-      "summary": "【大阪府大阪市・東京都品川区】STARRYWORKSが、「光る音展」を開催！光と音のインスタレーション作品を展示 STRAIGHT PRESS",
-      "id": "60c91b6b225dc159",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "※こちらのイベントは終了しました※【2026宮崎イベント】6月19日(金)‐21日(日)三股町武道体育館にて「みまたモノづくりフェア2026 つくりびとのカタチ」開催！(三股町)",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vOUFhNEJiRjUzbk80dTRZajBYM2RJZmdWMzE1QkRtRWlhY05VTEEwZ2JXTDF5V0JYNTNMVl90dFJRTXlrbFFBcUVCR0kxdUk?oc=5",
       "source": "UMKテレビ宮崎",
       "published": "2026-07-11T10:13:24+00:00",
       "summary": "※こちらのイベントは終了しました※【2026宮崎イベント】6月19日(金)‐21日(日)三股町武道体育館にて「みまたモノづくりフェア2026 つくりびとのカタチ」開催！(三股町) UMKテレビ宮崎",
       "id": "41028b50228728dd",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "本県男子団体、初の３位 全日本高齢者武道大会・剣道",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WWTh3MEotLU5hWnZZQk9oZnZicGpqODhHZjd0VUpHa01qeDg2bmg0blVaMWljR2NHcjd6SkJqWG5HemdHdnlFRmxMMHJjV3M?oc=5",
-      "source": "福島民報デジタル",
-      "published": "2026-07-08T07:00:00+00:00",
-      "summary": "本県男子団体、初の３位 全日本高齢者武道大会・剣道 福島民報デジタル",
-      "id": "8d40a9212e165dba",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
