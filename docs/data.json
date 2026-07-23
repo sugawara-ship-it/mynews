@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-23T00:46:56.720349+00:00",
+  "generated_at": "2026-07-23T01:47:27.090464+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -67,6 +67,54 @@
   ],
   "items": [
     {
+      "title": "AMDがAnthropicに大規模供給しNVIDIA一強崩す",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BbzljSHN6UnE5N2hzZnY0QXZTem1BTzZjRXdUTC1ma2lVY2VmSGI1SE9sMFEwdkdEbjhnRURwRHZ5aDVPWkRKZk44cWNzUGdGQ0l1d3RoNFRVeXE4N3c4Nld0NEh6SXJSTnl6dS1xanF1TEdaMXdaR09R?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-23T01:37:00+00:00",
+      "summary": "AMDがAnthropicに大規模供給しNVIDIA一強崩す Chosunbiz",
+      "id": "2cfce9292542838c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "企業向けAIツールの成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365 Okta調査",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44VS04ZnlVTTgzQTRCMXlYc2JRY3JyWGdCN1BXZ2VyTDNJYVM3MVFFSDBOb1FHTXFVcEtsTUZYY3J6bjZuUlRBUWMyTDc1ZE9NLWhOWDQwODQzVG9yMTZFcDFodDNtb211MTBWZQ?oc=5",
+      "source": "ITmedia",
+      "published": "2026-07-23T01:19:00+00:00",
+      "summary": "企業向けAIツールの成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365 Okta調査 ITmedia",
+      "id": "60252e3c832c7f16",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【調査リリース】生成AIを活用した購買行動調査｜株式会社マインディア",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zS3pKblhVSFVkOGZ5ZGVjeFJRc1dLek4zLUVEOVl6QmloY1NqV3NacEdGaWhTMFhYSUJiLVNNYUNSOElpVV9TV3lrYTktZHIzcmFMUXZKdnpIVVdCVENjSEhrTnFCYUV6dEE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-23T01:00:02+00:00",
+      "summary": "【調査リリース】生成AIを活用した購買行動調査｜株式会社マインディア PR TIMES",
+      "id": "3abaf637f41b10f1",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AMDがMicrosoftに続きAnthropicとも大型提携 - AIインフラ拡大",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JOFQ5VVdDSThkOHZCX0JkVjAwR0RsbkNaanQ3WHdfSm5ZeUVhWDhaZ29ieFRiMFp2dnl4MS1RWkZlYVR3ZmZFT2VMMEwzR0dQdG43YmNnZ2MyZFI3b1Q5V0xZRU1pVGkt?oc=5",
+      "source": "マイナビニュース",
+      "published": "2026-07-23T00:54:08+00:00",
+      "summary": "AMDがMicrosoftに続きAnthropicとも大型提携 - AIインフラ拡大 マイナビニュース",
+      "id": "871778403bf8ede3",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「Claude Code」プラグイン「Claude Security」がベータ公開 ～複数エージェントが脆弱性を指摘",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fcjB3Q1J2ZkZlNVlwUHlkeFg1M0hWVWszQmx6WVpLODhaOEswemVyNWVjc2xtNXpDUENJMXVtWEZWeHdUWXRFUm5qZG1WMHJPcFphclptaUNBTGZMaWR4ZDZvdThrdlhy?oc=5",
       "source": "窓の杜",
@@ -76,18 +124,6 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "補助金クラウド運営のStayway、厚生労働省の「えるぼし認定」最高位を取得",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTaWFNZ3RId1lCbTZTWm5XSEstY243QmJEcEYzZ1plNVZZTmhqNU5fTFM3QkFuOExYRHI0TlhDb1QtcGZ1ajZNR0l5LUN5Z3dtbzVKLXJnQ0xWamhmdGxhcm1ORk9WLXVTUlE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-22T23:00:02+00:00",
-      "summary": "補助金クラウド運営のStayway、厚生労働省の「えるぼし認定」最高位を取得 PR TIMES",
-      "id": "0e389a6c58f58e8f",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -151,6 +187,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "株式会社電算 会社概要",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tS2JsZ2RxcXUzWUVvT29SVm1idEQ3UEhORExSWFRZbzFUVzhMeDFaVFp5ZTFDbFBnTkJyb2RmbWRQVjZZTjUwMF9QYmdyQXNjMzZHV2NSY3ltNEZ5a1l5Vm8wUkdmOEFu?oc=5",
+      "source": "株式会社旅行新聞新社",
+      "published": "2026-07-22T20:38:08+00:00",
+      "summary": "株式会社電算 会社概要 株式会社旅行新聞新社",
+      "id": "d8d661db7d118003",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "AIで確定申告はできるのか？Gemini・ChatGPT・Claudeを比較して見えた限界と可能性【国際税務の専門家が解説】",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GUlpzZ1VheWhBeDlOR2VaSWRoQ3dGVlNlbHVKWkJaaERhYy1mUHIwbEFVWVhMVlE0aVdsWlpwWnJCbFFTT3AydEtVXzlFSDNDUnc?oc=5",
       "source": "ゴールドオンライン",
@@ -160,18 +208,6 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "株式会社電算 会社概要",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tS2JsZ2RxcXUzWUVvT29SVm1idEQ3UEhORExSWFRZbzFUVzhMeDFaVFp5ZTFDbFBnTkJyb2RmbWRQVjZZTjUwMF9QYmdyQXNjMzZHV2NSY3ltNEZ5a1l5Vm8wUkdmOEFu?oc=5",
-      "source": "株式会社旅行新聞新社",
-      "published": "2026-07-22T18:47:35+00:00",
-      "summary": "株式会社電算 会社概要 株式会社旅行新聞新社",
-      "id": "d8d661db7d118003",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -187,30 +223,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "$アドバンスト・マイクロ・デバイシズ (AMD.US)$ Anthropicに50億ドルを投資する予定です。",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ3hVblFXeW1hR0szVy1LcXZNUi1XcFFNQW1IbFU2U1lIZmw3SDJTd0V1clBhM0VZNXEyQ0lYaGY4eVNaV1NNR3NvSkZ5TS1hZ1BKdmt3REpkZVdQTWhFcC10T1pXUlBULVpHdVR4YUhNdkozQmNaOF9ZY2hjWkNqZUJtUzZwbnJ6U19Bc3dDYXBPTE9INUpaY3pWOVVGa0NQWVlJSHZXRU9sbW8xNEVmM2l3?oc=5",
-      "source": "Moomoo",
-      "published": "2026-07-22T15:18:20+00:00",
-      "summary": "$アドバンスト・マイクロ・デバイシズ (AMD.US)$ Anthropicに50億ドルを投資する予定です。 Moomoo",
-      "id": "49d39de528be699a",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AMDがAnthropicに最大50億ドル投資 - CHOSUNBIZ",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VYVhmZk5pX0dQX196NE42VG90OXAtZ3lkQ0c2NWhzOFhzbzBkS2JKTjE3UUFqSzlVN2lnaEZCZHBzN25ac3JZS0h1YlFWcHhKRVFxcE9ZOWZyMTZ6YjJQZ001STRNa0pud2dqS1BpbThCbENfMjQ3QVpR0gGOAUFVX3lxTE9QT01idWppODZ6aFM4T090MkVsX0cwQy03YmMwcnFMMGVKTEVQUy03Z3lDaHFVanpLR3RRdVZEa1RMcUdfNHBWemFqeTZ1T25KNFctQk9nam1mUkZsTEl3SEhHYTF1N19fQVlpbVR5Uzd3RWo4czVNRU9Lc1NFbThoTDdGMEZwUDRxSWpWOHc?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-07-22T14:49:00+00:00",
-      "summary": "AMDがAnthropicに最大50億ドル投資 - CHOSUNBIZ Chosunbiz",
-      "id": "e516f12d9c57fd49",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "OBC、中小企業向け無料オンラインセミナーを毎月開催「勤怠管理システム導入時の“費用の壁”を助成金で乗り越える！」",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNjE0cnhfUnRGMmV2Mzg1WnpEalh2V3ZHSlY3azhkbnNVdG4wTG1qaGFHLXFkNENUVFh1UTBPS084eTJWRTJ4bEdnaGVKSEw5ZllUSDBGZHhtU3hLalpJcHA3aF9kcktlU0NVOEwxUV82UkQ1LXJEVEh5Yw?oc=5",
       "source": "ニコニコニュース",
@@ -220,30 +232,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ChatGPT・Gemini・Claude--3つのAIが、私たちのグループ商材を回答に引用。特許出願中の技術で実証し、\"強さゼロ\"の新ドメインで成果保証型AIO/LLMO対策サービスを開始します",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50c084NDNvQ2FrWVFoUm1sdVJfNFNNZnZqZzlTQUJ4d054bnZybktidlJJMHBXcm9Wc2JGWWVibzZiMXNoSFVSM1MzT0FTU1pvSWptdmVKam1NSmFLaGgyNmdsS1h3ck4zUVZLQ3NZWHl6TW8?oc=5",
-      "source": "Excite エキサイト",
-      "published": "2026-07-22T14:40:00+00:00",
-      "summary": "ChatGPT・Gemini・Claude--3つのAIが、私たちのグループ商材を回答に引用。特許出願中の技術で実証し、\"強さゼロ\"の新ドメインで成果保証型AIO/LLMO対策サービスを開始します Excite エキサイト",
-      "id": "60d55767562b9d5f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、AI著作権訴訟で$1.5 billionの和解金支払いを命じられる",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNdElpVzUwU01HQTV4TXh0dElnNW9zNmNpSlRlbXZHbWMzTG9ZanBySHREWE56V2lJMzhETkVQT1hyS0NPWmZDT1FXQ2RVNFJQZ0pyX0lHY3JERDNqQl9ua2VKM09uLUFETzlwd2o1OE54ZjgtQ2U3cnpvRjQ2OEtjYVNuU3E3cXU3OUY4TG5KeEQxS0FsVWY4VmMzdzFzeVpSMHh1QTM5LS05cThDQXZwZ2RnSWprRC1GLWZzV0RLa3ZPd3JWRWh1WmxWemM4MHVac1Y5S3o4enE4ZmNjMC1HS2lsN3JYVVRHSVdSQnpJcjVFdnhxWU5XSEpKdnkxZEQ5YUtKNzhyZnk5dVR3NEk1VjZyeUxod1Jxem9USndXRV9fQzhPSGNsU2xpSkcyUFJSUmpBZEE3R0xIWFVVMEU4?oc=5",
-      "source": "games.gg",
-      "published": "2026-07-22T13:46:14+00:00",
-      "summary": "Anthropic、AI著作権訴訟で$1.5 billionの和解金支払いを命じられる games.gg",
-      "id": "d8f1c98b2f07612d",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -560,26 +548,14 @@
     },
     {
       "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 山口」8/20(木) 開催",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOSWZwZTVpZHdlOTdZQzhiUE13eVVndTQ0YnpBbXI2YUEwM2lCZ09RZkkyN0dGcWNlNWpCYkVuRzBpLU85SFpZZVl4QTNDNnJIOS1MZHRLLUZmVklHWkpNRlpzY0pOU2ZW?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-07-21T01:31:00+00:00",
-      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 山口」8/20(木) 開催 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVTWc3R3VWeWdKTHNGbE1YVGpDSENyVEl3TnA2aWRvRmhZMUVDTHZmVG5UenV3aDRCRjFrbmRwa3FQYldLeEdySzVrS2FQTTlsMjlmdkFDSmxoeElaUDdQdW9BbGI0MnVWVkE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-21T00:00:02+00:00",
+      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 山口」8/20(木) 開催 PR TIMES",
       "id": "7b012e435148f2b7",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ハッピーロード大山でサミーとのコラボイベント 創業の地で交流の機会提供",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TTGVlNS1XU29zckdaNkZ4eE1od0ZFVVRKSjRnQVpKdlhVbnpha3RjZkRPRVFYN09DZFpJU2pfRUhRWkJSWWU3blg4dU9BMVI0RThNYg?oc=5",
-      "source": "板橋経済新聞",
-      "published": "2026-07-21T00:46:52+00:00",
-      "summary": "ハッピーロード大山でサミーとのコラボイベント 創業の地で交流の機会提供 板橋経済新聞",
-      "id": "643619cebe698853",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -727,11 +703,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「長期金利2.9％」と「162円台の円安」が示す日本経済の重大局面、高市政権「責任ある積極財政」に向けられた“市場の警告”",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hUEFIZ2J6QU5pOFkydklYWThPN0psVnRISW5tWUZwcmF4QkhXX1AzSFlyQW81Q3VzMVpwZTBQbFlkTUpJbW9UOFk4Q2Z6RDRMWW80bDRIZnlUbktJci1PMGxZOHBXM1o1QURQMG82WVp2MDdTTUYta2dsMXN5eUk?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-18T23:00:37+00:00",
-      "summary": "「長期金利2.9％」と「162円台の円安」が示す日本経済の重大局面、高市政権「責任ある積極財政」に向けられた“市場の警告” Yahoo!ニュース",
+      "title": "｢長期金利2.9％｣と｢162円台の円安｣が示す日本経済の重大局面､高市政権｢責任ある積極財政｣に向けられた\"市場の警告\"",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLYjhQekp5T1FrS09meDV6S2lvZVNUNHhYanBGSnBKZzFDb2RBTm91aXFnekpxblkwbHhtaExNbHlqQ1FqYUU0WmFBQ0VfZUE2b1FUQy1naVlZZVk?oc=5",
+      "source": "東洋経済オンライン",
+      "published": "2026-07-18T23:00:00+00:00",
+      "summary": "｢長期金利2.9％｣と｢162円台の円安｣が示す日本経済の重大局面､高市政権｢責任ある積極財政｣に向けられた\"市場の警告\" 東洋経済オンライン",
       "id": "38c5b7d5b5ab7224",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -976,6 +952,30 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "品川区で小中学生24名が挑戦 ママズオン参画の実践型アントレ教育が地域を変える",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtYzBFVE9jczNReXlFUTlHamVDNXF5YUtOWjA5N2N5NXVhQjM4dlVSOER1T1pRdUczRjk3VEJRNUdBQkJET2U1cHJ6RGNmUQ?oc=5",
+      "source": "DXマガジン",
+      "published": "2026-07-16T11:09:32+00:00",
+      "summary": "品川区で小中学生24名が挑戦 ママズオン参画の実践型アントレ教育が地域を変える DXマガジン",
+      "id": "1580926b6d6b1afb",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "中小企業のための支援事業案内2026",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQjA1WGt2NjEzU3FlWm0tLTlWaWhrOEhjZTd6ekVJUExWX0cwSHJLcjY0eWdEZ3NUejlyNS0tNGcyb1JEakp0UWVwOXhhOHoxTlZib3FjQXZBdkRTTktsUmJKUVNWNUlrLURkYkl0RE5WOGVEakFEclBzQ2pnbGJNUWtvVHZqeFU3?oc=5",
+      "source": "pref.miyazaki.lg.jp",
+      "published": "2026-07-16T09:11:59+00:00",
+      "summary": "中小企業のための支援事業案内2026 pref.miyazaki.lg.jp",
+      "id": "86cadefb8126aca9",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
