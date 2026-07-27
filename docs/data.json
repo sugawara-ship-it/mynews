@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-27T12:14:07.140784+00:00",
+  "generated_at": "2026-07-27T13:41:31.468693+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -66,6 +66,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Claude Coworkがサンドボックスを脱出、Macの全ファイルを読み書き可能に",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUVjMjJBbHpLUXNSMHUyeHdBWlM4OV9PcmE0SnJQNmdXaXBYZjN3WXMyRXJYMWFGWUVSQnFxMmVrUTFkMEtJcTVmbXA0VVh5Z2xvNW03MWdoUFNPbUE1MXhlNUhKUjFPbm0wOFh2dHpJLXRNSlpzZFRKeVJLT2NhRFpSZw?oc=5",
+      "source": "apple-hacks.com",
+      "published": "2026-07-27T13:10:54+00:00",
+      "summary": "Claude Coworkがサンドボックスを脱出、Macの全ファイルを読み書き可能に apple-hacks.com",
+      "id": "57a938c4c6a5e881",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Codeで複数AIを束ねる「Fugu」が使えるように",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKTDVLYlVBWnFtU0tFdWU5Tjhka0JudVh4eHdxRU5ENjBRd2p4aUpObkRLdmVtRnJRU2NHZFdFM2haNlZveW1ZQVY1d0hiT096amE4R2FadE9rTGpuV3lZalNTcw?oc=5",
+      "source": "PC Watch",
+      "published": "2026-07-27T12:11:18+00:00",
+      "summary": "Claude Codeで複数AIを束ねる「Fugu」が使えるように PC Watch",
+      "id": "edabe1125d8e4be5",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "Anthropic、「Claude Opus 5」を発表 ～「Fable 5」に迫る知能を半分の価格で（窓の杜）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TUmd3YmkzbXlETXJ5TTBzSmxPemQyM1dzRmVvSkdwRmNOTFNILVRUVnd6Qkcyel96MGhmS1BXM2U4MUZFZ05WWFkyb0o1ZnlfdzloTUtRbDg3cklKaEp0RTNqNW5sRy1DcE9UenF3aWRWNDdyaGcyQlNGV2ZiaEk?oc=5",
@@ -283,15 +307,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "GitHub CopilotにClaude Opus 5が対応",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jZHY3b0ZIZXktd2RucFQwa196Mlk1ZzZwWU1kX3l6dENFWW5ITVNzOFVyUy1SSG83eVpQUEJrZ1ZDcDdOY0lTT05HV0w0dw?oc=5",
-      "source": "CodeZine",
-      "published": "2026-07-27T05:30:00+00:00",
-      "summary": "GitHub CopilotにClaude Opus 5が対応 CodeZine",
-      "id": "eb496bdb5c0128ab",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
+      "title": "日本経済指標【景気動向指数（確報値）】",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iRm9TemwxRlg1aHJXMEp6LV9EMDNGbnMwOHFSdWpwOWk3bzJrS091S2tfc2dTak5RR2hnWk95UjBXSjNsTnFFcg?oc=5",
+      "source": "みんかぶ FX/為替",
+      "published": "2026-07-27T05:00:39+00:00",
+      "summary": "日本経済指標【景気動向指数（確報値）】 みんかぶ FX/為替",
+      "id": "5c7e575c9abc6e0f",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -304,30 +328,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "NVIDIA、Microsoft、OpenAIなどがオープンモデル規制反対を表明 Anthropic従業員は「CUDAのオープンソース化が楽しみ」と皮肉（1/2 ページ）",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pNm1KVzI0S01sRVpmc0tWUjNRY0NXMXJrSk50WXBYYUZhZzhkemVtSWVGd192UHU1U0JfQ3cyZEZvMm9zZWt4bVlQZlVqWUNMNlZncFYxSHlCZFlNOUtxaGRLbWtFZEoyWkJuMA?oc=5",
-      "source": "ITmedia",
-      "published": "2026-07-27T04:40:13+00:00",
-      "summary": "NVIDIA、Microsoft、OpenAIなどがオープンモデル規制反対を表明 Anthropic従業員は「CUDAのオープンソース化が楽しみ」と皮肉（1/2 ページ） ITmedia",
-      "id": "b194c5de832d928f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "画像・写真 | ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 3枚目",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50cWlzS25TZlNiWFVZNGh0ajBKZ1EtdS03LTJoRUJoUk01Q19xamltQ0kwREJwU2pzZFFLbzJJSUJtUzZXSW9kOElrZnZoQm1wcU5UMGNwOWIwQQ?oc=5",
-      "source": "オリコンニュース",
-      "published": "2026-07-27T04:22:39+00:00",
-      "summary": "画像・写真 | ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 3枚目 オリコンニュース",
-      "id": "1a6a7bac9725975d",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -451,12 +451,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「夏色」で熱狂する神奈川・横浜アリーナの様子。 [画像ギャラリー 10/10]",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83ajVUektTeVktQmZSQmx1cGs1WUJqRTlNdFZVeHZfOURsTGlMV0Mydk5WWHB1ZENQSnplb2NiRFVBYkgxUmxfYkJoMWFfNnBhNkxLZXNIWUNlVUVPVk9OZEVB?oc=5",
+      "title": "「ゆず 弾き語りアリーナツアー 2026 心音」神奈川・横浜アリーナ公演より「幾重」披露の様子。 [画像ギャラリー 1/10]",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81SXhPT205TlpUX25tVFlEZUtLTHpocmpwUEZSd1djS25oVWcweEN1cVpYNVltcFN1emZMTmlLY3g1czJmSDBOWHNNU3NZcUN4dVN6OGpUU0JKODRNSmQzRE5n?oc=5",
       "source": "ナタリー",
       "published": "2026-07-27T01:41:17+00:00",
-      "summary": "「夏色」で熱狂する神奈川・横浜アリーナの様子。 [画像ギャラリー 10/10] ナタリー",
-      "id": "c33641c0cdba6790",
+      "summary": "「ゆず 弾き語りアリーナツアー 2026 心音」神奈川・横浜アリーナ公演より「幾重」披露の様子。 [画像ギャラリー 1/10] ナタリー",
+      "id": "21532d1a7448ff42",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -487,24 +487,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ゆず、横アリ公演回数87回で自身の1位記録を更新&同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fTGdwMVhETlYyU1BhV09nLWV4WjlmeVBnMm9ZbnNRaE9jSm9EQW83elQxOVlnNEdLY2dtcnhxOGpJNEpWUFhveEo3SlJIZ0xodU91RVhB?oc=5",
-      "source": "オリコンニュース",
-      "published": "2026-07-27T01:00:00+00:00",
-      "summary": "ゆず、横アリ公演回数87回で自身の1位記録を更新&同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 オリコンニュース",
-      "id": "e69c4eb398ba010b",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ゆず、初の弾き語りアリーナツアー全21公演を完⾛！横アリ公演回数87回で⾃⾝の1位記録を更新！",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHUUNxYlhZay1HWlAyN0pzd2tQSFNtcmxRLXByYzAwbW45cTdfTXNwbzRTdnFYd205REF2U0QtTVNxVFMwem1BWlRJOVA0QQ?oc=5",
       "source": "POPSCENE - ポップシーン",
       "published": "2026-07-27T01:00:00+00:00",
       "summary": "ゆず、初の弾き語りアリーナツアー全21公演を完⾛！横アリ公演回数87回で⾃⾝の1位記録を更新！ POPSCENE - ポップシーン",
       "id": "7dd8e550f6235280",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ゆず、横アリ公演回数87回で自身の1位記録を更新&同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fTGdwMVhETlYyU1BhV09nLWV4WjlmeVBnMm9ZbnNRaE9jSm9EQW83elQxOVlnNEdLY2dtcnhxOGpJNEpWUFhveEo3SlJIZ0xodU91RVhB?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-07-27T01:00:00+00:00",
+      "summary": "ゆず、横アリ公演回数87回で自身の1位記録を更新&同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 オリコンニュース",
+      "id": "e69c4eb398ba010b",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -655,6 +655,30 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "マンションのバルコニーで火事 ソーラーパネルから充電中に発火 東京・品川区",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00YXk2TjF5bEFQYWtMMVQ2eUxfdTZqX01NTnlnWlZTQVhwVmlGSkhMWUNmWUdNaDFySjE2bUtkNXhJUFFhRjF3RDB6cUdnSC1TN3g5UExpWWN3M28?oc=5",
+      "source": "ABEMA",
+      "published": "2026-07-25T11:21:04+00:00",
+      "summary": "マンションのバルコニーで火事 ソーラーパネルから充電中に発火 東京・品川区 ABEMA",
+      "id": "679eed785e8ea4f1",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "肉チョモランマ（Gero＆めいちゃん）、満員のKアリーナ横浜を沸かせた2日間　ワンマンライブ・DAY1「大一番」をレポート",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SbFBNS1RvWWFZdm1iVVV5M25vbjNrUUpQQ1lOS0lmNzk1andnc2JHMzdGdUozOEZtckplMkV1c01uQURWeXpyRFg1UkNVUXfSAVRBVV95cUxPQV8zSG01TktWUzRpWFhtVi0ybUdncU9DM0JBR0gwNGw5MGFrY3FEUk11Rkd1bnoxNkpYaFhsc1NWazQ3ckNIQ1BzWXdQT3Q5ai1NdHY?oc=5",
+      "source": "エンタメ特化型情報メディア スパイス",
+      "published": "2026-07-25T11:00:00+00:00",
+      "summary": "肉チョモランマ（Gero＆めいちゃん）、満員のKアリーナ横浜を沸かせた2日間 ワンマンライブ・DAY1「大一番」をレポート エンタメ特化型情報メディア スパイス",
+      "id": "4c390d9a8b5d43f4",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "マンションのバルコニーで火事 ソーラーパネルから充電中に発火 東京・品川区（テレビ朝日系（ANN））",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JRzY4aXpKRzB3OUdmdkNvdlVWdjJqLXNiZ1RDWGg0MXh2dkJkaUl4Z0ZOcDNZSWRabmpaalNvQTFVOVpFbWI0QlNZUnRlcFU2OUM5djBTMC0yZFE3czZyNEx4Yi1WVVRhYUFSdWdOTDNrUjUtYzROcFo0eF9FUzg?oc=5",
       "source": "Yahoo!ニュース",
@@ -667,11 +691,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょん「4年前に一つだけ甲子園に置いてきた夢があります」 10周年記念ライブを地元・兵庫で開催 (日テレNEWS NNN)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVDZlSUFkWldsbmdLUElacmx3S0xsX3RUdmc1UUVzQi14Nmx6c2kwdFFsY0tGOG1iSElyYWtCTlZCTE9EbXVLZ21SYUlLZVhLYkFxNnZraEEtRTFMMUU5eEpmSTV6SW9lbWw0TUt1X0tzTUNfMUxYRUdNZV9HdzBTcnAyZDNEWEpaN3dreE5n?oc=5",
+      "title": "あいみょん「4年前に一つだけ甲子園に置いてきた夢があります」 10周年記念ライブを地元・兵庫で開催（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vNEUyTnRBczEtUWYxcC1YQkhtQjM1TnRjSFZfUS12V0lnaU91bWszYUxzSVE2SXpMY1Qxa3N0a3oyOUlvS0JiUjJMQmg4UGJ2WVBpUms1NEplTnExYlRENDBta2lmamVEdDdrc09tdmdyc0ZwMndmdUdSSF9DRjA?oc=5",
       "source": "Yahoo!ニュース",
       "published": "2026-07-24T13:10:00+00:00",
-      "summary": "あいみょん「4年前に一つだけ甲子園に置いてきた夢があります」 10周年記念ライブを地元・兵庫で開催 (日テレNEWS NNN) Yahoo!ニュース",
+      "summary": "あいみょん「4年前に一つだけ甲子園に置いてきた夢があります」 10周年記念ライブを地元・兵庫で開催（日テレNEWS NNN） Yahoo!ニュース",
       "id": "7da4d79943c836db",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -697,18 +721,6 @@
       "published": "2026-07-24T07:15:41+00:00",
       "summary": "【ライブレポート】あいみょん、甲子園での10周年凱旋ライブが大盛況！「改めまして、兵庫県西宮市出身、シンガーソングライター・あいみょんです！」 - 画像一覧（8/22） THE FIRST TIMES",
       "id": "74ad0a2f1f829dde",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【ライブレポート】あいみょん、甲子園での10周年凱旋ライブが大盛況！「改めまして、兵庫県西宮市出身、シンガーソングライター・あいみょんです！」 (THE FIRST TIMES)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0VvUHNBdEo5VEJyOGFkSW1aXzdCc3JxbDlVYVNvM05PWnR4ZHVMUGtmQ1RIaW9YVkVEVHIwTVdDaFhPSWFNYUVBWWtUaFFEdVFmZ1NZQ2JsZUxrOFlFdlB6d0tMQ2RIRVFNTWI4Y0Y4VWNQVTFXcHNLZDdBVlVWdnNxTmdkSDRHRWNDZVlB?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-24T07:15:26+00:00",
-      "summary": "【ライブレポート】あいみょん、甲子園での10周年凱旋ライブが大盛況！「改めまして、兵庫県西宮市出身、シンガーソングライター・あいみょんです！」 (THE FIRST TIMES) Yahoo!ニュース",
-      "id": "9842f1236198379f",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -751,24 +763,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "日本の「勝ち筋」 「3つの上げ」で「四方よし」。日本経済の変身は2026年も進む 野村證券・森田京平",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JMUpIWkIxQmpZejgtamtOY3BnY2pzcXptSHNBTGxYYU1Ebm5HTGp0cllaa19QRGR1dEtnSnBlU0hHVUZZLXZ2Y3NzcE1EZVNEczFRaC1YM2FQdjN5N1Iw?oc=5",
-      "source": "nomura.co.jp",
-      "published": "2026-07-24T07:00:00+00:00",
-      "summary": "日本の「勝ち筋」 「3つの上げ」で「四方よし」。日本経済の変身は2026年も進む 野村證券・森田京平 nomura.co.jp",
-      "id": "5e77da4bdc3397b1",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "（写真）あいみょん、甲子園での10周年凱旋ライブ “4年越しの約束”を果たしたメモリアルライブレポート",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBodVNnOWxDaWdpbG84OWtIVlN3ZUg3RUZBOFNRX3I2R0JwNWEtT0lzMkJOZHZNS3VnQ2JLUWJRSl9XTjRvdjJvcFRWNEM4SHB3aWQtTGE0NWExQQ?oc=5",
       "source": "クランクイン！",
       "published": "2026-07-24T05:51:13+00:00",
       "summary": "（写真）あいみょん、甲子園での10周年凱旋ライブ “4年越しの約束”を果たしたメモリアルライブレポート クランクイン！",
       "id": "00ddd7f9fcd2de72",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "あいみょん、甲子園での10周年凱旋ライブ “4年越しの約束”を果たしたメモリアルライブレポート - 音楽 - ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxT21wYnhVRENFY0tkS1E3aE9aSmVqTFFNQ3B1cU9Yc1JnSDJ4TmFkWDJKdFRqX0QwSmpnS0NSTktCUDdOcElCajFvelA?oc=5",
+      "source": "クランクイン！",
+      "published": "2026-07-24T05:35:00+00:00",
+      "summary": "あいみょん、甲子園での10周年凱旋ライブ “4年越しの約束”を果たしたメモリアルライブレポート - 音楽 - ニュース クランクイン！",
+      "id": "233ecb64507eb36b",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -1021,18 +1033,6 @@
       "published": "2026-07-19T01:47:08+00:00",
       "summary": "【東京都品川区】無添加テキーラ「DOS LOCOS」が販売開始。テキーラの日Celebration Partyに出展 STRAIGHT PRESS",
       "id": "27add951bb97f5d9",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【品川区】品川歴史館 企画展「学芸員のイチオシ！」8/30(土)まで開催中♪",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBldlRSdTJLQUpIb21nQUkyV2JLSEh0Z09saFMtLXJYSFdia28zeDc4c0dBODFodFZIX2ZSLVF2cnJIbndwSjlsVEk0dUIwQWNsWWczT3NlRnpqYXp4dEJGVnhIZw?oc=5",
-      "source": "号外NET 品川区",
-      "published": "2026-07-18T22:43:51+00:00",
-      "summary": "【品川区】品川歴史館 企画展「学芸員のイチオシ！」8/30(土)まで開催中♪ 号外NET 品川区",
-      "id": "9c9e4a93a968d3d6",
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
