@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-27T04:57:54.345223+00:00",
+  "generated_at": "2026-07-27T06:28:04.021571+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -67,15 +67,51 @@
   ],
   "items": [
     {
-      "title": "NVIDIA、Microsoft、OpenAIなどがオープンモデル規制反対を表明 Anthropic従業員は「CUDAのオープンソース化が楽しみ」と皮肉（ITmedia NEWS）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LTVBQMGZSa1JqUVBMWlk5NnV4QzBSTE51R3lZcWd1M1BZQ3JCb2lRajYwdFBVS3d1N2FMOF9MbURFSTVOWHhFcExjWEd3Nk5xVlg2YkdPak5WZkZlM29aQmIzSTVJYXd6SU5JTlZrUW5ySVhtUTRpRzhQeVZxdG8?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-27T04:41:38+00:00",
-      "summary": "NVIDIA、Microsoft、OpenAIなどがオープンモデル規制反対を表明 Anthropic従業員は「CUDAのオープンソース化が楽しみ」と皮肉（ITmedia NEWS） Yahoo!ニュース",
-      "id": "83511f0c3e78ac37",
+      "title": "あいみょん、“4年越しの約束”を果たした甲子園での10周年凱旋ライブのレポート到着",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XNl9hQkxwVFQxRU5lUHVpSHEwN01XM2puNnVPZ0tZWmN0b0dheUNSa3RTUXA5NC1DU2hidmNBNUoxdjhjNW5hUW15a1Qwb3dyb2x1TmYtU2l5dzdUbGdhM1VR?oc=5",
+      "source": "Billboard JAPAN",
+      "published": "2026-07-27T05:30:00+00:00",
+      "summary": "あいみょん、“4年越しの約束”を果たした甲子園での10周年凱旋ライブのレポート到着 Billboard JAPAN",
+      "id": "3b0bd6fb5b03e8db",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GitHub CopilotにClaude Opus 5が対応",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jZHY3b0ZIZXktd2RucFQwa196Mlk1ZzZwWU1kX3l6dENFWW5ITVNzOFVyUy1SSG83eVpQUEJrZ1ZDcDdOY0lTT05HV0w0dw?oc=5",
+      "source": "CodeZine",
+      "published": "2026-07-27T05:30:00+00:00",
+      "summary": "GitHub CopilotにClaude Opus 5が対応 CodeZine",
+      "id": "eb496bdb5c0128ab",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "NVIDIA、Microsoft、OpenAIなどがオープンモデル規制反対を表明 Anthropic従業員は「CUDAのオープンソース化が楽しみ」と皮肉（1/2 ページ）",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pNm1KVzI0S01sRVpmc0tWUjNRY0NXMXJrSk50WXBYYUZhZzhkemVtSWVGd192UHU1U0JfQ3cyZEZvMm9zZWt4bVlQZlVqWUNMNlZncFYxSHlCZFlNOUtxaGRLbWtFZEoyWkJuMA?oc=5",
+      "source": "ITmedia",
+      "published": "2026-07-27T04:40:13+00:00",
+      "summary": "NVIDIA、Microsoft、OpenAIなどがオープンモデル規制反対を表明 Anthropic従業員は「CUDAのオープンソース化が楽しみ」と皮肉（1/2 ページ） ITmedia",
+      "id": "b194c5de832d928f",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "画像・写真 | ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 1枚目",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aUThmbFhoRXpxZmNGMk9xa0QtUzNyS0cyd3VjemdXU1dxcWhhdzhtOUNZSmpTMzQ0eTlYYUljSVNtUEg3RkM0Vnl6SmJmcERRRk5PeGZDQmZZdw?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-07-27T04:22:20+00:00",
+      "summary": "画像・写真 | ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 1枚目 オリコンニュース",
+      "id": "1c9374eb9e70c048",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -104,10 +140,10 @@
     },
     {
       "title": "ゆず、初の弾き語りアリーナツアー完走 横浜アリーナ公演87回＆史上最多動員を記録【オフィシャルレポート】",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HamVmOXZXcV9NS1cyLVNKdnpYM1JZTE9lRXBxS29iaTljOVByTkR0cDJUYUNWLTFTbHdUNkFrR0pSbUJFZWN6M1lKNEdxOXBnRFVweElJMVVwXzhaQnBYT2VOU3p0U3VIOGJPVW16WDVKSG9kWm80VjlTUjVlbHM?oc=5",
-      "source": "プラメポータル",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ONjJneVc4czJ3bUlHY1ktaWlzYWhKblhhYzVla01XMTlQR2hwN3FiU3JXc0tjdTFFVGdKOG92ZG8wNkh1QlRXY3JDQ0FHWl9BNFc4YUtlWDd2VmhyMnNPYzZNcFZIeXNLN19HTlNQSQ?oc=5",
+      "source": "ぴあエンタメ情報",
       "published": "2026-07-27T03:30:00+00:00",
-      "summary": "ゆず、初の弾き語りアリーナツアー完走 横浜アリーナ公演87回＆史上最多動員を記録【オフィシャルレポート】 プラメポータル",
+      "summary": "ゆず、初の弾き語りアリーナツアー完走 横浜アリーナ公演87回＆史上最多動員を記録【オフィシャルレポート】 ぴあエンタメ情報",
       "id": "e9ae9ef2c66a0c4e",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -223,15 +259,27 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "OpenAIやGoogle、「オープンウェイトAI規制反対」の共同書簡に署名 Anthropicだけ参加見送り",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaMmlHLVhMY0Q2M1J2RjV3UVVWcjdzUE9iLXZWWEVyS21RdTRKV3pyaG91SFFEREpmYWNvbG9reTRZUGt0LUp5ZUFUMFc3TUpHTUZzeVN4RE95TS1aWmc?oc=5",
-      "source": "週刊アスキー",
-      "published": "2026-07-27T01:40:00+00:00",
-      "summary": "OpenAIやGoogle、「オープンウェイトAI規制反対」の共同書簡に署名 Anthropicだけ参加見送り 週刊アスキー",
-      "id": "9150a87b42dd6559",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
+      "title": "「ゆず 弾き語りアリーナツアー 2026 心音」神奈川・横浜アリーナ公演の様子。 [画像ギャラリー 2/10]",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WS3pYVk9pbWxUV0k1SVpic1ctSjcyYUZVakw4MTU5TTBsUjRYOEpkeGp0MTU1TlJCd25mWXF1TFlXVUNXMjBxSTkzYmhJMmdjUjF2bXZnVzRKcEhoU3QwV2dR?oc=5",
+      "source": "ナタリー",
+      "published": "2026-07-27T01:41:17+00:00",
+      "summary": "「ゆず 弾き語りアリーナツアー 2026 心音」神奈川・横浜アリーナ公演の様子。 [画像ギャラリー 2/10] ナタリー",
+      "id": "fcf7d9464b3993b3",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「ゆず 弾き語りアリーナツアー 2026 心音」神奈川・横浜アリーナ公演より「喜怒哀楽メドレー」の様子。 [画像ギャラリー 5/10]",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sZWdoNUZlb3NydTNBLVdCT3R2c3B3SHphVUVLVVNfQUlRUFp6bzBhZlIyd05rM1gtejdEY3V0M1d1ZjRKTWoyNW5YcUdmREQ5QWxnSWFGM1NnVWZTamZZUGNB?oc=5",
+      "source": "ナタリー",
+      "published": "2026-07-27T01:41:17+00:00",
+      "summary": "「ゆず 弾き語りアリーナツアー 2026 心音」神奈川・横浜アリーナ公演より「喜怒哀楽メドレー」の様子。 [画像ギャラリー 5/10] ナタリー",
+      "id": "4f33ac2e1a96eaae",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -268,6 +316,18 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【レポート】ゆず、初の弾き語りアリーナツアー＜⼼⾳＞全21公演完遂「横浜アリーナで87回もライブができるなんて」",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9SZ19qb09yUmRuNnVKYjNFemt6cDlCbnJ2ZHREejBPd3BUN3lSQTJXRUI5TVY5eTBvYkpaU0pnYTBIWnM?oc=5",
+      "source": "BARKS",
+      "published": "2026-07-27T01:00:00+00:00",
+      "summary": "【レポート】ゆず、初の弾き語りアリーナツアー＜⼼⾳＞全21公演完遂「横浜アリーナで87回もライブができるなんて」 BARKS",
+      "id": "953285f7d09aadd9",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -319,18 +379,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16bU5MQi02ck8zUllqblI5QnRqd2JVcWdGNi1RT2tRbEh1M1hueGpoUk13ZjRGV2l3SFI3N1FJRHdGYUItTXlNVjVLNmRYUUo1SDBRMTRMTUg4aS1ERUg4YkZCb24?oc=5",
-      "source": "sannichi.co.jp",
-      "published": "2026-07-27T00:33:50+00:00",
-      "summary": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル sannichi.co.jp",
-      "id": "80f2ea5abd7545f7",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Anthropic、「Claude Opus 5」をリリース（ZDNET Japan）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOd0E2RXp1MjFRb1ppa1RPM3NXem01bWtQRVBtWUtQR3NLRDBXamRud0huNXgwV0o1Wkliaks3anEzSU84ZVlkTkpGSHUyODFqd0gybUpzaGhma19UZ3hROXBmVHYzT3JSaDI3eFhsaHItcXpOMHdyd1ByZERyX0k?oc=5",
       "source": "Yahoo!ニュース",
@@ -343,12 +391,36 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 熊本」8/24(月) 開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jX1F2ZXNZNERBVF9wa29obVhqclQyMEkyOTRQTl9ackczNV9sZFpPTE5wREFnQlR3cjhudm9wd0I1V0VPazRVR0hydE1hZzBzbWRLWWlobFRhdVl0Z0x0eklsVkdqT3NFa3c?oc=5",
+      "title": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に、既存画像をAIで編集できる新機能「AI画像編集」を追加。画像単体のダウンロード解禁とクレジット消費半減も実施",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9taHRVd0k4MG55T1VWZmVod0g0bEJmWXRQbkxKejJmdXY0ZTdZNTVMQjlDQk1pbVdNNHJYSHF4U0xEOUo5V2tvTEtsNW5aUDhGazJXYldmUEhZQ3ZvTjRjdWc2VWNCZndWd1prd3dDNDAzZlhOOUE?oc=5",
+      "source": "Excite エキサイト",
+      "published": "2026-07-27T00:15:00+00:00",
+      "summary": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に、既存画像をAIで編集できる新機能「AI画像編集」を追加。画像単体のダウンロード解禁とクレジット消費半減も実施 Excite エキサイト",
+      "id": "727bf26d4c6b2d4c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Opus 5はプロンプトインジェクションを解決したのか？0%を生んだ二層防御の実力",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zSzdEaTVuZUNlRlhSLW95RVNBWWpmV1RwMkpDOFpFSmJkSGRzUnVfdVFPMmdMUzlMeGRsMjNWMk5yaW1rdE5WYXhWQUdlRktNRHBZaDR1eHppZ205UU1iNFRPU0dzTjg?oc=5",
+      "source": "XenoSpectrum",
+      "published": "2026-07-27T00:12:12+00:00",
+      "summary": "Claude Opus 5はプロンプトインジェクションを解決したのか？0%を生んだ二層防御の実力 XenoSpectrum",
+      "id": "dcbe384dede86271",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 鹿児島」8/25(火) 開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWZmtBcWhVVzVrbkVxbzVzVVlycm1TX19hVUJaeXdPYllDUTBYTmVJOG9zWE95dXRidXp0Tmc2ZzdicjlWSXdBdnNZdU5FX3R2NnRNaU1TUHQ1N1NKMWxhVmxzZ2NCV2ZRd2c?oc=5",
       "source": "PR TIMES",
       "published": "2026-07-27T00:00:02+00:00",
-      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 熊本」8/24(月) 開催 PR TIMES",
-      "id": "0b67b151cc06ae0f",
+      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 鹿児島」8/25(火) 開催 PR TIMES",
+      "id": "f595ace7d87bd4a9",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -388,18 +460,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Opus 5公開の同日、ユニバーサル・ジェイルブレイクを主張。AnthropicとOpenAIの防御はどこまで進んだか",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xeG4wZzRBeTkzWmwyam9wMk8xOHlmbGxGWTVYVTIzaGlGM091Y3k4ampFUHhpWmZITGRsTzBXa2pyVWZpSUNtUWdrWS0tdWFwWWFv?oc=5",
-      "source": "innovaTopia",
-      "published": "2026-07-26T22:42:08+00:00",
-      "summary": "Claude Opus 5公開の同日、ユニバーサル・ジェイルブレイクを主張。AnthropicとOpenAIの防御はどこまで進んだか innovaTopia",
-      "id": "8a29aa14e5589a17",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -583,18 +643,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "『ゆず 弾き語りアリーナツアー 2026 心音』横浜アリーナ公演を9/27(日)18:00～CS日テレプラスにて独占放送！キャリア初のアリーナ規模での弾き語りライブ！",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXLTJSZWMwV0hFdkRDWE9aVlZXVEhoeTlCWW5TR1RMT3N5MVZrMTU5Y1otYUtrTUw5dUJvUUt6YURubVF6UzdBb2R4Uy1KTGhIbmdGOFU5QWN1UkRYUE5CMHYxZHo3Tmw5Ymc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-25T10:00:01+00:00",
-      "summary": "『ゆず 弾き語りアリーナツアー 2026 心音』横浜アリーナ公演を9/27(日)18:00～CS日テレプラスにて独占放送！キャリア初のアリーナ規模での弾き語りライブ！ PR TIMES",
-      "id": "8ba4eaa7a17a36dc",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "マンションのバルコニーで火事 ソーラーパネルから充電中に発火 東京・品川区（テレビ朝日系（ANN））",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JRzY4aXpKRzB3OUdmdkNvdlVWdjJqLXNiZ1RDWGg0MXh2dkJkaUl4Z0ZOcDNZSWRabmpaalNvQTFVOVpFbWI0QlNZUnRlcFU2OUM5djBTMC0yZFE3czZyNEx4Yi1WVVRhYUFSdWdOTDNrUjUtYzROcFo0eF9FUzg?oc=5",
       "source": "Yahoo!ニュース",
@@ -625,18 +673,6 @@
       "published": "2026-07-24T09:31:16+00:00",
       "summary": "日銀7月会合、政策金利据え置きへ 26年度成長率は上方修正を検討 日本経済新聞",
       "id": "c3189cc2a9d222a6",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "南アフリカ通貨ランド急落、予想外の利上げ見送り 物価高・景気板挟み",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1heFNnTmljUlQzX21aSjhHY3lXcHVMSEdZbTJpZFpmaWRHanVNZ2l2SGhVeWJld2xsZWs2LVJQaWhsN0J3UWxHTHVMNVBNRDRrc3FfX3ZxeEgwWUxGLU00MmthSDlfU2ZUNWJscg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-24T08:39:11+00:00",
-      "summary": "南アフリカ通貨ランド急落、予想外の利上げ見送り 物価高・景気板挟み 日本経済新聞",
-      "id": "7028afea27588789",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -679,18 +715,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "＜7/24更新＞映像商品「Travis Japan Concert Tour 2026 ’s travelers」8月26日(水)発売決定！",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kTjBRSnd4ZXpMMFJyaDJaeF9QZHdiV21QMmJGSlFmSU9Bd2JLRzFtY3JkWlBXYVhLY2RwcnFUclYxaldpdXU1RW9YRUhCRHdMbWczSWZOeWRzcUt2SHFCb09XT2c1VUhGWm50T2lpWQ?oc=5",
-      "source": "UNIVERSAL MUSIC JAPAN",
-      "published": "2026-07-24T07:00:00+00:00",
-      "summary": "＜7/24更新＞映像商品「Travis Japan Concert Tour 2026 ’s travelers」8月26日(水)発売決定！ UNIVERSAL MUSIC JAPAN",
-      "id": "4d8b9f5635b449cc",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "米ドル円相場のカギは高市政権の夏場の政策運営 財政拡張抑制が焦点 野村證券・後藤祐二朗",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93MHl0RWo5OFpld1RfVVpwekxtYnVJOTVBM1pMY2NUSHRJYUlVVHJoTTNEX0FuR2FSNndhbENpNVctbmJxTXpibFgxM0QyT0VfbXh0VWQ0QkE0MnRPY1pz?oc=5",
       "source": "nomura.co.jp",
@@ -721,6 +745,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "summary": "日本の「勝ち筋」 「3つの上げ」で「四方よし」。日本経済の変身は2026年も進む 野村證券・森田京平 nomura.co.jp",
       "id": "5e77da4bdc3397b1",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "山場を迎える高市政権マクロ政策 金融政策、財政政策ともに6月こそが重要な分岐点の可能性 野村證券・森田京平",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DZWVTUzRzdHRSei01Skw5NW12RS1mVDJxQXF5NWdYaF9wcW9IN0ZQY1JoRjU0VThPRUl6NDkxbGMzYi1HVnhzLWFKRTlOYnJvNzAyWnR2ei02RE5jWGhZ?oc=5",
+      "source": "nomura.co.jp",
+      "published": "2026-07-24T07:00:00+00:00",
+      "summary": "山場を迎える高市政権マクロ政策 金融政策、財政政策ともに6月こそが重要な分岐点の可能性 野村證券・森田京平 nomura.co.jp",
+      "id": "6068bbea3d007d41",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -760,18 +796,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "BIGBANGライブチケット2026一般発売いつから？取り方と確実に取るコツも！",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZYUVVZjY5RmN4Uk1qZHJXMk9GODVvUndZYVNEbkJmY1Zwa3dvU2tqRGM5SW5FNWY0Z0U2MkJjUTI2UVBaOXZmWG01V3c3U0JTSVBfYnVsZ1k?oc=5",
-      "source": "株式会社マーケットプレイス",
-      "published": "2026-07-24T05:03:38+00:00",
-      "summary": "BIGBANGライブチケット2026一般発売いつから？取り方と確実に取るコツも！ 株式会社マーケットプレイス",
-      "id": "ed7819d52c1a06f3",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -859,18 +883,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょん、4thアルバム「瞳へ落ちるよレコード」アナログ盤＆空間オーディオ配信がスタート 渋谷での「愛を伝えたいだとか」車両展示やTikTok LIVEでのライブ全編配信も決定",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VS2x0eGQ3Wmhxam8yYm1zdEVjc282LVY2bkpIc1ptVEs1ZXcwMkNlLUxudzdPdHZYLVMyVXF1OFotcjk5eWdjaE9jWnE1TDFpQlE?oc=5",
-      "source": "音楽業界総合情報サイト",
-      "published": "2026-07-23T09:20:05+00:00",
-      "summary": "あいみょん、4thアルバム「瞳へ落ちるよレコード」アナログ盤＆空間オーディオ配信がスタート 渋谷での「愛を伝えたいだとか」車両展示やTikTok LIVEでのライブ全編配信も決定 音楽業界総合情報サイト",
-      "id": "9416dfa428495d67",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "大井町トラックスで夏イベント 「発見の旅」テーマに、スタンプラリーを展開（みんなの経済新聞ネットワーク）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9heFBCbWZfa0VEWFZ0YzNoWHdPUlAydXZ2ZEM5dHNXei15RnFYMmtfRWJ1QWg4Rk9xR3MzQUpOT0xOY0RlUUtyOTJkNGhIbnpPRzVIZjVudTQ1T0d6MVR5Z0J3Ri1faTFVYzM0alNsM1hXZlVwZk0tbDItUFhBYjg?oc=5",
       "source": "Yahoo!ニュース",
@@ -892,18 +904,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「King Gnu CEN+RAL Tour 2026」横浜アリーナ公演の様子。（Photo by Kosuke Ito） [画像・動画ギャラリー 9/32]",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uanRRWEpHM1NWSUhKQjZVeEVSQTllUm5HZlNoUGtSZTRKQUMtdVZfbUZESzlIU2NCbTJRa3JnclVKMkttZTFHeVktYVBGVnVlVFUtWGI5ckZ0cjBpM0dCZDl3?oc=5",
-      "source": "ナタリー",
-      "published": "2026-07-23T04:41:00+00:00",
-      "summary": "「King Gnu CEN+RAL Tour 2026」横浜アリーナ公演の様子。（Photo by Kosuke Ito） [画像・動画ギャラリー 9/32] ナタリー",
-      "id": "6a0fdc9d85951d4d",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1027,12 +1027,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【移転】品川シーサイドに新オフィス、OKI",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGVkU4a2Ffc0ZvRVNnTko4eDJmSUdfeTVrZkdWTnl5WGdneWJRZTdDYUdUb21zRl9XQ01PV2RETDU4V1VmS2F4SGNhazBsM29UNnc5R2VZN0dDZ2ljNXlQWXZ3?oc=5",
-      "source": "日経不動産マーケット情報",
-      "published": "2026-07-19T07:57:36+00:00",
-      "summary": "【移転】品川シーサイドに新オフィス、OKI 日経不動産マーケット情報",
-      "id": "e5da0de51c89e07c",
+      "title": "【品川区】品川歴史館 企画展「学芸員のイチオシ！」8/30(土)まで開催中♪",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBldlRSdTJLQUpIb21nQUkyV2JLSEh0Z09saFMtLXJYSFdia28zeDc4c0dBODFodFZIX2ZSLVF2cnJIbndwSjlsVEk0dUIwQWNsWWczT3NlRnpqYXp4dEJGVnhIZw?oc=5",
+      "source": "号外NET 品川区",
+      "published": "2026-07-18T22:43:51+00:00",
+      "summary": "【品川区】品川歴史館 企画展「学芸員のイチオシ！」8/30(土)まで開催中♪ 号外NET 品川区",
+      "id": "9c9e4a93a968d3d6",
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
