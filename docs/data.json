@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-27T14:41:54.664970+00:00",
+  "generated_at": "2026-07-27T15:46:13.132589+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 2
+      "count": 3
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,6 +67,42 @@
   ],
   "items": [
     {
+      "title": "Claude Fable 5に迫る「Kimi K3」オープンウェイト版が公開",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5POTZTV2hkeDN6QkhTbTQ1U3h4N2phT3FHTHl3WGxuRmVyUnpqTWxMOHF4c2s3YkFfSHpwbWhoazk2d0MycXlMVFJBMTBJV0RnaTNRRmEyMEJrU2UyU3phVnQ3VQ?oc=5",
+      "source": "PC Watch",
+      "published": "2026-07-27T15:29:54+00:00",
+      "summary": "Claude Fable 5に迫る「Kimi K3」オープンウェイト版が公開 PC Watch",
+      "id": "9f7d817606594e8e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "“パソコンを操作するAI”「Claude Desktop」 検索やファイル整理を代行",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1I5dFJwVWdPZ0x5RmlraGV6NVFaMjVkS2JMd0tHRXFQdVJkQVF6dHAtQTJPOEgwSzVlUzc0OVZvYldZek1HVHBLaFUzMVVNMmo0TndrdUpNN1I2cnp3aXZCMDFISzB1VUV3eUVsRG5uRUZRM2FSS1lSbURoTTZNV3JOLWFHSExmSHNjVEdqbFplSE1mcWJQNEFWLVRCZw?oc=5",
+      "source": "日経クロストレンド",
+      "published": "2026-07-27T15:00:00+00:00",
+      "summary": "“パソコンを操作するAI”「Claude Desktop」 検索やファイル整理を代行 日経クロストレンド",
+      "id": "7918ba03274ac40d",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ7月28日（火）～8月3日（月）：横浜バレエフェスティバル、葉山野菜即売会、鎌倉の美術館めぐりへ",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUtYMlBCcGk0NEdTRHA2TDlHMTMyanV4c3JKOXM2QmFEMmhjMWhtNHRWU1NkV0xXaVNzWkpTY0l1SVBpeS1WWU56YVRYZFQ5TlA4X1VjaXZpQkFtLWZDbGZHTFUtZUpQVEVfQk5aMjFydkROVU1QdXRvY2NBOWJkazFOSQ?oc=5",
+      "source": "湘南人",
+      "published": "2026-07-27T14:56:12+00:00",
+      "summary": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ7月28日（火）～8月3日（月）：横浜バレエフェスティバル、葉山野菜即売会、鎌倉の美術館めぐりへ 湘南人",
+      "id": "1fbefd99b9a87758",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Claude Coworkがサンドボックスを脱出、Macの全ファイルを読み書き可能に",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUVjMjJBbHpLUXNSMHUyeHdBWlM4OV9PcmE0SnJQNmdXaXBYZjN3WXMyRXJYMWFGWUVSQnFxMmVrUTFkMEtJcTVmbXA0VVh5Z2xvNW03MWdoUFNPbUE1MXhlNUhKUjFPbm0wOFh2dHpJLXRNSlpzZFRKeVJLT2NhRFpSZw?oc=5",
       "source": "apple-hacks.com",
@@ -88,18 +124,6 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "トランプ関税下の日本経済と金融市場動向——超低金利の「ツケ」と、日本の伸びしろ｜セミナーレポート",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rRWNLZGt6RHdsVU5sVHljcS1OX0dsREZweG51YlRqTkNvNy1mMFpIcjRod2xLZ3Y0WENkWTdrWXFfMjVfYXJOMGJRS283VWpMbjMzU1Zxdnd1N25LaXRGeU44ZV9fakU?oc=5",
-      "source": "日本M&Aセンター",
-      "published": "2026-07-27T10:58:05+00:00",
-      "summary": "トランプ関税下の日本経済と金融市場動向——超低金利の「ツケ」と、日本の伸びしろ｜セミナーレポート 日本M&Aセンター",
-      "id": "d35b27b95f7a39ba",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -160,18 +184,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ7月28日（火）～8月3日（月）：横浜バレエフェスティバル、葉山野菜即売会、鎌倉の美術館めぐりへ",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUtYMlBCcGk0NEdTRHA2TDlHMTMyanV4c3JKOXM2QmFEMmhjMWhtNHRWU1NkV0xXaVNzWkpTY0l1SVBpeS1WWU56YVRYZFQ5TlA4X1VjaXZpQkFtLWZDbGZHTFUtZUpQVEVfQk5aMjFydkROVU1QdXRvY2NBOWJkazFOSQ?oc=5",
-      "source": "湘南人",
-      "published": "2026-07-27T09:12:59+00:00",
-      "summary": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ7月28日（火）～8月3日（月）：横浜バレエフェスティバル、葉山野菜即売会、鎌倉の美術館めぐりへ 湘南人",
-      "id": "1fbefd99b9a87758",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -253,30 +265,6 @@
       "published": "2026-07-27T07:08:14+00:00",
       "summary": "Microsoft、Visual Studio Code 1.130公開 Copilot・Claude・CodexのAI基盤を刷新 マイナビニュース",
       "id": "206e4f8aba6101d8",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米AI企業が中国発オープンソースのAIで対立 - Anthropicと業界大手は対立、OpenAIは両方を支持",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hQk1LSS1pcWJISDZwNjkxM1VPbGJJYklLb0JRdnVRekVZT01YZWI2eHdfemtWWUxzVVVVeDUtQUFsOEVPbmlZMTBwWWlLenV3YWhiTGMtUXJmNFNrbzVjc0tBLV9jWHU1?oc=5",
-      "source": "マイナビニュース",
-      "published": "2026-07-27T07:02:03+00:00",
-      "summary": "米AI企業が中国発オープンソースのAIで対立 - Anthropicと業界大手は対立、OpenAIは両方を支持 マイナビニュース",
-      "id": "326e8305e746d66a",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AIの誤情報・ハルシネーション対策を支援するKeywordmap、新機能「AI回答誤情報診断（β版）」をリリース",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbnVtZTFqVXVfUldHOU9DekQxVVJoVXBlRGx4TVJrVDhfNTdMY2JvSEJkNFUzSG8wSGktMHlZR3B1bkhnamgyWXAxeTF6VEtOaXA0Z0h0cm42Sm5FR0swZE04ZlV4SGxqVFE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-27T06:47:28+00:00",
-      "summary": "AIの誤情報・ハルシネーション対策を支援するKeywordmap、新機能「AI回答誤情報診断（β版）」をリリース PR TIMES",
-      "id": "d067f40ffe6b781b",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -463,6 +451,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "『地球の歩き方』表紙の世界観をスーツケースベルトに。旅好きの心をくすぐる新アイテムを発売",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00Yk54SjN4M1VVelNEelNMTTYtaXNzcGJrQTFldmNPSjctd0NZWHVGV3ljZkc0aHNmWVEwUEpSV1Bsd21tX25mdjB3VGFvUHlaOFdkaXhYbHJoTkEzZnlPSWNxSTRuSDRRdmc?oc=5",
+      "source": "株式会社旅行新聞新社",
+      "published": "2026-07-27T01:55:20+00:00",
+      "summary": "『地球の歩き方』表紙の世界観をスーツケースベルトに。旅好きの心をくすぐる新アイテムを発売 株式会社旅行新聞新社",
+      "id": "cec9fc269186fafa",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「ゆず 弾き語りアリーナツアー 2026 心音」神奈川・横浜アリーナ公演より「幾重」披露の様子。 [画像ギャラリー 1/10]",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81SXhPT205TlpUX25tVFlEZUtLTHpocmpwUEZSd1djS25oVWcweEN1cVpYNVltcFN1emZMTmlLY3g1czJmSDBOWHNNU3NZcUN4dVN6OGpUU0JKODRNSmQzRE5n?oc=5",
       "source": "ナタリー",
@@ -487,12 +487,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【レポート】ゆず、初の弾き語りアリーナツアー＜⼼⾳＞全21公演完遂「横浜アリーナで87回もライブができるなんて」",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9SZ19qb09yUmRuNnVKYjNFemt6cDlCbnJ2ZHREejBPd3BUN3lSQTJXRUI5TVY5eTBvYkpaU0pnYTBIWnM?oc=5",
-      "source": "BARKS",
+      "title": "ゆず、横アリ公演回数87回で自身の1位記録を更新&同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fTGdwMVhETlYyU1BhV09nLWV4WjlmeVBnMm9ZbnNRaE9jSm9EQW83elQxOVlnNEdLY2dtcnhxOGpJNEpWUFhveEo3SlJIZ0xodU91RVhB?oc=5",
+      "source": "オリコンニュース",
       "published": "2026-07-27T01:00:00+00:00",
-      "summary": "【レポート】ゆず、初の弾き語りアリーナツアー＜⼼⾳＞全21公演完遂「横浜アリーナで87回もライブができるなんて」 BARKS",
-      "id": "953285f7d09aadd9",
+      "summary": "ゆず、横アリ公演回数87回で自身の1位記録を更新&同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 オリコンニュース",
+      "id": "e69c4eb398ba010b",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -505,18 +505,6 @@
       "published": "2026-07-27T01:00:00+00:00",
       "summary": "ゆず、初の弾き語りアリーナツアー全21公演を完⾛！横アリ公演回数87回で⾃⾝の1位記録を更新！ POPSCENE - ポップシーン",
       "id": "7dd8e550f6235280",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ゆず、横アリ公演回数87回で自身の1位記録を更新&同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fTGdwMVhETlYyU1BhV09nLWV4WjlmeVBnMm9ZbnNRaE9jSm9EQW83elQxOVlnNEdLY2dtcnhxOGpJNEpWUFhveEo3SlJIZ0xodU91RVhB?oc=5",
-      "source": "オリコンニュース",
-      "published": "2026-07-27T01:00:00+00:00",
-      "summary": "ゆず、横アリ公演回数87回で自身の1位記録を更新&同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 オリコンニュース",
-      "id": "e69c4eb398ba010b",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -691,6 +679,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "ゆず 弾き語りアリーナツアー 2026 心音",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kcm9hN2ZDb21zOW5PMGRQY3JZMG9Cd2FDVTZlX2JXOHNLaHVwY1BhTGRmTkd4VVlqVkFWZVlPbFA5bjFCQzREeGtFRE50SGRMRDctaGJWSWc2V2ZYcGJ3ZkNNd1FrQUU?oc=5",
+      "source": "nitteleplus.com",
+      "published": "2026-07-25T10:47:26+00:00",
+      "summary": "ゆず 弾き語りアリーナツアー 2026 心音 nitteleplus.com",
+      "id": "62dd1a48685d58e3",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "マンションのバルコニーで火事 ソーラーパネルから充電中に発火 東京・品川区（テレビ朝日系（ANN））",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JRzY4aXpKRzB3OUdmdkNvdlVWdjJqLXNiZ1RDWGg0MXh2dkJkaUl4Z0ZOcDNZSWRabmpaalNvQTFVOVpFbWI0QlNZUnRlcFU2OUM5djBTMC0yZFE3czZyNEx4Yi1WVVRhYUFSdWdOTDNrUjUtYzROcFo0eF9FUzg?oc=5",
       "source": "Yahoo!ニュース",
@@ -757,6 +757,18 @@
       "published": "2026-07-24T07:00:00+00:00",
       "summary": "米ドル円相場のカギは高市政権の夏場の政策運営 財政拡張抑制が焦点 野村證券・後藤祐二朗 nomura.co.jp",
       "id": "787aff718f6c76b2",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "日銀会合後、原油高で日本経済・日本株はどうなるか 注目材料と当面シナリオ 野村證券ストラテジストが解説",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCUVRqMUR2MWRMbFZkbDRsUjNQdnpPZXdWOW1LR3FGTUZZcFFPakNEUElXN1ZGMVRHSjhvcUY5TXJVbGxIRVR2dFNUM1B6b1BwazZiSWRJUURZNWdvbnlv?oc=5",
+      "source": "nomura.co.jp",
+      "published": "2026-07-24T07:00:00+00:00",
+      "summary": "日銀会合後、原油高で日本経済・日本株はどうなるか 注目材料と当面シナリオ 野村證券ストラテジストが解説 nomura.co.jp",
+      "id": "f8f2c60d67acffd4",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -1099,5 +1111,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 86
+  "count": 87
 }
