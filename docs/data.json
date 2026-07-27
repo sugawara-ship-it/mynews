@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-27T07:28:28.817499+00:00",
+  "generated_at": "2026-07-27T09:16:40.062777+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 2
+      "count": 3
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,6 +67,78 @@
   ],
   "items": [
     {
+      "title": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ7月28日（火）～8月3日（月）：横浜バレエフェスティバル、葉山野菜即売会、鎌倉の美術館めぐりへ",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUtYMlBCcGk0NEdTRHA2TDlHMTMyanV4c3JKOXM2QmFEMmhjMWhtNHRWU1NkV0xXaVNzWkpTY0l1SVBpeS1WWU56YVRYZFQ5TlA4X1VjaXZpQkFtLWZDbGZHTFUtZUpQVEVfQk5aMjFydkROVU1QdXRvY2NBOWJkazFOSQ?oc=5",
+      "source": "湘南人",
+      "published": "2026-07-27T09:12:59+00:00",
+      "summary": "【鎌倉・逗子・葉山エリア】今週のイベントまとめ7月28日（火）～8月3日（月）：横浜バレエフェスティバル、葉山野菜即売会、鎌倉の美術館めぐりへ 湘南人",
+      "id": "1fbefd99b9a87758",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【鎌倉市】ルミネウィング大船で「サマーワークショップ開催」！Zoffやmoveとのコラボでサングラスやオリジナル時計を手作り体験【8月22日・23日】",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KZDJtaWpBM3RjU3NkXy1MRGFwbW9oRnlESk5WWmdiYjJyaG5Mdl85bVVGRzZrNmxsM190N0UtQzlqQmhNV0RaWFdTVVlMcHNBX3I5UEFUR0t3dGg3Ykg5cTRrejJVd0lr?oc=5",
+      "source": "湘南人",
+      "published": "2026-07-27T08:31:34+00:00",
+      "summary": "【鎌倉市】ルミネウィング大船で「サマーワークショップ開催」！Zoffやmoveとのコラボでサングラスやオリジナル時計を手作り体験【8月22日・23日】 湘南人",
+      "id": "2dc14fb76f7857a6",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "生成AIは教育をどう変えるのか？企業研修・eラーニング活用の実践ポイントがわかる教育×最先端セミナー《オンライン開催》中級編",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mdXVhdHlfWUdzNDFMRFpUTFFZbjNVeTdpQzMtSHgwNFQwRHIzVkFnampfVVJIM1FoZDhFZExGRkQ5MGo5MjhBblFDQ0hzbFM0Rk90M3BsZmVZeTROcERHamdocXlYemZEb1E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-27T08:20:01+00:00",
+      "summary": "生成AIは教育をどう変えるのか？企業研修・eラーニング活用の実践ポイントがわかる教育×最先端セミナー《オンライン開催》中級編 PR TIMES",
+      "id": "580d00569fbef137",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【AIのチカラ】社員も安心して使える！Claude Code安全対策",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQR01FaWRyOFBUT3dlV3hHQXNNRm10eWVmMUhZSjFtRWRhSTVuWk9nZkx2MzQ2NC1Ya0hNQVl6OU4yQXU1OURHME1mNDg2Q3czLTEzSXh2MkNqNlV2SE9lOW13MGtIMkR5eE1VZVV4RnJ4TERiYjhQOVZIVmkxNUpyNzFTSE42MGZIRl9wY2JKaGNWQ2V4dEpRM0RBWHBpZjEycUZvWllDeFJSM0tUZXItNWxDTXpGQ0RaOWNYbmR2eG9sVG5YTHBwdVZVRzhiRVE0Z05Db2pQZjhVUURSemNmak5hLW05NHkzNWQxQUVNRmtkWWQwY3R3Qy04eHdKUXZNZGRxOXB4cWUwM2hXRzA5NjgzMTBJLTc2WndMeFExTU5WdmFwa0pKbjJlRmRGd9IB3gFBVV95cUxNRDN0Y20xcXhTUDVMeG1RRmJYUGxEMGtuakZQbk1Uc3pXd0t0aXVEdUFiaGFxS2ctZU9OY3JzRDlaVlNEZ0dPbEJZUUxsOTc0QUdmVnJjSDYwSDdCeUlLam5yT0VTdUppeElZSlZJSWxCZThscHpQS2FGUExSTmtkWnBoZjFENXRnMTRSY3pqZFNtaVR4bGN4bmZ6RkR1V2lOdHpreVN6R0taWi16MGRCYi1hY25HU0NndUlnMVp6cnA5b0xDM01QV2xYTUFBRHl0ZVRKMElJbUdCS28xUmc?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-07-27T08:15:00+00:00",
+      "summary": "【AIのチカラ】社員も安心して使える！Claude Code安全対策 ｄメニューニュース",
+      "id": "8ca34d53be870706",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "世界No.1スコッチウイスキー「ジョニーウォーカー」、鎌倉のビーチハウスで音楽イベントを開催 | 黃信維（コウ・シンイ） | ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWWlBXNlVDaFQ4QndUQmhIYVdPMENQRXd6Y0FfMDlrQVMyWGVqWGVkdnQ1bWhvWFp2TkJvNjRmWjhTM3RQMTZuTlhjSVFNU2tf?oc=5",
+      "source": "風傳媒",
+      "published": "2026-07-27T07:37:00+00:00",
+      "summary": "世界No.1スコッチウイスキー「ジョニーウォーカー」、鎌倉のビーチハウスで音楽イベントを開催 | 黃信維（コウ・シンイ） | ニュース 風傳媒",
+      "id": "b147318c1a3cfebd",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "鎌倉インテル、スタジアム区画とNFT保有者を連動させる仕組みで特許取得（あたらしい経済）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aZkZ5SERmUFZDODl5dlJ4MFY0eTkzNFBORTZ5SnlFUjVLX0pDNnVnSDByS2R1c1U5WUVzVXpIRjJ2UkR0X0NQX0dyWUlTU2ZRU0pMb2IwcGwwZHFreFdfMnF4eThzOFpzRHdnaDRLRndNcHViaEdtOGVZNzlMTFk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-27T07:15:31+00:00",
+      "summary": "鎌倉インテル、スタジアム区画とNFT保有者を連動させる仕組みで特許取得（あたらしい経済） Yahoo!ニュース",
+      "id": "be8aaaabf01ab294",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Microsoft、Visual Studio Code 1.130公開 Copilot・Claude・CodexのAI基盤を刷新",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oc0pIZEo5c2tCWEN5YWF1V1F1SjdsRnZ3T0lWRnM5OWhONmw3dDdBUVljZzNzTEthblFkaEI1QjFLU1N6TGlfQU1Dd3ZSZnYtcjN0aFNBWEgxX1NWMUdyUm9ZMFhsdVg0?oc=5",
       "source": "マイナビニュース",
@@ -88,6 +160,18 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ゆず、初の弾き語りアリーナツアー完走　横浜アリーナ公演回数87回で歴代記録更新",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb2hfX3JRUTdFMW9uTDNQM0ZKdndMWGxPVzhtb0o1UnZJUzJTVVNMWFgyclREQ3NBNzFmWHp3Y3g2ZGZEZkI2QVBzQ05oWV8wdlhRQlR5VGJ4X0RuSFkxcFN1MmNnTWE4Q0dGOWg1eUk0cjNucno0SENuQ2l1Y3FoSUJsVdIBgwFBVV95cUxNb2hfX3JRUTdFMW9uTDNQM0ZKdndMWGxPVzhtb0o1UnZJUzJTVVNMWFgyclREQ3NBNzFmWHp3Y3g2ZGZEZkI2QVBzQ05oWV8wdlhRQlR5VGJ4X0RuSFkxcFN1MmNnTWE4Q0dGOWg1eUk0cjNucno0SENuQ2l1Y3FoSUJsVQ?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-07-27T06:29:00+00:00",
+      "summary": "ゆず、初の弾き語りアリーナツアー完走 横浜アリーナ公演回数87回で歴代記録更新 ｄメニューニュース",
+      "id": "cf64ef23da3a54c9",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -139,12 +223,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "画像・写真 | ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 1枚目",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aUThmbFhoRXpxZmNGMk9xa0QtUzNyS0cyd3VjemdXU1dxcWhhdzhtOUNZSmpTMzQ0eTlYYUljSVNtUEg3RkM0Vnl6SmJmcERRRk5PeGZDQmZZdw?oc=5",
+      "title": "AXerに記事連動のアイキャッチ自動生成を追加。デザイン指示の作成から画像出力までをつなぐ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xbGctOTZlMVU3d0pmc1JtS2JmSjQ2cnRicktVN19OSjZ4Z2NiVndxM1B6ODhRMmRqbG5pR19PY1BfSzZlajR3TE8wQlNWcU9PUHMtNEJnUnNMRk8za0JGcVI5YS1YbDI1aWc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-27T04:30:01+00:00",
+      "summary": "AXerに記事連動のアイキャッチ自動生成を追加。デザイン指示の作成から画像出力までをつなぐ PR TIMES",
+      "id": "c0bab1b0498f9de2",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "画像・写真 | ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 2枚目",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kbUVOYnRVR0JyeFpiVldNY0QyLXBPdlVENU5ZWjBfbjZOb0dUZ2FpQUdBVkluSThVbUkyX3dhMUdRNmpjakpYelVieWthcDZkZ1hFMnVwM1lnZw?oc=5",
       "source": "オリコンニュース",
-      "published": "2026-07-27T04:22:20+00:00",
-      "summary": "画像・写真 | ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 1枚目 オリコンニュース",
-      "id": "1c9374eb9e70c048",
+      "published": "2026-07-27T04:22:32+00:00",
+      "summary": "画像・写真 | ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 2枚目 オリコンニュース",
+      "id": "c23e92757cc8e208",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -211,6 +307,30 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "Anthropicの15億ドル著作権和解が最終承認、1作品あたり約3,000ドルを48万超の著作物の権利者に分配へ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGTWd4eldMLXVScXY3X3VBRFBGU0M5bnJuWFVEQ2htZkJ1Z2Jhb250WDQzUWlZSTdELXBsMjNlRE9OYVlqYkw3MXZ5YlQxYmNnZ00zOTFRckUtdGoxQzhjeGhPcTNCRk5rQWc?oc=5",
+      "source": "media-innovation.jp",
+      "published": "2026-07-27T03:00:03+00:00",
+      "summary": "Anthropicの15億ドル著作権和解が最終承認、1作品あたり約3,000ドルを48万超の著作物の権利者に分配へ media-innovation.jp",
+      "id": "388676db4be43ac0",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "株式会社テスティー、【2026年版】生成AIの利用実態と企業ルール比較調査",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZVEdRMVJtcWJ6SV9WS3RSdm5fck9YekJWU3Z2UUVNNnFUTjF2T3pJZVUxTm4xeV9NVzZHRFdJMHVibmNIYlVjUFgzU3NielZlWWdkTHBnejVmd0V3ZFJXX0pWOHlOR1lidkE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-27T03:00:01+00:00",
+      "summary": "株式会社テスティー、【2026年版】生成AIの利用実態と企業ルール比較調査 PR TIMES",
+      "id": "67d267745c5154c9",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【開催レポート】合気道家・藤崎天敬師範率いる合気道覇天会が、「第29回フルコンタクト合気道選手権大会」を開催～試合・演武・講習会で実戦的な合気道を発信～",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Bc3hPUEdMT1RGS2xtaU5GaE8tQURETDFhNXpoUWVEYVkyRXl2eDRVOThTYTF0eFlWYUNqaU1GTWNZZC15b3JORHhDRFFybjN2cnhaSnFCbFRNMlU?oc=5",
       "source": "valuepress",
@@ -232,6 +352,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ナレッジセンス、スライド生成AIの新機能で枚数指定が可能に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQTWdLcm5KN0pfOUxjTU8zSWJjRXJfQmxGTDVkX3lOcEFNX2FsTkh1elktS281ZVRJRmdlQXdza0xvb1BnMy1KRkFXdDhrTE5tc1JselItem9BMFg0U0hCZDlsN2N0cndQTTB5eQ?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-07-27T02:42:55+00:00",
+      "summary": "ナレッジセンス、スライド生成AIの新機能で枚数指定が可能に ニュースメディアVOIX",
+      "id": "53c2a8acd29e8c26",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -283,15 +415,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【やってみた】Claudeで経費仕訳・帳簿整理はどこまで正確？時短効果も検証",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fS3o3Z1prS3JqcHc1R0s1VWZfSjRtYXE0ZHFyM2l2Zmd5UGJoa0ktN1BMM3BnVzlzLUJ0c1JlemRWbnpaYnhnODAxLXJya2FH?oc=5",
-      "source": "sogyotecho.jp",
-      "published": "2026-07-27T01:50:12+00:00",
-      "summary": "【やってみた】Claudeで経費仕訳・帳簿整理はどこまで正確？時短効果も検証 sogyotecho.jp",
-      "id": "a1e12c213f8338aa",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
+      "title": "『地球の歩き方』表紙の世界観をスーツケースベルトに。旅好きの心をくすぐる新アイテムを発売",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00Yk54SjN4M1VVelNEelNMTTYtaXNzcGJrQTFldmNPSjctd0NZWHVGV3ljZkc0aHNmWVEwUEpSV1Bsd21tX25mdjB3VGFvUHlaOFdkaXhYbHJoTkEzZnlPSWNxSTRuSDRRdmc?oc=5",
+      "source": "株式会社旅行新聞新社",
+      "published": "2026-07-27T01:55:20+00:00",
+      "summary": "『地球の歩き方』表紙の世界観をスーツケースベルトに。旅好きの心をくすぐる新アイテムを発売 株式会社旅行新聞新社",
+      "id": "cec9fc269186fafa",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -301,6 +433,18 @@
       "published": "2026-07-27T01:41:18+00:00",
       "summary": "「ゆず 弾き語りアリーナツアー 2026 心音」神奈川・横浜アリーナ公演より「逆光」のパフォーマンスシーン。 [画像ギャラリー 3/10] ナタリー",
       "id": "96da5f95174d620b",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「夏色」で熱狂する神奈川・横浜アリーナの様子。 [画像ギャラリー 10/10]",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83ajVUektTeVktQmZSQmx1cGs1WUJqRTlNdFZVeHZfOURsTGlMV0Mydk5WWHB1ZENQSnplb2NiRFVBYkgxUmxfYkJoMWFfNnBhNkxLZXNIWUNlVUVPVk9OZEVB?oc=5",
+      "source": "ナタリー",
+      "published": "2026-07-27T01:41:17+00:00",
+      "summary": "「夏色」で熱狂する神奈川・横浜アリーナの様子。 [画像ギャラリー 10/10] ナタリー",
+      "id": "c33641c0cdba6790",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -331,66 +475,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "AIアシスタント「Claude」（クロード）の入門書 『できるClaude & Claude Cowork』を8月6日（木）に発売！",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EYVVoOVVRc2I3ZFBkcUhIUk9rbHlKa3Z1WmJYR05LUDFEU3FrdVNQd3JxYUF1VWJlWkhWdWdvTVkxTWl2aDRVU3hXZFlWRkl5NmxYaHR6R05Lb054cG0tYzZNSDZmOVM4N1pIMGxuUQ?oc=5",
-      "source": "株式会社インプレス",
-      "published": "2026-07-27T01:33:38+00:00",
-      "summary": "AIアシスタント「Claude」（クロード）の入門書 『できるClaude & Claude Cowork』を8月6日（木）に発売！ 株式会社インプレス",
-      "id": "9fda7407882c3279",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "企業向け「スライド生成AI」Notebook経由での枚数指定が可能に",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tajVsZktXWVJIR0VuNk1VQmZ5VzN2cnRDR0lSc0NpaDlaUmhDZVZZQkozLTN2V3R1R3ZqRHFOTG5JVDhWX0lMaHlUcmNDZnp5VWhHQ3pkVm55QlVmYmVNNUtvT1h3UDcxRFE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-27T01:30:24+00:00",
-      "summary": "企業向け「スライド生成AI」Notebook経由での枚数指定が可能に PR TIMES",
-      "id": "332bb855ae47c2df",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Stella AI for Biz、デスクトップアプリがmacOSに対応",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NZ3pjU2lrdmctTnN2elByTHEtXzAxUFN4S0hJVXE4RTlaMUJSTjRDbFp6dGVsOVdRVHRaQWJUbXpvd3JjM1U4SFUweDdwbXlkbHlUa01YNEFlRGJqQ0JIMDVmeHVHck0zR1E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-27T01:18:27+00:00",
-      "summary": "Stella AI for Biz、デスクトップアプリがmacOSに対応 PR TIMES",
-      "id": "02c7905868073913",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【8月21日(金)19：30開催】生成AI・SEO・SNSで成果を出す企業は何が違う？ 秋商戦を前に「Webマーケティング成功事例」を共有する経営者交流会を渋谷で開催！",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJeVFaSTRZV050dUt0dXQ3R0hndk5NQy04Qnk2ME92cUIxWXhSQi13RjliM012LXpaS0RCTzdzNms1X2o3bWtNWktqT1lfYUgzcUxBTGh1QzFXZWdJWGQ4U2dpZnFDVzBQYXc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-27T01:10:01+00:00",
-      "summary": "【8月21日(金)19：30開催】生成AI・SEO・SNSで成果を出す企業は何が違う？ 秋商戦を前に「Webマーケティング成功事例」を共有する経営者交流会を渋谷で開催！ PR TIMES",
-      "id": "becfc58967a0fe89",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "法人向けLLMO・AIO対策ツール「DolphinX AIO」がブランド言及・引用モニタリング機能を大幅拡充｜ChatGPT・Gemini・AIモード・Copilotを毎日計測・分析",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhb3h4Yy1WYllwTGtMU1BrdDYxakxtcU0wQzJqdnc2ejdoTzN2U01JRVFNa3ZIVVFSUmt3c1dCQnpESUZJN2FOMURPTUFOMVZxdWxTd0E3bWZOdTI2WFQ3T2FfeVFuMnlUWWc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-27T01:00:02+00:00",
-      "summary": "法人向けLLMO・AIO対策ツール「DolphinX AIO」がブランド言及・引用モニタリング機能を大幅拡充｜ChatGPT・Gemini・AIモード・Copilotを毎日計測・分析 PR TIMES",
-      "id": "472975e4ede496cc",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【レポート】ゆず、初の弾き語りアリーナツアー＜⼼⾳＞全21公演完遂「横浜アリーナで87回もライブができるなんて」",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9SZ19qb09yUmRuNnVKYjNFemt6cDlCbnJ2ZHREejBPd3BUN3lSQTJXRUI5TVY5eTBvYkpaU0pnYTBIWnM?oc=5",
       "source": "BARKS",
@@ -409,18 +493,6 @@
       "published": "2026-07-27T01:00:00+00:00",
       "summary": "ゆず、初の弾き語りアリーナツアー全21公演を完⾛！横アリ公演回数87回で⾃⾝の1位記録を更新！ POPSCENE - ポップシーン",
       "id": "7dd8e550f6235280",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ゆず、横アリ公演回数87回で自身の1位記録を更新&同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fTGdwMVhETlYyU1BhV09nLWV4WjlmeVBnMm9ZbnNRaE9jSm9EQW83elQxOVlnNEdLY2dtcnhxOGpJNEpWUFhveEo3SlJIZ0xodU91RVhB?oc=5",
-      "source": "オリコンニュース",
-      "published": "2026-07-27T01:00:00+00:00",
-      "summary": "ゆず、横アリ公演回数87回で自身の1位記録を更新&同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 オリコンニュース",
-      "id": "e69c4eb398ba010b",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -559,30 +631,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【鎌倉市】グランシップ大船で「かさまーフェス2026」開催！縁日・キッチンカー・地域団体の演舞も 8月9日",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnZjc0SUNCZUhkUjVMaWtYbXI3WXJQSHVudkxmU0pHaDBtQkVCY1otXzZVRW1ERzFkN2plSWVKRjBVMUZDbFdtbExxWDJuNTBmV2FFbXNWWVZEcjdXQzloLVpmakg?oc=5",
-      "source": "湘南人",
-      "published": "2026-07-25T23:30:52+00:00",
-      "summary": "【鎌倉市】グランシップ大船で「かさまーフェス2026」開催！縁日・キッチンカー・地域団体の演舞も 8月9日 湘南人",
-      "id": "3111ede3aa01de06",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "鎌倉大船ロータリークラブ　小山 和秀会長〈鎌倉市〉",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbHFfN2tVU2lJWmtFcE42NmNpLThvRUpzOU4yalpiSkZHZjBYaEF2aEdCWFFlRjQ3LWJ1X3NUOE1KeHRlSGZsSGoyS0o5ZFRYbGlkaUVwNFRzaWc4MEMyNmVfSGYybkhmeEwtOHJzaER0YUZOR1dlaWRLc2RDS1gwWNIBgAFBVV95cUxQbHFfN2tVU2lJWmtFcE42NmNpLThvRUpzOU4yalpiSkZHZjBYaEF2aEdCWFFlRjQ3LWJ1X3NUOE1KeHRlSGZsSGoyS0o5ZFRYbGlkaUVwNFRzaWc4MEMyNmVfSGYybkhmeEwtOHJzaER0YUZOR1dlaWRLc2RDS1gwWA?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-07-25T23:00:00+00:00",
-      "summary": "鎌倉大船ロータリークラブ 小山 和秀会長〈鎌倉市〉 ｄメニューニュース",
-      "id": "0815c36f43ff642d",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "東京・品川区の11階建てマンションで火事 住人が5階バルコニーでソーラーパネルを使って充電 警視庁などが出火の原因調べる 東急目黒線「不動前駅」近く（TBS NEWS DIG Powered by JNN）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTVmJNSlVBeG93UFRFdER0c3lhZHJGdkJBRkhkVGJna01LT1RLSmFsVm9CaEtqeFFXbXZQT0swbTIxYWYweWlWTlhiaUpvVzIxZGZsZlotQlBwQVBUWWs1aGFNanlKV01IY0dVanVaQjdfUmpadk4xdGhlVHRzTDA?oc=5",
       "source": "Yahoo!ニュース",
@@ -591,30 +639,6 @@
       "id": "ca4dc48c493a46fd",
       "category": "地域",
       "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "鎌倉市 イベント紹介 ナイスクロー大会2026",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BdnBjNXUzSzE3VzZ3N0VZWFd0ZTZ2alk5MnhkREh6bE1sbHBaX1pTdFloZGV6dExPT3BsLW92X3Y3TjBGcjZMNWlDZ3NJcm5HM0lKRFFGbUx6X0hwU2pr?oc=5",
-      "source": "選挙ドットコム",
-      "published": "2026-07-25T14:16:28+00:00",
-      "summary": "鎌倉市 イベント紹介 ナイスクロー大会2026 選挙ドットコム",
-      "id": "4cfab18776d9e302",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【鎌倉市】鎌倉発AIスタートアップ「Kikuvi」、イプロスエーアイ2026夏に出展｜7月29〜31日・有明ジメックス",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qWURzLTBhWlRyTVZBSFhXeDRvck9JUV9rQXo1YUhBWHU3VVFwYXUtcGJmeDFWdGRlaDBxbWluNUFPS1NFRzRKbmY3cGJjV3FIN28wYWZYclVzcmJDa2dkTHlhaE1CNjNFTFNWaEtB?oc=5",
-      "source": "湘南人",
-      "published": "2026-07-25T12:03:08+00:00",
-      "summary": "【鎌倉市】鎌倉発AIスタートアップ「Kikuvi」、イプロスエーアイ2026夏に出展｜7月29〜31日・有明ジメックス 湘南人",
-      "id": "b7a52f831297b659",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
@@ -628,18 +652,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "肉チョモランマ（Gero＆めいちゃん）、満員のKアリーナ横浜を沸かせた2日間　ワンマンライブ・DAY1「大一番」をレポート",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SbFBNS1RvWWFZdm1iVVV5M25vbjNrUUpQQ1lOS0lmNzk1andnc2JHMzdGdUozOEZtckplMkV1c01uQURWeXpyRFg1UkNVUXfSAVRBVV95cUxPQV8zSG01TktWUzRpWFhtVi0ybUdncU9DM0JBR0gwNGw5MGFrY3FEUk11Rkd1bnoxNkpYaFhsc1NWazQ3ckNIQ1BzWXdQT3Q5ai1NdHY?oc=5",
-      "source": "エンタメ特化型情報メディア スパイス",
-      "published": "2026-07-25T11:00:00+00:00",
-      "summary": "肉チョモランマ（Gero＆めいちゃん）、満員のKアリーナ横浜を沸かせた2日間 ワンマンライブ・DAY1「大一番」をレポート エンタメ特化型情報メディア スパイス",
-      "id": "4c390d9a8b5d43f4",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1099,5 +1111,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 86
+  "count": 87
 }
