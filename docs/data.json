@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-28T14:05:02.911797+00:00",
+  "generated_at": "2026-07-28T15:05:30.513772+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -67,6 +67,42 @@
   ],
   "items": [
     {
+      "title": "グッドパッチ社員185人がClaude Codeでアプリ開発 得た295の知見",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vSUxsZWE1d3loWkNrUUFwMi0xaUJjWDkxN2dwUUFma2Z6eTk1d0JPQXl0YXZLcDJfa3dRdHNRbEN5cWhnNS11SkFWenFsanVhYVBnQnhXandyTEZmNXdvUDNEclk5RDRjRmxBcXlxNDBhdzlzeDBaRTBETWRzRW8?oc=5",
+      "source": "日経クロストレンド",
+      "published": "2026-07-28T15:00:00+00:00",
+      "summary": "グッドパッチ社員185人がClaude Codeでアプリ開発 得た295の知見 日経クロストレンド",
+      "id": "136b2dacc9928563",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "2026年全国伝統武道クラブ選手権大会には、約900名の武道家、指導者、選手が出場する予定です。",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPanpld2t0ODBlUEp2MVVtWlN5amZMbVNpb29vZWdESlAyVWpMVWFpRERRQ1BhSWpKVklYUUFjRHdYOFB3b0RBbTJMU3F2cnVpQ0liUVgxR1JMbjMtS2s3WVV5QmJORVB4amxEYnZ1RThqakI3Wkh1cFpkN2UyMkJKMFFqMzg4dnJQenBaME9aSHBQRkZLaU92MTFpbThoYzdwMDUzQmh0bFBZaFc3dU9fdy1Xa0hLZ3c?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-07-28T14:58:11+00:00",
+      "summary": "2026年全国伝統武道クラブ選手権大会には、約900名の武道家、指導者、選手が出場する予定です。 Vietnam.vn",
+      "id": "547c9d76c1eb910b",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "生成AI「Claude」のチャット履歴流出　利用者側が対策する方法",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM2t1MmhPRnNYbFVFOXV6eHZpbGlrM0ZneFRtXzZVMm5kLW1zczRvWTYyNmc3cDd0aENIR0tRSF9XWUhNTF9fb3AyamNHUkhEY1huM1RyaG9pS2ZDcGdPSUlJS2RaMFhLcjY5WV82UGQ0ZklpbE9WdVpmci13bGNzLXpkc1NiNTlfWnhRYjI2a3pGY2hmX3A4bl9ESTE1ZUJVanFabms1eUtad3V4eWhzYlA1TnVmV2tiVVVaTDVrR2ZtMFJvNzFz0gF3QVVfeXFMT0Vab1BRajd1VGpBcTFWNWx1YmEtQXM5Zi02d1FDcm5zU0FEMzFCWk14TlJKeFhGTElNWWNSREYwdkpWWUwtTXFSTGV4S0NmaEtnZGtINy1MOVBuOGkwOHhkaWJrdDNzWDREOFF3cnozYTFMcjRyeFk?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-07-28T13:02:00+00:00",
+      "summary": "生成AI「Claude」のチャット履歴流出 利用者側が対策する方法 ｄメニューニュース",
+      "id": "48714937d3b2e589",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Claude Codeで「AIチーム」を構築してタスクを並行処理したら仕事が早く終わりました",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3p3T2xGVmx5YmdBSUNKTHRyTThTY1lTMW91a3NOSFU3TG1RYnhNVUl4dFZwYzlwTktHOE10QjE5LU5rcHl2TEJXX0N2TW5EYWVqclljUkZyVy1Ici1ZaWlPSGNaNWd4UjUxTzdXRFBpMm9RdDBORG9sR2VtQ3BjdEtmOW00d3ZDT2hrR3dtcThWZnEzSm1VTEpwNmxFN0lFamJ5U29Cdw?oc=5",
       "source": "ライフハッカー",
@@ -88,6 +124,18 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "2026年人民警察軍事・武道・スポーツ競技大会の決勝戦はダナンで開催される。",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX3FtMGNubzhkV1puZm1aVzJhVVB6czZQMUVNUGhpSGpFZlJaOTFLM0p4S0cyUG9iY0JSY1lPWnlHdEJoRlljaFljRVVueTRJZ1h0eXl3aHZFc0YxWmYzODBEQTVlTTJYZmhGWlZnMC1STWRKcGd1TU1CWHFGTFdDSlpnZ20yT1JNY3NDVmJkOEkwTzFTYl9QQXpFUGpSNkIyNlM0MnFxLW84b2xFZVhld2hpREtuaWFncENhV2twYw?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-07-28T11:44:42+00:00",
+      "summary": "2026年人民警察軍事・武道・スポーツ競技大会の決勝戦はダナンで開催される。 Vietnam.vn",
+      "id": "35b72f8e5e49697f",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -151,6 +199,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsWWNGTDhHT0dsZlhaT09ldlFNZjFrZXNKZGpna0RnODVpU01fdjlaT1RLZXEyWnplSXpFSVBFb2tOcE9haGlSVUh2N053VXF3a3pMRldiOC0xeVVXMjZEMjRiWk1WbEpu?oc=5",
+      "source": "窓の杜",
+      "published": "2026-07-28T08:36:00+00:00",
+      "summary": "Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装 窓の杜",
+      "id": "2891987cd4dabba3",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Claude、一部チャットがGoogle検索で“丸見え”に 過去には「ChatGPT」でも 漏えいの原因は？",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Wcjd0UXhFN1pyTTVsNHJLRGtGcWI4Z1hyVm93X0xBWTdOLWxNQkl3NTh6eVdVSDlzVXZSSDVtd1lBWjV2UU8wakR5bkhKTG9qYnJ3V29QcktsdXdrTS1PdkxkdUtDMnViRVJOUFA2WnllUQ?oc=5",
       "source": "ITmedia",
@@ -205,42 +265,6 @@
       "published": "2026-07-28T07:37:00+00:00",
       "summary": "GMOインターネットグループがAnthropicとAI活用で新たな未来を切り開く戦略的パートナーシップ契約締結 ニュースメディアVOIX",
       "id": "faa9fff6772924d5",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicのアモデイCEO オープンウェイト禁止否定し蒸留対策提唱 - CHOSUNBIZ",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMeWFDMXEwMVFoQlpUMWRHNGxEMjVnVlRIbGZVby0zd3RXcUJTaGEtcWVwaE9hNU9TOGprdmZEX2tqQnFuNEZNRFd1R3JMQ1g5cWM3QXphdEswdXlvR0hwNy1fUXF1MTExVmdWV0V2TVQtYXhmSEU4RW9B0gGOAUFVX3lxTE9JdE5sR21KbnBZYmNiZFdFRXdfbFg2NzhjaEZjTWgybFZZVFVGclhwVTVkSDJNZFZzZzh4cUZXRVNaQVF3am1xUjByVGw1cGE3YURlbVc3V1JNRHBNN0VESkZqZjBZZE5GRG5XUDhQYUlWVDJPQXJYb1l1di1nUFhZTGdqMnF2MWRTVGVDSmc?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-07-28T07:10:00+00:00",
-      "summary": "AnthropicのアモデイCEO オープンウェイト禁止否定し蒸留対策提唱 - CHOSUNBIZ Chosunbiz",
-      "id": "96e7fda1df9270ca",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicがAI学習のために数百万冊の紙の本を裁断してデジタル化しまくるため希少本が失われると懸念の声、イーロン・マスクは「SpaceXAIはそんなことしない」とアピール",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3N1B0VlVGM21TbHVITV9TNXBaWEhUS2gtVTg5bTM4ZU9QN0pGSXNPNkZhMnFpRTlXeWtsYldXbjBrZ0xWZ0FPa1d0MkIyeS1XdzM0djhTUmhacEpGYmZ5cw?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-07-28T07:01:03+00:00",
-      "summary": "AnthropicがAI学習のために数百万冊の紙の本を裁断してデジタル化しまくるため希少本が失われると懸念の声、イーロン・マスクは「SpaceXAIはそんなことしない」とアピール GIGAZINE",
-      "id": "147a138d105885f0",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "トランプ米政権のAI規制枠組み草案が浮上、OpenAI・Anthropic・Googleが共同で修正意見を提出",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WR1BBaVBLTUpKVWJRY3FIQmZkN1UwYjRYTFFpTVZQZjNKc0x4VThLNDRWR1FFVnBRUXdONHd5X2tWbnN4elRtclkwcnNiYnFHRHFBVDUteWJyMkpnRUhrNEsxR3RZZnJ4dThLclR1YmVWM1hW?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-07-28T06:55:00+00:00",
-      "summary": "トランプ米政権のAI規制枠組み草案が浮上、OpenAI・Anthropic・Googleが共同で修正意見を提出 BigGo ファイナンス",
-      "id": "214ac32ec2de7df8",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -595,24 +619,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ゆず「心音」弾き語りアリーナツアーで実感した、2人の無限の可能性",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwd0FvLVdsXzRNa3NacmRyZ1UxM0lndkJPaHVKRENmbEZ0TXJQZDFYa3RkN2dwTlE5RUFMZllRdzBqSlVURGZGVWJEY3I?oc=5",
+      "title": "「ゆず 弾き語りアリーナツアー 2026 心音」神奈川・横浜アリーナ公演より「幾重」披露の様子。 [画像ギャラリー 1/10]",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81SXhPT205TlpUX25tVFlEZUtLTHpocmpwUEZSd1djS25oVWcweEN1cVpYNVltcFN1emZMTmlLY3g1czJmSDBOWHNNU3NZcUN4dVN6OGpUU0JKODRNSmQzRE5n?oc=5",
       "source": "ナタリー",
-      "published": "2026-07-27T01:37:00+00:00",
-      "summary": "ゆず「心音」弾き語りアリーナツアーで実感した、2人の無限の可能性 ナタリー",
-      "id": "6b8207ebc737f4e7",
+      "published": "2026-07-27T01:41:17+00:00",
+      "summary": "「ゆず 弾き語りアリーナツアー 2026 心音」神奈川・横浜アリーナ公演より「幾重」披露の様子。 [画像ギャラリー 1/10] ナタリー",
+      "id": "21532d1a7448ff42",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 熊本」8/24(月) 開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jX1F2ZXNZNERBVF9wa29obVhqclQyMEkyOTRQTl9ackczNV9sZFpPTE5wREFnQlR3cjhudm9wd0I1V0VPazRVR0hydE1hZzBzbWRLWWlobFRhdVl0Z0x0eklsVkdqT3NFa3c?oc=5",
+      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 松山」8/26(水) 開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuQ0tDRDRUSHROc0xBUENtb2ZqUlBKNTI1OTZPZUcxNHlUWmxXWWVIbTE1anRoZk92T2pkRWU5ekZVNGJVYzNCOHZLZ1VyS0w3bGNqNWxfV1AwbTBqclZwRXBTcEpRaGxTMXc?oc=5",
       "source": "PR TIMES",
       "published": "2026-07-27T00:00:02+00:00",
-      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 熊本」8/24(月) 開催 PR TIMES",
-      "id": "0b67b151cc06ae0f",
+      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 松山」8/26(水) 開催 PR TIMES",
+      "id": "de409e21aeb89f03",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -1051,36 +1075,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ハノイ国際武道祭2026：大規模イベント開催における首都の地位を再確認",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRFRlRFlxd3Fwc0FjWEhFRzFtd2RDQ1FLVkoyOVJIci1XVXFhc1oyQjZfX3F2Zkp2ZmhMemcyWjZfSTZxX3NOOEhZdTlsaWlQck55YTNOa1dCSkhPMFFKQzZFVms5OXY2QUZCLXBVdTBKeDZCblVULWVJU1psdnNMUlVzenc4S1VEUGhxWi1yRXZQTnRXckxpbEdhS3puWVlxR2lWbkRmb2lCS09iQ0MxbGxHYTdKR1h1Njk0c1pn?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-07-15T07:00:00+00:00",
-      "summary": "ハノイ国際武道祭2026：大規模イベント開催における首都の地位を再確認 Vietnam.vn",
-      "id": "d4d85f5b0d11f12a",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ハノイ国際武道祭2026では多くのイベントが開催されます。",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQckszT1hjaDNLREtyeTJoMkQybU5PTDVJRTJMcWdNTVVKd3pCNTFwaHVJbVJHeTVFMHM4M1dYV2hReVZNQnNFR3lIRnl6ZVRoM3d3Q19ORkVBcnh5MVBGeVRQRTdRbkVDNmJZY1hQMzNMdGpxVF83TlZlZnRKTzZMazNMYjhLdzdVUW1r?oc=5",
       "source": "Vietnam.vn",
       "published": "2026-07-15T07:00:00+00:00",
       "summary": "ハノイ国際武道祭2026では多くのイベントが開催されます。 Vietnam.vn",
       "id": "2ea04988f03256e6",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "2026年ハノイ国際武道祭には、2000人のアスリートと武道家が参加する予定です。",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMy1mWUN6SWczbmJyZDEtT3hVTGVjTVBzOXdZTkZ3emlsQXZ4a08tTlhjTTN5bVhnVFdXNENTOFBLalNXb3J6SlNKOG5jbkhybnRyZ0ZNVmYySGtsWnZuTjJ3VkhUR1F1d2ZrT2hPZmd1U2tkcHNlQloxelk4OWRYSDNiZDl4bWNBR2ZJNmxvTmNpTDl2b0NF?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-07-15T07:00:00+00:00",
-      "summary": "2026年ハノイ国際武道祭には、2000人のアスリートと武道家が参加する予定です。 Vietnam.vn",
-      "id": "83dc65ebab39b275",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
