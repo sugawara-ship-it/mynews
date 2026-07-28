@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-07-28T22:55:58.082351+00:00",
+  "generated_at": "2026-07-28T23:56:20.409856+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 2
+      "count": 3
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,12 +67,48 @@
   ],
   "items": [
     {
+      "title": "エクサベース AI、最新モデル「Claude Opus 5」を提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tNlBaREs5TXVFRkJZbXRQTThadEpTR2NmandYZGwyZVFSUS0wN0lYQTlVRXVOcTNsemZuQVQwLURpZDdmSmliQUhmX1hpTWlvSVRSQ0JlMkZ1Z2FaY1hFTzVaellsdmpCdHc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-28T23:50:13+00:00",
+      "summary": "エクサベース AI、最新モデル「Claude Opus 5」を提供開始 PR TIMES",
+      "id": "371a31c954f9ec64",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "2日でClaude CodeをマスターするホリエモンAI学校のCampに「法人貸切100万円プラン」登場、最大100.1万円の助成金も",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oMS1ybk95MU4xMVBOZEl4TGR0Wjh6ZmJNWXFZcnZfN1VZR0c5aUlzRmhCRDhBU2FxUW95REJxeE1DOVhRSjdKcGRZZ0Y2blVHaDQxOEY1eEFBbWdjazNVaEk1a25kbnZIQ2c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-28T23:30:02+00:00",
+      "summary": "2日でClaude CodeをマスターするホリエモンAI学校のCampに「法人貸切100万円プラン」登場、最大100.1万円の助成金も PR TIMES",
+      "id": "2d95e24a4bdc37eb",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Anthropicのミュトス、暗号アルゴリズムの新たな攻撃法を発見――耐量子署名「HAWK」の強度を半減",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05NGhmMlVPcHNTdDdlUm93RGY0M3NYM2F4MEU3VDBiOXhsOUZJejV4UDJJbVNUSndyM00yM2NpUlJNYXRpdWdGVUZEcnlmZkxrMFphNjB5YkE4M0lKZEF5THdGVUo5b2U4R1E?oc=5",
       "source": "ITmedia",
       "published": "2026-07-28T22:50:56+00:00",
       "summary": "Anthropicのミュトス、暗号アルゴリズムの新たな攻撃法を発見――耐量子署名「HAWK」の強度を半減 ITmedia",
       "id": "1954feaae8e7f81c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "アンソロピックAI、データ保護技術の脆弱性を発見",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKcFByZzRxa2J0YzlTdEM0bk9QcnduWjBkdVJMdUJ2OW93emFxRHU3Mkh0SDhrTFFybUItanFYajFNY1YzT0tmdWs2QWRtanlRb3hLei1Sa2hvZ0NtQVZhbU9SdlBtSnVOMkxYaHhwU3pSVXcxZmc?oc=5",
+      "source": "BeInCrypto",
+      "published": "2026-07-28T22:02:24+00:00",
+      "summary": "アンソロピックAI、データ保護技術の脆弱性を発見 BeInCrypto",
+      "id": "c33c072acbf0c3f8",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -136,18 +172,6 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "長期金利の上昇は市場の警鐘",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sZ3F1Nkx4em1odm1IcWRBNC16OWI5aVpoZXdOd25FNF9YN0MtNWY1MmdGZ0RvRVRXdmU5N0hfbnV0VGNPZ2UxM2RQWUxVUktfT18ydUNsazV0X3d6T0FETEk5VmFFclI5T1VwZQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-28T17:00:00+00:00",
-      "summary": "長期金利の上昇は市場の警鐘 日本経済新聞",
-      "id": "c7908942801a6973",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -223,18 +247,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Codeで「AIチーム」を構築してタスクを並行処理したら仕事が早く終わりました",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3p3T2xGVmx5YmdBSUNKTHRyTThTY1lTMW91a3NOSFU3TG1RYnhNVUl4dFZwYzlwTktHOE10QjE5LU5rcHl2TEJXX0N2TW5EYWVqclljUkZyVy1Ici1ZaWlPSGNaNWd4UjUxTzdXRFBpMm9RdDBORG9sR2VtQ3BjdEtmOW00d3ZDT2hrR3dtcThWZnEzSm1VTEpwNmxFN0lFamJ5U29Cdw?oc=5",
-      "source": "ライフハッカー",
-      "published": "2026-07-28T12:45:00+00:00",
-      "summary": "Claude Codeで「AIチーム」を構築してタスクを並行処理したら仕事が早く終わりました ライフハッカー",
-      "id": "a63def54eafbdc71",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "新庁舎の整備手法を再検討 外部有識者会議を８月から開催 鎌倉市",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kanNmZHdNcmZXQ2hUczlacmdvaEg3TzZMNDRPUk5JXzVKZDRobG1iREc5ZUgzeFRsX0syYVpVRFVmSkt1RGo4b1hLbXVyX2xZWnBXdWo5cDVULUNxcW5SdnBzNzJSdG1UeDR1MWxhQkt0dlJ6VGhnb3lmTQ?oc=5",
       "source": "au Webポータル",
@@ -280,30 +292,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「役所の対応が遅い」が過去のものに！自治体AIとClaudeのタッグで身近なサービスが劇的に変わる理由",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12R0dpdFMtUlJRdkZnRXVnMkdsejBVVFZUQlBMMnZWU2EwQ1RodDdJUnpvMnk5QUQ3NEx3RjEtSE0xeWMzVThPUFpkNlJtRHoxb2c?oc=5",
-      "source": "DXマガジン",
-      "published": "2026-07-28T11:30:44+00:00",
-      "summary": "「役所の対応が遅い」が過去のものに！自治体AIとClaudeのタッグで身近なサービスが劇的に変わる理由 DXマガジン",
-      "id": "ecb61dd2727e911e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ICONがAnthropicと提携、臨床試験全体にAIを導入 執筆",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yb3Q1M3hSdXl4SUpBOEcyZEMxdHU2dXhaQjkyTUdnMmJmT1JFVXhVcTFkWFdwNWVuYktBMlo2WTFZYjBlbm1sNC10MGhMMDRMdERTSlRmcjN3YzBHdzFzcmFnZUJiQnRibUh6X2FwMGM?oc=5",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "published": "2026-07-28T11:09:00+00:00",
-      "summary": "ICONがAnthropicと提携、臨床試験全体にAIを導入 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "id": "bfce2001c036a4e9",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -679,6 +667,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "『地球の歩き方』表紙の世界観をスーツケースベルトに。旅好きの心をくすぐる新アイテムを発売",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00Yk54SjN4M1VVelNEelNMTTYtaXNzcGJrQTFldmNPSjctd0NZWHVGV3ljZkc0aHNmWVEwUEpSV1Bsd21tX25mdjB3VGFvUHlaOFdkaXhYbHJoTkEzZnlPSWNxSTRuSDRRdmc?oc=5",
+      "source": "株式会社旅行新聞新社",
+      "published": "2026-07-27T01:55:20+00:00",
+      "summary": "『地球の歩き方』表紙の世界観をスーツケースベルトに。旅好きの心をくすぐる新アイテムを発売 株式会社旅行新聞新社",
+      "id": "cec9fc269186fafa",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「ゆず 弾き語りアリーナツアー 2026 心音」神奈川・横浜アリーナ公演より「幾重」披露の様子。 [画像ギャラリー 1/10]",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81SXhPT205TlpUX25tVFlEZUtLTHpocmpwUEZSd1djS25oVWcweEN1cVpYNVltcFN1emZMTmlLY3g1czJmSDBOWHNNU3NZcUN4dVN6OGpUU0JKODRNSmQzRE5n?oc=5",
       "source": "ナタリー",
@@ -748,6 +748,18 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "マテハン市場から見る景気 半導体高騰、2年は続く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vLVhqb0RCd0FOY1NIUmtjLUdTaEtPcWxSLXJaVWZndXM5Q0NGR0NEVzlELTd4Zy1McmdWRkV1Yk0xT0NsMjZ0RWJqakVBM3RoQUdubzhOTmlhZTc2RW1IdzFUNmFQQzF0elBhOQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-07-26T17:00:00+00:00",
+      "summary": "マテハン市場から見る景気 半導体高騰、2年は続く 日本経済新聞",
+      "id": "945cca96a95b168c",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1003,11 +1015,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "容器文化ミュージアム（東京都品川区） 小学生向け夏休みイベントを8月5日（水）・６日（木）に開催",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5YZkF0dmNhU20xaERaZUVoR21xSzQyLUZkN0dlMG9vcHFTU21JY1NpbFNtSlE1OFZibXFhcExGcWpMeWc?oc=5",
-      "source": "Digital PR Platform",
-      "published": "2026-07-22T05:03:41+00:00",
-      "summary": "容器文化ミュージアム（東京都品川区） 小学生向け夏休みイベントを8月5日（水）・６日（木）に開催 Digital PR Platform",
+      "title": "容器文化ミュージアム（東京都品川区）小学生向け夏休みイベントを8月5日（水）・６日（木）に開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TWEFEcUpsMGIyZmRibjNDbUtTXzEtMGxFb0JKX2VBLXd5R3RXeWtzVk01ZUt2eGNXRENtdG1CN0s4NXVHZEk5WVB5Ulp0ZkFsYWMzMmdsc3JVMVI3M0h2LWgtaTZsSF82Qnc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-07-22T05:00:01+00:00",
+      "summary": "容器文化ミュージアム（東京都品川区）小学生向け夏休みイベントを8月5日（水）・６日（木）に開催 PR TIMES",
       "id": "99550915bad26aec",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1099,5 +1111,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 86
+  "count": 87
 }
