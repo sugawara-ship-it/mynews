@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-03T10:02:51.629109+00:00",
+  "generated_at": "2026-08-03T12:18:20.060273+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 3
+      "count": 2
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,6 +67,18 @@
   ],
   "items": [
     {
+      "title": "株式会社旅行新聞新社",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfdFpOQkRqSHAyYzdvQ0xTaTFSdy12ZUVfclJHSV9ybXhZb1gzSnVpc1RfbG5mT0NjRDIxWlVtMGp5bTdSQUpOamwyeWgwX0pVZTBvQjNZZVpnOEoxRDh1aUJZdDBPMnNIeGc?oc=5",
+      "source": "株式会社旅行新聞新社",
+      "published": "2026-08-03T11:59:51+00:00",
+      "summary": "株式会社旅行新聞新社 株式会社旅行新聞新社",
+      "id": "e9a6d0dde1a390ca",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "大光銀行、定期預金金利を引き上げ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6ald3UF8xY09OV0hvYTFiLUpmdUJBUVNvTWw3ZDFJQ0Y2SmtRWHZQQlh6dVotN0dZU2ptYWwyYUpyTE9ja1BzTGNWeGhKRW5HNFh3VFVpODlDemVzZHB4b2pyUWZCaVRjMTBaTQ?oc=5",
       "source": "日本経済新聞",
@@ -76,6 +88,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "茨城出身の学生らが最新生成AIで地域貢献 国際工科専門職大学の学生が水戸市長を表敬訪問",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcWR3cU9LbDZZV0hNOFJSLVhLSlJpME00S3pmSnVzdG5oR3U0MmlEWW9Sa1ZXdW5hX1RlbVhBaXppdlFHVklZSDFvRWtEQVBVM2p1VWJBVU9uTy1RVWNkT0JaT21pUGhwaUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-03T09:10:57+00:00",
+      "summary": "茨城出身の学生らが最新生成AIで地域貢献 国際工科専門職大学の学生が水戸市長を表敬訪問 PR TIMES",
+      "id": "ca4141b2fda3bac9",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -103,6 +127,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "1,000万人規模の医療ビッグデータ×生成AIで健康情報を自動配信 機能選択型健康サポートAPI「ミラウェル」提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LaDJNbkNBRnBnSDFzTWk1MFl3anAwcW92MEpTbV9GRjA1ZnUyc3lLZWhRZ1NEcUlOcUJLLXF2UW5MbTR2a2ZfV05kdVY5RzFud2tWXzJveGhFdHNmNV90eVViSS1xWGNEdEE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-03T07:20:08+00:00",
+      "summary": "1,000万人規模の医療ビッグデータ×生成AIで健康情報を自動配信 機能選択型健康サポートAPI「ミラウェル」提供開始 PR TIMES",
+      "id": "e7c0a34a3219604b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "行政向け生成AI「QommonsAI」をver.2.3.5へアップデート — セキュリティを強化し、大規模組織の管理業務をさらに効率化",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ESGgwZGR6R1YzMUJEclJGTVZacUZ3bEl5cUxmZ281b0VRcGEwT0ROVU90bnc4bnBwZUhkM1FMWmdzODYzYU5OOW54QmwzU2tsR3dxekUzbF9TNnlfSWp2WlFaUWpvVkh2dXc?oc=5",
       "source": "PR TIMES",
@@ -112,6 +148,18 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "日米協調介入で円安是正へ！中小企業が使える補助金・支援策まとめ【2026年8月最新】",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCVjBINl95SXM3RlVrbUtMR1ZUazE1OFBUWUFuSWRqVGZ5eU55emtORXdPdXRPRi1JUm5hb2tzLWRQRTFRVUIzUGd6SVBZcnFqbzg1dnJyWUROMUZYLUQ2VV9ETGI?oc=5",
+      "source": "補助金ポータル",
+      "published": "2026-08-03T07:00:00+00:00",
+      "summary": "日米協調介入で円安是正へ！中小企業が使える補助金・支援策まとめ【2026年8月最新】 補助金ポータル",
+      "id": "c562ca4d1caf265a",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -211,48 +259,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "なぜ、OpenAIはAnthropicに後れを取ったのか？",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zZEVxMDRtbnozMVNsSmd5Nmp4VVZFY0RBbDRpLWxqOHk2NDB6VHBoU0x1N1lYZUJMamxXdkQ3VDh6YXRjVWs0X2NmWFhaMVc4QlI5Mmw0dHJyTTlCbVNZQ19DSGNzUmx0?oc=5",
+      "source": "マイナビニュース",
+      "published": "2026-08-03T05:03:05+00:00",
+      "summary": "なぜ、OpenAIはAnthropicに後れを取ったのか？ マイナビニュース",
+      "id": "63a44a7c4d257403",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「Claude 5世代 マスターガイド」を無料公開、AI活用の常識が変化",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HTUU3blNqT2dKaGxsUWl3UWNXWC05dmxQc1JqTm4yUXRHOVhvWEYwQUxsdHd3MU5LRzVjT3Z5Zm5DQ0N3NzJMeGxiQ0RCV3h6ZF9Bb1dDUEl5VDRvZzhvc2w1UmtBeEVaQmFZ?oc=5",
       "source": "ニュースメディアVOIX",
       "published": "2026-08-03T04:44:18+00:00",
       "summary": "「Claude 5世代 マスターガイド」を無料公開、AI活用の常識が変化 ニュースメディアVOIX",
       "id": "9c09b6db1c03fed1",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Varonis、Claude CodeとClaude CoworkへのAIセキュリティ適用を発表し新たな時代へ",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CbWhRUUYxSHd2Zm9JS3NheWc3Mk5QZDcycVo3a3pRVmlnaDV3bk9XTFJhZExBcFpzVXN6bVhWalpLaEV1ZXZkWGJwQzFtTmZMaURXUk5DTmx4QzJSVmhUOWpiYjFHRk54M0hUSEhB?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-08-03T04:43:03+00:00",
-      "summary": "Varonis、Claude CodeとClaude CoworkへのAIセキュリティ適用を発表し新たな時代へ ニュースメディアVOIX",
-      "id": "6eeaaaaa4a3bdccd",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AIエージェント、音楽業界を静かに自動化 A&Rからリリース業務まで",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96dDBwOUxEVWlFQ1JBeHhCNzZLS3I1UnNHODZDZFctTWdxM010Vm4xc29VaDRITENKMXJvZTBlT0IyOUR1Q1RZSDZ0bjBTQ3VxbnZlMw?oc=5",
-      "source": "音楽業界総合情報サイト",
-      "published": "2026-08-03T04:35:43+00:00",
-      "summary": "AIエージェント、音楽業界を静かに自動化 A&Rからリリース業務まで 音楽業界総合情報サイト",
-      "id": "87f83cee7cf13822",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "会議を\"組織のナレッジ\"に変える。法人向け生成AI「Tachyon 生成AI」が議事録×AIエージェントを統合する大型アップデート",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11V19oWnB4RXk0bEN4SFNuenRHYkE1dWxGX3Y2eF9rNjFXRFdwZDAzYlJpRXlmbHdoYjFabHFZWGZVbGxTY2ZmcGZuOXlGMGc3SXg0SzJXRnhvTVAtdU5CcFJIdkI2NG50WUE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-03T04:30:18+00:00",
-      "summary": "会議を\"組織のナレッジ\"に変える。法人向け生成AI「Tachyon 生成AI」が議事録×AIエージェントを統合する大型アップデート PR TIMES",
-      "id": "70f20a23524ae9fb",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -309,9 +333,9 @@
     {
       "title": "＜画像1 / 3＞ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93dmVoMmFxa0RTU0FyS19JZVpiS2RsUFdSYkVzV1pRbUFPdlI3anlBT0oxQjJQRnBKLUFoU0lFV2tIUDh1eWp5a211ZUROempxQlEwU2w5dHZMU2YwYmF1Qm1nbnQtbWtzZWc?oc=5",
-      "source": "ウォーカープラス",
+      "source": "walkerplus.com",
       "published": "2026-08-03T01:30:18+00:00",
-      "summary": "＜画像1 / 3＞ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催 ウォーカープラス",
+      "summary": "＜画像1 / 3＞ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催 walkerplus.com",
       "id": "373de7d3a5728bcd",
       "category": "武道",
       "topic": "合気道・武道",
@@ -325,18 +349,6 @@
       "published": "2026-08-03T01:10:00+00:00",
       "summary": "鎌倉のサッカー場で夏まつり 3000人超で「みんなで踊ろう鳩音頭」も（みんなの経済新聞ネットワーク） Yahoo!ニュース",
       "id": "bd5f2cbc985f11b6",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "U20世界陸上出場 近大高専3年の鎌倉さん 110mハードル",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4Q1lXMGtYUF9jOEF6WnI1MEplTkdWVmd3bzZVdlNmQUxPUmN5amhDN2pvSElfSW9yaG05OVlETlZTVzF3TnpIdTl2UkxhaG5MaW5xcGFDSWFaZFk?oc=5",
-      "source": "伊賀タウン情報 YOU",
-      "published": "2026-08-02T22:27:30+00:00",
-      "summary": "U20世界陸上出場 近大高専3年の鎌倉さん 110mハードル 伊賀タウン情報 YOU",
-      "id": "565b0d7825adfd6d",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -357,10 +369,34 @@
     {
       "title": "「金利ある世界」復活、国債、家計への影響は",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Fd3hvQUdpQTJqZkZGWklCWW8teV9GdzhPTUdPMWZfOWZDbDJxRFE1R2ZIeXdnNkMtR2V5Ul9tV21SVHU0dXJ2UTg1TUlrdlNXUUFxZm10aEc4THd0a0dN?oc=5",
-      "source": "選挙ドットコム",
+      "source": "go2senkyo.com",
       "published": "2026-08-02T20:10:11+00:00",
-      "summary": "「金利ある世界」復活、国債、家計への影響は 選挙ドットコム",
+      "summary": "「金利ある世界」復活、国債、家計への影響は go2senkyo.com",
       "id": "3ffdb95f82a00ef7",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "King Gnu×攻殻機動隊「GO GHOST」アニメ本編映像を用いたミュージックビデオ公開",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53NG5XTHM3WVJXY2sycGE5c252Q2ZkWWVXNWJaTnd4enE4NTJyTDNxZ1pPZ3QtdWhFRW1UMEdTTmRONS0wX0tDMHZLdUxmb05lOWc?oc=5",
+      "source": "JOYSOUND 音楽ニュース",
+      "published": "2026-08-02T20:01:00+00:00",
+      "summary": "King Gnu×攻殻機動隊「GO GHOST」アニメ本編映像を用いたミュージックビデオ公開 JOYSOUND 音楽ニュース",
+      "id": "70ca85a568094476",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "(経済のページ)「金利ある世界」復活、国債、家計への影響は みずほ総合研究所チーフ日本経済エコノミスト 服部直樹氏に聞く",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVdzZFMjVjN3R1bEg4bTl4d0daWlRrZ1BLWEwxZ2VGOGxmR3FHTTRHbGNPOHgxN3kzd3d2V09OVmlfUGtxdFBTUjlmLXBPR05UMjlfR2xsOHN5TU9VV0l6RURaVlNhZXlURWhGZUhB?oc=5",
+      "source": "公明新聞電子版プラス",
+      "published": "2026-08-02T19:35:36+00:00",
+      "summary": "(経済のページ)「金利ある世界」復活、国債、家計への影響は みずほ総合研究所チーフ日本経済エコノミスト 服部直樹氏に聞く 公明新聞電子版プラス",
+      "id": "609657e6be78fcfc",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -547,6 +583,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "日本円沈没の危機 「4%に利上げを」アベノミクスの師が警鐘",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ERGpuRjlyTG1CZFBkaUZwSU1OVkIxQlY5QkJxd09IX2ZfVGt6R2xlX29qTF9oRnpfYU9JdU81dXZkYUg5ZnhEdFQyWFp6R0Z3Q3VtMUVZWFhXaGNSRXQ4d05mU3lLRXpneUdCWg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-02T02:00:00+00:00",
+      "summary": "日本円沈没の危機 「4%に利上げを」アベノミクスの師が警鐘 日本経済新聞",
+      "id": "0ff22b6a6db06c04",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "あいみょんが地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番をお届け！",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1td09tc1FhMVBST0lUUE56SXFBT0FaT091YU5rMjRMeV81MTBJd0lfMWZsNzRLWFVGR2Z4OUhLbTN4aWxNTjZHS29zaGl4V1FEdnozTHg5SjE1OGM?oc=5",
       "source": "朝日新聞",
@@ -643,18 +691,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "円買い介入、ベッセント氏が援護射撃 苦心の日米通貨・金利政策",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KVnhqbnJ6UGVuTEsyTEpqNUZHWFJOOEhldUNoWEpaRVpxUzFlRzdWcUNxa2RSU3pHblpINmVNRE8tbUhiYnVCbV9rQTdrT3Z5NGpHSW9keEMyakRROC1DOXJ0LU4wSUN3QnJnUg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-01T09:00:00+00:00",
-      "summary": "円買い介入、ベッセント氏が援護射撃 苦心の日米通貨・金利政策 日本経済新聞",
-      "id": "8bed077235f445ca",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ダクラク省の国境警備隊が武道大会を開催した。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTWltQm5Wc2pHdnhjbmtHOE9mR091TjFuOU9VdElicFFqMjh3WlU5MXZJUzE3OTVGNnM2a19UV002ZzRxbzJjRnpfUTA5LVkwVWc1T2ZEVEZzTVd5Smw1elNENXBiUlRHZkRlb2ZUWFlHMTliUzFPTWkxWDYzZnBTdHdqREE1eDF6dmc?oc=5",
       "source": "Vietnam.vn",
@@ -676,18 +712,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【埼玉県】渋沢MIXオープンイノベーションプログラム「Canvas」共創プロジェクトの募集開始 -支援金あり！事業化に向けて伴走支援します-",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kQ2JMcWF4WnJFTEcyMzI4d3hDQ0ZCZGNpVnA2Nm9QS284NS1uTk1hNGs3OTNPUmFPX0tVWHJvSzhlOHVZak9TcFBQODJxQVdfZktSNFJmeUdfMEJWcXF1NkE5Z1BYUUhzc1E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-01T05:00:01+00:00",
-      "summary": "【埼玉県】渋沢MIXオープンイノベーションプログラム「Canvas」共創プロジェクトの募集開始 -支援金あり！事業化に向けて伴走支援します- PR TIMES",
-      "id": "3573c5c61937af3a",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -739,18 +763,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "住宅ローン「10年固定」のワナ、想定外の高金利に 借り換えが選択肢",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUV2JQZHpNX3NCYVRXdnFCd3NCUXJjSWVDdUM4d3RiMW8tdmJqVnc4bVBLeEszazNFU2V2bXpjZ1pTT0JGbkcxZE9nQkxoeF9GamFudG1lMlNaYUxlNUhDcGdFQVpob2E5SzU5cg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-31T19:00:00+00:00",
-      "summary": "住宅ローン「10年固定」のワナ、想定外の高金利に 借り換えが選択肢 日本経済新聞",
-      "id": "67948337593a28e6",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "YOASOBIドーム＆スタジアムツアーのタイトルは【超惑星】、キービジュアル＆グッズ一部解禁",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tTU4yc2t6ekRQMmNhMUpwdU9VRnpTZE5tbk1rRGFsSGJfZTJNcWRhMG1mRlV5TDBfTHBIdF9RSDRUMHVKSU00UmNVRXkyS1UzWnBlQ2FIX0FSdUh0Mjk4MFRKSQ?oc=5",
       "source": "Billboard JAPAN",
@@ -775,18 +787,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ねぐせ。、横浜アリーナ公演で観客の声をレコーディングした新曲「僕 love you (愛問愛答 ver.)」MV公開。メンバー・コメントも",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzS2pSY3huTDBubkMwckZ3bmNid0dmQ3RyWWVoS2pMZXBwcWJOaTZ5a3RicXZseEV6aExLTVlrT3FvUzJuMnFuTHN4b19qUnpia2RiWm5BQU5yaFh4Qm9RakxGcTFfRUpLdWtqUXJqRQ?oc=5",
-      "source": "skream.jp",
-      "published": "2026-07-31T11:00:00+00:00",
-      "summary": "ねぐせ。、横浜アリーナ公演で観客の声をレコーディングした新曲「僕 love you (愛問愛答 ver.)」MV公開。メンバー・コメントも skream.jp",
-      "id": "e89aeb82988d3945",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "熊本地震 被災地支援で“トイレトラック”派遣 東京 品川区",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZSGxWR21OR2R5Sk5wRURUcmlNbHZqbm04azZwdDBfZkd1cjdpWWdjOV9WQjZtZnRmM1MxLTAtVE5Tbnl1OGlVZ2dKZm90UTR1LXMxdS1TZWc?oc=5",
       "source": "NHKニュース",
@@ -801,9 +801,9 @@
     {
       "title": "7月30日、かまくら子ども議会が開催されました。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jdW9FUEhybnJSNGNmNS1QRS1nYURpVWlZR1pxY1ZtX3FRSzlXVEpEVWdaMWRFckRWdGo2MXhoQkt2Wl8wOW91TVh0LUxyUmsyMzE1cF9YY1FZRk00TjAw?oc=5",
-      "source": "選挙ドットコム",
+      "source": "go2senkyo.com",
       "published": "2026-07-31T07:27:23+00:00",
-      "summary": "7月30日、かまくら子ども議会が開催されました。 選挙ドットコム",
+      "summary": "7月30日、かまくら子ども議会が開催されました。 go2senkyo.com",
       "id": "d2d94fc76746a2f1",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -825,9 +825,9 @@
     {
       "title": "鎌倉市 かまくら子ども議会が開催されました",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DWGo0YnI0WEx3Y29TSVc3NHJ5ZFpoV2NoTlJ1TUtiNkNDd0Y0NVcteE1PWnoxcFBpX1VwVkhFTHQ3dm1UbFNXSC1EMWVDeUNCSzBocjY4ZHZxSHdhRnNR?oc=5",
-      "source": "選挙ドットコム",
+      "source": "go2senkyo.com",
       "published": "2026-07-31T04:52:10+00:00",
-      "summary": "鎌倉市 かまくら子ども議会が開催されました 選挙ドットコム",
+      "summary": "鎌倉市 かまくら子ども議会が開催されました go2senkyo.com",
       "id": "40fb5f496065f98a",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -907,6 +907,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "鎌倉商工会議所青年部（鎌倉YEG）として初開催の「かまくら仕事カンファレンス」を牽引する 磯野 享史（たかふみ）さん 大船在住 47歳",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5SUVCSldHal8xREhTb0t4X21VaHd2RHlpbzNQTEQwc3NNNlhXdTFza0p2d0JLMGZSa3YyN2NoeEFsRGxEZjBtYnFybkpjaGVwc0lSTU9tNTBvRll6Y285Vml1TzI?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-07-30T15:00:00+00:00",
+      "summary": "鎌倉商工会議所青年部（鎌倉YEG）として初開催の「かまくら仕事カンファレンス」を牽引する 磯野 享史（たかふみ）さん 大船在住 47歳 タウンニュース",
+      "id": "59230b28fd6799ba",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "あいみょんMVリクエスト企画1位は「RING DING」ボクシングやカーアクションに挑戦",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LUmdkeGtMMkdMMFVLOVF5el9HSjBxc1VZMk5xUEdrYVoxUmNqblp4RHpOWm5QZVZNOUdROHpaUHRBWGxaRzRLNEtCUm8?oc=5",
       "source": "ナタリー",
@@ -945,9 +957,9 @@
     {
       "title": "【藤沢市】長期間テナント募集中だった場所についに動き！ ミスターマックス湘南藤沢SC2階へ「住宅情報館 湘南辻堂店」が8月8日オープンします♪ さらに隣のテナントにも動き。",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zSTJkd2xjZjJzcnBweFlpbXd0d1NxRmVXZHJPX1pnMldjSlFkakZOUmNUQkx1cFJPSDdTWDUxdUxLZ2ZFc1ZBZG1VNGQtLS0zVGVzSlplaGJjc0syMU4wRmozNG9jcUFWTUU4?oc=5",
-      "source": "fujisawa.goguynet.jp",
+      "source": "号外NET 藤沢市",
       "published": "2026-07-29T21:57:55+00:00",
-      "summary": "【藤沢市】長期間テナント募集中だった場所についに動き！ ミスターマックス湘南藤沢SC2階へ「住宅情報館 湘南辻堂店」が8月8日オープンします♪ さらに隣のテナントにも動き。 fujisawa.goguynet.jp",
+      "summary": "【藤沢市】長期間テナント募集中だった場所についに動き！ ミスターマックス湘南藤沢SC2階へ「住宅情報館 湘南辻堂店」が8月8日オープンします♪ さらに隣のテナントにも動き。 号外NET 藤沢市",
       "id": "371940065529004c",
       "category": "不動産",
       "topic": "道場物件（鎌倉・湘南）",
@@ -1000,18 +1012,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "株式会社旅行新聞新社",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SWjlUSG5pUWdjdDh4X3ZVbGViNjlCdmhWZktRVzdVZ25DZ0RWRzdkdnpqbUlzMGpUcUdzc2pROEh4UzA0UVJYQ0dWR1ZscWpvME42MDVPbnFxX29GanlUb0lScmVnd3MtaWc?oc=5",
-      "source": "株式会社旅行新聞新社",
-      "published": "2026-07-27T03:52:29+00:00",
-      "summary": "株式会社旅行新聞新社 株式会社旅行新聞新社",
-      "id": "e9a6d0dde1a390ca",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1099,18 +1099,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "株式会社電算 会社概要",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tS2JsZ2RxcXUzWUVvT29SVm1idEQ3UEhORExSWFRZbzFUVzhMeDFaVFp5ZTFDbFBnTkJyb2RmbWRQVjZZTjUwMF9QYmdyQXNjMzZHV2NSY3ltNEZ5a1l5Vm8wUkdmOEFu?oc=5",
-      "source": "株式会社旅行新聞新社",
-      "published": "2026-07-22T20:38:08+00:00",
-      "summary": "株式会社電算 会社概要 株式会社旅行新聞新社",
-      "id": "d8d661db7d118003",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "容器文化ミュージアム（東京都品川区）小学生向け夏休みイベントを8月5日（水）・６日（木）に開催",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TWEFEcUpsMGIyZmRibjNDbUtTXzEtMGxFb0JKX2VBLXd5R3RXeWtzVk01ZUt2eGNXRENtdG1CN0s4NXVHZEk5WVB5Ulp0ZkFsYWMzMmdsc3JVMVI3M0h2LWgtaTZsSF82Qnc?oc=5",
       "source": "PR TIMES",
@@ -1123,5 +1111,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 88
+  "count": 87
 }
