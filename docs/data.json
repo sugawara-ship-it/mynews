@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-03T06:26:28.177306+00:00",
+  "generated_at": "2026-08-03T07:46:51.674068+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -66,6 +66,18 @@
     }
   ],
   "items": [
+    {
+      "title": "債券15時 長期金利、一時2.830%に上昇 5年金利は2.090%で過去最高",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZDJiekN2RDY1UnM4RzYxbk1ySEJJd0tKYVpjS29aYXNhWXBqMU9hWFRnb1YydHFSc0RHNlpzaW9yNDBRZ19XNUJNSmZFSF9lTFFsNFY0bEZfdmtLV0FoMHpCVVFvbmZ0cl9Feg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-03T06:31:14+00:00",
+      "summary": "債券15時 長期金利、一時2.830%に上昇 5年金利は2.090%で過去最高 日本経済新聞",
+      "id": "5b3e3b4e53b64ae3",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "中国の軍事研究者がOpenAIやAnthropicのAIモデルを抽出して国内の軍事システム開発に利用していたことが判明",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VSnFmeUNqT1lTcmRHUjlWbF9ialpEckxiZ3hkc2JuaEdGXzFCMTYtNmoyT0hMLVIxY3NuLTBOWmZYazhmS3B5VU9YQUxNeWFEQ25idW1sdWsyNjlYXzhxWDh4a3BOcmlO?oc=5",
@@ -175,6 +187,30 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "国産AIO（LLMO/GEO）対策ツール「DolphinX AIO」で全件データエクスポート（出力）機能をリリース｜CSV＋JSONのZIP一括出力で、生成AIによる詳細な分析が可能に",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mTlFpdHpqVzJuTHhRRml6bXJGQUZfcW8zU0IxdFNpZ2dpaFFvZ2phSEp5dGFEbEdXWXBLRjVzN202U29QUlZMRUdUMks3cHdibFlCdjF5aGJmd0thRFB5VFZ5bmdYUGV5Vmc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-03T04:10:01+00:00",
+      "summary": "国産AIO（LLMO/GEO）対策ツール「DolphinX AIO」で全件データエクスポート（出力）機能をリリース｜CSV＋JSONのZIP一括出力で、生成AIによる詳細な分析が可能に PR TIMES",
+      "id": "7723ed3ab0b35a87",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "生成AIに選ばれる企業へ！GMO NIKKO、実装内容レコメンド機能を備えた国内初の総合AIO対策ツールを提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hZHdtS3IzM2Uxejc4c1lhdXdnVHI1THlXYUNhWWVDa05pSnlNNzRsVE5ET1FfdE1xdG82RnJMSndrbko2ZW9HMmlhMkRTTVVLLTFxWmNGWUUtUC0wdGtZRWFIODNwc2NGa2c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-03T04:00:02+00:00",
+      "summary": "生成AIに選ばれる企業へ！GMO NIKKO、実装内容レコメンド機能を備えた国内初の総合AIO対策ツールを提供開始 PR TIMES",
+      "id": "24b1b7fd80533f6e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "EU、AIエージェント脱出事故でOpenAI・Anthropicと協議―AI法の執行開始で巨額罰金の可能性も",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LUUc5NERxYi05dUV1WHZkLUg0REF2S3cwQ1lSZEVFSjVnR2hTbktJRld5aXpwUGNMempLOGl0LVVrXzhtUXcyMWdBM0U0NllHOEJyeVhtV1pwV1NhSDFDLTB5Z9IBaEFVX3lxTE1za05KaVlhV2hXanZXTjhnR25zVmd3TlRMYWF5VTdSeWNmS3hIY3MwU3B1d0hBUGZTRHJwM2NTSFQwY2llSnZBWGh5ZlhMMXpZTmpsdUlJMExIWnc1bGR6WFB5ekw3cGYz?oc=5",
       "source": "財経新聞",
@@ -187,12 +223,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "AI時代の2強OpenAIとAnthropicの戦略が分岐し始めた",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMzFOaTZRNVVuWnpJUXB3enh4U0pvTFVjYzFSVk1faGE3UlEtT01fSFFVVWRxeThzOV9jVmFSMDh6aVcyQnlmendLaDdqMjB3RHo2bkxSeEtwZy1uVzhLYmstNm9fUQ?oc=5",
-      "source": "株式会社エクサウィザーズ",
-      "published": "2026-08-03T03:02:58+00:00",
-      "summary": "AI時代の2強OpenAIとAnthropicの戦略が分岐し始めた 株式会社エクサウィザーズ",
-      "id": "23168849bc437f8e",
+      "title": "「Claude Opus 5」公開で世代交代──\"5世代\"で逆転したAI活用の常識を、全54ページで完全図解。Renewer、『Claude 5世代 マスターガイド』を無料公開",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tYjlfamRUYTFycm9CdlU2ZFU2Q0ZRYnZBNjZHekxPZ3ExSHVfZnRKZGVVUkNOaDFBTWFoOTRLRTZ5a2ZwVjRhbEVyekgzZVdQZUVnNlZGYW1zVlVYdkVaMUwtd3lJTFMtVU1F?oc=5",
+      "source": "時事ドットコム",
+      "published": "2026-08-03T03:16:00+00:00",
+      "summary": "「Claude Opus 5」公開で世代交代──\"5世代\"で逆転したAI活用の常識を、全54ページで完全図解。Renewer、『Claude 5世代 マスターガイド』を無料公開 時事ドットコム",
+      "id": "6a8c2694a6710c5d",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -208,30 +244,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "法人向け生成AI「ChatSense」、AI回答のフローチャートを自動描画",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83VHdIS2NhM2EycFQ2T1Mwd1VYbThnMGUzSVdnRmlCd0w1cUFpVWc3bDJ6cnVRelBBbHVUNHMydmtLYm9IdXRTLTk2Y2pmWDE0NG1ZWnJHUHk3MFVzQ3pqc2pIT0RsR0tUYlE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-03T02:36:08+00:00",
-      "summary": "法人向け生成AI「ChatSense」、AI回答のフローチャートを自動描画 PR TIMES",
-      "id": "fc098469fd62c13b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Final Aim、手描きスケッチ起点の生成AI時代のクリエイティブ支援プロダクト「Final Design 1st Sketch」を提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aXdsV2djVmVvaE91RmJNTkVoM2VBcVZuc1RaSS1pMXUwU1hjSVFNWllRVlJJRUZCSjNPWTlmZGUyUUxobXQ0ZlowZElsc3hDc0pLWU54MnZ2S1Z0SU1NTW1wWVQyOU1ZNmc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-03T02:30:02+00:00",
-      "summary": "Final Aim、手描きスケッチ起点の生成AI時代のクリエイティブ支援プロダクト「Final Design 1st Sketch」を提供開始 PR TIMES",
-      "id": "4cedd5cb7346e649",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -297,9 +309,9 @@
     {
       "title": "BIGBANGライブチケット2026一般発売いつから？取り方と確実に取るコツも！",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZYUVVZjY5RmN4Uk1qZHJXMk9GODVvUndZYVNEbkJmY1Zwa3dvU2tqRGM5SW5FNWY0Z0U2MkJjUTI2UVBaOXZmWG01V3c3U0JTSVBfYnVsZ1k?oc=5",
-      "source": "株式会社マーケットプレイス",
+      "source": "marketplace.co.jp",
       "published": "2026-08-02T17:03:38+00:00",
-      "summary": "BIGBANGライブチケット2026一般発売いつから？取り方と確実に取るコツも！ 株式会社マーケットプレイス",
+      "summary": "BIGBANGライブチケット2026一般発売いつから？取り方と確実に取るコツも！ marketplace.co.jp",
       "id": "ed7819d52c1a06f3",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -381,9 +393,9 @@
     {
       "title": "STARGLOW、デビューから10ヶ月で横浜アリーナ2Days 多彩なステージで3万人を魅了 1stアルバム発売をサプライズ発表",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3YWlwOFVTamNaYjczWERXVnlEdzA3anFLNzVQUG1tM0tEQ2tFbUZDSzVZeFFaak9WcXo1czdZMF8xdVQ3WUpOVVNSUVY0RDNxSFhvRS01RmVkZldzNW85b1hOTFRjTEE?oc=5",
-      "source": "373news.com",
+      "source": "南日本新聞",
       "published": "2026-08-02T11:30:00+00:00",
-      "summary": "STARGLOW、デビューから10ヶ月で横浜アリーナ2Days 多彩なステージで3万人を魅了 1stアルバム発売をサプライズ発表 373news.com",
+      "summary": "STARGLOW、デビューから10ヶ月で横浜アリーナ2Days 多彩なステージで3万人を魅了 1stアルバム発売をサプライズ発表 南日本新聞",
       "id": "e36c15eb363d91c8",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -427,18 +439,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "桜庭和志×須藤元気の強力タッグが実現…“日本武道の聖地”京都「旧武徳殿」初のプロ格闘技イベント「QUINTET」をLemino独占生配信",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrQWRNd1IwRDQySzM1X1lxRmJvV05sTVAwVmhGRG02eExKbGViRlNObDA1Wl91LXhqUjEycmRwZGthRWxLenl0bUhGWmRfcE9aeUo4UzRlOVk?oc=5",
-      "source": "WEBザテレビジョン",
-      "published": "2026-08-02T09:08:52+00:00",
-      "summary": "桜庭和志×須藤元気の強力タッグが実現…“日本武道の聖地”京都「旧武徳殿」初のプロ格闘技イベント「QUINTET」をLemino独占生配信 WEBザテレビジョン",
-      "id": "8ac5cb6d1af40215",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【鎌倉市】メゾン オルキデ×ディープレイヤーが由比ヶ浜「海渡」と初コラボ！海帰りにサロン品質ヘアケアを無料体験",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR3M5Ni1OTzcwWDJBdXlEYVVLN0xuT2NGa3VWVmIzaThqelgzdEZKWi1UZF95dW9aV29TdmVJa2Rzb3Zlb3h5OWJJNEQyRkktWE5OS241VUg5RU9wSEV4MnpkSDgwZDc2Q3VLajBkTTBEaXpPQ2R0UGRQRWNwRkpBOGtyZw?oc=5",
       "source": "湘南人",
@@ -453,9 +453,9 @@
     {
       "title": "【U-NEXT】2026年8月の音楽ライブ配信ラインナップを発表！Kis-My-Ft2 15周年記念ツアーや超特急、M!LKらによるEBiDAN THE LIVEを独占ライブ配信！",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PWl9wa2hwZEdmUUhYaXdaNzVvRmRVX0Y3STR1TjRScVRzRkRhbFBDVUgyMTJrN3g0SFFxUkJXVGlkSW41NFFIQlNWeGNLYzRPajNZY1p3c3ZVWUdYNHlUWUNtVDNoUEdXdEE?oc=5",
-      "source": "U-NEXT コーポレート",
+      "source": "unext.co.jp",
       "published": "2026-08-02T02:45:54+00:00",
-      "summary": "【U-NEXT】2026年8月の音楽ライブ配信ラインナップを発表！Kis-My-Ft2 15周年記念ツアーや超特急、M!LKらによるEBiDAN THE LIVEを独占ライブ配信！ U-NEXT コーポレート",
+      "summary": "【U-NEXT】2026年8月の音楽ライブ配信ラインナップを発表！Kis-My-Ft2 15周年記念ツアーや超特急、M!LKらによるEBiDAN THE LIVEを独占ライブ配信！ unext.co.jp",
       "id": "e1806940beb778e9",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -549,9 +549,9 @@
     {
       "title": "東京都品川区の『あかゆ』開催報告✨ | ＊新＊全国こども食堂プロジェクト 〜ミライ・テラス〜",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQTVlXUFJ1aU45R0VMV1NNTW13UVNlQjcxTTNNRWFaVkhsRjVobVlvV3AzZDJiSE9JQzhwWmtBQ3Z4OTFEZ19rUHU4SDdvdUZzUllKYkFfbXRfYjhnUnBtOEpR?oc=5",
-      "source": "コングラント",
+      "source": "congrant.com",
       "published": "2026-08-01T11:00:00+00:00",
-      "summary": "東京都品川区の『あかゆ』開催報告✨ | ＊新＊全国こども食堂プロジェクト 〜ミライ・テラス〜 コングラント",
+      "summary": "東京都品川区の『あかゆ』開催報告✨ | ＊新＊全国こども食堂プロジェクト 〜ミライ・テラス〜 congrant.com",
       "id": "bf1e36c8a7251119",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -676,6 +676,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "桜庭和志×須藤元気の強力タッグが実現…“日本武道の聖地”京都「旧武徳殿」初のプロ格闘技イベント「QUINTET」をLemino独占生配信",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrQWRNd1IwRDQySzM1X1lxRmJvV05sTVAwVmhGRG02eExKbGViRlNObDA1Wl91LXhqUjEycmRwZGthRWxLenl0bUhGWmRfcE9aeUo4UzRlOVk?oc=5",
+      "source": "WEBザテレビジョン",
+      "published": "2026-07-31T17:51:52+00:00",
+      "summary": "桜庭和志×須藤元気の強力タッグが実現…“日本武道の聖地”京都「旧武徳殿」初のプロ格闘技イベント「QUINTET」をLemino独占生配信 WEBザテレビジョン",
+      "id": "8ac5cb6d1af40215",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -847,18 +859,6 @@
       "image": ""
     },
     {
-      "title": "日本経済指標【日銀政策金利】",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5sMFpudFhHUEZnZHN0T240cTBuRDk5bk03ZlRLbWRSdXBXR1puOTN0V1dwcUVha2xaTnpCZi1mODluZTJKcFE?oc=5",
-      "source": "みんかぶ",
-      "published": "2026-07-31T03:21:00+00:00",
-      "summary": "日本経済指標【日銀政策金利】 みんかぶ",
-      "id": "3d92a0fc3e58252a",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "あいみょんがオーストラリアで本場のコアラと対面「Casa BRUTUS」動物園＆水族館特集",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hU05RZ1lIc1NVZ1BVeEtUbU8zckQ2RXJjRlFMRWhlRHBkTEtJejk5TFJ1R2xXOXFRak1GVDlKRDdpaVptakJCVGoxSUQ?oc=5",
       "source": "ナタリー",
@@ -884,7 +884,7 @@
     },
     {
       "title": "東京・品川区の大井競馬場で日本初のナイター競馬「トゥインクルレース」開催／今日は？",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ01xQzQ5V0pNOGNpam93WlI0RktrbHJnUnRWUXFyZElOSURqNHFiWXJpaTVFcHVkbEZpdHd2b3pBaDBCcTZfQWJyMU5qWW5XMkFsd0prZ3lkWHU4aWhZWnY3Y1NWOHotMVJ4bE8zY0Q2SUNjbHZJd3ZmbnRFbjJpS2FjRVdIcEc2ckdfRUpR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81ZnFzd3pUVkkzVGdzaFgtVGVHNXBzUEFzTzVnTzFBMVY4b1FPUHZ3c2VpdTlZRjdJYlB0WEVaNmE2dmtwLTcxX3dlLWQzTUdwempwWUgzSW5WZWFha3J4MkFKQ1hCZVhmREJWM0gza9IBd0FVX3lxTE1BTHRrRmhRNjdjeWpXaHBtX3ZPbUtmNFBBR3hMVVJkejlRMFNrX1hkWkh2WFd0YjVHTE9TQzVqUm1CdEJ5QVgxcDlNVDYxV3YwckxQMFlRY181MFRIdzdwNmdSS253ZWx5WjFTeWdKU2diTGplZGRr?oc=5",
       "source": "日刊スポーツ",
       "published": "2026-07-30T15:00:00+00:00",
       "summary": "東京・品川区の大井競馬場で日本初のナイター競馬「トゥインクルレース」開催／今日は？ 日刊スポーツ",
@@ -945,9 +945,9 @@
     {
       "title": "【藤沢市】長期間テナント募集中だった場所についに動き！ ミスターマックス湘南藤沢SC2階へ「住宅情報館 湘南辻堂店」が8月8日オープンします♪ さらに隣のテナントにも動き。",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zSTJkd2xjZjJzcnBweFlpbXd0d1NxRmVXZHJPX1pnMldjSlFkakZOUmNUQkx1cFJPSDdTWDUxdUxLZ2ZFc1ZBZG1VNGQtLS0zVGVzSlplaGJjc0syMU4wRmozNG9jcUFWTUU4?oc=5",
-      "source": "号外NET 藤沢市",
+      "source": "fujisawa.goguynet.jp",
       "published": "2026-07-29T21:57:55+00:00",
-      "summary": "【藤沢市】長期間テナント募集中だった場所についに動き！ ミスターマックス湘南藤沢SC2階へ「住宅情報館 湘南辻堂店」が8月8日オープンします♪ さらに隣のテナントにも動き。 号外NET 藤沢市",
+      "summary": "【藤沢市】長期間テナント募集中だった場所についに動き！ ミスターマックス湘南藤沢SC2階へ「住宅情報館 湘南辻堂店」が8月8日オープンします♪ さらに隣のテナントにも動き。 fujisawa.goguynet.jp",
       "id": "371940065529004c",
       "category": "不動産",
       "topic": "道場物件（鎌倉・湘南）",
