@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-03T07:46:51.674068+00:00",
+  "generated_at": "2026-08-03T08:47:23.037392+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 3
+      "count": 2
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,12 +67,48 @@
   ],
   "items": [
     {
+      "title": "Claudeに100BTCを賭けた挑戦状「取りに来い」BitGo CEO",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzVlpXU1MtVUVoeWV5OEZMSHJvM0pZdk02MmE4clJVaHBiVWVWdzVydmF2cjdJNHIzSWJvN0JqQk10QWVPd0dnbzNGUk42Zw?oc=5",
+      "source": "bittimes.net",
+      "published": "2026-08-03T08:26:14+00:00",
+      "summary": "Claudeに100BTCを賭けた挑戦状「取りに来い」BitGo CEO bittimes.net",
+      "id": "3474239bceab604c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「Copilot in Excel」が「GPT-5.6」「Claude Opus 5」に対応 ～2026年7月更新",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzNjJZWS01cGd4S2hnVVlSZk45dTFTWXRMTHBDLVZiXzBBODRCc2VqcDJ0QldYTnYzbXFsMmdvUjVuTTBQT0lsQlBxaTk5Q2NZa1EwRnpUcHNWejN5Q3JXNnUxa1d0UV9u?oc=5",
+      "source": "窓の杜",
+      "published": "2026-08-03T07:53:00+00:00",
+      "summary": "「Copilot in Excel」が「GPT-5.6」「Claude Opus 5」に対応 ～2026年7月更新 窓の杜",
+      "id": "6fb2cc9f9b1758f2",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "債券15時 長期金利、一時2.830%に上昇 5年金利は2.090%で過去最高",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZDJiekN2RDY1UnM4RzYxbk1ySEJJd0tKYVpjS29aYXNhWXBqMU9hWFRnb1YydHFSc0RHNlpzaW9yNDBRZ19XNUJNSmZFSF9lTFFsNFY0bEZfdmtLV0FoMHpCVVFvbmZ0cl9Feg?oc=5",
       "source": "日本経済新聞",
       "published": "2026-08-03T06:31:14+00:00",
       "summary": "債券15時 長期金利、一時2.830%に上昇 5年金利は2.090%で過去最高 日本経済新聞",
       "id": "5b3e3b4e53b64ae3",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "現場・多拠点のコミュニケーションをひとつに。NEXYZ.Group・Lark Japan・補助金ポータルが「補助金で始めるDX・AX『Lark』導入セミナー」を9月2日（水）に共同開催|使いたい補助金・助成金・給付金があるなら補助金ポータル",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSGhqdDNCdmlvNXU2RmdPYllCWGV4UExScnl5UWF4bTgtckJEXy1GZTgyWmR3Y0h1a2VNWUlHcERWZGtTY1RZaTFTQQ?oc=5",
+      "source": "補助金ポータル",
+      "published": "2026-08-03T05:51:11+00:00",
+      "summary": "現場・多拠点のコミュニケーションをひとつに。NEXYZ.Group・Lark Japan・補助金ポータルが「補助金で始めるDX・AX『Lark』導入セミナー」を9月2日（水）に共同開催|使いたい補助金・助成金・給付金があるなら補助金ポータル 補助金ポータル",
+      "id": "b77055dd663ee702",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -103,6 +139,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "生成ＡＩ画像による保険金不正請求への対策を強化",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WdmxsdS1wUWRFbEhtamlHaU5zN095OGduZWVBdElCMmxZUk8tOXYxcXNxV3FRbkRMcGJ6eEpFbnhONXlyUEg4SGZtNEVxVkRXdzdpMUg2d3VhajZfNXJwczhXdWt3LVI0Y3c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-03T05:40:31+00:00",
+      "summary": "生成ＡＩ画像による保険金不正請求への対策を強化 PR TIMES",
+      "id": "436a79f96db8f6e9",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "BitGo CEO、AI「Claude」に100BTCハッキング挑戦状「持ち去れるなら持ち去ってみろ」",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMYVpGOENWQTBzSVVLN3NIQURpbXIxeWh6aXpGVEhhVlpsOHlFWnJKc0c5NWc3anlIbXk1WkV6djRlcnB4M1NneG5FYlF6aENoSEI5Z3JjVU5LOTFhQWFaczVmLXdlQUQtTUEzMl9zMzBmY1pi?oc=5",
       "source": "BigGo ファイナンス",
@@ -115,24 +163,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "日米協調介入、どうなる円相場「トレンド反転難しい」「追加介入の余地」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wamoxWlRXMndObnliQTl3NVRiT2FDaDZodkdtMDRUYnk2WUVPREhQU1RaVnoySzltbFFZUFpEMjRQTk92RE50VjZ2VlJQREpNbEM4bERNSG9lRzVrMHc5QURJTVJaVldBOERlcA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-03T05:19:33+00:00",
+      "summary": "日米協調介入、どうなる円相場「トレンド反転難しい」「追加介入の余地」 日本経済新聞",
+      "id": "5f25d50353169006",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ナレッジセンスが提供する法人向け生成AI「ChatSense」、フローチャート自動描画機能の利便性",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56c1RvUFZFNDdtcGFJc0FXbGRYRHpOX0NnN3c3SXFteVlHaE1HWDRJRnhmVzAybHlaN2F1bVRDelN0b0VZWUV5OUkwNTAzYlNZWmplcjdmMUEtZk1VQU0weVVFTWExMkI3YTJ1RGVSSk16UQ?oc=5",
       "source": "ニュースメディアVOIX",
       "published": "2026-08-03T05:03:26+00:00",
       "summary": "ナレッジセンスが提供する法人向け生成AI「ChatSense」、フローチャート自動描画機能の利便性 ニュースメディアVOIX",
       "id": "261eefce3eee05be",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "なぜ、OpenAIはAnthropicに後れを取ったのか？",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zZEVxMDRtbnozMVNsSmd5Nmp4VVZFY0RBbDRpLWxqOHk2NDB6VHBoU0x1N1lYZUJMamxXdkQ3VDh6YXRjVWs0X2NmWFhaMVc4QlI5Mmw0dHJyTTlCbVNZQ19DSGNzUmx0?oc=5",
-      "source": "マイナビニュース",
-      "published": "2026-08-03T05:03:05+00:00",
-      "summary": "なぜ、OpenAIはAnthropicに後れを取ったのか？ マイナビニュース",
-      "id": "63a44a7c4d257403",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -175,6 +223,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "会議を\"組織のナレッジ\"に変える。法人向け生成AI「Tachyon 生成AI」が議事録×AIエージェントを統合する大型アップデート",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11V19oWnB4RXk0bEN4SFNuenRHYkE1dWxGX3Y2eF9rNjFXRFdwZDAzYlJpRXlmbHdoYjFabHFZWGZVbGxTY2ZmcGZuOXlGMGc3SXg0SzJXRnhvTVAtdU5CcFJIdkI2NG50WUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-03T04:30:18+00:00",
+      "summary": "会議を\"組織のナレッジ\"に変える。法人向け生成AI「Tachyon 生成AI」が議事録×AIエージェントを統合する大型アップデート PR TIMES",
+      "id": "70f20a23524ae9fb",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ねぐせ。 横浜アリーナの観客とレコーディングした新曲 「僕 love you (愛問愛答 ver.)」のMV公開！ りょたち「その場にいたあなたと一緒に音楽を作れて幸せです。\"僕 love you\"は紛れもなくあなたの曲です。」",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1RUNJbGxDZ2NGS3p2Yy1mdlVOcTVrMGo1NTdVLXpaRlpYczdma3lQWmNPOVZ0QUpLLUl3RUgzMFZOeEViNlJ3YWZMQmJkTHU1Ykt4cWtTdlI2RW9vcjk4bldpckhVeWZRV2RMRTV5bHpCUQ?oc=5",
       "source": "USENの音楽情報サイト",
@@ -193,42 +253,6 @@
       "published": "2026-08-03T04:10:01+00:00",
       "summary": "国産AIO（LLMO/GEO）対策ツール「DolphinX AIO」で全件データエクスポート（出力）機能をリリース｜CSV＋JSONのZIP一括出力で、生成AIによる詳細な分析が可能に PR TIMES",
       "id": "7723ed3ab0b35a87",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "生成AIに選ばれる企業へ！GMO NIKKO、実装内容レコメンド機能を備えた国内初の総合AIO対策ツールを提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hZHdtS3IzM2Uxejc4c1lhdXdnVHI1THlXYUNhWWVDa05pSnlNNzRsVE5ET1FfdE1xdG82RnJMSndrbko2ZW9HMmlhMkRTTVVLLTFxWmNGWUUtUC0wdGtZRWFIODNwc2NGa2c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-03T04:00:02+00:00",
-      "summary": "生成AIに選ばれる企業へ！GMO NIKKO、実装内容レコメンド機能を備えた国内初の総合AIO対策ツールを提供開始 PR TIMES",
-      "id": "24b1b7fd80533f6e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "EU、AIエージェント脱出事故でOpenAI・Anthropicと協議―AI法の執行開始で巨額罰金の可能性も",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LUUc5NERxYi05dUV1WHZkLUg0REF2S3cwQ1lSZEVFSjVnR2hTbktJRld5aXpwUGNMempLOGl0LVVrXzhtUXcyMWdBM0U0NllHOEJyeVhtV1pwV1NhSDFDLTB5Z9IBaEFVX3lxTE1za05KaVlhV2hXanZXTjhnR25zVmd3TlRMYWF5VTdSeWNmS3hIY3MwU3B1d0hBUGZTRHJwM2NTSFQwY2llSnZBWGh5ZlhMMXpZTmpsdUlJMExIWnc1bGR6WFB5ekw3cGYz?oc=5",
-      "source": "財経新聞",
-      "published": "2026-08-03T03:30:52+00:00",
-      "summary": "EU、AIエージェント脱出事故でOpenAI・Anthropicと協議―AI法の執行開始で巨額罰金の可能性も 財経新聞",
-      "id": "14495f134c51f8c8",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「Claude Opus 5」公開で世代交代──\"5世代\"で逆転したAI活用の常識を、全54ページで完全図解。Renewer、『Claude 5世代 マスターガイド』を無料公開",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tYjlfamRUYTFycm9CdlU2ZFU2Q0ZRYnZBNjZHekxPZ3ExSHVfZnRKZGVVUkNOaDFBTWFoOTRLRTZ5a2ZwVjRhbEVyekgzZVdQZUVnNlZGYW1zVlVYdkVaMUwtd3lJTFMtVU1F?oc=5",
-      "source": "時事ドットコム",
-      "published": "2026-08-03T03:16:00+00:00",
-      "summary": "「Claude Opus 5」公開で世代交代──\"5世代\"で逆転したAI活用の常識を、全54ページで完全図解。Renewer、『Claude 5世代 マスターガイド』を無料公開 時事ドットコム",
-      "id": "6a8c2694a6710c5d",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -307,11 +331,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "「金利ある世界」復活、国債、家計への影響は",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Fd3hvQUdpQTJqZkZGWklCWW8teV9GdzhPTUdPMWZfOWZDbDJxRFE1R2ZIeXdnNkMtR2V5Ul9tV21SVHU0dXJ2UTg1TUlrdlNXUUFxZm10aEc4THd0a0dN?oc=5",
+      "source": "選挙ドットコム",
+      "published": "2026-08-02T20:10:11+00:00",
+      "summary": "「金利ある世界」復活、国債、家計への影響は 選挙ドットコム",
+      "id": "3ffdb95f82a00ef7",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "BIGBANGライブチケット2026一般発売いつから？取り方と確実に取るコツも！",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZYUVVZjY5RmN4Uk1qZHJXMk9GODVvUndZYVNEbkJmY1Zwa3dvU2tqRGM5SW5FNWY0Z0U2MkJjUTI2UVBaOXZmWG01V3c3U0JTSVBfYnVsZ1k?oc=5",
-      "source": "marketplace.co.jp",
+      "source": "株式会社マーケットプレイス",
       "published": "2026-08-02T17:03:38+00:00",
-      "summary": "BIGBANGライブチケット2026一般発売いつから？取り方と確実に取るコツも！ marketplace.co.jp",
+      "summary": "BIGBANGライブチケット2026一般発売いつから？取り方と確実に取るコツも！ 株式会社マーケットプレイス",
       "id": "ed7819d52c1a06f3",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -453,9 +489,9 @@
     {
       "title": "【U-NEXT】2026年8月の音楽ライブ配信ラインナップを発表！Kis-My-Ft2 15周年記念ツアーや超特急、M!LKらによるEBiDAN THE LIVEを独占ライブ配信！",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PWl9wa2hwZEdmUUhYaXdaNzVvRmRVX0Y3STR1TjRScVRzRkRhbFBDVUgyMTJrN3g0SFFxUkJXVGlkSW41NFFIQlNWeGNLYzRPajNZY1p3c3ZVWUdYNHlUWUNtVDNoUEdXdEE?oc=5",
-      "source": "unext.co.jp",
+      "source": "U-NEXT コーポレート",
       "published": "2026-08-02T02:45:54+00:00",
-      "summary": "【U-NEXT】2026年8月の音楽ライブ配信ラインナップを発表！Kis-My-Ft2 15周年記念ツアーや超特急、M!LKらによるEBiDAN THE LIVEを独占ライブ配信！ unext.co.jp",
+      "summary": "【U-NEXT】2026年8月の音楽ライブ配信ラインナップを発表！Kis-My-Ft2 15周年記念ツアーや超特急、M!LKらによるEBiDAN THE LIVEを独占ライブ配信！ U-NEXT コーポレート",
       "id": "e1806940beb778e9",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -549,9 +585,9 @@
     {
       "title": "東京都品川区の『あかゆ』開催報告✨ | ＊新＊全国こども食堂プロジェクト 〜ミライ・テラス〜",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQTVlXUFJ1aU45R0VMV1NNTW13UVNlQjcxTTNNRWFaVkhsRjVobVlvV3AzZDJiSE9JQzhwWmtBQ3Z4OTFEZ19rUHU4SDdvdUZzUllKYkFfbXRfYjhnUnBtOEpR?oc=5",
-      "source": "congrant.com",
+      "source": "コングラント",
       "published": "2026-08-01T11:00:00+00:00",
-      "summary": "東京都品川区の『あかゆ』開催報告✨ | ＊新＊全国こども食堂プロジェクト 〜ミライ・テラス〜 congrant.com",
+      "summary": "東京都品川区の『あかゆ』開催報告✨ | ＊新＊全国こども食堂プロジェクト 〜ミライ・テラス〜 コングラント",
       "id": "bf1e36c8a7251119",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -607,15 +643,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【鎌倉市】パパス・マドモアゼルノンノン丸の内本店で「マルノウチ サマーフェスト」開催！鎌倉ビールも登場",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SU0M2Z0hPLUV6NkUyMjlpYUJNX3B6aWtDNVJYdUhrVUhJUXBzd0JwUGs5aFF3ZlZkOEx2dzZ2RlZGamt2UXNSTnV6RUVSVXlRZ2RDQ1I0bm1OcTNJTVFZVXp5b1U0WTd4bTdFczdMdDV4S2s?oc=5",
-      "source": "湘南人",
-      "published": "2026-08-01T03:55:47+00:00",
-      "summary": "【鎌倉市】パパス・マドモアゼルノンノン丸の内本店で「マルノウチ サマーフェスト」開催！鎌倉ビールも登場 湘南人",
-      "id": "92f929c0faba9a8a",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
+      "title": "【埼玉県】渋沢MIXオープンイノベーションプログラム「Canvas」共創プロジェクトの募集開始 -支援金あり！事業化に向けて伴走支援します-",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kQ2JMcWF4WnJFTEcyMzI4d3hDQ0ZCZGNpVnA2Nm9QS284NS1uTk1hNGs3OTNPUmFPX0tVWHJvSzhlOHVZak9TcFBQODJxQVdfZktSNFJmeUdfMEJWcXF1NkE5Z1BYUUhzc1E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-01T05:00:01+00:00",
+      "summary": "【埼玉県】渋沢MIXオープンイノベーションプログラム「Canvas」共創プロジェクトの募集開始 -支援金あり！事業化に向けて伴走支援します- PR TIMES",
+      "id": "3573c5c61937af3a",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -787,54 +823,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米ドル円相場のカギは高市政権の夏場の政策運営 財政拡張抑制が焦点 野村證券・後藤祐二朗",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93MHl0RWo5OFpld1RfVVpwekxtYnVJOTVBM1pMY2NUSHRJYUlVVHJoTTNEX0FuR2FSNndhbENpNVctbmJxTXpibFgxM0QyT0VfbXh0VWQ0QkE0MnRPY1pz?oc=5",
-      "source": "nomura.co.jp",
-      "published": "2026-07-31T07:00:00+00:00",
-      "summary": "米ドル円相場のカギは高市政権の夏場の政策運営 財政拡張抑制が焦点 野村證券・後藤祐二朗 nomura.co.jp",
-      "id": "787aff718f6c76b2",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "日本の「勝ち筋」 「3つの上げ」で「四方よし」。日本経済の変身は2026年も進む 野村證券・森田京平",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JMUpIWkIxQmpZejgtamtOY3BnY2pzcXptSHNBTGxYYU1Ebm5HTGp0cllaa19QRGR1dEtnSnBlU0hHVUZZLXZ2Y3NzcE1EZVNEczFRaC1YM2FQdjN5N1Iw?oc=5",
-      "source": "nomura.co.jp",
-      "published": "2026-07-31T07:00:00+00:00",
-      "summary": "日本の「勝ち筋」 「3つの上げ」で「四方よし」。日本経済の変身は2026年も進む 野村證券・森田京平 nomura.co.jp",
-      "id": "5e77da4bdc3397b1",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "山場を迎える高市政権マクロ政策 金融政策、財政政策ともに6月こそが重要な分岐点の可能性 野村證券・森田京平",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DZWVTUzRzdHRSei01Skw5NW12RS1mVDJxQXF5NWdYaF9wcW9IN0ZQY1JoRjU0VThPRUl6NDkxbGMzYi1HVnhzLWFKRTlOYnJvNzAyWnR2ei02RE5jWGhZ?oc=5",
-      "source": "nomura.co.jp",
-      "published": "2026-07-31T07:00:00+00:00",
-      "summary": "山場を迎える高市政権マクロ政策 金融政策、財政政策ともに6月こそが重要な分岐点の可能性 野村證券・森田京平 nomura.co.jp",
-      "id": "6068bbea3d007d41",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "2025～27年度の経済見通し改定 消費税減税は2027年度実質GDPを0.2％押し上げと予想 野村證券・森田京平",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HeGwxSHc4V0lBa25ibV9EMTI1NkNmSHBXUlRSTXlnTk8ycmEzV05EcW02ektHQWdYTXl1WEhZVjY5MGVDd2pSRk9RMFZUVVNzX3dtdHd2dGZ1WUdhVmow?oc=5",
-      "source": "nomura.co.jp",
-      "published": "2026-07-31T07:00:00+00:00",
-      "summary": "2025～27年度の経済見通し改定 消費税減税は2027年度実質GDPを0.2％押し上げと予想 野村證券・森田京平 nomura.co.jp",
-      "id": "66610acb3a904366",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鎌倉市 かまくら子ども議会が開催されました",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DWGo0YnI0WEx3Y29TSVc3NHJ5ZFpoV2NoTlJ1TUtiNkNDd0Y0NVcteE1PWnoxcFBpX1VwVkhFTHQ3dm1UbFNXSC1EMWVDeUNCSzBocjY4ZHZxSHdhRnNR?oc=5",
       "source": "選挙ドットコム",
@@ -907,6 +895,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "鎌倉ＹＥＧ初開催 小学生向け職業体験イベントを８月30日に実施 参加者募集中",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuaEpqaXdXSHVfMkI3M0xmLUQ1ZktiSDNqQzQzVjJxdlN3aUpLb0JCQ3RmZjNJSXhncmwzcTc3eEdkMEItUEI2R2k5OHdUX0VZcWpPWGc2TTZZT29HRkRVLWlsWmM?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-07-30T15:00:00+00:00",
+      "summary": "鎌倉ＹＥＧ初開催 小学生向け職業体験イベントを８月30日に実施 参加者募集中 タウンニュース",
+      "id": "eaffd1b9401eaaa7",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "あいみょんMVリクエスト企画1位は「RING DING」ボクシングやカーアクションに挑戦",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LUmdkeGtMMkdMMFVLOVF5el9HSjBxc1VZMk5xUEdrYVoxUmNqblp4RHpOWm5QZVZNOUdROHpaUHRBWGxaRzRLNEtCUm8?oc=5",
       "source": "ナタリー",
@@ -945,9 +945,9 @@
     {
       "title": "【藤沢市】長期間テナント募集中だった場所についに動き！ ミスターマックス湘南藤沢SC2階へ「住宅情報館 湘南辻堂店」が8月8日オープンします♪ さらに隣のテナントにも動き。",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zSTJkd2xjZjJzcnBweFlpbXd0d1NxRmVXZHJPX1pnMldjSlFkakZOUmNUQkx1cFJPSDdTWDUxdUxLZ2ZFc1ZBZG1VNGQtLS0zVGVzSlplaGJjc0syMU4wRmozNG9jcUFWTUU4?oc=5",
-      "source": "fujisawa.goguynet.jp",
+      "source": "号外NET 藤沢市",
       "published": "2026-07-29T21:57:55+00:00",
-      "summary": "【藤沢市】長期間テナント募集中だった場所についに動き！ ミスターマックス湘南藤沢SC2階へ「住宅情報館 湘南辻堂店」が8月8日オープンします♪ さらに隣のテナントにも動き。 fujisawa.goguynet.jp",
+      "summary": "【藤沢市】長期間テナント募集中だった場所についに動き！ ミスターマックス湘南藤沢SC2階へ「住宅情報館 湘南辻堂店」が8月8日オープンします♪ さらに隣のテナントにも動き。 号外NET 藤沢市",
       "id": "371940065529004c",
       "category": "不動産",
       "topic": "道場物件（鎌倉・湘南）",
@@ -1099,18 +1099,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "株式会社電算 会社概要",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tS2JsZ2RxcXUzWUVvT29SVm1idEQ3UEhORExSWFRZbzFUVzhMeDFaVFp5ZTFDbFBnTkJyb2RmbWRQVjZZTjUwMF9QYmdyQXNjMzZHV2NSY3ltNEZ5a1l5Vm8wUkdmOEFu?oc=5",
-      "source": "株式会社旅行新聞新社",
-      "published": "2026-07-22T20:38:08+00:00",
-      "summary": "株式会社電算 会社概要 株式会社旅行新聞新社",
-      "id": "d8d661db7d118003",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "容器文化ミュージアム（東京都品川区）小学生向け夏休みイベントを8月5日（水）・６日（木）に開催",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TWEFEcUpsMGIyZmRibjNDbUtTXzEtMGxFb0JKX2VBLXd5R3RXeWtzVk01ZUt2eGNXRENtdG1CN0s4NXVHZEk5WVB5Ulp0ZkFsYWMzMmdsc3JVMVI3M0h2LWgtaTZsSF82Qnc?oc=5",
       "source": "PR TIMES",
@@ -1123,5 +1111,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 88
+  "count": 87
 }
