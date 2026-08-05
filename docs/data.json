@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-05T05:55:36.218243+00:00",
+  "generated_at": "2026-08-05T08:25:38.070386+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 12
+      "count": 8
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,11 +67,71 @@
   ],
   "items": [
     {
+      "title": "Claude CodeのCLAUDE.md・Skillsが話題に。Anthropic社内では「コードの8割超をAIが執筆」の実態も",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9nTlRiSFdKdWFCSWdqNVh1bFNyX3dKMXFCT2pXX2o5Qm9uamVOT2tEVjdpS2xiVjcxcTVKV0NuaG0?oc=5",
+      "source": "shiritomo",
+      "published": "2026-08-05T08:23:27+00:00",
+      "summary": "Claude CodeのCLAUDE.md・Skillsが話題に。Anthropic社内では「コードの8割超をAIが執筆」の実態も shiritomo",
+      "id": "c671e108498b2bd9",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIが自発的に人間を騙す事案発生。Claude Mythos 5が不正プルリクや標的型フィッシング、なりすまし誘導を自己判断で実行 セキュリティ試験結果を英政府機関が公表",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16cmZEaWVUaU9mWnl2TF8xOEZLdS1lb3pHSVZvOFBUY1ZzRWl6b0NxRk5RZG9vWG9ycFVjMDU2UG8tcHJZX1hhbC1CSlhuRUJzVU5LZ0NfV1JUeVNMSVhJOTgteGd2WDg?oc=5",
+      "source": "techno-edge.net",
+      "published": "2026-08-05T07:27:02+00:00",
+      "summary": "AIが自発的に人間を騙す事案発生。Claude Mythos 5が不正プルリクや標的型フィッシング、なりすまし誘導を自己判断で実行 セキュリティ試験結果を英政府機関が公表 techno-edge.net",
+      "id": "a0e1a0557568897a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ココナラがClaude対応を開始 役務提供プラットフォームで日本初",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SYloxd2gtMkE1V21Jak5CMWhnVlM3azJndm1GdzhJZXdURE1WYWZFU2FubnJBTm9oejJidjRJUUlDQVd1RjB5NnV3UXJUSUN6RWtJ?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-08-05T06:32:40+00:00",
+      "summary": "ココナラがClaude対応を開始 役務提供プラットフォームで日本初 ニュースメディアVOIX",
+      "id": "a6baa3f714f5a02e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ココナラ、役務提供プラットフォームで日本初※1のAnthropic「Claude」対応を開始 ChatGPTに続く対応第2弾",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QZS1hNVFjb05lZXJISjZzY3p5WEZETURVSTY0MlI5Tk44MUlzRlg1M09qblNUd1RnSkt3RG5DUjU2RlluUUxQVi1COUMzaV90MFo2WERXbkl6ajB3S1N3NDFrWlNOY0ZZQWc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-05T06:30:01+00:00",
+      "summary": "ココナラ、役務提供プラットフォームで日本初※1のAnthropic「Claude」対応を開始 ChatGPTに続く対応第2弾 PR TIMES",
+      "id": "1bc95efac48b9e97",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "インド中銀、エルニーニョを警戒 金利据え置き",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kamM3d2RaNGhqNl9hMTQ4c3VSNVZLMVNxbW1femFTdDR5UUFrMUhhTFZiRFJvSVp2RHVoYW1SYmZSVzFQYW5jMS1aVi1qSkFCLUxVcGxTQndicXE1Zy04c0w1RU1ZME8zS1AxZQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-05T06:23:24+00:00",
+      "summary": "インド中銀、エルニーニョを警戒 金利据え置き 日本経済新聞",
+      "id": "dda600baa34cedc0",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「私たちが思い描く未来の鎌倉市」について小学生たちが議論。「ボランティアで困っている人を手伝う」「ゴミのポイ捨てをなんとかしたい」〈国連を支える世界こども未来会議〉",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtQWVJNF92T09mREZaaDBpNnluRUJkcnlaY0RLaXRUdUhWUnlOVFNKdFZvOVpSVzdkb0xQSjVGc0FZRXUtbUNORHpJQ1ZiUQ?oc=5",
-      "source": "TOKYO HEADLINE",
+      "source": "tokyoheadline.com",
       "published": "2026-08-05T05:03:45+00:00",
-      "summary": "「私たちが思い描く未来の鎌倉市」について小学生たちが議論。「ボランティアで困っている人を手伝う」「ゴミのポイ捨てをなんとかしたい」〈国連を支える世界こども未来会議〉 TOKYO HEADLINE",
+      "summary": "「私たちが思い描く未来の鎌倉市」について小学生たちが議論。「ボランティアで困っている人を手伝う」「ゴミのポイ捨てをなんとかしたい」〈国連を支える世界こども未来会議〉 tokyoheadline.com",
       "id": "a82457ed15672c79",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -127,18 +187,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "JR横須賀線の鎌倉駅で人身事故 東京─久里浜間の上下線で運転見合わせ",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdDVWZzNMN3VNaDJWUW42M2RjY1o5M2FHRXEteGIxa2FTQkxiTmRoMWdGQjIwLWVsdUlzaHMzS0RaZm8zNW0tYm9GT1l3TG16TW5mYWdjZFNyU3BMdWRXNXVDeWhvUnV0YThiSHV3?oc=5",
-      "source": "au Webポータル",
-      "published": "2026-08-05T02:23:55+00:00",
-      "summary": "JR横須賀線の鎌倉駅で人身事故 東京─久里浜間の上下線で運転見合わせ au Webポータル",
-      "id": "765f0158d55e6c59",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ＪＲ横須賀線の鎌倉駅で人身事故 東京─久里浜間の上下線で一時運転見合わせ",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oRjlsSnk2M0pfX2dxV3hnRU9yUlpKSWpJdzd0S0xwQU9FZHN1RFFDaHBYMTExUXF2MGo0NktNcG8wNGc3UlV0MllqTQ?oc=5",
       "source": "47NEWS",
@@ -160,6 +208,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "生成AIを活用した管理職向け従業員エンゲージメント改善支援アプリを開発・本格導入",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wUm1Oc2RmYnNLamVxR1dHWXRIUjJRY0JXQWZMRHRWM1UzZHNjYXRxMkNDclBRTnRqWERyZ3RZOG5ueEF4LTViTF82eVQxUU4wWlRXbjItQ0hJTnphTkgtYjNJakJTblRxRFE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-05T02:04:16+00:00",
+      "summary": "生成AIを活用した管理職向け従業員エンゲージメント改善支援アプリを開発・本格導入 PR TIMES",
+      "id": "1fa27e2a7631763a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -235,30 +295,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【８月５日newリリース！】自治体職員のための生成AIサービス『ELDA』β版",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xci1JTTRWR09kWW9SZ2pRdnZmX3FvWnE2WmxvX3RFYWQ0WkJLR0w0aXZYNEZNZ1dSTjFrM0VHdGN1T2RZZ21BWVdoX1BCLTJuWWgzdXZLOXlMU2pSTm4yb0poTWgwNDZBV3c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-05T01:00:02+00:00",
-      "summary": "【８月５日newリリース！】自治体職員のための生成AIサービス『ELDA』β版 PR TIMES",
-      "id": "85772392cbb0ee38",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AI議事録「Rimo」はOpenAI、Anthropic時代にどう勝ち筋を描くか──元Google・相川氏が説く現代のプロダクト戦略",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCSlZFZW9GdnpidjhqTGw1Z1N3TXpiaGl5U25ZY1ZtSV8tR200NV82VzZLSlh5VkwwUnE4S2tPNjFUXzJ0UG5WVkZ0aTRxMEtRMEE?oc=5",
-      "source": "CodeZine",
-      "published": "2026-08-05T00:00:00+00:00",
-      "summary": "AI議事録「Rimo」はOpenAI、Anthropic時代にどう勝ち筋を描くか──元Google・相川氏が説く現代のプロダクト戦略 CodeZine",
-      "id": "34e87713b8d6cd0e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "＜画像1 / 3＞ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93dmVoMmFxa0RTU0FyS19JZVpiS2RsUFdSYkVzV1pRbUFPdlI3anlBT0oxQjJQRnBKLUFoU0lFV2tIUDh1eWp5a211ZUROempxQlEwU2w5dHZMU2YwYmF1Qm1nbnQtbWtzZWc?oc=5",
       "source": "ウォーカープラス",
@@ -268,18 +304,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Google、AnthropicなどのAI企業の幹部ら1300人超が「AIの自己開発」暴走を防ぐため、政府に異例の支援を要請（海外）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0MXc5eC0xeC05cFJWbGxTM05VVHVVWnplN0VWcU1vd05mMFRLQWVNc0NHLTloNTQ4bnpaalFoYzBoaEJuRDE0Y1JFQnBWTGc0RjBYSF80S09hbGFoTFV1b2ZxUGdwcGl4bExiMmoyN21YM2R1clotUU5BdktBMDg?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-08-04T22:10:01+00:00",
-      "summary": "Google、AnthropicなどのAI企業の幹部ら1300人超が「AIの自己開発」暴走を防ぐため、政府に異例の支援を要請（海外） Yahoo!ニュース",
-      "id": "60c1239babda2f59",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -331,18 +355,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "マーケ分析＆月次資料作成がわずか3分 ClaudeでパワポもExcelも一発",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fQmdSUUdIRTFueV9NaXo3SUp4X0pxeTF1RWNnS0tvd0xaTDhHMEo2aVZHUFRUMEJLd1A5VFIzN1pNc1RhWXR1UjljYVAtVHRPYVgtNGJiTVFCQmNfTDBMaDdPOXNnQQ?oc=5",
-      "source": "日経クロストレンド",
-      "published": "2026-08-04T15:01:00+00:00",
-      "summary": "マーケ分析＆月次資料作成がわずか3分 ClaudeでパワポもExcelも一発 日経クロストレンド",
-      "id": "eeafcd1da14a324b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "戦没者慰霊碑を守る「明照会」が腰越の霊光無盡塔で慰霊祭とバザーを８月13日実施",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FeV9KSDd6UzVEelctenU2eVl4Sk11YmNWNzZ6blhlQzZGT2VJQzZnaG44TVRHMElEYkhqYUdYNnltSWJhVndiSS1NVWJGcWh6VmdNUkE4dklJd2FTc0NxVmxCank?oc=5",
       "source": "タウンニュース",
@@ -352,18 +364,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "最新Claude「Fable 5」でAI巧者との格差広がる インサイト発見の新作法",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxV3d2QjhCR3VTZHB3VG9DMHB0TFZmUUlzSER5c0kxMGtmeE9rcUxIdkNoZXpKdmw1WnlQczVxLTc5QzdsZUpWS0U2MG1JZ2VuNElOSndYQVhYeG5FSnBiSDlwMUtvYXYyR2NqVHFaVnoxV041ZUFrTHRhM29XZmM?oc=5",
-      "source": "日経クロストレンド",
-      "published": "2026-08-04T15:00:00+00:00",
-      "summary": "最新Claude「Fable 5」でAI巧者との格差広がる インサイト発見の新作法 日経クロストレンド",
-      "id": "797cbd03bc3f8f3e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -487,6 +487,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "Stayway、前橋市と業務提携を開始 すべての事業者に必要な支援が届く「補助金DXインフラ」を構築",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrenZKQ3NuNjlFZmNUVWdvRlVzTm1BNi1CUVN1dFFDUmExYUp0ajc1dlFpcW54VDRUVm9NZGNfMUthZ01DajdiejNSd2Z2T19yenpNOVZ0eWhZZ05KVUxmVVdaWTNpOXd6U0E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-04T00:27:04+00:00",
+      "summary": "Stayway、前橋市と業務提携を開始 すべての事業者に必要な支援が届く「補助金DXインフラ」を構築 PR TIMES",
+      "id": "326dadff8c79204d",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "あいみょんが地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番をお届け！",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1td09tc1FhMVBST0lUUE56SXFBT0FaT091YU5rMjRMeV81MTBJd0lfMWZsNzRLWFVGR2Z4OUhLbTN4aWxNTjZHS29zaGl4V1FEdnozTHg5SjE1OGM?oc=5",
       "source": "朝日新聞",
@@ -523,23 +535,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "現場・多拠点のコミュニケーションをひとつに。NEXYZ.Group・Lark Japan・補助金ポータルが「補助金で始めるDX・AX『Lark』導入セミナー」を9月2日（水）に共同開催|使いたい補助金・助成金・給付金があるなら補助金ポータル",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSGhqdDNCdmlvNXU2RmdPYllCWGV4UExScnl5UWF4bTgtckJEXy1GZTgyWmR3Y0h1a2VNWUlHcERWZGtTY1RZaTFTQQ?oc=5",
-      "source": "補助金ポータル",
-      "published": "2026-08-03T14:24:23+00:00",
-      "summary": "現場・多拠点のコミュニケーションをひとつに。NEXYZ.Group・Lark Japan・補助金ポータルが「補助金で始めるDX・AX『Lark』導入セミナー」を9月2日（水）に共同開催|使いたい補助金・助成金・給付金があるなら補助金ポータル 補助金ポータル",
-      "id": "b77055dd663ee702",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "株式会社旅行新聞新社",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfdFpOQkRqSHAyYzdvQ0xTaTFSdy12ZUVfclJHSV9ybXhZb1gzSnVpc1RfbG5mT0NjRDIxWlVtMGp5bTdSQUpOamwyeWgwX0pVZTBvQjNZZVpnOEoxRDh1aUJZdDBPMnNIeGc?oc=5",
-      "source": "株式会社旅行新聞新社",
+      "source": "ryoko-net.co.jp",
       "published": "2026-08-03T11:59:51+00:00",
-      "summary": "株式会社旅行新聞新社 株式会社旅行新聞新社",
+      "summary": "株式会社旅行新聞新社 ryoko-net.co.jp",
       "id": "e9a6d0dde1a390ca",
       "category": "不動産",
       "topic": "道場物件（品川・大田）",
@@ -549,9 +549,9 @@
     {
       "title": "ヨク・ムブレ国境警備隊が、2026年の武道大会で総合優勝を果たした。",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ3JGMjZhR1lQbVE2M0g3dWE3RjM5SldIMGVPMVFFSWRoc2lBYVRLRGotdDl5c0V2QlpKMDNqUlI0YlJieW10NlNBcHptY215WkRYQjRTVGtRSDBleEtvd2REWTFnTUNkOGNWQVY5Y1NfR0R2LWV2X2Vva3FBcWZsX1J6bEV6bEt0bll2dThCdGNlb0pnU1NyZXhIX2U3VTlacWhBc0lB?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-08-03T11:50:13+00:00",
-      "summary": "ヨク・ムブレ国境警備隊が、2026年の武道大会で総合優勝を果たした。 vietnam.vn",
+      "summary": "ヨク・ムブレ国境警備隊が、2026年の武道大会で総合優勝を果たした。 Vietnam.vn",
       "id": "edcc66cdfe62db71",
       "category": "武道",
       "topic": "合気道・武道",
@@ -559,23 +559,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "危機モードの円安阻止、日米が協調介入発表 金利上昇の連鎖を懸念",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wNExVZjg3T09oczBBaExMX3A1UkprWlpUSV9qY1p6M2Y2S3BweXNHV1o2am1EY2M1VUZYQmpybjQzV0VSR2NaQXlIZ0xUQjJVc0VIV0hLSmJSX3lNYlgtUEoxako1T19SeVJwOA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-03T10:34:51+00:00",
-      "summary": "危機モードの円安阻止、日米が協調介入発表 金利上昇の連鎖を懸念 日本経済新聞",
-      "id": "aaf41aae6d51859a",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ラムドン省警察チームは、2026年人民警察軍事・武道・スポーツ大会の決勝ラウンドで素晴らしい成績を収めた。",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYnRjNVdqRGJlT2hYT1hvY3BYbldIVmxfYk9KNS1LVTNDdTBxazdKcFlwdWo0V1VwYTdNeXF1dzhpMkFyX1RRczVfaHN1b05EdG16b0JKMUw4WkV3ZHlHZVItY1ZQUWJqVHl3eEQtRy15MFhQSkhhVW1Sd01Edkc4R0xlZkhjZUw5bXM2YWVLM19lbUlTSDJ6ZHFmSk5rWTJVR1Q5MFJQN1lsMVFUSEtvelptR3NWM0Z6aUFESFR6dmtqdHk2ZUhHdEpjNkxtcDkwR3pVTkFMUmJSV1FsaW5RY0k0Z0F1QWN1aUp4UXFJVkxmSk13V0xTMkloZlo?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-08-03T09:57:11+00:00",
-      "summary": "ラムドン省警察チームは、2026年人民警察軍事・武道・スポーツ大会の決勝ラウンドで素晴らしい成績を収めた。 vietnam.vn",
+      "summary": "ラムドン省警察チームは、2026年人民警察軍事・武道・スポーツ大会の決勝ラウンドで素晴らしい成績を収めた。 Vietnam.vn",
       "id": "22f421cd0b53d268",
       "category": "武道",
       "topic": "合気道・武道",
@@ -585,9 +573,9 @@
     {
       "title": "カインホア省警察が2026年人民警察軍事・武道・スポーツ大会決勝ラウンドで初めて達成した成果。",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUDQtUXUwbmtWZ21JZTZUZUNyQ2EyR2JRS2dIaUtXQTBBdG1SbmNTMzJpWVF6aG5KQlBHcHpSOWpwLVRjbFhkTWlsdmxpMjJGeDRKS2Z6alktV0pLRXhYcUtUOTJwUV9wOGVxdU9QX3MtS3lOT25Hc2h6dkE4SVVBWUxpUXFFdTJqWW13ai02cG1JbUtRbHQ0OTdjUExOd3hwWmpyckxtWVI1MmxzVzhNaWE0WHlzUUg2WDBoQWh0UUM5Ri1KbzBpN28zdHpCcnlqa2dvWll4US1iY0pJU3dNaW16eWd3LVgtRkVoeQ?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-08-03T07:00:00+00:00",
-      "summary": "カインホア省警察が2026年人民警察軍事・武道・スポーツ大会決勝ラウンドで初めて達成した成果。 vietnam.vn",
+      "summary": "カインホア省警察が2026年人民警察軍事・武道・スポーツ大会決勝ラウンドで初めて達成した成果。 Vietnam.vn",
       "id": "247649bd5fd06fbb",
       "category": "武道",
       "topic": "合気道・武道",
@@ -681,9 +669,9 @@
     {
       "title": "ザライで開催された国際武道大会に先立ち、聖なる炎を掲げる行列。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSm05UEgxREFGQXpEc1dVdkZ2SkJOQ0lkSHpzZ2laWmVzLU9YaW9INHFkVi1LSFBreG5GNzFOSWl4Z29tcTFYUUY4bGtvM2RXZWxEOHJzTkE0Q0tZVV80c3loUndOM0JEckhmbnZrbktYb0t5enluLW1DeXpaYTRPMGhOWnhvS29vX2c?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-08-02T14:26:40+00:00",
-      "summary": "ザライで開催された国際武道大会に先立ち、聖なる炎を掲げる行列。 vietnam.vn",
+      "summary": "ザライで開催された国際武道大会に先立ち、聖なる炎を掲げる行列。 Vietnam.vn",
       "id": "bbf243b3763cf731",
       "category": "武道",
       "topic": "合気道・武道",
@@ -705,9 +693,9 @@
     {
       "title": "2026年人民警察軍事・武道・スポーツ大会：クロスカントリー走、武装走、応用水泳など、エキサイティングな競技が繰り広げられます。",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVHdFSXV5V3lxVWR5SlM4RnI0ejZrS194QkhRa0dVYkRFZ2ktaTJMQXY2elBKWDJsMWJtb1pqM2xJekktZ0ZpczN1VUEzZm9BYWs2TjNKNl81cml2V3QyVkNZU0JfNDJ5RHVGcEFMR0tNYmI3UW9NS2t4SWhtZEROc1EwNHNUS09UcVZMZW5TUHFNcXZlaVZUS1dfZVhjMTZBem5GY2lxNW82VGptRzdlVnQwTVBucG1zdTZGRS1NTFotb2pDYkx2MkIza3UxQjZWMGYzQ0FwdjhCWklvN21ORGRZMUVSNXRy?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-08-02T11:45:41+00:00",
-      "summary": "2026年人民警察軍事・武道・スポーツ大会：クロスカントリー走、武装走、応用水泳など、エキサイティングな競技が繰り広げられます。 vietnam.vn",
+      "summary": "2026年人民警察軍事・武道・スポーツ大会：クロスカントリー走、武装走、応用水泳など、エキサイティングな競技が繰り広げられます。 Vietnam.vn",
       "id": "6ce1a5171d0befe2",
       "category": "武道",
       "topic": "合気道・武道",
@@ -765,9 +753,9 @@
     {
       "title": "ダナン出身の武道家が、国際テコンドー大会で金メダルを獲得した。",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1hpOVg1djkxQlJ0MjVGdjJQT0lqXzhlVy1kbkp0OWROTFEwU0RBZVlKelZCUTY5QV9aSm9uc0ZUV0RZakhmVVRFTVIySEpNbm0xQzM1eE9jR1Z4VFdMdEFzS3dvaDJtbGFRNk1VWkxZWkdYeXlvandBbzJlZHVSdFJwU2dBeGg3OGVVdQ?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-08-02T11:01:45+00:00",
-      "summary": "ダナン出身の武道家が、国際テコンドー大会で金メダルを獲得した。 vietnam.vn",
+      "summary": "ダナン出身の武道家が、国際テコンドー大会で金メダルを獲得した。 Vietnam.vn",
       "id": "431b0159426cac77",
       "category": "武道",
       "topic": "合気道・武道",
@@ -777,9 +765,9 @@
     {
       "title": "【鎌倉市】鎌倉・長谷寺で「NIGHT TABLE 2026」開催！ライトアップ・コンサート・ディナーを楽しむ秋の夜 10月2日～10月4日",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tSmVacmJTTHpUU1pBTng1bm0xMl9NSklwLV8tRDhUaTVfek5aaUNQN3g2M3NySFpQcGxkMDQ2YkZBMzdqTXYtdjNiek5DeWpGMFZSTXptSEI1SzdackNQQXJMZG1rb0RudHBpTEZXcVk?oc=5",
-      "source": "shonanjin.com",
+      "source": "湘南人",
       "published": "2026-08-02T10:58:17+00:00",
-      "summary": "【鎌倉市】鎌倉・長谷寺で「NIGHT TABLE 2026」開催！ライトアップ・コンサート・ディナーを楽しむ秋の夜 10月2日～10月4日 shonanjin.com",
+      "summary": "【鎌倉市】鎌倉・長谷寺で「NIGHT TABLE 2026」開催！ライトアップ・コンサート・ディナーを楽しむ秋の夜 10月2日～10月4日 湘南人",
       "id": "72f21899b809cc01",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -789,9 +777,9 @@
     {
       "title": "2026年警察・軍事・武道・スポーツ競技大会には、4,700人の選手が出場した。",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODNXMXYxTnAxNWh1dzFaZGRLa3c2WDZDaHBnS1RQXzB5MjBUaWExcmExWDNwamMxN1ZnazBrWVFhZ3Rqd1NXVTNTNno3YkNUS1I1Ym5QMlppaHVEa2k4LXBMaUhZbzhzUDNyU0RTeG1JTzFKTHU5ZUttWC1DZ0M3dV93Rl9qMmxRY0ZxVVlsc1VGVVJkMDdmYklzTUxaaTZrdFo0dDlSOU80Vkk?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-08-02T09:44:42+00:00",
-      "summary": "2026年警察・軍事・武道・スポーツ競技大会には、4,700人の選手が出場した。 vietnam.vn",
+      "summary": "2026年警察・軍事・武道・スポーツ競技大会には、4,700人の選手が出場した。 Vietnam.vn",
       "id": "8e18235ed5c5d61a",
       "category": "武道",
       "topic": "合気道・武道",
@@ -801,9 +789,9 @@
     {
       "title": "📸 2026年警察軍事武道スポーツ競技大会決勝の開会式での思い出深い瞬間。",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM01mQzNUQnRxS2k2UXBKUHhNb1A5blVIN3l2REFhY21qTng4MWlmckp0cS1BZmtsSWlvRHZJekdXSjZMVTNHdzhsQTFRbXN1WHdiWXN6QmptRlZJRENBX2dzY2FudFRxSTJ1LXpWakF1ZjF0MDZ3MWpFNy1iQXJEMTZhbkdhLXQ5WEl0RmRsdHhnWFNvcFFocFg3d3R1VU1sWHRFelZOYmNMUmJtR2xRc0VUNnZFQmE3ZjFOQnhJeEY0UnlaaDF1ejNIVXZoYTE5?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-08-02T02:33:56+00:00",
-      "summary": "📸 2026年警察軍事武道スポーツ競技大会決勝の開会式での思い出深い瞬間。 vietnam.vn",
+      "summary": "📸 2026年警察軍事武道スポーツ競技大会決勝の開会式での思い出深い瞬間。 Vietnam.vn",
       "id": "32e2bf3707b0b9bc",
       "category": "武道",
       "topic": "合気道・武道",
@@ -813,9 +801,9 @@
     {
       "title": "ハノイ国際武道フェスティバル2026",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8ycHQ2MTdGVnRadVVuTmtHT0x4S2FMRkpvcGZUMzNVSVFjaTh0NWFjTUVsSFIybHAzbXVYdXBlNGpjd3JhR0RPRmRaaGhEbkhDckFJUE5CQ0c2clhyYmZuXzd4b1dWb0xDS3ZyU3R0UHdXaDFuNkJ6Zktn?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-08-02T00:10:52+00:00",
-      "summary": "ハノイ国際武道フェスティバル2026 vietnam.vn",
+      "summary": "ハノイ国際武道フェスティバル2026 Vietnam.vn",
       "id": "d770c5409ebac326",
       "category": "武道",
       "topic": "合気道・武道",
@@ -847,11 +835,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "鎌倉 長谷寺 「NIGHT TABLE 2026」開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GMVRrbmJlUkhYSUJ0cjlmRjVJSWVXN0FBbDlNQU1lUWZLeWkxUDhvc3l5ZDQ3NzVDQkVmNENIdERaNWV6VVBNcWkzMWM3dWhxOGpncjBoQXdEWktNQ2psN2FRdm50OHRmanc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-01T01:16:51+00:00",
+      "summary": "鎌倉 長谷寺 「NIGHT TABLE 2026」開催 PR TIMES",
+      "id": "556df168811a58de",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "YOASOBIドーム＆スタジアムツアーのタイトルは【超惑星】、キービジュアル＆グッズ一部解禁",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tTU4yc2t6ekRQMmNhMUpwdU9VRnpTZE5tbk1rRGFsSGJfZTJNcWRhMG1mRlV5TDBfTHBIdF9RSDRUMHVKSU00UmNVRXkyS1UzWnBlQ2FIX0FSdUh0Mjk4MFRKSQ?oc=5",
-      "source": "billboard-japan.com",
+      "source": "Billboard JAPAN",
       "published": "2026-07-31T12:20:00+00:00",
-      "summary": "YOASOBIドーム＆スタジアムツアーのタイトルは【超惑星】、キービジュアル＆グッズ一部解禁 billboard-japan.com",
+      "summary": "YOASOBIドーム＆スタジアムツアーのタイトルは【超惑星】、キービジュアル＆グッズ一部解禁 Billboard JAPAN",
       "id": "05c498f8304eae52",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -921,9 +921,9 @@
     {
       "title": "JR４社・JALが巡礼・精神文化をつなぐ新たな広域観光の取り組みを開始",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oWUdXV196cWFjUThRMnBmTlprUVg3YU9nMDN3OFZ1ZGV0M29iMXQwYlR3WVFibWFMRnNDRFpFLXdvSHgxV1N0bFlUWkRINHZ4NG9IWGNyRVFNcXdiM3dDcFRFLTktZjdTaUg4?oc=5",
-      "source": "株式会社旅行新聞新社",
+      "source": "ryoko-net.co.jp",
       "published": "2026-07-30T09:57:26+00:00",
-      "summary": "JR４社・JALが巡礼・精神文化をつなぐ新たな広域観光の取り組みを開始 株式会社旅行新聞新社",
+      "summary": "JR４社・JALが巡礼・精神文化をつなぐ新たな広域観光の取り組みを開始 ryoko-net.co.jp",
       "id": "27cacf125828bdc5",
       "category": "不動産",
       "topic": "道場物件（品川・大田）",
@@ -969,25 +969,13 @@
     {
       "title": "あいみょん、“4年越しの約束”を果たした甲子園での10周年凱旋ライブのレポート到着",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XNl9hQkxwVFQxRU5lUHVpSHEwN01XM2puNnVPZ0tZWmN0b0dheUNSa3RTUXA5NC1DU2hidmNBNUoxdjhjNW5hUW15a1Qwb3dyb2x1TmYtU2l5dzdUbGdhM1VR?oc=5",
-      "source": "billboard-japan.com",
+      "source": "Billboard JAPAN",
       "published": "2026-07-27T07:00:00+00:00",
-      "summary": "あいみょん、“4年越しの約束”を果たした甲子園での10周年凱旋ライブのレポート到着 billboard-japan.com",
+      "summary": "あいみょん、“4年越しの約束”を果たした甲子園での10周年凱旋ライブのレポート到着 Billboard JAPAN",
       "id": "3b0bd6fb5b03e8db",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【品川シーサイドエリア】鑑定評価額424億円、東京Aグレードビルと300室ホテルに投資。想定利回り年4.0%",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3VlhCVkRUX0VsUmdFbGlvckpwcDlyNWtCV3J2b1lxMEQzMzBTdUtYYzJXWWlHMmVBZWpLZjR4UUItQ0hzcktyWnZaZEpHX3VrMlVsWGhSNWVHOE9NNUs1S3BLcVRDcjBpTUE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-27T07:00:00+00:00",
-      "summary": "【品川シーサイドエリア】鑑定評価額424億円、東京Aグレードビルと300室ホテルに投資。想定利回り年4.0% PR TIMES",
-      "id": "0e739697872e4153",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1005,10 +993,22 @@
     {
       "title": "『地球の歩き方』表紙の世界観をスーツケースベルトに。旅好きの心をくすぐる新アイテムを発売",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00Yk54SjN4M1VVelNEelNMTTYtaXNzcGJrQTFldmNPSjctd0NZWHVGV3ljZkc0aHNmWVEwUEpSV1Bsd21tX25mdjB3VGFvUHlaOFdkaXhYbHJoTkEzZnlPSWNxSTRuSDRRdmc?oc=5",
-      "source": "株式会社旅行新聞新社",
+      "source": "ryoko-net.co.jp",
       "published": "2026-07-27T01:55:20+00:00",
-      "summary": "『地球の歩き方』表紙の世界観をスーツケースベルトに。旅好きの心をくすぐる新アイテムを発売 株式会社旅行新聞新社",
+      "summary": "『地球の歩き方』表紙の世界観をスーツケースベルトに。旅好きの心をくすぐる新アイテムを発売 ryoko-net.co.jp",
       "id": "cec9fc269186fafa",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【品川シーサイドエリア】鑑定評価額424億円、東京Aグレードビルと300室ホテルに投資。想定利回り年4.0%",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyaXlvSEhPdmgwUC02V3VEMk9IcUdaRUxpc25aRWRfUjEyOGR0ZEM0Q0EyLUlKOElhaVJ4MEpNVGgzX1lOOUduV292a1dhSW9DVHpTRg?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-07-27T00:30:30+00:00",
+      "summary": "【品川シーサイドエリア】鑑定評価額424億円、東京Aグレードビルと300室ホテルに投資。想定利回り年4.0% ニコニコニュース",
+      "id": "0e739697872e4153",
       "category": "不動産",
       "topic": "道場物件（品川・大田）",
       "emoji": "🏠",
@@ -1099,65 +1099,17 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "容器文化ミュージアム（東京都品川区）小学生向け夏休みイベントを8月5日（水）・６日（木）に開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TWEFEcUpsMGIyZmRibjNDbUtTXzEtMGxFb0JKX2VBLXd5R3RXeWtzVk01ZUt2eGNXRENtdG1CN0s4NXVHZEk5WVB5Ulp0ZkFsYWMzMmdsc3JVMVI3M0h2LWgtaTZsSF82Qnc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-22T07:00:00+00:00",
-      "summary": "容器文化ミュージアム（東京都品川区）小学生向け夏休みイベントを8月5日（水）・６日（木）に開催 PR TIMES",
+      "title": "容器文化ミュージアム（東京都品川区） 小学生向け夏休みイベントを8月5日（水）・６日（木）に開催",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmRqMlAwdndiem5INmZmZlU3eUZtbV9WRGZNNFlkRUk3SUVmVmdtdTRKVkIwUm9LcnhyR3dyUGRxelZCamEzQXl5WVJYWmFvSFhIMzlPTzBLbnRrRlNpZ1ViZml0OG15WlVBMzRsRnY0Y1M1SDRWRWl3YVBrQTJtXy11WU5Xb193?oc=5",
+      "source": "北海道新聞デジタル",
+      "published": "2026-07-22T09:25:56+00:00",
+      "summary": "容器文化ミュージアム（東京都品川区） 小学生向け夏休みイベントを8月5日（水）・６日（木）に開催 北海道新聞デジタル",
       "id": "99550915bad26aec",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【品川区】都内最大級「大井競馬場フリーマーケット」7/25(土)・26(日)開催",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Qell5c1VUeG9MV0FObXlZeTR2UWg3R0l6MXVHZ0VTU2hJY0JwMjNtdExmM3g2b3p5YjVSRnM3QWhpdjFwNU5yYjNuOXdETXFmSFp5VUUtZHROQ0VncktaZ3V0dw?oc=5",
-      "source": "号外NET 品川区",
-      "published": "2026-07-22T07:00:00+00:00",
-      "summary": "【品川区】都内最大級「大井競馬場フリーマーケット」7/25(土)・26(日)開催 号外NET 品川区",
-      "id": "b8479eb4c8647f51",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【品川区】「しながわシティラン2027」大会メインビジュアル決定！ランナー募集期間は9/1(火)～10/27(火)",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CVG1FZXdMNDNWZ3d1VHo4RHdGS0hCdGNjQzAyYnhXdmR2UlllbFNyZEwyUzJZUjIxOEdGNHp4cVVmU0l5em1aRWd4UFZyOVFrTUl2bWlPU1hMUUdvZHV5YzA4c19SMzFONlIxUGNFZWppY2c?oc=5",
-      "source": "号外NET 品川区",
-      "published": "2026-07-22T07:00:00+00:00",
-      "summary": "【品川区】「しながわシティラン2027」大会メインビジュアル決定！ランナー募集期間は9/1(火)～10/27(火) 号外NET 品川区",
-      "id": "77109a6853c7eaa1",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "河北新報社 ビズラボ 河北経済研究所",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TcTBXYkZmLUljd0tKcTRQbTZ2UktfZE9IMUs2QnlBVm1GeHRsUFJXdmtBM0trNTZiQnEyZXQyWnBZOUs3RXBBT0huZlZsNy1NNERJWjloQkVla3k5a21ENldSd1lmdw?oc=5",
-      "source": "河北新報オンライン",
-      "published": "2026-07-22T07:00:00+00:00",
-      "summary": "河北新報社 ビズラボ 河北経済研究所 河北新報オンライン",
-      "id": "6505a75d08216c3f",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "容器文化ミュージアム（東京都品川区） 小学生向け夏休みイベントを8月5日（水）・６日（木）に開催 写真1枚 国際ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rRlUza2UxUFByZzFqNkdNLXM1YWNqdTlZZkl1R1F0VS14a0FhX2VFV0VmdTBmWm9JUFJYeU9vY29WMmpMczFfWlVUWGdteVpVc1E?oc=5",
-      "source": "AFPBB News",
-      "published": "2026-07-22T06:07:38+00:00",
-      "summary": "容器文化ミュージアム（東京都品川区） 小学生向け夏休みイベントを8月5日（水）・６日（木）に開催 写真1枚 国際ニュース AFPBB News",
-      "id": "1e73723d2603c104",
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 91
+  "count": 87
 }
