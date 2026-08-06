@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-06T01:13:10.491025+00:00",
+  "generated_at": "2026-08-06T02:41:13.603297+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,13 +26,13 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 7
+      "count": 6
     },
     {
       "name": "道場物件（鎌倉・湘南）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 1
+      "count": 2
     },
     {
       "name": "地域ニュース 品川",
@@ -67,10 +67,34 @@
   ],
   "items": [
     {
+      "title": "経営と組織をつなぐAI時代の人事のあり方～Claude Code全社導入を経て、KDDIアジャイル開発センター株式会社が実践する組織づくりの設計図～｜9/4(金)・9/10(木)開催",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MSW5GRE1rT1JEaGdZeDVXVmZwMXFhVHNmckpram03dFlGVXpxOFJuaDl6dXdUM1hiLTQ0NjZ2cmVFSFJadHBWdlZNZWhoY2dOblFsbjZab1BHLU1TQUY1cnR6dVZSZE5qNkM5XzBxRzJQam40bHBEVQ?oc=5",
+      "source": "RBB TODAY",
+      "published": "2026-08-06T01:16:12+00:00",
+      "summary": "経営と組織をつなぐAI時代の人事のあり方～Claude Code全社導入を経て、KDDIアジャイル開発センター株式会社が実践する組織づくりの設計図～｜9/4(金)・9/10(木)開催 RBB TODAY",
+      "id": "ae0ff7aaaeb21966",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "全国の中小企業の温かい想いが子どもたちへ届く「子どもたちに音楽を届けるプロジェクト」in 大阪",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rVEdVdjRuSVQ3TWppOVFyVzlMTFdfMno1Si15ekhDNzRaZXJnR2RBWTd4UnJacXhGdUdjc21KV0tQanU4eGc1VUhscDJ3NURvUnZJaHQxdmwtNk1na1UwMGV4LVRxb0RRTEE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-06T01:13:10+00:00",
+      "summary": "全国の中小企業の温かい想いが子どもたちへ届く「子どもたちに音楽を届けるプロジェクト」in 大阪 PR TIMES",
+      "id": "9667ca9f87729c87",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「Claude徹底解説」を公開！ChatGPT・Copilot・Gemini・Claudeを機能別／業務別に比較―自社に合う生成AIの選び方がわかる実践ガイド",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MZVJiV1NiNTFxcS15Tnh1SVhTTHFmUFRfNWV4VFE4aFlMbzR5bVFBM083LVlzbGtxZ0tudENHMlBXaVlsb1QtOVNvWlRNbHBaX2hFR0JWSVM3QzljVnl6TzJkaUJuWldHdHFN?oc=5",
       "source": "AIsmiley",
-      "published": "2026-08-06T01:10:03+00:00",
+      "published": "2026-08-06T01:09:43+00:00",
       "summary": "「Claude徹底解説」を公開！ChatGPT・Copilot・Gemini・Claudeを機能別／業務別に比較―自社に合う生成AIの選び方がわかる実践ガイド AIsmiley",
       "id": "3fd9c00d6532044d",
       "category": "テック",
@@ -103,24 +127,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic「Mythos 5」、テスト中にAIエージェントが実在の人物・組織を標的に自律的なソーシャルエンジニアリング型サイバー攻撃を実行|セキュリティとAIのニュース-セキュリティ対策Lab",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVFdOTWlYYjdkeGNHQ2VKTXhheG5qanhEV2JYSUxuOGFsdmhiUnh6U2hXU3Y4UDVVNU50WUdidDl6ZGZPaWZLQkxXQUNUMnpYM25QX1o0dUtXREdxUjNzLUwwTnlBVHREMjlOcUstLVVQUHVRcWFaVWlDckY5TmNnTmF2VWR4NG1uUzVtZGd6dUJKaG45MHVYTzVlZVhtc0ZUWExRag?oc=5",
-      "source": "rocket-boys.co.jp",
-      "published": "2026-08-05T23:22:32+00:00",
-      "summary": "Anthropic「Mythos 5」、テスト中にAIエージェントが実在の人物・組織を標的に自律的なソーシャルエンジニアリング型サイバー攻撃を実行|セキュリティとAIのニュース-セキュリティ対策Lab rocket-boys.co.jp",
-      "id": "498efca8e8782795",
+      "title": "“AIからの推薦”が最重要に！BtoBサービス・外注先選定における生成AIの活用実態調査",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6UU1uMWpKMHQ4anBidllRb3lTUHhnNEdNQ3J6U21HX0tyWF9tdnhYdUZ6RW5mVXFreWtmQnJzeGE2UU52Q25CRFctSnlBM19sclM0QU5KZllsY0RWaDFBNGltQVMzdW0tMWc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-06T00:00:02+00:00",
+      "summary": "“AIからの推薦”が最重要に！BtoBサービス・外注先選定における生成AIの活用実態調査 PR TIMES",
+      "id": "b3e491d5cf16a662",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "経営と組織をつなぐAI時代の人事のあり方〜Claude Code全社導入を経て、KDDIアジャイル開発センター株式会社が実践する組織づくりの設計図〜｜9/4(金)・9/10(木)開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HdEt4SHVoR2hCUTBHOWlUSzgtcGtVWUtwVGNuZVZXdm9Id1JfUjNLMFlWQWV3X2U4bm90elBrM19MdzRTNWd5aF8wRGFac1J0Z2RaVkpYWDFpaXRYWDhZcmxVMEJBUjFNSFE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-05T23:01:14+00:00",
-      "summary": "経営と組織をつなぐAI時代の人事のあり方〜Claude Code全社導入を経て、KDDIアジャイル開発センター株式会社が実践する組織づくりの設計図〜｜9/4(金)・9/10(木)開催 PR TIMES",
-      "id": "ae0ff7aaaeb21966",
+      "title": "Anthropic「Mythos 5」、テスト中にAIエージェントが実在の人物・組織を標的に自律的なソーシャルエンジニアリング型サイバー攻撃を実行|セキュリティとAIのニュース-セキュリティ対策Lab",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVFdOTWlYYjdkeGNHQ2VKTXhheG5qanhEV2JYSUxuOGFsdmhiUnh6U2hXU3Y4UDVVNU50WUdidDl6ZGZPaWZLQkxXQUNUMnpYM25QX1o0dUtXREdxUjNzLUwwTnlBVHREMjlOcUstLVVQUHVRcWFaVWlDckY5TmNnTmF2VWR4NG1uUzVtZGd6dUJKaG45MHVYTzVlZVhtc0ZUWExRag?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published": "2026-08-05T23:22:32+00:00",
+      "summary": "Anthropic「Mythos 5」、テスト中にAIエージェントが実在の人物・組織を標的に自律的なソーシャルエンジニアリング型サイバー攻撃を実行|セキュリティとAIのニュース-セキュリティ対策Lab 合同会社ロケットボーイズ",
+      "id": "498efca8e8782795",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -129,9 +153,9 @@
     {
       "title": "OpenAIとAnthropicの“2強支配”にAI業界で危機感",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUmd3YzRCbDI2MW0xYzBKSFpKeVRsbE0xbU1VaGNGWEpZSm1Pb0RCbFR5VmhraGpVNm04VHdQcXJUV3dpYjFOaHFIQl82RXFrRnIyanNwZXVRSE5FM0xneWxXdE1zMjVjeTNQQ3IzdDJHdTI0c3RMdHZ4VWZBZk9KTzBQU2c4NVRPVDRKeXFqUU80TzBTeEV0SFY2djhDUQ?oc=5",
-      "source": "WIRED.jp",
+      "source": "wired.jp",
       "published": "2026-08-05T23:00:00+00:00",
-      "summary": "OpenAIとAnthropicの“2強支配”にAI業界で危機感 WIRED.jp",
+      "summary": "OpenAIとAnthropicの“2強支配”にAI業界で危機感 wired.jp",
       "id": "8659df9da8874a87",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -165,9 +189,9 @@
     {
       "title": "Anthropic、独自のAIチップ設計チーム構築のための人材を募集中",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCdXdmU2RhcFFwb3hxdWVnY3lBUkthMm44aXRFWmxzOFU5YXNNb2pHMXBJNll2ekk1M0JncGJ3YmJLVmx0MHZNT1AwNkg5aW15ZWkyOWhhYVJMLWFxX2MzamhfeHRYMnc?oc=5",
-      "source": "テクノエッジ TechnoEdge",
+      "source": "techno-edge.net",
       "published": "2026-08-05T21:30:03+00:00",
-      "summary": "Anthropic、独自のAIチップ設計チーム構築のための人材を募集中 テクノエッジ TechnoEdge",
+      "summary": "Anthropic、独自のAIチップ設計チーム構築のための人材を募集中 techno-edge.net",
       "id": "ea240a8f4e42cb88",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -217,18 +241,6 @@
       "published": "2026-08-05T20:00:00+00:00",
       "summary": "なぜAnthropicの「Claude」は暴走し、現実の企業をハッキングしたのか：「AIのせい」は通用しない ITmedia",
       "id": "48f0698432a4161a",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Cowork、3層管理でリスク回避 「便利だが危ない」を克服する処方箋",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUI3eE9lR2FDM0VRUHNrT25FRGlrcmdJSkhidmtKUEEyanBkYmF1aWVMWmUyMVFienRqZXFFaUZCeG9uX0JtUi1nX2hsUmZFUllNdVY5MkYxbGtPRTJjcFZJNnRORlJ6NVR1MXRyMlJ0UnNfNEZVQ2FNd3ZzaV9wQXE4c2dLbmFlb0E5S2VRX2NhR2c?oc=5",
-      "source": "日経クロステック Active",
-      "published": "2026-08-05T20:00:00+00:00",
-      "summary": "Claude Cowork、3層管理でリスク回避 「便利だが危ない」を克服する処方箋 日経クロステック Active",
-      "id": "10da3501929d5c16",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -319,18 +331,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉の海沿いで“休息”を見つめ直す。ハリウッド「feel coral」が ATHENA主催リトリートイベントを応援",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOW51Y0h5dXNEUzdNVTUybzRRWERFY085RTVwOGZKeV9wZkZ6a0dQeUJPV0V6MUdGTkFfV2Vya0xxbUtGLWkyQ2hrWm43b25CblVtZ0hFc09IME9fMjRzVEJlY2pScmVVQjZKR1JsMU9DSnhDVUVxWU1aZmNlNGFtM2R5ejR6V01YTVp0SUdHeG5lV1VsSy1sUGxpZkREVnY3SzVoeWkyd1VEaU84eGc?oc=5",
-      "source": "繊研新聞",
-      "published": "2026-08-05T06:05:47+00:00",
-      "summary": "鎌倉の海沿いで“休息”を見つめ直す。ハリウッド「feel coral」が ATHENA主催リトリートイベントを応援 繊研新聞",
-      "id": "31431a20ffbccbc2",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "「私たちが思い描く未来の鎌倉市」について小学生たちが議論。「ボランティアで困っている人を手伝う」「ゴミのポイ捨てをなんとかしたい」〈国連を支える世界こども未来会議〉",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtQWVJNF92T09mREZaaDBpNnluRUJkcnlaY0RLaXRUdUhWUnlOVFNKdFZvOVpSVzdkb0xQSjVGc0FZRXUtbUNORHpJQ1ZiUQ?oc=5",
       "source": "TOKYO HEADLINE",
@@ -400,6 +400,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "鎌倉の海沿いで“休息”を見つめ直す。ハリウッド「feel coral」が ATHENA主催リトリートイベントを応援",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hTEhsTHpTYVE4S0o5QXBsS1kwWGwzcHZldk1PNnlHbng5ZDNsdHNqUU9lNUhPRmNzdDEwQWJ5eXAyUlRIWXNGaG9iYkp4Ql9WdV9YQTdzMjhSWlZvM3FlQWhHQmtFQ2t2VVE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-05T01:10:01+00:00",
+      "summary": "鎌倉の海沿いで“休息”を見つめ直す。ハリウッド「feel coral」が ATHENA主催リトリートイベントを応援 PR TIMES",
+      "id": "31431a20ffbccbc2",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -547,18 +559,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "銀行預金に金利競争 みずほ大口向け3倍1.5%、不動産マネーに照準",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ILVJzMm4wV1pSdENyYWoxdVZfV2dxQTV3dnRKZUZKdi13a1hNaFRnZUtBa0tVdkhkcTdDVFlNazVjOUNFLTVZVW5FYnhucFVJclI3QkF1ZHdla2hsbHZ4dFRjeXdfdUtxc3pYMg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-04T09:00:00+00:00",
-      "summary": "銀行預金に金利競争 みずほ大口向け3倍1.5%、不動産マネーに照準 日本経済新聞",
-      "id": "84c596bf63fea1b9",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "STARGLOW、初の横浜アリーナ公演開催（STARGLOW 1st Fan Meeting -STAR CRUISE Special Edition-）",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xTkJOcGV4VmVaSWU0ak1YdkthZUg3UllBMDFSdVVtYWlXVlhwREFwUGdwZWVPRHZOOVVBMDg5aUpvRzFocW8xUXM1ZElnUUk?oc=5",
       "source": "時事通信ニュース",
@@ -693,9 +693,9 @@
     {
       "title": "ねぐせ。 横浜アリーナの観客とレコーディングした新曲 「僕 love you (愛問愛答 ver.)」のMV公開！ りょたち「その場にいたあなたと一緒に音楽を作れて幸せです。\"僕 love you\"は紛れもなくあなたの曲です。」",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1RUNJbGxDZ2NGS3p2Yy1mdlVOcTVrMGo1NTdVLXpaRlpYczdma3lQWmNPOVZ0QUpLLUl3RUgzMFZOeEViNlJ3YWZMQmJkTHU1Ykt4cWtTdlI2RW9vcjk4bldpckhVeWZRV2RMRTV5bHpCUQ?oc=5",
-      "source": "e.usen.com",
+      "source": "USENの音楽情報サイト",
       "published": "2026-08-03T04:20:11+00:00",
-      "summary": "ねぐせ。 横浜アリーナの観客とレコーディングした新曲 「僕 love you (愛問愛答 ver.)」のMV公開！ りょたち「その場にいたあなたと一緒に音楽を作れて幸せです。\"僕 love you\"は紛れもなくあなたの曲です。」 e.usen.com",
+      "summary": "ねぐせ。 横浜アリーナの観客とレコーディングした新曲 「僕 love you (愛問愛答 ver.)」のMV公開！ りょたち「その場にいたあなたと一緒に音楽を作れて幸せです。\"僕 love you\"は紛れもなくあなたの曲です。」 USENの音楽情報サイト",
       "id": "e6a2bc6e6ddd3cf3",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -859,18 +859,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "山崎賢人主演『キングダム 魂の決戦』公開記念！ 米津玄師「夜鷹」に初解禁の本編映像を使用したPV到着",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBubXZaamt3NFRKeWR6Y3dUUDZtU1pXMEhhYlJCQ0tHUEZ2V1AwWjJRQzdvZWFRWE9IdzIybWJSd2ZGZ19tRUVOcTE0ZjU?oc=5",
-      "source": "クランクイン！",
-      "published": "2026-08-01T08:01:00+00:00",
-      "summary": "山崎賢人主演『キングダム 魂の決戦』公開記念！ 米津玄師「夜鷹」に初解禁の本編映像を使用したPV到着 クランクイン！",
-      "id": "1ed910e5173acd4a",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【PINKY PROMISE YOU vol.2】SPECIAL企画 「DIGITAL BOOK」公開！",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PY1dtNG4wUG1oUktKdzJSSVJMZXViSHpNUWY0amFxRFd5ZmlNQndBUG1wX3NVQWFDMGFjTU1pbURRcmF0aURtWWFrMnlhQnZGT1FxUmpHc2lMZ2M?oc=5",
       "source": "あいみょん OFFICIAL SITE",
@@ -979,6 +967,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "ＦＭブルー湘南　あなたの声 電波に乗せて　ボラ・パーソナリティ募集〈横須賀市・三浦市〉",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HU2hNNXpXamRIS3FrYTgxLWQ4b2VtU1hsTUY1UWxkamJ1d21EM2tvTy1BLWtsQVQ1cjZmN29nc1BvVzUzRGdBUFBRS3JYWFhiZjdtX3VEY1lpR2ttT2prQ2FYY1V1eVdfZXZxUUo1aVg1M3g2Q3QxcnRlNNIBgAFBVV95cUxPbE5TdUJzaTZrLVJQVzR3TmlVUzRoOFB2YjNfN2pOR2ZyRXRiQ1EtdVozOVRJWW5FYjBBc3NYTWl3SE9DU2pmY19tWXRRZVNoVkljQ3gxbkFvd0h5VHlJeHJhSXhua0JBanJPRDRfQW5ic1cydlhBdUQ5VUdHY2todQ?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-07-29T07:00:00+00:00",
+      "summary": "ＦＭブルー湘南 あなたの声 電波に乗せて ボラ・パーソナリティ募集〈横須賀市・三浦市〉 ｄメニューニュース",
+      "id": "041de91e268ce942",
+      "category": "不動産",
+      "topic": "道場物件（鎌倉・湘南）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "あいみょん、“4年越しの約束”を果たした甲子園での10周年凱旋ライブのレポート到着",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XNl9hQkxwVFQxRU5lUHVpSHEwN01XM2puNnVPZ0tZWmN0b0dheUNSa3RTUXA5NC1DU2hidmNBNUoxdjhjNW5hUW15a1Qwb3dyb2x1TmYtU2l5dzdUbGdhM1VR?oc=5",
       "source": "billboard-japan.com",
@@ -1063,6 +1063,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "あいみょん、10周年で甲子園に凱旋！「4年越しの約束」を果たしたメモリアルライブのオフィシャルレポート到着",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDUy1BdmJwem55czBNM2NtTFAtbVBvajNVUnhhMWE2LVB3eklZdXJrWFY5bEtaVnlxY0RzeWVuTlFmZWJyTmhKeFFobjgwY29ZSWhZWUg3alRNT1hzM1NSODJyM2l6VlJjYVp1RGJ6aw?oc=5",
+      "source": "ぴあエンタメ情報",
+      "published": "2026-07-24T07:00:00+00:00",
+      "summary": "あいみょん、10周年で甲子園に凱旋！「4年越しの約束」を果たしたメモリアルライブのオフィシャルレポート到着 ぴあエンタメ情報",
+      "id": "b7ceaf7bbcb0f2e1",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【品川区】西大井「駅前PORTマルシェ」7/26(日)開催",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ab2VpdGtxZDE2S0Uxb1Z1SWpPeGJ6aUtXYnFLUzhHQ1paVXFVQXQtUng2NXdRR3lLdlBlb0NURGVrd21WdndyOEx0NnVhQXhKSlRMQWhWV2wzVGlncWZHUzljNDBmZw?oc=5",
       "source": "号外NET 品川区",
@@ -1096,18 +1108,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "アットホームとの協業による「MarketAnalyzer",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtSWNlVVJ6WnFFUFlra3RnZ0NDb3VBUG83aDF0TzFjTHFEd1lURV8wSEwzbHZHV0NhdjFKM3hlcmlIT2V1aWM5cEptOVFnd3pNUGlEdg?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-07-23T01:15:21+00:00",
-      "summary": "アットホームとの協業による「MarketAnalyzer ニコニコニュース",
-      "id": "fcc965cc806eed95",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
