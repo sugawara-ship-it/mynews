@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-06T06:24:47.905042+00:00",
+  "generated_at": "2026-08-06T07:25:16.417080+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 7
+      "count": 6
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,24 +67,36 @@
   ],
   "items": [
     {
-      "title": "「Rakuten AI for Business」にAIモデル「Claude」を導入 リサーチ・データ分析機能を追加・強化",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tUUV3WFA1ajNWUllqbGhzTGt6dDZVb3piV0cwUjZYcmFjeWdVNXhhQWJvb0pDVVphNTJzdUFBcUxyeXoxZERfUFUtMlltaHY5R1YtZDVWbWFFYWRMUFVxekdFWQ?oc=5",
-      "source": "株式会社インプレス",
-      "published": "2026-08-06T05:39:56+00:00",
-      "summary": "「Rakuten AI for Business」にAIモデル「Claude」を導入 リサーチ・データ分析機能を追加・強化 株式会社インプレス",
-      "id": "1139cc9479bbcf44",
+      "title": "楽天モバイル、法人向け「Rakuten AI for Business」にClaude活用の分析機能などを追加",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Oekxzb3llY2tXLUxSTmxwRkVNbzR5VFZFYXpqWEpKUDFhTVRncklQd2U1NXdzSTczX3h0bVdHbnVkcUM0Y3dFTGZIdlBjd1pLc1FudW5yaGJheVY2UmZKMm9rdWkySHM?oc=5",
+      "source": "k-tai.watch.impress.co.jp",
+      "published": "2026-08-06T06:46:29+00:00",
+      "summary": "楽天モバイル、法人向け「Rakuten AI for Business」にClaude活用の分析機能などを追加 k-tai.watch.impress.co.jp",
+      "id": "6ff7b2d1aaa89e61",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "楽天モバイル、Anthropic社の「Claude」を活用し 「Rakuten AI for Business」をアップデート",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wSzFJM1J3bEdLS2lxNjJnUGcwSmdyS1VaWFkzdEx0b3lja0lsZ0JJRXFqSmpNMURfWXBLNmFUWUJiZFVEM2g5VlZPYmNBT0prVG05VEJoUFNhbzZoWGZHSGFRTVlfb1NEMkE?oc=5",
-      "source": "corp.mobile.rakuten.co.jp",
-      "published": "2026-08-06T05:04:23+00:00",
-      "summary": "楽天モバイル、Anthropic社の「Claude」を活用し 「Rakuten AI for Business」をアップデート corp.mobile.rakuten.co.jp",
-      "id": "7202a4deac7aad20",
+      "title": "オリコンニュース：假屋崎省吾、鎌倉の自宅前ガーデニングを公開 猛暑の中で咲き誇る“圧巻の景色”「夏まっ盛りの庭です!!」",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PMkpFV1pTWHdXb1luWE1NQ2tUT2JMSUFKakZqVDVyNHVOYlU1ZWxzdVM0THRTTHVtbndqR2pGS3hhS2xNeTRwRllteGs4djBYaUhKUzJndmJ5TTVMd2hPOXNaWW02eU1D?oc=5",
+      "source": "毎日新聞",
+      "published": "2026-08-06T06:20:00+00:00",
+      "summary": "オリコンニュース：假屋崎省吾、鎌倉の自宅前ガーデニングを公開 猛暑の中で咲き誇る“圧巻の景色”「夏まっ盛りの庭です!!」 毎日新聞",
+      "id": "d85a8af5e9067feb",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「Rakuten AI for Business」にAIモデル「Claude」を導入 リサーチ・データ分析機能を追加・強化",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tUUV3WFA1ajNWUllqbGhzTGt6dDZVb3piV0cwUjZYcmFjeWdVNXhhQWJvb0pDVVphNTJzdUFBcUxyeXoxZERfUFUtMlltaHY5R1YtZDVWbWFFYWRMUFVxekdFWQ?oc=5",
+      "source": "株式会社インプレス",
+      "published": "2026-08-06T05:39:56+00:00",
+      "summary": "「Rakuten AI for Business」にAIモデル「Claude」を導入 リサーチ・データ分析機能を追加・強化 株式会社インプレス",
+      "id": "1139cc9479bbcf44",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -105,9 +117,9 @@
     {
       "title": "Anthropic、Claude向けに独自チップの設計チームを新設",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DaWxmMUl1Y2l0MzExNzB4aTFWdVh1cHZGU1dDMzhfTDg0UFZJWTNKOTlRcWNka1RyWHRjU0VjeGU1R25tZUpZYjZ1V3Y3YlJreWFNQjl1WER2MW1jRmtHY0lmLTVIMGZ0?oc=5",
-      "source": "news.mynavi.jp",
+      "source": "マイナビニュース",
       "published": "2026-08-06T04:24:51+00:00",
-      "summary": "Anthropic、Claude向けに独自チップの設計チームを新設 news.mynavi.jp",
+      "summary": "Anthropic、Claude向けに独自チップの設計チームを新設 マイナビニュース",
       "id": "7945d8c9f7debb7a",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -121,6 +133,18 @@
       "published": "2026-08-06T04:03:53+00:00",
       "summary": "ジェンスン・フアン氏がXに初登場、Anthropicに全米から批判殺到｜Trans-N note",
       "id": "f30e01e959984701",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "楽天モバイル、Anthropic社の「Claude」を活用し「Rakuten AI for Business」をアップデート",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0VjNqamlrZEU1TlBrOUVwREpfQURvTDU1ZWdSZjlwLXRVMEhsYUMwU0VhaS1ydVVsM0hnMkpkSVBkVEJpOWI3Wjl0R0dhSWpRTWhEaDhIbHJFVUhsaTEwdXQ3NDRYNDA4Ync?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-06T03:55:34+00:00",
+      "summary": "楽天モバイル、Anthropic社の「Claude」を活用し「Rakuten AI for Business」をアップデート PR TIMES",
+      "id": "7202a4deac7aad20",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -223,18 +247,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「Claude徹底解説」を公開！ChatGPT・Copilot・Gemini・Claudeを機能別／業務別に比較―自社に合う生成AIの選び方がわかる実践ガイド",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MZVJiV1NiNTFxcS15Tnh1SVhTTHFmUFRfNWV4VFE4aFlMbzR5bVFBM083LVlzbGtxZ0tudENHMlBXaVlsb1QtOVNvWlRNbHBaX2hFR0JWSVM3QzljVnl6TzJkaUJuWldHdHFN?oc=5",
-      "source": "AIsmiley",
-      "published": "2026-08-06T01:09:43+00:00",
-      "summary": "「Claude徹底解説」を公開！ChatGPT・Copilot・Gemini・Claudeを機能別／業務別に比較―自社に合う生成AIの選び方がわかる実践ガイド AIsmiley",
-      "id": "3fd9c00d6532044d",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鎌倉市議会議長が辞意 理由不明 「勧告動議」可決後も続投",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0RDFKQ3RBcVZlZTNvTFl1UGkweExKbndUN0w5bkR5UllfSTllaGpWSEYxcWZpZ1VudXBuSVFXcTljZ2IxODlQUFAwZ3NzWlVnWXlB?oc=5",
       "source": "東京新聞デジタル",
@@ -271,6 +283,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 岡山」8/27(木) 開催",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaHh3eGtscnRTczBHWk5RMkgxaUpEZzA4Wi1DWFltMXowRGpYbTZraDgzd1VaUDFndV8zdzZzVlZtWFZWWHljM1Vwa2dtUlRFLUN6NHEybTZwYVAxZ1ByeTlyTU40Z3NRaFZzTnJVOGxPRWRDVjRLSk1jbkVQSExuTVJWa2g4ODNhRlJFbFB3?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-08-05T18:57:13+00:00",
+      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 岡山」8/27(木) 開催 山陽新聞",
+      "id": "aca4ffa288c16215",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "タインホア省出身の武道家が、全国伝統武術クラブ選手権で5年連続となる金メダルを獲得した。",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV1RGeWZUMU1hT2xrTEVZaVpXdDg2Z0dNa3hKeUZnM2FmdFRVdTI3VU5nMGN3MXZ5SC0yX0taUHRFNEplM2FqeDh5dG9SY243WEw0czBBbV9YdjBPcHMtSmNFY1JnOXM3TlI1aFRQVjBQOUxFLWh4SmJWUVU2eUpHVnNuT1N6Qnhkb0JqcGhXejVJRmswOGI1MEtoSjVQQW0xZTAybXViMkk4RkdvSjVFRnBabUVqNUMt?oc=5",
       "source": "Vietnam.vn",
@@ -285,9 +309,9 @@
     {
       "title": "金利上昇と日本経済(下) 物価、安定目標へ定着の兆し 上田晃三・早稲田大学教授",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MNldjeDNPMlREREFkUllqQW54TnlucDd5OEg5cnZVOVRrZlFHd1pJb20zdFVUM3BaUXNRcDE1VWVtOEpyWm5EMEVxU1VTNk5CT0RnWXd1bG82aHNwYWViQVRweTdMN2p1UGlDZg?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "published": "2026-08-05T17:00:00+00:00",
-      "summary": "金利上昇と日本経済(下) 物価、安定目標へ定着の兆し 上田晃三・早稲田大学教授 日本経済新聞",
+      "summary": "金利上昇と日本経済(下) 物価、安定目標へ定着の兆し 上田晃三・早稲田大学教授 nikkei.com",
       "id": "5d8b7d40956292d6",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -343,23 +367,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 岡山」8/27(木) 開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91QmJ3VGdGNHJEN1FySUQzMWZGRnhSN25xME5lMWRwM1RwcUxyd1p5c0hPblVrRE1oSWswTEpNV3ZyUEtjOExneXVpb213LVFvQ3RRVHR3QVQxMEpkd2JfUm9iYXM2RDlpbUE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-05T08:00:01+00:00",
-      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 岡山」8/27(木) 開催 PR TIMES",
-      "id": "aca4ffa288c16215",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "インド中銀、エルニーニョを警戒 金利据え置き",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kamM3d2RaNGhqNl9hMTQ4c3VSNVZLMVNxbW1femFTdDR5UUFrMUhhTFZiRFJvSVp2RHVoYW1SYmZSVzFQYW5jMS1aVi1qSkFCLUxVcGxTQndicXE1Zy04c0w1RU1ZME8zS1AxZQ?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "published": "2026-08-05T06:23:24+00:00",
-      "summary": "インド中銀、エルニーニョを警戒 金利据え置き 日本経済新聞",
+      "summary": "インド中銀、エルニーニョを警戒 金利据え置き nikkei.com",
       "id": "dda600baa34cedc0",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -417,9 +429,9 @@
     {
       "title": "ＪＲ横須賀線鎌倉駅で人身事故 最大１時間１７分遅れ、約７千人に影響",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oRjlsSnk2M0pfX2dxV3hnRU9yUlpKSWpJdzd0S0xwQU9FZHN1RFFDaHBYMTExUXF2MGo0NktNcG8wNGc3UlV0MllqTQ?oc=5",
-      "source": "47NEWS",
+      "source": "47news.jp",
       "published": "2026-08-05T02:20:00+00:00",
-      "summary": "ＪＲ横須賀線鎌倉駅で人身事故 最大１時間１７分遅れ、約７千人に影響 47NEWS",
+      "summary": "ＪＲ横須賀線鎌倉駅で人身事故 最大１時間１７分遅れ、約７千人に影響 47news.jp",
       "id": "1c4ba48cf5176050",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -453,9 +465,9 @@
     {
       "title": "日銀「利上げ、長期金利の安定につながる」 6月議事要旨",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LWi1YNWJiY2JUWE9XRVllendoQm9EMExoUlljSFFlczdDdGw3Vk4taEJ6TWZ3LUhsajc2eTI0WHRDcWhEMjcwTEI5VDdBT0RXdjZEa2g3Z0ZfQnlpMEViejI3YWVSbjZRUm91bg?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "published": "2026-08-05T01:21:46+00:00",
-      "summary": "日銀「利上げ、長期金利の安定につながる」 6月議事要旨 日本経済新聞",
+      "summary": "日銀「利上げ、長期金利の安定につながる」 6月議事要旨 nikkei.com",
       "id": "7861b886abaf9ee5",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -501,9 +513,9 @@
     {
       "title": "円相場、26年末に1ドル=164円 JPモルガン斉藤郁恵氏",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NT2JaQ0xIX3owa1JBTk83SWtaNnM2eE9FLW9xZC1YSEZreF8waDNDc0tlVXkya0lSMElNR3c3a3B2eTdldDVHYW14RjNKRUtEM1FjM05JTWh1R3NPVVJ0a1NESERxMzRseFJTLQ?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "published": "2026-08-04T19:00:00+00:00",
-      "summary": "円相場、26年末に1ドル=164円 JPモルガン斉藤郁恵氏 日本経済新聞",
+      "summary": "円相場、26年末に1ドル=164円 JPモルガン斉藤郁恵氏 nikkei.com",
       "id": "7472aee19cb834c2",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -513,9 +525,9 @@
     {
       "title": "金利上昇と日本経済(中) 投資腰折れの可能性は低い 関根敏隆・一橋大学教授",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43RGxDeDRjbTF6U0poWHA1SVJnYmJ0SnFmUFZzb3V4NDNXenEyQUF3RHNLUXBOWTNFeThXdGpUVEd3dzhKdmtqNFVYWTk5SVk1eHpaSFEzMjZoYUMtNW1oYTFOdWVUSXk5UHdFNw?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "published": "2026-08-04T17:00:00+00:00",
-      "summary": "金利上昇と日本経済(中) 投資腰折れの可能性は低い 関根敏隆・一橋大学教授 日本経済新聞",
+      "summary": "金利上昇と日本経済(中) 投資腰折れの可能性は低い 関根敏隆・一橋大学教授 nikkei.com",
       "id": "8b3f1ee3e2809a4b",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -525,9 +537,9 @@
     {
       "title": "預金金利 日銀の利上げに伴い上昇",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95M0JEaDJhRWZNelFKT0JUMXFIM3c1RFg0Umo0VWctVUtMbzVud1Q4VDcxaXhOcDhCRUNjWm14Zk9SYldSSFRNbzRNM0J1ak0xaE1aZnlKUS1IZmZOSFpMTmhMRFhBRmNTbktvYQ?oc=5",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "published": "2026-08-04T17:00:00+00:00",
-      "summary": "預金金利 日銀の利上げに伴い上昇 日本経済新聞",
+      "summary": "預金金利 日銀の利上げに伴い上昇 nikkei.com",
       "id": "a2b0a5d583156f34",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -549,9 +561,9 @@
     {
       "title": "桜庭和志×須藤元気の強力タッグが実現…“日本武道の聖地”京都「旧武徳殿」初のプロ格闘技イベント「QUINTET」をLemino独占生配信",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrQWRNd1IwRDQySzM1X1lxRmJvV05sTVAwVmhGRG02eExKbGViRlNObDA1Wl91LXhqUjEycmRwZGthRWxLenl0bUhGWmRfcE9aeUo4UzRlOVk?oc=5",
-      "source": "thetv.jp",
+      "source": "WEBザテレビジョン",
       "published": "2026-08-04T12:26:03+00:00",
-      "summary": "桜庭和志×須藤元気の強力タッグが実現…“日本武道の聖地”京都「旧武徳殿」初のプロ格闘技イベント「QUINTET」をLemino独占生配信 thetv.jp",
+      "summary": "桜庭和志×須藤元気の強力タッグが実現…“日本武道の聖地”京都「旧武徳殿」初のプロ格闘技イベント「QUINTET」をLemino独占生配信 WEBザテレビジョン",
       "id": "8ac5cb6d1af40215",
       "category": "武道",
       "topic": "合気道・武道",
@@ -592,18 +604,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「逃げ上手の若君」を通して歴史や芸術に触れる展覧会、鎌倉で3日間限定開催",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiVm5jYUx4S3lfTGwzSjdXeDg4a2dZUkp1TG1Ja0lZT0hESXp3YkE2empkRUtoajlTaTRXMm43NDVKWE9NOVJyX3ZoWnA?oc=5",
-      "source": "ナタリー",
-      "published": "2026-08-04T09:20:00+00:00",
-      "summary": "「逃げ上手の若君」を通して歴史や芸術に触れる展覧会、鎌倉で3日間限定開催 ナタリー",
-      "id": "3531a1c1b1a0d361",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -657,9 +657,9 @@
     {
       "title": "あいみょんが地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番をお届け！",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1td09tc1FhMVBST0lUUE56SXFBT0FaT091YU5rMjRMeV81MTBJd0lfMWZsNzRLWFVGR2Z4OUhLbTN4aWxNTjZHS29zaGl4V1FEdnozTHg5SjE1OGM?oc=5",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "published": "2026-08-03T20:03:15+00:00",
-      "summary": "あいみょんが地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番をお届け！ asahi.com",
+      "summary": "あいみょんが地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番をお届け！ 朝日新聞",
       "id": "d9e91c0f97d2f672",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -1097,19 +1097,7 @@
       "topic": "地域ニュース 品川",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "大井町トラックスで夏イベント 「発見の旅」テーマに、スタンプラリーを展開（みんなの経済新聞ネットワーク）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9heFBCbWZfa0VEWFZ0YzNoWHdPUlAydXZ2ZEM5dHNXei15RnFYMmtfRWJ1QWg4Rk9xR3MzQUpOT0xOY0RlUUtyOTJkNGhIbnpPRzVIZjVudTQ1T0d6MVR5Z0J3Ri1faTFVYzM0alNsM1hXZlVwZk0tbDItUFhBYjg?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-23T07:00:00+00:00",
-      "summary": "大井町トラックスで夏イベント 「発見の旅」テーマに、スタンプラリーを展開（みんなの経済新聞ネットワーク） Yahoo!ニュース",
-      "id": "f3bfa4955026e251",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 87
+  "count": 86
 }
