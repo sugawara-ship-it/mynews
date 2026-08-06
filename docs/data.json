@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-06T04:19:38.021221+00:00",
+  "generated_at": "2026-08-06T05:20:05.452528+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -66,6 +66,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Anthropic、Claude向けに独自チップの設計チームを新設",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DaWxmMUl1Y2l0MzExNzB4aTFWdVh1cHZGU1dDMzhfTDg0UFZJWTNKOTlRcWNka1RyWHRjU0VjeGU1R25tZUpZYjZ1V3Y3YlJreWFNQjl1WER2MW1jRmtHY0lmLTVIMGZ0?oc=5",
+      "source": "マイナビニュース",
+      "published": "2026-08-06T04:24:51+00:00",
+      "summary": "Anthropic、Claude向けに独自チップの設計チームを新設 マイナビニュース",
+      "id": "7945d8c9f7debb7a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "ジェンスン・フアン氏がXに初登場、Anthropicに全米から批判殺到｜Trans-N",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYWXlQZHBXcVhJcUJVQzZtaEh2S0l2ZmFFQkJZUU9Jd3RjQUkwbTQ2Y2JmRklUM1AxQWZITFRmMFJ6bHozN3NsSXZEM3c3T2FYd1NITXRB?oc=5",
@@ -176,10 +188,10 @@
     },
     {
       "title": "Meta、コーディングエージェント「Muse Code」発表 Claude CodeやCodex対抗",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51UmU2WmhFLVpTWlFlVHJndkVyVWpPSUFjRGFZN2FodHJOZElWS3F6UE1LWkZxTlR0MTFaQjNqa1JJM2wxS1hUb2JfU1c4M1F4MEE?oc=5",
-      "source": "CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CQ1NXR0Zzdm92NjdMQXkzWE9XRWtaSTJuc21KYWVQNmFiSmZiTTd1Nndxc3B0blpUZ1lVRlhPdnBmX1JCSExudWJMY2tUUHlyaGk1UTZiVUo0cGVHc1hjY3FpY2dnNGhXblIzaEMtd0thbHZjWmUxc0RIQmx2QVE?oc=5",
+      "source": "Yahoo!ニュース",
       "published": "2026-08-06T01:08:00+00:00",
-      "summary": "Meta、コーディングエージェント「Muse Code」発表 Claude CodeやCodex対抗 CNET Japan",
+      "summary": "Meta、コーディングエージェント「Muse Code」発表 Claude CodeやCodex対抗 Yahoo!ニュース",
       "id": "f69871cfa9b75b4c",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -223,18 +235,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic、独自のAIチップ設計チーム構築のための人材を募集中",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zWWl4QUdOZ3dRX3F5bTRRdmFvYnRTVmVDZnlWNktOSmFxV1NhaEpEc0pzbXpQb3NoeHBGbUNYZXVGTloyblpYQV9VSGpaVVJhYWZsV1pZVWNSMXdPc3hvY3VKRFRUSW5Qdl95Y0xn?oc=5",
-      "source": "au Webポータル",
-      "published": "2026-08-05T22:49:13+00:00",
-      "summary": "Anthropic、独自のAIチップ設計チーム構築のための人材を募集中 au Webポータル",
-      "id": "ea240a8f4e42cb88",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鎌倉市議会議長が辞意 理由不明 「勧告動議」可決後も続投",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0RDFKQ3RBcVZlZTNvTFl1UGkweExKbndUN0w5bkR5UllfSTllaGpWSEYxcWZpZ1VudXBuSVFXcTljZ2IxODlQUFAwZ3NzWlVnWXlB?oc=5",
       "source": "東京新聞デジタル",
@@ -244,6 +244,18 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hOV9ya2JnRmhtVFF1VkRrOHR1V0p3YkpxajctOHBfVjU0eGhpcWdhOWhMellRNnE0UjB6ZzZqME1wMnhyX05GVldHX2czQlBhT0oxNtIBWkFVX3lxTE03YVpMY3ZuYVE0MXoyNlNTaXprLWR0aVdUeU9SRkdPenhBNHJxU251MVJQczZwWFZNWWV5OVBQaVE0RzI5V2l1T1lYVmFTWTdoOThBdUEtSXBfQQ?oc=5",
+      "source": "ウォーカープラス",
+      "published": "2026-08-05T21:54:32+00:00",
+      "summary": "ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催 ウォーカープラス",
+      "id": "648ede1b0fb90298",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -316,6 +328,18 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "カントー市警察は、2026年人民警察軍事・武道・スポーツ大会において数々の成功を収めた。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRU9GZ1FQWjU4WUFfa2hmTkpLTS1pUlRpclVVbHhFY1liWXZ6WDlKOGFFblBmcDdlcWZRMEtwdU9aaXFaZVBDbXpPbmp2TUpDTnNRdEpNQUZFQW8zZTBRRkJMUHhpZVg3NkcyRVZaYXZ0WWFUVkNHOGloXzkwM3RrZWRsODhWWlhIMnBZTzBHeWlNOENJNlVXUnQzUmlOZ0t0OUUyMEZfMWUxalZtX3dXTkZMLThCNDA3S0c3ZkJkVHFIMTljZWpLNmdZTkxXdw?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-08-05T08:34:42+00:00",
+      "summary": "カントー市警察は、2026年人民警察軍事・武道・スポーツ大会において数々の成功を収めた。 Vietnam.vn",
+      "id": "a6b3197b0de24966",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -619,11 +643,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "ハノイ国際武道フェスティバル2026",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8ycHQ2MTdGVnRadVVuTmtHT0x4S2FMRkpvcGZUMzNVSVFjaTh0NWFjTUVsSFIybHAzbXVYdXBlNGpjd3JhR0RPRmRaaGhEbkhDckFJUE5CQ0c2clhyYmZuXzd4b1dWb0xDS3ZyU3R0UHdXaDFuNkJ6Zktn?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-08-04T02:44:43+00:00",
+      "summary": "ハノイ国際武道フェスティバル2026 Vietnam.vn",
+      "id": "d770c5409ebac326",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "あいみょんが地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番をお届け！",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1td09tc1FhMVBST0lUUE56SXFBT0FaT091YU5rMjRMeV81MTBJd0lfMWZsNzRLWFVGR2Z4OUhLbTN4aWxNTjZHS29zaGl4V1FEdnozTHg5SjE1OGM?oc=5",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "published": "2026-08-03T20:03:15+00:00",
-      "summary": "あいみょんが地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番をお届け！ 朝日新聞",
+      "summary": "あいみょんが地元・阪神甲子園球場でのワンマンライブを目前に、FM802で1時間特番をお届け！ asahi.com",
       "id": "d9e91c0f97d2f672",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -681,9 +717,9 @@
     {
       "title": "ねぐせ。 横浜アリーナの観客とレコーディングした新曲 「僕 love you (愛問愛答 ver.)」のMV公開！ りょたち「その場にいたあなたと一緒に音楽を作れて幸せです。\"僕 love you\"は紛れもなくあなたの曲です。」",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1RUNJbGxDZ2NGS3p2Yy1mdlVOcTVrMGo1NTdVLXpaRlpYczdma3lQWmNPOVZ0QUpLLUl3RUgzMFZOeEViNlJ3YWZMQmJkTHU1Ykt4cWtTdlI2RW9vcjk4bldpckhVeWZRV2RMRTV5bHpCUQ?oc=5",
-      "source": "USENの音楽情報サイト",
+      "source": "e.usen.com",
       "published": "2026-08-03T04:20:11+00:00",
-      "summary": "ねぐせ。 横浜アリーナの観客とレコーディングした新曲 「僕 love you (愛問愛答 ver.)」のMV公開！ りょたち「その場にいたあなたと一緒に音楽を作れて幸せです。\"僕 love you\"は紛れもなくあなたの曲です。」 USENの音楽情報サイト",
+      "summary": "ねぐせ。 横浜アリーナの観客とレコーディングした新曲 「僕 love you (愛問愛答 ver.)」のMV公開！ りょたち「その場にいたあなたと一緒に音楽を作れて幸せです。\"僕 love you\"は紛れもなくあなたの曲です。」 e.usen.com",
       "id": "e6a2bc6e6ddd3cf3",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -739,30 +775,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ザライで開催された国際武道大会に先立ち、聖なる炎を掲げる行列。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSm05UEgxREFGQXpEc1dVdkZ2SkJOQ0lkSHpzZ2laWmVzLU9YaW9INHFkVi1LSFBreG5GNzFOSWl4Z29tcTFYUUY4bGtvM2RXZWxEOHJzTkE0Q0tZVV80c3loUndOM0JEckhmbnZrbktYb0t5enluLW1DeXpaYTRPMGhOWnhvS29vX2c?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-08-02T14:26:40+00:00",
-      "summary": "ザライで開催された国際武道大会に先立ち、聖なる炎を掲げる行列。 Vietnam.vn",
-      "id": "bbf243b3763cf731",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "2026年人民警察軍事・武道・スポーツ大会：クロスカントリー走、武装走、応用水泳など、エキサイティングな競技が繰り広げられます。",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVHdFSXV5V3lxVWR5SlM4RnI0ejZrS194QkhRa0dVYkRFZ2ktaTJMQXY2elBKWDJsMWJtb1pqM2xJekktZ0ZpczN1VUEzZm9BYWs2TjNKNl81cml2V3QyVkNZU0JfNDJ5RHVGcEFMR0tNYmI3UW9NS2t4SWhtZEROc1EwNHNUS09UcVZMZW5TUHFNcXZlaVZUS1dfZVhjMTZBem5GY2lxNW82VGptRzdlVnQwTVBucG1zdTZGRS1NTFotb2pDYkx2MkIza3UxQjZWMGYzQ0FwdjhCWklvN21ORGRZMUVSNXRy?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-08-02T11:45:41+00:00",
-      "summary": "2026年人民警察軍事・武道・スポーツ大会：クロスカントリー走、武装走、応用水泳など、エキサイティングな競技が繰り広げられます。 Vietnam.vn",
-      "id": "6ce1a5171d0befe2",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "STARGLOW 横浜アリーナに見参！ADAM「アリーナの景色は格別」 11月に初アルバム発売決定",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnNjbG51SDN3MGtzTnZTclVRRU9RQ0REM3FjYlRiWVZxc08tbjltQWU5LUV5UDFBYTMyMHB3QlBITmd2c1dZYS10WHh2Y2lYRDlhNXB0bFd5U1g3OXZXNkJRUmxPWlp6TkZOSWJqT2pFS1M4NGt4TEloRFZCbGVhOVg3N0lDaWxMYUlha05YQUFqT1hUZ1E?oc=5",
       "source": "スポニチ Sponichi Annex",
@@ -799,18 +811,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "STARGLOW、デビューから10ヶ月で横浜アリーナ2Days 多彩なステージで3万人を魅了 1stアルバム発売をサプライズ発表",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iX0pmT1RRN1RqTW1xVGtwNlMwRkZQazFQV1E4VWhScUhDdEdQSkE5UWhlNU83UElWbWw3cWs1MmtZemZGREtBT1RUNVRYVUk?oc=5",
-      "source": "オリコンニュース",
-      "published": "2026-08-02T11:30:00+00:00",
-      "summary": "STARGLOW、デビューから10ヶ月で横浜アリーナ2Days 多彩なステージで3万人を魅了 1stアルバム発売をサプライズ発表 オリコンニュース",
-      "id": "e36c15eb363d91c8",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "STARGLOW、デビューから半年で横浜アリーナ2Days 多彩なステージで3万人を魅了 1stアルバム発売をサプライズ発表",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GeEFobjIzSWhVWmlfUkJTcl95SGNkMVJBakpjMUE5cjJDSUVqU0t2LUFJeHFDQy1NYWI5QkIxS19OMk5LdDVQWnB1RUV1anRjUkNPaER0d3l0Y1QydThrS2VobllmZw?oc=5",
       "source": "南日本新聞",
@@ -820,18 +820,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ダナン出身の武道家が、国際テコンドー大会で金メダルを獲得した。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1hpOVg1djkxQlJ0MjVGdjJQT0lqXzhlVy1kbkp0OWROTFEwU0RBZVlKelZCUTY5QV9aSm9uc0ZUV0RZakhmVVRFTVIySEpNbm0xQzM1eE9jR1Z4VFdMdEFzS3dvaDJtbGFRNk1VWkxZWkdYeXlvandBbzJlZHVSdFJwU2dBeGg3OGVVdQ?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-08-02T11:01:45+00:00",
-      "summary": "ダナン出身の武道家が、国際テコンドー大会で金メダルを獲得した。 Vietnam.vn",
-      "id": "431b0159426cac77",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -871,15 +859,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米津玄師、「Lemon」自身2作目の累積再生数5億回突破【オリコンランキング】",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxZHBqSHphOTZXNWR6b1NEYm42TThYVzJ4amVmUUFTLVNseG5TckhaS2pmOFFYVjM4NmtkaWFhQlMyM2RqaEJBbjIxNUdkakhINlE?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-07-31T07:00:00+00:00",
-      "summary": "米津玄師、「Lemon」自身2作目の累積再生数5億回突破【オリコンランキング】 山陽新聞",
-      "id": "a17830e0c82677ca",
+      "title": "ねぐせ。、横浜アリーナ公演で観客の声をレコーディングした新曲「僕 love you (愛問愛答 ver.)」MV公開。メンバー・コメントも",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzS2pSY3huTDBubkMwckZ3bmNid0dmQ3RyWWVoS2pMZXBwcWJOaTZ5a3RicXZseEV6aExLTVlrT3FvUzJuMnFuTHN4b19qUnpia2RiWm5BQU5yaFh4Qm9RakxGcTFfRUpLdWtqUXJqRQ?oc=5",
+      "source": "skream.jp",
+      "published": "2026-07-31T11:00:00+00:00",
+      "summary": "ねぐせ。、横浜アリーナ公演で観客の声をレコーディングした新曲「僕 love you (愛問愛答 ver.)」MV公開。メンバー・コメントも skream.jp",
+      "id": "e89aeb82988d3945",
       "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -913,18 +901,6 @@
       "published": "2026-07-30T11:01:10+00:00",
       "summary": "あいみょん、「RING DING」MV公開 ファン投票1位で映像化実現（ぴあ） Yahoo!ニュース",
       "id": "a032c7c486696369",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米津玄師「かいじゅうずかん」カードウエハースの発売日決定、デザインも公開",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wS2xxOUVTRGhZTHpILUE3ZG42bFg3WW01Nm1pV25rSmd2TVFfcXNwc3cxMExvREtsTlBKTlJNR0RYZ1BNTFBDdFBTR0w?oc=5",
-      "source": "ナタリー",
-      "published": "2026-07-30T05:00:00+00:00",
-      "summary": "米津玄師「かいじゅうずかん」カードウエハースの発売日決定、デザインも公開 ナタリー",
-      "id": "d5e1da0f0ac7de9c",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -1069,6 +1045,30 @@
       "published": "2026-07-24T07:00:00+00:00",
       "summary": "あいみょん、10周年で甲子園に凱旋！「4年越しの約束」を果たしたメモリアルライブのオフィシャルレポート到着 ぴあエンタメ情報",
       "id": "b7ceaf7bbcb0f2e1",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【ライブレポート】あいみょん、甲子園での10周年凱旋ライブが大盛況！「改めまして、兵庫県西宮市出身、シンガーソングライター・あいみょんです！」 (THE FIRST TIMES)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0VvUHNBdEo5VEJyOGFkSW1aXzdCc3JxbDlVYVNvM05PWnR4ZHVMUGtmQ1RIaW9YVkVEVHIwTVdDaFhPSWFNYUVBWWtUaFFEdVFmZ1NZQ2JsZUxrOFlFdlB6d0tMQ2RIRVFNTWI4Y0Y4VWNQVTFXcHNLZDdBVlVWdnNxTmdkSDRHRWNDZVlB?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-07-24T07:00:00+00:00",
+      "summary": "【ライブレポート】あいみょん、甲子園での10周年凱旋ライブが大盛況！「改めまして、兵庫県西宮市出身、シンガーソングライター・あいみょんです！」 (THE FIRST TIMES) Yahoo!ニュース",
+      "id": "9842f1236198379f",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "あいみょん、甲子園で10周年凱旋ライブ開催 “４年越しの約束”果たす",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84X2pWZFNab01Pc0pTcXVKbVIxeTdQQzN1ZVhjUGtNRzhGcEp2WU5JX3d1cDg0TEZjdFYwckRlRThINjlzdy1fS2VkNjhsV0hNZlE?oc=5",
+      "source": "MusicVoice",
+      "published": "2026-07-24T07:00:00+00:00",
+      "summary": "あいみょん、甲子園で10周年凱旋ライブ開催 “４年越しの約束”果たす MusicVoice",
+      "id": "8739c9d58edadc2d",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
