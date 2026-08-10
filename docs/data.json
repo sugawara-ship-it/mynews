@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-09T23:39:03.070147+00:00",
+  "generated_at": "2026-08-10T01:44:29.555161+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -14,7 +14,7 @@
       "name": "推しアーティスト",
       "category": "音楽",
       "emoji": "🎵",
-      "count": 9
+      "count": 11
     },
     {
       "name": "ライブ・コンサート全般",
@@ -67,12 +67,60 @@
   ],
   "items": [
     {
+      "title": "オプティム[3694]：病院向け生成AIサービス「OPTiM AI ホスピタル」、病歴要約を自動生成する新機能を提供開始 2026年8月10日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQclgzc3NiNmpTZTVaX2FFbjY3NlBxMVFSc1pVSjluanRRRklINS1qZkg1MnNNWXRDTi01b1BFb1NDdGlETE9pZHpYRUphd2JpNzE5V0RubWJEaTAxQ1IxUmJRSjd5N29RV0dtVzYxTENJRjZuYUNRcTBYYnJDZHoxRmtEY1VmWFhzZXpYeVFhRDN2X0pmWTMxTHY5R0ZXZVpJM2NXYkNFaG9ZMEI1b2F6dEdhVTdTcnRIamdvRUxfSEJMblk5LUFTenloWUM?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-10T01:30:00+00:00",
+      "summary": "オプティム[3694]：病院向け生成AIサービス「OPTiM AI ホスピタル」、病歴要約を自動生成する新機能を提供開始 2026年8月10日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "id": "7c9b88e082bc9a32",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "株式会社100とHubSpotが共催、BreezeエージェントとClaude Codeのハンズオンを2026年9月2日に開催",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HempCSHM2ckdPUUVxUzNJdmV0TUlQWUR6Ym1ZN2VpdUdVa2tXN01iTjZOQkh6eHVsYUNPUkxvNXA3aFFoYXMxY2JpODJ5aFhoOE12dkZNa1ZzalJWazR6em5vdDVFcnk2WDY4LXViZDFnSEtrUDdsU2dlcw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-08-10T01:15:49+00:00",
+      "summary": "株式会社100とHubSpotが共催、BreezeエージェントとClaude Codeのハンズオンを2026年9月2日に開催 ニコニコニュース",
+      "id": "560cf6d4455c957c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「見た目はいいけどCVRが上がらない」を卒業する Claude Code×顧客行動デザインで学ぶ三つのLPフレームワーク",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lRGlaZUdQQkNtQkhHaURDcU5hUUl1TGlMNG9aN1JFeU0zVWFVRDlwelA5b3JzR0xQNDhIOVpjaE1zdDFzM1ZEMmk5WHBucTdRMWtfNA?oc=5",
+      "source": "河北新報オンライン",
+      "published": "2026-08-10T01:00:00+00:00",
+      "summary": "「見た目はいいけどCVRが上がらない」を卒業する Claude Code×顧客行動デザインで学ぶ三つのLPフレームワーク 河北新報オンライン",
+      "id": "eacaa58c921f0452",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "AIエージェントによる不正アクセスが現実味 OpenAIやAnthropic、Metaでも事案相次ぐ",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOHBDYlBNUmlzenh4clVPbzZGQXBGd3ZrVm5Sakw5d1JzNmVQZ0V1LXp4WEJqOUhMNUJKVVNERWNxZHBaVm1WSHMzN014aXlJZGdLQUJaWVRyME90TDFYa2hlaFNlR3k3YlJnYjVLb21uYVI0c2pmZDlmd2tYZnBoM183RGk1bEsxMXYzM2RHcTQteWY3TDQ5bl9aTXU3QXRKSFJQUXRMUTQ1bEpIMndDQXFOOGRrWG1RLWU2cU1nc2FEMW8?oc=5",
       "source": "디지털투데이",
       "published": "2026-08-09T21:25:53+00:00",
       "summary": "AIエージェントによる不正アクセスが現実味 OpenAIやAnthropic、Metaでも事案相次ぐ 디지털투데이",
       "id": "8bbd4fd15fae5063",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【AI安全性警鐘】OpenAI、Anthropic、Meta、中国Moonshot AIの最先端モデルが相次ぎセキュリティテスト環境から脱走",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAta2s5NDJtX2Jkc0dvd3I1V1BoV2xYNTVfTmJhM0U1bm16LXRDUU05VmtQejlwa0ltWE1ReV83azlhUTJtZjBiZUtReEZ4LV9fLW5DT3pWUXRQUzJmMEpBM2xzQng0M0s4eDM4REItSWM1T25m?oc=5",
+      "source": "finance.biggo.jp",
+      "published": "2026-08-09T21:25:00+00:00",
+      "summary": "【AI安全性警鐘】OpenAI、Anthropic、Meta、中国Moonshot AIの最先端モデルが相次ぎセキュリティテスト環境から脱走 finance.biggo.jp",
+      "id": "f7e7be73795532f5",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -115,18 +163,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Rubrik、Anthropic「Claude Code」向けにAIエージェントのセキュリティ基盤「Rubrik Agent Cloud」を発表",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuR3BjT083RktwYVhyLUNteG9PTjNoVHBIVXBfaDRJbkRjMnVzWU5vYzRYcTF0LXJPZFhJMmJFWXBtcnkzMEhYQTNQaw?oc=5",
-      "source": "thinkit.co.jp",
-      "published": "2026-08-09T09:20:23+00:00",
-      "summary": "Rubrik、Anthropic「Claude Code」向けにAIエージェントのセキュリティ基盤「Rubrik Agent Cloud」を発表 thinkit.co.jp",
-      "id": "f9076f83a26117a4",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "『MUSIC AWARDS JAPAN 2026』藤井 風、HANA、MISAMO、サカナクション、米津玄師ら豪華12組のパフォーマンス決定",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GdFMzbFlhUkRFb0pjM1B2OGlyaFFDeHRuNmxPekFfVnZ0ZFM0a2twR3AzbElVV09XV2Q1WUZLOWEyQm9KRV9kRnA5NS1YUzVBX2c?oc=5",
       "source": "山陽新聞",
@@ -148,6 +184,18 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lZV94eGZTaUlMOTZfUHlGX0pjdW9PNm5udDI4VVVmWmV1YTNyTkx1d1Jab2hyaVQ3RGhYRnpOLURZZWFjTXpKSmdyWExtZFlYSGc?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-08-09T07:46:49+00:00",
+      "summary": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】 山陽新聞",
+      "id": "840b14bd4cfbf68f",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -201,9 +249,9 @@
     {
       "title": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに (ITmedia NEWS)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUxGUnFkQld4WDc0WTZVSUF1RjA5VlkyWFZXT3Y1N1lKN2xvSlc3VkNHaEEzWVZoYWc1QmpZTENPN2dXZ19pcV9ONFJ2OXlneEFneGtVeEwyM285b294b3BSMG96UGN5RDNqZk1RMnZrdG9pN2Y5bzRTT3JnRWtTbzFHU3dVdFBKZ2FZYmV3?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-08-09T03:14:10+00:00",
-      "summary": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに (ITmedia NEWS) Yahoo!ニュース",
+      "summary": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに (ITmedia NEWS) news.yahoo.co.jp",
       "id": "6f703406c4fb6fe4",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -213,46 +261,10 @@
     {
       "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から (ITmedia NEWS)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWRIbUhjSC1WbmVYRkJuTzAtNG9jeW91NjZTd0JOWEtVeGtxZVdHMmYxSWpRZVo2MkxqTjNYc1dKQm9qemtzV05xVHlySHJqM3czdDJ2X2JqRmtMV240ekFFaTdBUzFqQ0tfT2ZFek1HeW92a1R5dW9LMHRPSWNBbjZYZnFmMTU0WVBfR2Nn?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-08-09T03:13:43+00:00",
-      "summary": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から (ITmedia NEWS) Yahoo!ニュース",
+      "summary": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から (ITmedia NEWS) news.yahoo.co.jp",
       "id": "f23d1324abaf389a",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45UnZpS3dZaE9oTE5JMkJZNTY0cHBYX2VxWTVwZDNfVkN4T3hzdUFTbDhFZTNIdklvQXQ1SDBSWnlaUkppd0xNMGF6VWVoMVpCYS1sVE9qZExyOGlrbkRMdGxQRWxpWWNOOHFkTw?oc=5",
-      "source": "ITmedia",
-      "published": "2026-08-09T03:12:07+00:00",
-      "summary": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から ITmedia",
-      "id": "c3b948d298ff0c45",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CRWJZTGhGd3lBVDV1eWI1MUlKRk9uaVR1RklrTVEzUUdHMFY4eHkzZ1dabFVlNndXbFlXYlBKdlA2UkM1M2gxcVVIRDdteHlmemRDV0hPdEhqYng5M1NJaFdON21NaGstLXBGTQ?oc=5",
-      "source": "ITmedia",
-      "published": "2026-08-09T03:11:16+00:00",
-      "summary": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに ITmedia",
-      "id": "9e98224a677f934b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、AI学習用に数百万冊の書籍を裁断・スキャンし廃棄 希少本・古書の保存めぐり懸念",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96M1ZweVZiSVJZOW90aHJoUlRIUllCMHIwWEJ3UE9HWGpMZWtXdXY2MUF4bTFnaEFPRUltUUJ3WHBDbUNER3ZiMUJIamtiNEZ2T0w3U2RzbU9XMmx5WFl1ZDlPQzZXNTlzV1RWbg?oc=5",
-      "source": "Ledge.ai",
-      "published": "2026-08-09T02:51:53+00:00",
-      "summary": "Anthropic、AI学習用に数百万冊の書籍を裁断・スキャンし廃棄 希少本・古書の保存めぐり懸念 Ledge.ai",
-      "id": "b1dbefb3e3c1776e",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -283,18 +295,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "桜庭和志×須藤元気の強力タッグが実現…“日本武道の聖地”京都「旧武徳殿」初のプロ格闘技イベント「QUINTET」をLemino独占生配信",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrQWRNd1IwRDQySzM1X1lxRmJvV05sTVAwVmhGRG02eExKbGViRlNObDA1Wl91LXhqUjEycmRwZGthRWxLenl0bUhGWmRfcE9aeUo4UzRlOVk?oc=5",
-      "source": "WEBザテレビジョン",
-      "published": "2026-08-09T01:30:31+00:00",
-      "summary": "桜庭和志×須藤元気の強力タッグが実現…“日本武道の聖地”京都「旧武徳殿」初のプロ格闘技イベント「QUINTET」をLemino独占生配信 WEBザテレビジョン",
-      "id": "8ac5cb6d1af40215",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鎌倉ライオンズクラブ　渡邊 郡司会長〈鎌倉市〉",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb0tfaTNhdm9iUHFCOXJpTWRXcENzRDdNWGVQS0Y3RWJmSndfT3JURFVaN1d0TDRTTUprZ1lKZXdOQUJQb3BqeUlDTXc5Y041RlJvSnNpQzBLSzlpb0QwaG5iVTRFeWVXWlhxZ1ZZQzZCM01jck9wN0J0S2xKajBladIBgAFBVV95cUxNb0tfaTNhdm9iUHFCOXJpTWRXcENzRDdNWGVQS0Y3RWJmSndfT3JURFVaN1d0TDRTTUprZ1lKZXdOQUJQb3BqeUlDTXc5Y041RlJvSnNpQzBLSzlpb0QwaG5iVTRFeWVXWlhxZ1ZZQzZCM01jck9wN0J0S2xKajBlaQ?oc=5",
       "source": "ｄメニューニュース",
@@ -320,9 +320,9 @@
     },
     {
       "title": "鎌倉市　新庁舎整備の手法を再検討　17日に有識者会議〈鎌倉市〉",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYklURVNJc1BKNTZJSVZrcm93NExJRXZpcGlDcnY3SUtmQnI4YkxqWVJoekRvVThuM0lsU0psUy10UzA4U2ZIQUdMMEFFMWVvWkktdm8xNzJiY3E3S29kOWJIT1dRUm9IR0tLaXVlT1FtVW1IaUlBR0lFUEowS3JZOdIBgAFBVV95cUxOYklURVNJc1BKNTZJSVZrcm93NExJRXZpcGlDcnY3SUtmQnI4YkxqWVJoekRvVThuM0lsU0psUy10UzA4U2ZIQUdMMEFFMWVvWkktdm8xNzJiY3E3S29kOWJIT1dRUm9IR0tLaXVlT1FtVW1IaUlBR0lFUEowS3JZOQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNamFjdzI4bzE3RG1qN0FIbzQ2Q2VkQmlOYUo3aXl1QzZCM3dablVXVTNtVHBSNE15Mk5qSmxQOGhxbzJVb3BBdmZYN3V2WmhXQXdycHpOaGNndVh2c1RWeVRuM0F3SGJwVUhKQWc0Tm1xRy1rYjRUSkJFV3pKR05yS191OENJTlpPU3NMMFk5X2lWeWhmbnIyNUJLWWlmZEVwclFjQnMwQkVlVFZqb1ljcjR6RmY0dTdIWXRwcmt4Y2REVE1GRHhvWGhMTks5OVNX0gGAAUFVX3lxTE5iSVRFU0lzUEo1NklJVmtyb3c0TElFdmlwaUNydjdJS2ZCcjhiTGpZUmh6RG9VOG4zSWxTSmxTLXRTMDhTZkhBR0wwQUUxZW9aSS12bzE3MmJjcTdLb2Q5YkhPV1FSb0hHS0tpdWVPUW1VbUhpSUFHSUVQSjBLclk5?oc=5",
       "source": "ｄメニューニュース",
-      "published": "2026-08-08T22:00:00+00:00",
+      "published": "2026-08-08T22:38:47+00:00",
       "summary": "鎌倉市 新庁舎整備の手法を再検討 17日に有識者会議〈鎌倉市〉 ｄメニューニュース",
       "id": "38c4658a08aad0b4",
       "category": "地域",
@@ -345,9 +345,9 @@
     {
       "title": "ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hOV9ya2JnRmhtVFF1VkRrOHR1V0p3YkpxajctOHBfVjU0eGhpcWdhOWhMellRNnE0UjB6ZzZqME1wMnhyX05GVldHX2czQlBhT0oxNtIBWkFVX3lxTE03YVpMY3ZuYVE0MXoyNlNTaXprLWR0aVdUeU9SRkdPenhBNHJxU251MVJQczZwWFZNWWV5OVBQaVE0RzI5V2l1T1lYVmFTWTdoOThBdUEtSXBfQQ?oc=5",
-      "source": "walkerplus.com",
+      "source": "ウォーカープラス",
       "published": "2026-08-08T13:00:26+00:00",
-      "summary": "ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催 walkerplus.com",
+      "summary": "ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催 ウォーカープラス",
       "id": "648ede1b0fb90298",
       "category": "武道",
       "topic": "合気道・武道",
@@ -381,9 +381,9 @@
     {
       "title": "【速報】首都高湾岸線の東京港トンネルで乗用車4台が絡む玉突き事故 1人がけが 東京・品川区",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mZXlDX05SQ2Rlamx6VmNUdVhzbDd6YzdPU1J5XzJ2RW9NWF9PQTFZRm9xNEdWN0RsZDJnbm01N0dfd0VMaGFXcUhBSU9xdHRIcTFVSXVMUHVENlRoY3JnSmxlRmhDRDZOTktNeC0tS3FRcXRXM1p3akMybnpwaUE?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-08-08T08:00:20+00:00",
-      "summary": "【速報】首都高湾岸線の東京港トンネルで乗用車4台が絡む玉突き事故 1人がけが 東京・品川区 Yahoo!ニュース",
+      "summary": "【速報】首都高湾岸線の東京港トンネルで乗用車4台が絡む玉突き事故 1人がけが 東京・品川区 news.yahoo.co.jp",
       "id": "86b2d345e7e18f02",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -393,9 +393,9 @@
     {
       "title": "ちゃんみな自身初の東京ドーム公演を全国100館規模の映画館でライブビューイング！一般発売1時間完売のプレミア公演",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vNjFrVTZYaldWamh5SjFKV19PNkc1MWJJZTdDaXBBZGpaZW9yU0Q0YlRkQzYtZHNteUVPa2ZGUXEtTVZ1cVc0ci1Yb3FzWk16QUFxd2N30gFbQVVfeXFMT3V6NjFiMkk5b1JvNWptNjgya0xJWDN4X0VfRHpEQ2w5LWR2MTV0QkJMVW1KNlhkTXloLU96V2NxNmNwTDFFbGRTR3VlbGZtcEdudHRPcmhqbENHYw?oc=5",
-      "source": "walkerplus.com",
+      "source": "ウォーカープラス",
       "published": "2026-08-08T07:00:00+00:00",
-      "summary": "ちゃんみな自身初の東京ドーム公演を全国100館規模の映画館でライブビューイング！一般発売1時間完売のプレミア公演 walkerplus.com",
+      "summary": "ちゃんみな自身初の東京ドーム公演を全国100館規模の映画館でライブビューイング！一般発売1時間完売のプレミア公演 ウォーカープラス",
       "id": "04b0f4c7ebcbaba4",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -441,9 +441,9 @@
     {
       "title": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEWDVkWHN6eTVTSlZ0N0d0SmZ3NzhXendIYzhFRXJRX1BBTEpFNjZWUVZodl8tUHdFcHowZWxpbU52M2VmVzBVNUs1NUtpcWphMzNHZ2VqS2dzMTh6SFFHQTRwU0xPWTBYRUJ2dGlBT0V4SlExeWtPRg?oc=5",
-      "source": "rbbtoday.com",
+      "source": "RBB TODAY",
       "published": "2026-08-07T14:10:02+00:00",
-      "summary": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始 rbbtoday.com",
+      "summary": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始 RBB TODAY",
       "id": "abb3c9017e3bb913",
       "category": "不動産",
       "topic": "道場物件（品川・大田）",
@@ -525,9 +525,9 @@
     {
       "title": "Hey! Say! JUMPコンサート、10月横浜アリーナにて開催！「JUMPdate!」3日間5公演｜Infoseekニュース",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56SXdKRnVQSmFvMFRJbk5LamZDYzZCbk5iYkNoajlEaVBxN3IyMUdKaGVoM2xyRzhaWGhmdDBRckhkajNQVUFXNU0wal9HbzVOcm1lanN5VVN5SzVDNW1V?oc=5",
-      "source": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "published": "2026-08-07T07:45:34+00:00",
-      "summary": "Hey! Say! JUMPコンサート、10月横浜アリーナにて開催！「JUMPdate!」3日間5公演｜Infoseekニュース news.infoseek.co.jp",
+      "summary": "Hey! Say! JUMPコンサート、10月横浜アリーナにて開催！「JUMPdate!」3日間5公演｜Infoseekニュース Infoseek",
       "id": "438f1d602df825ef",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -619,6 +619,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "高市政権の財政政策 債券市場、年10兆円強の財政赤字拡大を織り込み済みか 野村證券・宍戸知暁",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uMHpYVG90aUdsby00WHlESU5IZDJ6ZjNqMGV0RW1zdHQxN2pCLWtHbFUzamVxYXZaYmZWVjlDNTNVUEFWenh3ZTRHeFhWb2h5YWprcjNpbTA3Nk1weHl3?oc=5",
+      "source": "nomura.co.jp",
+      "published": "2026-08-07T07:00:00+00:00",
+      "summary": "高市政権の財政政策 債券市場、年10兆円強の財政赤字拡大を織り込み済みか 野村證券・宍戸知暁 nomura.co.jp",
+      "id": "9e3af64a339a3f2a",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "AIブームが日本の景気に与えるインパクトは？ 半導体輸出・設備投資、資産効果の観点から分析 野村證券・伊藤勇輝",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tUEs5eGZVdHhrRkdkb3loY0lKdU10NTBueXhDLUFDLVBQbVFBT0JvMU4tSE1hUDNHWkJwUmxUam93eUp2VHFmeGJoc1l3MEQ2QURJZVk2NzFzUUlmYjY4?oc=5",
       "source": "nomura.co.jp",
@@ -655,18 +667,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "株式会社mutex、「デジタル化・AI導入補助金2026」のIT導入支援事業者に認定AIレセプト業務支援ツール「Reze（レゼ）」が補助対象ツールに選定",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GMDBIM2tLV0NhZE54eTd0ei1lbWxkWTdSTDUwdXlzVGtVNkc1enF1UTFoSHlvTjVBRThHTHotcHI5MU1nbDkyZ1g5a3ZndmZ0Mm9XQlJRamtGczNMUTQyanZCcmViSmdSamc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-07T06:00:01+00:00",
-      "summary": "株式会社mutex、「デジタル化・AI導入補助金2026」のIT導入支援事業者に認定AIレセプト業務支援ツール「Reze（レゼ）」が補助対象ツールに選定 PR TIMES",
-      "id": "389443305e683e60",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "母たちの歌声、全国の舞台へ　清泉女学院・保護者合唱団が快挙〈鎌倉市〉",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15bTJjZThTRE9HdWVkQlpVWE5iaTFUX2pnX0c1LUpHWXBHeEdZekVUZksyODJfSTFmd3JnNGVydEJYYnNZMEx0MGVSNzVfXzltcnRRSTlzZDR6Q05XMHJ2ZU5CODVrcDhFRnZ6WUZlVXl5LWhSU2xUNzJSb9IBgAFBVV95cUxPamNCRGxJYUdzNWV0ei1wYU1sdGVyNURfcTVrQVF4ZkF3SXdBTTFNMDNYMkJYM3UwOGc5SWJhcGZDSHRaY2syeXdKMVRtVGZkVGwyaFU2SHVXaWFQX08xVVM5Y0JPV193cHNCTEcxNlFfTHJreG4wM0NHb0xucWc1SQ?oc=5",
       "source": "ｄメニューニュース",
@@ -693,13 +693,25 @@
     {
       "title": "鎌倉 鶴岡八幡宮 夏の夜を彩る「ぼんぼり祭」",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FeGVna2tVczVLbS1ESHVBM0l6SmliMzNZN3NDWjN1LTR5M0E5YU1QekhCbHV0WDBVcFJKTVF6ZVVfME5uZElWSDFiUzdyQjNNalBSMjBhbzk?oc=5",
-      "source": "news.web.nhk",
+      "source": "NHKニュース",
       "published": "2026-08-06T23:09:00+00:00",
-      "summary": "鎌倉 鶴岡八幡宮 夏の夜を彩る「ぼんぼり祭」 news.web.nhk",
+      "summary": "鎌倉 鶴岡八幡宮 夏の夜を彩る「ぼんぼり祭」 NHKニュース",
       "id": "aebae80981ac9732",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "桜庭和志×須藤元気の強力タッグが実現…“日本武道の聖地”京都「旧武徳殿」初のプロ格闘技イベント「QUINTET」をLemino独占生配信",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrQWRNd1IwRDQySzM1X1lxRmJvV05sTVAwVmhGRG02eExKbGViRlNObDA1Wl91LXhqUjEycmRwZGthRWxLenl0bUhGWmRfcE9aeUo4UzRlOVk?oc=5",
+      "source": "WEBザテレビジョン",
+      "published": "2026-08-06T20:03:49+00:00",
+      "summary": "桜庭和志×須藤元気の強力タッグが実現…“日本武道の聖地”京都「旧武徳殿」初のプロ格闘技イベント「QUINTET」をLemino独占生配信 WEBザテレビジョン",
+      "id": "8ac5cb6d1af40215",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -981,10 +993,22 @@
     {
       "title": "あいみょん、「RING DING」MV公開 ファン投票1位で映像化実現（ぴあ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoLTY2amtST3EzeXpvdUtWTVN6SUdRNkNSbE1sQklTQlhCeXNfWkhwRzZpMl92Y2xudmNnWURPMm91bmw5UGtob2huYlNLdGdia1VTZ2lnc0Y5Tl9MTDU3VDhXYkZzQ1hGWndENWR6T2VtT1NiZ3lMc2s4N0xqMms?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-07-30T07:00:00+00:00",
-      "summary": "あいみょん、「RING DING」MV公開 ファン投票1位で映像化実現（ぴあ） Yahoo!ニュース",
+      "summary": "あいみょん、「RING DING」MV公開 ファン投票1位で映像化実現（ぴあ） news.yahoo.co.jp",
       "id": "a032c7c486696369",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "あいみょん×スタジオジブリプロデューサー鈴木敏夫の対談をオンエア",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00ZEcyaDRmMjJJWjQxbThLUXNoUlA3VEd2MWZ6Y3hFYUYxUUVqRkFENkdySUFjQVJDdVVXNzFYZXRvWEFGWkdwelF4Uk4?oc=5",
+      "source": "ナタリー",
+      "published": "2026-07-30T07:00:00+00:00",
+      "summary": "あいみょん×スタジオジブリプロデューサー鈴木敏夫の対談をオンエア ナタリー",
+      "id": "f871849ba6a4f46f",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -1051,5 +1075,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 82
+  "count": 84
 }
