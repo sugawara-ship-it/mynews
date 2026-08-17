@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-17T07:58:37.937233+00:00",
+  "generated_at": "2026-08-17T11:50:56.783196+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 3
+      "count": 4
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,6 +67,126 @@
   ],
   "items": [
     {
+      "title": "古いミニPCとClaude Codeのおかげでスマートホームに出戻りました",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCV0ZxVXRNQ1pDbFR4VlNheG04RUNYN05vbTYwT1ZUQWJvcE5tTnBNTjdnY0VQUXYwRUdWUU5HZVBuejlkSDB3b0xiekRUMG9kMW5BNzhGVlhPU1h4Qk9RbFNIUmtkM0FqVzFCaXdQZzBjdEZHd2NWd0hXaG13QQ?oc=5",
+      "source": "Korben",
+      "published": "2026-08-17T10:02:36+00:00",
+      "summary": "古いミニPCとClaude Codeのおかげでスマートホームに出戻りました Korben",
+      "id": "121980dfb2c0de95",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "プロンプトに1語足すだけ。Claude Codeへの「聞き返し対応」がぐっと減った",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmYxNmlyOW9VLWRBRzJPRWFRVXdIV3ZYdHUzQ2NLV1RxSTBMY2RrUFJ0MHdjUzBZeE4wV2VXVGlzY1ZFOXhlVG91RlFaOFl3SnZtZDNIaHR1bGFiaHo0N0gtbmtXR1FwZ0lFdlNBUzg3eDhfNzZqZlZhMmV2QzJxYl83OHMtVEFBSXp2Vm5pNUV4VTBRb1JPVFA5UEt0bEJIUEw2bFdfVlpLbEk?oc=5",
+      "source": "ライフハッカー",
+      "published": "2026-08-17T09:48:46+00:00",
+      "summary": "プロンプトに1語足すだけ。Claude Codeへの「聞き返し対応」がぐっと減った ライフハッカー",
+      "id": "eac9749c7ae8c93b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "株式会社G&N、VCとの連携強化で補助金支援キャンペーンを開始",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnNXBQSktTUkFTMUVLY3ZKcUxTeG1kZnZfa1dON1k5SUNNQUhma21LSUZMejhOemg3WUtXaGlKaGJYYy1ON1pkMENGM3BaclA5QTVyckZUNFI1RWhqV1VQeXNlNmtEVVYyNlM0?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-08-17T09:34:33+00:00",
+      "summary": "株式会社G&N、VCとの連携強化で補助金支援キャンペーンを開始 ニュースメディアVOIX",
+      "id": "6af108ebe536288a",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Codeによるエンジニア採用の革新を探る~クラシル・kubell・グッドパッチ・AnotherBallの実践から学ぶ交流会",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81Q3k3TjdVcVU4Q2RiQXg3QWpEWVQ5TVhveEF3dURVdWszZ2E0SDFjQXpPUkdaRVg5RVA0VjhvRFJGY2YxQmtmRTZaQnMzVVQydFp5WnhjbDdkNmhweENfa3ZLbi1TVGZGakNTLW1ocWN5NUtVOTVJSUlvRQ?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-08-17T08:54:04+00:00",
+      "summary": "Claude Codeによるエンジニア採用の革新を探る~クラシル・kubell・グッドパッチ・AnotherBallの実践から学ぶ交流会 ニュースメディアVOIX",
+      "id": "ee3e5c468732f607",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "QommonsAI活用研修を大崎地域広域行政事務組合（宮城県）で実施 — 「スペシャリストのノウハウを次代へ継承したい」",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LVGo1ZUp3bGJydHNEazJLVDJDX2tweXFLRnlvOTVJbHc1LVZDeEpodzRfTE1qWmNNT3pVcUROeldHcURJQWF4bDFFaFphektQbWVOY3JUV3ZnZEVyX01wTzQ2YUpHRTRCT3c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-17T08:30:02+00:00",
+      "summary": "QommonsAI活用研修を大崎地域広域行政事務組合（宮城県）で実施 — 「スペシャリストのノウハウを次代へ継承したい」 PR TIMES",
+      "id": "e548b9d3cb3a8d1e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude生成文に「見えない透かし」 EU AI法対応で世界展開へ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tM2FsZ1VPZW81U2hmYzAweDBLOEQ1a3NwMEVlUUktamkzSVJjaUloRnV0dk95dzA5a0pmdGNudTdKbzZnSE5QNjYyU0g5ZlVkSUVyc0FlVF9kNnNmQnIw?oc=5",
+      "source": "千葉テレビ放送",
+      "published": "2026-08-17T08:22:00+00:00",
+      "summary": "Claude生成文に「見えない透かし」 EU AI法対応で世界展開へ 千葉テレビ放送",
+      "id": "d1e5c2c472bd641b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIへの反発は「信頼の危機」｜Anthropic CEOアモデイ氏、ベイカー氏の批判に反論",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwNkhlaHlBX2swV0tZcjJGbGlaaF9vZHdLcGp2dnFvRzBKV0M3MldSQklnN2xtdWRBRzB0ZlRzWU5VeHM0d3dzYTNNdlJBeDNVallF?oc=5",
+      "source": "innovaTopia",
+      "published": "2026-08-17T08:05:41+00:00",
+      "summary": "AIへの反発は「信頼の危機」｜Anthropic CEOアモデイ氏、ベイカー氏の批判に反論 innovaTopia",
+      "id": "fd8ffb65873262dc",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "いまの景気は「戦後最長」? GDP拡張期6年、でも実力は伸び悩み",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zOEVsY2ZzXzRTcWtCNWFBazNyQUF6U2RjWmtLOWdvQzJYdTVwak5oWmp2U2wybkZkTHlfRHhOdEQ1dm5xUlh2V2drRlFYLXJQeXJjMFNfVTFlMFJLZGlUWTdDeEtHODg?oc=5",
+      "source": "朝日新聞",
+      "published": "2026-08-17T08:01:22+00:00",
+      "summary": "いまの景気は「戦後最長」? GDP拡張期6年、でも実力は伸び悩み 朝日新聞",
+      "id": "3ba978184e9b0373",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米Anthropic、2028年までに売上高2000億ドルへ目標引き上げ、IPOに向け",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzS2ZiRmhhNGxsNmtCMzg0ZUFjdTBsenZPZHVsODV2ZnNfWVhESTJmLXZGQ2RROTltek54dE96TFZFQTdNQ0VmYUJObFhRWG9NXzVJ?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-08-17T08:00:00+00:00",
+      "summary": "米Anthropic、2028年までに売上高2000億ドルへ目標引き上げ、IPOに向け ビジネス+IT",
+      "id": "90247cde82f1bf9c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、「Claude」モデル評価中の外部不正アクセス事象3件を公表",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5Y05vZUNLcHBsTHhNSHdLQ21BMzBWMlQ5emd2c2cwQ0gwLVRDcTkzNHRJZm9XcXFpVzlyRF9XNE55dmpQWlZhMUV2RDQwMlFzVVRrQWdkNDBqN1ZMU1NnQUxzSmFlNXhzYVk3SVNDR3hQR2s?oc=5",
+      "source": "AIsmiley",
+      "published": "2026-08-17T07:39:56+00:00",
+      "summary": "Anthropic、「Claude」モデル評価中の外部不正アクセス事象3件を公表 AIsmiley",
+      "id": "b4ddbcda1a45076e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Sansan、「Contract One」にClaudeを用いたAIエージェントを追加",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Obk1JVUItWDFOenFnUHhNa0FGTWc3YTJoNkpqTzVxRkhEV1JlaUU5Z2RtRWQzNjBRZndVa0h1OTF5VkVjWjJGMEhfcXo1VmgzSll5UWFWUlNrZw?oc=5",
       "source": "EnterpriseZine",
@@ -91,96 +211,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "AI Hack提供のAIO分析ツール「AI Hack」がAnthropic社の「Claude」に新規対応",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HZVVIYlJtZWxRU01abldYbjJDaElFMlVJeEJSaEtvZXBmbFVwZkc0alQ0b2l4Z0lVZ2VEMXQtNzRlWkh0NWt3blNQNFdFXzVEOE9IeGstbV9HNFFDT1oyUDdiWkVEQXR5WVVV?oc=5",
-      "source": "時事ドットコム",
-      "published": "2026-08-17T06:46:00+00:00",
-      "summary": "AI Hack提供のAIO分析ツール「AI Hack」がAnthropic社の「Claude」に新規対応 時事ドットコム",
-      "id": "d8783fa216c6e865",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Drata（ドラータ）、Anthropicユーザー向けAI Agent Governanceを発表",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZDVLMmNWTXd3TE9paldGLXJnOFgyaFAyZnZEVjVtbzdhb1ZvVU5kT1Q1WG8tUS1yaHBRU05CcDlWb0c1LXphN05pRkc0QkJqMy0zWFZzT3BXVUZlQ1ViMEpla3B2QmxYZGxLSndOeEt0SUVFWHBodlROMXBIVEpUSUFiZTNxQQ?oc=5",
-      "source": "DXable News",
-      "published": "2026-08-17T06:29:46+00:00",
-      "summary": "Drata（ドラータ）、Anthropicユーザー向けAI Agent Governanceを発表 DXable News",
-      "id": "0d1ca18eb95eed28",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "国内最大級の会計事務所向けイベント「freee Advisor Day 2026」東京会場にてAnthropic社・ダニエル・チョ氏の登壇が決定",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tVk5rLWQxN1loN2VVdEVjT1BIUVNpc29jTnNCZmxNaHRUaklLcjI0R0V2R3NTNWtjX2NXRXRZWVpnWC1tZGJHZzJQYVFOc2M?oc=5",
-      "source": "AGARA紀伊民報",
-      "published": "2026-08-17T06:00:00+00:00",
-      "summary": "国内最大級の会計事務所向けイベント「freee Advisor Day 2026」東京会場にてAnthropic社・ダニエル・チョ氏の登壇が決定 AGARA紀伊民報",
-      "id": "3cd4bedeb2ca292b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "契約AXサービス「Contract One」が「AIエージェント Powered by Claude」機能の提供を開始",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3akJUMWZyLXl2bzF3YlBkQndFZWlSRFdac180bm1VZkhLQzludmJCbEFEbHp0MGRFYkYwck9XQXlucVhEU3JFZnFBVVF2ZTJCVWRvSFVfMkNyd1BpZ0w0R3RDblNLTkdRcWVTa1hpam93dmJEd3dyamNVcw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-08-17T05:51:32+00:00",
-      "summary": "契約AXサービス「Contract One」が「AIエージェント Powered by Claude」機能の提供を開始 ニコニコニュース",
-      "id": "332e8fe525af6390",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "博報堂、生成AIで自治体の政策検討を支援",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ITk1QeElWUHBaNlpIdDZOdlV2d1ZmU2EzOXlCR3BmRklCaWNxMEtTODRMMHl2UlZYTEI1eWEwV1p0a25TdDZQM1BPdmpTeWVPOU5vc3ZCcklnVVBaSHRfaHlCT0w4NG43NEE?oc=5",
+      "title": "エクサベース AI、 Google最新モデル「Gemini 3.7 Flash」を提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YTmJIWExmU1Zwa0I3SU8yVFl6czc0clI2RWp3eHU2dVcyVGpDTTk5WTNuZHpqckJRRmxOZUpENTh1MXJfNjhZYzc0eXVuWFBCdjVwTjZfMzVoUGdEanlseVlJRXhvMTJseGc?oc=5",
       "source": "PR TIMES",
-      "published": "2026-08-17T05:00:01+00:00",
-      "summary": "博報堂、生成AIで自治体の政策検討を支援 PR TIMES",
-      "id": "7c44b95c7381644e",
+      "published": "2026-08-17T06:40:11+00:00",
+      "summary": "エクサベース AI、 Google最新モデル「Gemini 3.7 Flash」を提供開始 PR TIMES",
+      "id": "ab0f9eb577205063",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropicのダリオ・アモデイCEOが「AIの規制」について物申す、規制が中央集権化につながるという指摘に反論",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlMlRUbTBaSmJEZVgwTGJDYnV0YzRLODMzSS1pYjBkVTZWcTRnUVNrZXJaZGFnSW43OW9melFfNTdUcmVBejhFVWUyZEtybUlVRFluQ21FdVBRX2JWSHNGTW1keVJpVHM?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-08-17T04:26:00+00:00",
-      "summary": "Anthropicのダリオ・アモデイCEOが「AIの規制」について物申す、規制が中央集権化につながるという指摘に反論 GIGAZINE",
-      "id": "fc67c8d689856f58",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "サイバーエージェント、月3万円の“AI手当”で「Claude Code」「Codex」利用急増 代わりに“使われなくなった”のは？",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoYUh2Z1pmS3MwUGl6dFBLekFsT20wVEQ1NlFpWTJXNHc4MzE5R0M4TEt3bktmQUxGd3RUN1NvZkJkWnM2T1F6RFQzd0JCM3cxczJzT3FaWUNPb1prc21QcU8xc1dkMXlMYWxEXzBzU3RKQQ?oc=5",
-      "source": "ITmedia",
-      "published": "2026-08-17T04:00:00+00:00",
-      "summary": "サイバーエージェント、月3万円の“AI手当”で「Claude Code」「Codex」利用急増 代わりに“使われなくなった”のは？ ITmedia",
-      "id": "16eb2e02fa703ef6",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicがClaude Code節約ガイドを公式公開：Token浪費を防ぐ6つの方法",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rMUE0U1hkajFwWTdXbzBKYXg3MDFIeHRjMkVnWmpVU2hESVk1cGhNTE04YUF1QmFtdGZtVld0eXp1c3FweUtmdDdLNVc3ZmdzUVFuTFJINTdqZmh5aVplUDl5WllEdlVESWp2YXFCQ3RPSDVx?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-08-17T03:55:00+00:00",
-      "summary": "AnthropicがClaude Code節約ガイドを公式公開：Token浪費を防ぐ6つの方法 BigGo ファイナンス",
-      "id": "906b7e83178d8b6f",
+      "title": "仕事効率化アプリの利用時間は前年同期比38.5％増 生成AIアプリが利用拡大をけん引",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VY0paZVRrSldQelFLeGpvUW5vME02UXFfaDBkX3BUS2UxTWFiNnoxNlA1ZUx3VC1OTGhvVDhHSFhzalZRNlN5YzZ4clRjYTEtakx2RzY2cnl2Mkp0c3MtU0hsZ1dsVW9uT1E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-17T06:30:02+00:00",
+      "summary": "仕事効率化アプリの利用時間は前年同期比38.5％増 生成AIアプリが利用拡大をけん引 PR TIMES",
+      "id": "456d4721d298b822",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -223,27 +271,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "カルダノ創設者、Claudeの透かし除去ツールを公開──著作権上の懸念を主張",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50c0dmWkp3RUFuSC1uNzNNbFJhWm1TeFBtT1NKcjVWSVM4MERTNlprMGF6M1V4WkpQeDRkSjFTM0xvTmo1R1JMVjM2TGp2bFdMWDFEYVhJVVlwS05VR2oxblZ0Rl95bXowYkQ0amlB?oc=5",
-      "source": "JinaCoin",
-      "published": "2026-08-17T02:57:52+00:00",
-      "summary": "カルダノ創設者、Claudeの透かし除去ツールを公開──著作権上の懸念を主張 JinaCoin",
-      "id": "acc6d33a440ce3de",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropicの四半期売上1.8兆円超｜前年同期の14倍に",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYkVPRTVHWEpCSS1VLUJnanJTWTVldUwxSHZFN05aZ0dhWkZOLUF2b083VUx5b0dxVnJJcGloVGhuMGZfdS1VWVFaamdZMXBPcExVWEJIR0RMYnpmYlAxU2NIa0pVdkZud0VXRzlSaktKbTNwdzJWUjU5NFV2Y2ZSVlp0RmdLenRYQ1dR?oc=5",
-      "source": "crypto-times.jp",
-      "published": "2026-08-17T02:54:59+00:00",
-      "summary": "Anthropicの四半期売上1.8兆円超｜前年同期の14倍に crypto-times.jp",
-      "id": "0917dd6ab8307091",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
+      "title": "｢めぐるいのち｣描く　鎌倉在住のアーティスト・増山理人さんが初の絵本「ベベタンとぺヨタン 星のうまれるところへ」を出版〈鎌倉市〉",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQazBVaGFPQTRlSTdybUxJQ3ZibmtoalRVOXJmZUY1anNzU1lTbkVRa2R0LUpnQjRVM0g1eXc3X0tjbXRzQ3V1bC1USU5BZk1jS3JLQXBuRFR5R2FCQTF1QjBfM0FmdEhLU1lfMU91VE05VnJYbGswX2pJREd4eHdjNGFrUWliUUl6RFFDNDJn0gGAAUFVX3lxTFBXYTI0c0lJZ2pnbHhfWkFPTjZwd1luSHl3NngzNjhvTFotWk56c21jcGFZdkM0MHAwNGZXSlNZcmlGaU02QTZjM3l2eklVV0E1M3p5V0hNZDdPRUJpcGNhNkZ1VFhJQTlfSjZWWlFiZ1h2RVcyTUFjUHBDN1ZhR0FW?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-08-17T02:00:00+00:00",
+      "summary": "｢めぐるいのち｣描く 鎌倉在住のアーティスト・増山理人さんが初の絵本「ベベタンとぺヨタン 星のうまれるところへ」を出版〈鎌倉市〉 ｄメニューニュース",
+      "id": "ba7415a19e09bd71",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -285,9 +321,9 @@
     {
       "title": "あいみょん、NHKでメジャーデビュー10周年特番 ライブ＆貴重映像、特別トークも「初めて歌った時の映像がやばいです」",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CT2dUR25lX1lHNkVmRnh4T01wN3RsR2d6aW1UeDg4dENzNUhnNWlYam5qMy1KRjhDZFYtdDlneFA5blljdDZmYTBlT3ZSM1F0WFFlNXZLbU5QZUU?oc=5",
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "published": "2026-08-16T10:37:41+00:00",
-      "summary": "あいみょん、NHKでメジャーデビュー10周年特番 ライブ＆貴重映像、特別トークも「初めて歌った時の映像がやばいです」 sanyonews.jp",
+      "summary": "あいみょん、NHKでメジャーデビュー10周年特番 ライブ＆貴重映像、特別トークも「初めて歌った時の映像がやばいです」 山陽新聞",
       "id": "0193cac5c2c92256",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -429,9 +465,9 @@
     {
       "title": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lZV94eGZTaUlMOTZfUHlGX0pjdW9PNm5udDI4VVVmWmV1YTNyTkx1d1Jab2hyaVQ3RGhYRnpOLURZZWFjTXpKSmdyWExtZFlYSGc?oc=5",
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "published": "2026-08-15T07:00:00+00:00",
-      "summary": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】 sanyonews.jp",
+      "summary": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】 山陽新聞",
       "id": "840b14bd4cfbf68f",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -465,9 +501,9 @@
     {
       "title": "あいみょん、メジャーデビュー10周年記念日にバンド編成で初の日本武道館公演 全国アリーナツアー開催も決定",
       "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxORDNuTVBIemtzWHlpOE1PQ09UaDJ0WnJCU3o4cUJKZENuenJoVFZBcXJ6ZUJVUkxPYjVTYnVKZERkNXMwOS1ybjA5Z1RaT1M4N2U2dmY1VTlTb2FORUREUlhKVWRkSV9YVkZGZUE1a08tQy1rRnNIc21QTzRpc3d3NmN5ZEpfc1lxZWhWMXJvTVV3akV3MFl6SGJVenNIVXdCaUdwYnhiaHJaVGc0cVpGY1lwal8xU1lFMi1JT2JZOGZfNVNwZjYwMklFY3pBQk41MmNfQXNwTjNZUi1wUERSblNRX0NtdnlCOFlMU2VxX0I2QURnUkh5NU1LcWFNNTh5cHhOeGIwdVdWU29rVl8xMGIwNlNDdloyaGZnNFc5LVFhLXF6cDkwNUhJdDRjV1dtdGt4clNDX3R3aEpqaUJWMlo1SUdvcll2TGpfenl5ZjBWdVdadjN6RTYyT2RvQTN4Z1prRnN4SzFjSGZSd0NYMTNmNWQ1bkZwLXNveWM3SVdPdi13emtHeGlEUWl1NFY2QkdSYmlhVmYtQU5Sa3dUbFRBRnI3SGdlbnB0SDJrZVQzMXRVTkViSGpoaVBWV2dwem1jWlZrNnNUUVNvNWpqaHhVeEJhWGNva3k2LVItOG8yM0YwZ1Nj?oc=5",
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "published": "2026-08-14T22:29:11+00:00",
-      "summary": "あいみょん、メジャーデビュー10周年記念日にバンド編成で初の日本武道館公演 全国アリーナツアー開催も決定 sanyonews.jp",
+      "summary": "あいみょん、メジャーデビュー10周年記念日にバンド編成で初の日本武道館公演 全国アリーナツアー開催も決定 山陽新聞",
       "id": "e003b81b3beb26f2",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -523,30 +559,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Travis Japanアリーナツアーより「Maybe」のライブ映像を公開（動画あり）",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MNlZwZWRvbDJFUTJaQkNtcVJCVTR6VldXRHl5bjlfcXFTVXpZM1gxV0xzOW9KeEJTVVVkNXlCQURzaVBmVHRlN2pZQ0o?oc=5",
-      "source": "ナタリー",
-      "published": "2026-08-14T12:04:00+00:00",
-      "summary": "Travis Japanアリーナツアーより「Maybe」のライブ映像を公開（動画あり） ナタリー",
-      "id": "8c56a2bd8291840a",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Kis-My-Ft2、15年分の“ありがとう”と愛に溢れたデビュー記念日ライブ　ファンとともにドームへ繋ぐ熱狂の夜",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHZXo4OEVkSmk4RnpPREZ1dmtpUUU5Ynp2aEF0MFdEdm1UZzdsSFFQTlVwa0FfemNBaHU0VUNwYVlHWXV4c0FhMDZSb0twdjB1V19xNzA1aFBhd9IBX0FVX3lxTE5YcDZLM2Nfek1aNjFXYXNVbGdTVzBHazFsUmRCa0daWHNrV0N6ME9wc202MjNiWDVYVlktRXpRQ0t6T3NOTHg0Y1BpR3hyWDk0NW1hNDFNVk42ZmNpUEhv?oc=5",
-      "source": "リアルサウンド",
-      "published": "2026-08-14T10:00:45+00:00",
-      "summary": "Kis-My-Ft2、15年分の“ありがとう”と愛に溢れたデビュー記念日ライブ ファンとともにドームへ繋ぐ熱狂の夜 リアルサウンド",
-      "id": "9a2f334b263d117a",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "『バズリズム LIVE 2026』横浜アリーナで3日間開催 Vaundy、超特急、Saucy Dogら第1弾発表",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVWHJkdExST25oRXRvbjdQd3oxdGtPR3owLXRBaG5mb25SdU9WZEJsdFM1YjNwWnQwVGJUUUQ1c0x6ZEZsT2YtWkM1WQ?oc=5",
       "source": "エンタのおはなし",
@@ -589,6 +601,18 @@
       "published": "2026-08-14T09:00:00+00:00",
       "summary": "NEXZ、11月に横浜で開催「バズリズム LIVE 2026」に出演決定！第1弾ラインナップ発表 Kstyle",
       "id": "090c033f045617f9",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "超特急・IMP.・TAGRIGHTら「バズリズム LIVE 2026」出演アーティスト第1弾12組発表",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56VmtFSW4tQ2J1RkdLREcwQVhDZnZ4VEtDV01xM2ZzcEswLXhTRkdST3psajFDaTQ4VjdNZFIzUWVLbHJHWkZhZ20zUjfSAUhBVV95cUxNUHd1YmZRb1c5a05fVTQyaEF1U1JDNjhhM0s4dGxLcXhfOUs4Qlo3MXBjZEhvazdsY1d0M3NHLVFMcFNDWEpvOTA?oc=5",
+      "source": "モデルプレス",
+      "published": "2026-08-14T09:00:00+00:00",
+      "summary": "超特急・IMP.・TAGRIGHTら「バズリズム LIVE 2026」出演アーティスト第1弾12組発表 モデルプレス",
+      "id": "2f0f9f7255823a58",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -643,42 +667,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ゴルフ場がテーマパークに ９月26日、鎌パブでイベント",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1id0FfZndib0FEc05vc2tjTml0VzdhVWlUU3NtVFBsSE1wZk4tMDUxMDNiYkpzU29vLUlrVHI3ODMzdC1PZFo5WWNpbFh6c252UTdGM3ZnbnBYUENTQlQydFlVcWM?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-08-13T15:00:00+00:00",
-      "summary": "ゴルフ場がテーマパークに ９月26日、鎌パブでイベント タウンニュース",
-      "id": "75e6e7a6c102891b",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "８月19日・20日に鎌倉宮で例祭 子ども神輿や奉納芸能、盆踊り、夜店など",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00WmljdVRhZ2JhdjI0LTU3R0ZubW90QWtJMFRlX1R6b0xxMi04RmtDeWtQem9fRjRnVFVPbkFrS0I4MFJUZVg0YUdEVllHMm5IbnZoUWlVNXF6M0tvd2xUMnRoX0w?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-08-13T15:00:00+00:00",
-      "summary": "８月19日・20日に鎌倉宮で例祭 子ども神輿や奉納芸能、盆踊り、夜店など タウンニュース",
-      "id": "57734a1aa4f117f3",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "｢めぐるいのち｣描く 鎌倉在住のアーティスト・増山理人さんが初の絵本「ベベタンとぺヨタン 星のうまれるところへ」を出版",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQzRtRzJHUk5aWk5nOXJWU0JTUjZ6Y3RqcmdSTFNZVzdyYkhpWlo1N3g1dEprSi1MNFV1dEdYY01PbVp6b3FTRHpnakhqTmZXeS13YUZ2RlZjYkloOU1PdTNaVEk?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-08-13T15:00:00+00:00",
-      "summary": "｢めぐるいのち｣描く 鎌倉在住のアーティスト・増山理人さんが初の絵本「ベベタンとぺヨタン 星のうまれるところへ」を出版 タウンニュース",
-      "id": "99861b6fb1ca3b5b",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "かつては「鎌倉海老」とも 鎌倉産の伊勢海老 漁解禁",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52NzY1Rk9NLXdKSWxUV3FLOEhNQW0zVFVla1BTUkRnNHFmc00xSExvYUNTNDhrMmVMOHAyd1pWMmNiZUpweUQxQnltVzFVclNUUUlkR2h3eE5FeWxtT1YzTkRzTmQ?oc=5",
       "source": "タウンニュース",
@@ -691,12 +679,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "初の絵本作品「ベベタンとペヨタン 星のうまれるところへ」を出版した 増山 理人（りひと）さん 鎌倉市在住 48歳",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBleUtmNWFJalU5VVhWUDdZaW1rbWIwUWVFdzBVcEtRc3dQNHd3dldwNDNpaW5fcDJPS2Jxam00YzlZMVJDSFBRb0poc0RibFNTazQ2ZGlWUzlaRE9tVnd2OHZHQ04?oc=5",
+      "title": "大日本弓馬会 流鏑馬、国際団体に紹介 鎌倉伝統、視察受け入れ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4UXFERlVYSUszbFAwZHhieWN2TllyamFjODREeE55cjhmNUY2VVd6QTdKM0xSczNpMDFpQUpib29BMDZoekVhM0dDdHkwSm90WmdoOTVKS2t1ZklUU3ozVlh4NHY?oc=5",
       "source": "タウンニュース",
       "published": "2026-08-13T15:00:00+00:00",
-      "summary": "初の絵本作品「ベベタンとペヨタン 星のうまれるところへ」を出版した 増山 理人（りひと）さん 鎌倉市在住 48歳 タウンニュース",
-      "id": "5c109d43144f48fb",
+      "summary": "大日本弓馬会 流鏑馬、国際団体に紹介 鎌倉伝統、視察受け入れ タウンニュース",
+      "id": "c7f33f5ba83aec9b",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -715,6 +703,30 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "８月19日・20日に鎌倉宮で例祭 子ども神輿や奉納芸能、盆踊り、夜店など",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00WmljdVRhZ2JhdjI0LTU3R0ZubW90QWtJMFRlX1R6b0xxMi04RmtDeWtQem9fRjRnVFVPbkFrS0I4MFJUZVg0YUdEVllHMm5IbnZoUWlVNXF6M0tvd2xUMnRoX0w?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-08-13T15:00:00+00:00",
+      "summary": "８月19日・20日に鎌倉宮で例祭 子ども神輿や奉納芸能、盆踊り、夜店など タウンニュース",
+      "id": "57734a1aa4f117f3",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "キディ腰越保育園 看護師が医ケア児見守る 来年度から受け入れ開始",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tUG1PTlpISG56MGdwYnllcnhoNTVQYkNFMWFBVk10Z0NxOFFNLWRoZFU1dzhDaWxOQ0h0d251SjEwSE5WLUpzTFh0SkwtbE9MQ1gtVVB0cS1uX2Fjakl2OGZpRS0?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-08-13T15:00:00+00:00",
+      "summary": "キディ腰越保育園 看護師が医ケア児見守る 来年度から受け入れ開始 タウンニュース",
+      "id": "230fcff47e47eaf7",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "最大1億円規模の2026年度「2大補助金」を徹底解説！補助金のプロ・株式会社G&N緒方佑太氏が登壇するセミナー＆経営者交流会を8月27日(木)に新宿で開催",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBicjB0aWJRcGhkYldkYzlSaWEyWk1CNENENTVMNmg3MW1fV0xtdUdjT3ctWGZCUl9fN25DX20yZ2xMNUZkSDFKRnp3Tl9mcFVuU21pRVdJZjZVZTJTbGFKcnJQRzNMSGpHNWc?oc=5",
       "source": "PR TIMES",
@@ -724,6 +736,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "レミオロメン 活動再開後初の夏フェス突入目前！ 2006年の横浜アリーナライブをYouTubeプレミア公開！",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MSEh5STN1R0lDa1BSQUdoeUlGeTlTWmpWYnA0OXFlX0g3ZXVBb1Y1Z3JETTJVYVhnRVVLbWZzLUN1aEY4SE53dDcyVkdoWEswZkEzTjR3bUh2VFVmcnVjWjdB?oc=5",
+      "source": "USENの音楽情報サイト",
+      "published": "2026-08-13T07:57:35+00:00",
+      "summary": "レミオロメン 活動再開後初の夏フェス突入目前！ 2006年の横浜アリーナライブをYouTubeプレミア公開！ USENの音楽情報サイト",
+      "id": "88092d23383c0133",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -751,6 +775,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "2026年人民公安軍事・武道・スポーツ競技大会決勝",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnlmU25oa3pHRkdVc3B2RVoyYTVrZXluRlFaNE8tLWE0SDZteUJrOXJZbTBVNnR2ZzkxZVNnZWhtZVNNTUFRY0NVc3ZVdmx1R2l4MDI2MTBqbzlKeDBhV19uYlN3eldfUzdDakE2V1dHbjNSTkZkTFF1S2FkRXlVcEZLaS1oY0lneHo0LWxtcjR1UTRtSXFWMHF6Z0licFVCcnJtOVpBTUlOZw?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-08-12T02:52:09+00:00",
+      "summary": "2026年人民公安軍事・武道・スポーツ競技大会決勝 Vietnam.vn",
+      "id": "bd5aa48f74b7d1c4",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "カウンターワークス、R&Iカンパニーリミテッドが開発したイートイン対応型トレーラーハウスの商業施設展開に協力",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtd3hVRGwwUXI5anVWVjVMMVVtSXFjZEhnS2loY0t3VURXLXc4WGQ3WTlEZUt1bkRJUWczWUtiT2Vudjh0Nk5KanBFeFNESjUtS1VXV3VXTEs5ZXo2QWJIeEhUZ0RGeEgzZHoydEpLaVdGQQ?oc=5",
       "source": "Infoseek",
@@ -775,18 +811,6 @@
       "image": ""
     },
     {
-      "title": "【速報】中小企業・個人事業主向け定番の補助金2026版・持続化補助金・デジタル化・AI導入補助金・ものづくり・新事業進出補助金【中小企業診断士・行政書士 マキノヤ先生】 Galatasaray (Q4QW4rS5Sc)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sbmlTa2VQYVlJNmpobDRDbFpoU05NcjM2OEZsWmk3SE1peXA4dE42NmhtdWtnMUZOcWdGT2Qzd0RGamZkTWltdV9zQ2txRDQ0Rjlyb1JJMUhwbXc?oc=5",
-      "source": "Mshale",
-      "published": "2026-08-11T20:03:50+00:00",
-      "summary": "【速報】中小企業・個人事業主向け定番の補助金2026版・持続化補助金・デジタル化・AI導入補助金・ものづくり・新事業進出補助金【中小企業診断士・行政書士 マキノヤ先生】 Galatasaray (Q4QW4rS5Sc) Mshale",
-      "id": "0b9042d111c09b25",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "（写真）あいみょん、甲子園での10周年凱旋ライブ “4年越しの約束”を果たしたメモリアルライブレポート",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6OUloOWlvWHlWeFRrTHdtSzZpZXR6MkN3b1BLZE9WNHR6VW96WENhSEVNQmdCZ1FDRHRBY1lXUnR1a1dyV2tfQ1ZBU2VtcDF5WW9aWUxVMDl4QQ?oc=5",
       "source": "クランクイン！",
@@ -797,18 +821,6 @@
       "topic": "推しアーティスト",
       "emoji": "🎵",
       "image": ""
-    },
-    {
-      "title": "【申請受付終了】中小・小規模企業賃上げ環境整備等支援事業費補助金の募集について - 経済部地域経済局中小企業課",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBld1NIV3NtdFI2SjZOVmE0QlljcHZSR21aR21wdmo1aVRmT1piNkxFRDJ3elRfVHUtQ09ZTzVvbExNbUVURHdjRklQaUwxNUVqdVVMVGFOTlRod3JhVTg4?oc=5",
-      "source": "pref.hokkaido.lg.jp",
-      "published": "2026-08-10T07:00:00+00:00",
-      "summary": "【申請受付終了】中小・小規模企業賃上げ環境整備等支援事業費補助金の募集について - 経済部地域経済局中小企業課 pref.hokkaido.lg.jp",
-      "id": "f96afee8c605a758",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "title": "武道の伝統からスポーツの経済発展の可能性を引き出す。",
@@ -943,6 +955,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "エクストリーム−D 株式会社 代表取締役 柴田 直樹氏 コメント",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rV1lnMHlLdDRfVG05NjF3REY5RE45VzJXTU1ybHJqYldEUXAwZGJLN19Vbjhjc1VHU1R4enU0ZVl6NGZocEF3MnVYVmV5bUNEekI0dkFjNUlzTmhMb2FQckFNZ2JwWG5hNlZB?oc=5",
+      "source": "株式会社旅行新聞新社",
+      "published": "2026-08-08T06:42:21+00:00",
+      "summary": "エクストリーム−D 株式会社 代表取締役 柴田 直樹氏 コメント 株式会社旅行新聞新社",
+      "id": "cf8c8a131b4deca6",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96NE1VYTZ2STgxOTZVaU83eWxhZm5fa0NZRGxoT0ROblAzSTF4VnlnbFF0Z2lrVC1HOEdGOF9mVVpCbUgxNl81LXY0WGZzLVB0alFnV2NRVThReHlZak11WUhUZW9qN2J3ZUE?oc=5",
       "source": "PR TIMES",
@@ -1001,19 +1025,7 @@
       "topic": "地域ニュース 品川",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "2026年人民公安軍事・武道・スポーツ大会閉会式",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3lKZFJOaElHRUFFZlZsMjNJWE1BN3FNc0VFdDRXZW83ZjNLZDRIN2sxYXBHT0pCV09Fd191M3MzWjh0Q1pRSWhPRTJjdW5DNmx2allrUFFiRHlVTUxMZVRuYnBGeXY2d2hIeFEzWmllY25LNFF0UGlSWjR6dWpZQlROMEJIa1E1Qk1wWDliSm42SDdBQ0tFZ2k0VEw?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-08-06T07:00:00+00:00",
-      "summary": "2026年人民公安軍事・武道・スポーツ大会閉会式 Vietnam.vn",
-      "id": "4bf325a6e40b2eed",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 79
+  "count": 80
 }
