@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-18T13:37:07.521605+00:00",
+  "generated_at": "2026-08-18T15:45:27.602139+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 3
+      "count": 5
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,12 +67,72 @@
   ],
   "items": [
     {
+      "title": "ベトナム青少年武道選手権大会には、約2000人の選手が参加した。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUXdMVGROVFc3UTM0ZThTanVxQjdFcEU2RjAtU2VrQWdOV1p6TmlIdS1kUnNkbHQxd3NaS1lXOWFRc2NsT3N2Q2gzenpQdF93NWx4M0Rsem9uVWVBUDFwUjRMdGEzNUFHbEp6QlpJM09iR09BdHh0R0JMQXVFVEVyZFktMXJMT1J6RUphX3JuRlN3bTZVQzdUel9STzl1TjdkWGc?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-08-18T15:03:50+00:00",
+      "summary": "ベトナム青少年武道選手権大会には、約2000人の選手が参加した。 Vietnam.vn",
+      "id": "ea3c8f5e694da423",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "タトゥーが話題・あいみょん（31）、自宅でのプライベートショット公開「洗濯まわしてる」",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIcmszY2dGeVNPY2pIWUdSVVhhMnhobElCNi16M0duOU5mdk5DNjNOZTBRQURxNThnLTM3dDFzdlRDODE3c1VGYlZTaWkxRWpBcWJvRUpMVWw1Y1ZnVk9iLTgtSnozZ3JadXEyME85QUxlSzF5eFR1ejh6cw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-08-18T14:06:24+00:00",
+      "summary": "タトゥーが話題・あいみょん（31）、自宅でのプライベートショット公開「洗濯まわしてる」 ニコニコニュース",
+      "id": "df7b83f78630b266",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Windows専用のHPプリンタをMacで動かす！開発者がClaudeでドライバを自作",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zZXQtU3UzVEtQN3Z3TldDTGJkcVlDME14WGd3TWtLZ3ZlcXRkQlBpMjQ0UDg0ekdKaXpmT2g3U19Ic3pEY0pRaWJwRF9OZlJKWmRUTWw5dEJzTXJpMm51ZUtqVUNldW5QMlhTemh2LVEzUU0?oc=5",
+      "source": "apple-hacks.com",
+      "published": "2026-08-18T13:49:57+00:00",
+      "summary": "Windows専用のHPプリンタをMacで動かす！開発者がClaudeでドライバを自作 apple-hacks.com",
+      "id": "49b9ace20559079e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "2026年ベトナム青少年武道才能選手権には、2000人以上の選手が参加した。",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdEpJdUFfWXZfWTFxSkJINnk3WHNHNy01U3JXT1BSelBQZjN4bzdZSmQyUWF2T3F5ZmFlY0gyVDgzTy0wMFNiNUk3VUE5WEQ1YjgzU2g5VHQ2MzE3X2hWV090YkQ3V2RDcUsxeUVIbC01dkVtNE4xdGlEOUExVGFXYkdKV3hkOWVPU2dCMk41a1p3dE1BVnRHMVI1N3pxMjYzMVVudUYyQmIzYWM?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-08-18T13:40:19+00:00",
+      "summary": "2026年ベトナム青少年武道才能選手権には、2000人以上の選手が参加した。 Vietnam.vn",
+      "id": "cb4419e7218c698d",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "2026年に開催される第7回ベトナム青少年武道才能選手権には、約2000人の選手が参加する予定です。",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1dVTnJEYWZlVzFoR01ZX2lnck5YUWh5Rk1NdVhCMFNyRGctZFROX01KT1p3Y0hhZkd1Mi10NnpEUGloRllIZmRsRXUzQzEwX3FHQ0tsa1MxV3BsMW5zaTE0XzdpdzR2SGRiYmFsMVkwQWMwdlQ1YmxCekwtZlgtb1p2cFF2T3BocEpPWVp4QXZfMnVQNWxiaXlRU2wzTksxaHJaTXV4aEpHZjVoT0ZhU0w0X25pUQ?oc=5",
       "source": "Vietnam.vn",
       "published": "2026-08-18T12:48:04+00:00",
       "summary": "2026年に開催される第7回ベトナム青少年武道才能選手権には、約2000人の選手が参加する予定です。 Vietnam.vn",
       "id": "07a60052ad045a66",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ベトナム青少年武道選手権大会には、約2000人の武道家が参加した。",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcVVycmkycmUtVHV6S0J3Umt2bl9NQ3ZSOUplVGJ1UE9lSzdUMWVtcFFoRm0xVXphOExxVy01Rl9jc3NucU9OZzlydTd5MV9XbFpvbENxT0pHN3JPY2NzM1puMEpZX1B3UTJ4UkR3OWxBeERlMUM4WXpsTVRUeFVIQXhWZGxGYkxVRG5Fc2I3M3BvR0Mt?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-08-18T12:42:09+00:00",
+      "summary": "ベトナム青少年武道選手権大会には、約2000人の武道家が参加した。 Vietnam.vn",
+      "id": "ffe9fa5dc33e202c",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
@@ -93,9 +153,9 @@
     {
       "title": "3D生成AIモデル「Meshy 7」がリリース！3D形状の一致精度が大幅向上",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOZ3dpVTRoX2NFcHlKVGpLdzQ4ekxLeVhrdm5nVXI2dTdoZE5zMkhybG14UVp2OFpDT0JDSVpHeTg1WlNHYlA4aDc0YkJ1UWhfV1ZxRWJVS0hSazNxSmdzdmpEM2d2dWdZQjJjWGxuWTVhSGx0SVVFOV9UMlNqaldUN2c5bGRfY2JHb0ZST29Ec0NRN0IyckVvbHRscmRYZVVkN3Nza2NSd2dMZUJGbEY4R2NXZDBKN2hTSS00ekUtcm5RSnVMYXhHUk45SVN6NHFTTWhGRnBjU1d4M3FpMV9yVWs4RHNnVEdFMFhEUlRxTG53aGJBdkpsZ0FObHhNSEZHLXUwbms1c2wzZzJ2Y2xEWnJIamd1Q011WEhtMC01N09kYXZ2d0xNRGJlLTFGVEZiU0tDT1B5d0N0WVJQYzdpcjI3Y2ZxbEtmazlleQ?oc=5",
-      "source": "cginterest.com",
+      "source": "CGinterest",
       "published": "2026-08-18T11:35:31+00:00",
-      "summary": "3D生成AIモデル「Meshy 7」がリリース！3D形状の一致精度が大幅向上 cginterest.com",
+      "summary": "3D生成AIモデル「Meshy 7」がリリース！3D形状の一致精度が大幅向上 CGinterest",
       "id": "7bbc5ed92cae716d",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -139,12 +199,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【8/19登壇】さんぽLABセミナーで産業保健における生成AI活用を代表理事・坪田康佑が実演解説",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQeUQ5Y181emRWVjRkOW0wRGJaNVlrdmtVRkVEQVQtemhNdDBhcDUxUUhsVGpZcFdRYzhvLWJpcFo4WVd1WGZvUW91RG5GRW50Y1pvU0ljVTRDWnFuN1hneE5IMm9MUERlQmc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-18T09:23:03+00:00",
-      "summary": "【8/19登壇】さんぽLABセミナーで産業保健における生成AI活用を代表理事・坪田康佑が実演解説 PR TIMES",
-      "id": "1a8eee6427b45691",
+      "title": "学生さん、気を付けて。AIが作った文章に「見えない透かし」が入るってよ",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbnJRc1c0NFZhYXdBR2JnaU5zQTEzNnczS2k4Y0RfbWJCSW5wQU5kZWcxM3RzWDJvWnhsX2VUUVVSRF9GOXo0SThWRG1ENE5VRFdMRjZwajI3dHlobEo2b3Y5YkRRSC14aDRINTlFRVlYNU1neENOcFVaRDJFaU15SVZpVm5HSmVVcXBHRzJMNDFoekVoNWIzWTRlcjh5dWlyNHI2U1pvcjhWNGJiZVZMRDVNdkZIRFQwR0JwYg?oc=5",
+      "source": "ライフハッカー",
+      "published": "2026-08-18T10:45:00+00:00",
+      "summary": "学生さん、気を付けて。AIが作った文章に「見えない透かし」が入るってよ ライフハッカー",
+      "id": "57074e7169b866ba",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -153,9 +213,9 @@
     {
       "title": "年換算収益でAnthropicがOpenAIを250億ドル上回る 成長加速でIPO観測強まる",
       "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPRjdhSF90Z0sxYjl6WklWMjhfUGpmc0JESnNsbUtyZTBaV1V5aDkyX3MwOURhZjJ0NlhRWm9HWmF0Sk1qT2RPRkxPYXE1U2JYeVI5UFNnS3RCNjJJd3lTeEQwaVBvZ0ptbUlKTHdZVWtXTmxKaUFGRlZkcFdndE9NOE5YX3Z6VmpIUTUyY0hMLUUzNDU4ckFrVGRGZGNhMmZ1ck9zRndoaUZGeFpVVkwxOF9zRExJRDdBTEsxQlpZbDlpaEtIZ2FIYjM5Z0pMdEYtcFhiN3dHemk2b0J1b3U2ZnVUcGJucDQxLU5zSlZsV1VfZDhXQklUVVZUVnVKbGxtYVcxSHFsWEFwNmtYM0Ffa3BQWnE2eW1xQl9pQkw2RUI2QWZSVHpqVUFvSEozRmttU1czeGhmNHhVU0d0S0xuUHRPaU5qOWhtcDNBZVk3OW0wUjNuOVRRbW03dnR5QWMwdEVIS2xTRkctTThXTFNBSlozMnBLblF4WXhnUDRR?oc=5",
-      "source": "yellow.com",
+      "source": "Yellow.com",
       "published": "2026-08-18T09:05:07+00:00",
-      "summary": "年換算収益でAnthropicがOpenAIを250億ドル上回る 成長加速でIPO観測強まる yellow.com",
+      "summary": "年換算収益でAnthropicがOpenAIを250億ドル上回る 成長加速でIPO観測強まる Yellow.com",
       "id": "711a251f0c86bdf4",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -285,9 +345,9 @@
     {
       "title": "Anthropic、未公開の高性能AI「Model 2」を開示 Claude Mythos 5を上回るが、外部提供せず",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDZCcjZzeUZsWmhMT09mZU1jUHp0OU1NWmxPU0MxMXQ5Q3FINFZKM1k5QVYxR3hHQ1V6cUstdnEzZ3ZtYXlGcXYxSWJNUnF4eDNoRjhOYlZmb3FPbXdkQzUtaHJfSEsyUXRGQnJQdlpLX0pncDc5LTFpMGZjRkloWTltTS1HQ0l1U2lpT2cwTkxlUEgwaV8yYVlZRTB5RUx2Zk9oYk5FaWNVdF9Z?oc=5",
-      "source": "digitaltoday.co.kr",
+      "source": "디지털투데이",
       "published": "2026-08-18T05:33:29+00:00",
-      "summary": "Anthropic、未公開の高性能AI「Model 2」を開示 Claude Mythos 5を上回るが、外部提供せず digitaltoday.co.kr",
+      "summary": "Anthropic、未公開の高性能AI「Model 2」を開示 Claude Mythos 5を上回るが、外部提供せず 디지털투데이",
       "id": "88c733ec7c9a83b5",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -296,26 +356,14 @@
     },
     {
       "title": "森七菜、4年ぶり音楽活動再開 あいみょん提供曲「カフェ・オ・レ」を10月リリース",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOZXZqMGtGQW03eXBDYVJoY3JlSHVXZFZEYUU2WUZMaDJ1MGkzblRDdVNkQU1VR2pRX2xONUY5QVFCZlU5WEdIeHpXeTJlcHIzOU5tckNSbG0wM1B5czFrSm5PZ3JxMXpIUEp1amlR?oc=5",
-      "source": "au Webポータル",
-      "published": "2026-08-18T04:12:57+00:00",
-      "summary": "森七菜、4年ぶり音楽活動再開 あいみょん提供曲「カフェ・オ・レ」を10月リリース au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14SUFrUHRTZld3YW95Ym9jZ1IyMXpuTGNEYVRhM0hqamlxZS1ZMlE3NWo3ek45NGR0VGtjSnJkT3FVRTFUQV9WMXR4VkFhSER0NWt5QlZRUnJNdlNYeVVIdDNxRlRrUFYxOGhXa1liTzhFcExlMzZSTEVPYw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-08-18T03:12:28+00:00",
+      "summary": "森七菜、4年ぶり音楽活動再開 あいみょん提供曲「カフェ・オ・レ」を10月リリース ニコニコニュース",
       "id": "694129c471ae1298",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "法人スライド生成AIの決定版へ。乗り換えキャンペーンを開始 | 株式会社ナレッジセンスのプレスリリース",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VV0xEQkVvYzRabFJ0YnJPZVF3ZXdGX3dpX3lwcGtINVNJaFJkU0M0X0xPbUlIem1iZ1h5NXpKbXhSMF9PN0J1ekdsSkdZZnhsMWthTEpOaGRDcGNnWmhEcFJnXzFQZHZnSWc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-18T03:42:52+00:00",
-      "summary": "法人スライド生成AIの決定版へ。乗り換えキャンペーンを開始 | 株式会社ナレッジセンスのプレスリリース PR TIMES",
-      "id": "6dd82b3022182c6b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -367,6 +415,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "不動産株が相次ぎ年初来安値 金利上昇加速で売り",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TeXotc19MN05objBPTnNaOFdQWUVOMDN2cGNfR25IcU9Fd0ExdmM5dHlldEZxRnJndWhrRmUwd0hpRk94ZFJZQmdFRmNKYVF3cEZ1RnplUnRrSEk5OXBOaDJrVDljYTBpanlpLQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-18T02:28:17+00:00",
+      "summary": "不動産株が相次ぎ年初来安値 金利上昇加速で売り 日本経済新聞",
+      "id": "cbe41a10d9e59520",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "青森県むつ市と東京、縁結び20年 品川区、イベントに品川汁 武蔵村山市は大湊ネブタ、パレードの顔（Web東奥）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mV29PblFDUGZoaFNwakpSTEpPRFZSWVowZklaemhWSm9kZDBNZHE2MzFBNGFWZ3RtbkhmcjlEQ2d6YnRPaWJINVlSdGFGZDVkTzhBX0FpbS1xWGd0cFktWFdSWUNRWkNnWTN5N05oNTlKM3NJMFNkSFdfUThYSEE?oc=5",
       "source": "Yahoo!ニュース",
@@ -381,9 +441,9 @@
     {
       "title": "青森県むつ市と東京、縁結び20年　品川区、イベントに品川汁　武蔵村山市は大湊ネブタ、パレードの顔",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdlFRWVpOUUxvNVRlNWtjRXQyNFpaQW5ZY2F1N183NVlDYVFWMFFxQk5zV1BOMll0eWRodjhTQ2NOMWd1Z3ktczgzenVrUWdFX1BNb2VTbktZVi1ibHA1M0FmcmpFNnUtenc4eUhaTUVOaU1BTGl2MjlQYW0zTURNcFNKN27SAYABQVVfeXFMUEVwUzR2blNLcmxuMHpHY1c0dHlCQ08xTWEyQzdIa2xyNTJJb091WHNCN2ZSSmJQdy13RjF4M0ZNeWtQM1ZfcE52eE9kUW5udlN2RHJ5MkItWlh1UHpTLW1lM0JLWGx0VWhkUUFhOEFhRm54dWRBNEx5WmpCQXRyeXA?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "published": "2026-08-18T02:00:00+00:00",
-      "summary": "青森県むつ市と東京、縁結び20年 品川区、イベントに品川汁 武蔵村山市は大湊ネブタ、パレードの顔 ｄメニューニュース",
+      "summary": "青森県むつ市と東京、縁結び20年 品川区、イベントに品川汁 武蔵村山市は大湊ネブタ、パレードの顔 topics.smt.docomo.ne.jp",
       "id": "fffcebc0cc645dbf",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -439,18 +499,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Kis-My-Ft2、15周年記念ツアー横浜アリーナ公演がU-NEXT独占配信へ オリジナル冠番組の新情報も解禁",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN1g5eDFzY1pxMGE5RjBpSmtrRi1jeUdJUEZlYnlmMmstMlhOUUw2VVYyRTRKUEROejJPMzRqOEd1RXViMmRiQmZESGFrS215X3d0NVRGQTVRUkF5bGk2LTVTUEVwcmVuN2xFWDAxXzNZUU4wTGE3MDdPS1N4NG04OTRWZnVaLXA2NjdTczhFMW93dTFfR1lDeWU3SmFMTnc0akR0bGNyTF9NWTVSUUpPWUx2TmdPUUdiN0h6Mnlpd3BMQzNmRWhRSHhoRQ?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-08-17T23:03:53+00:00",
-      "summary": "Kis-My-Ft2、15周年記念ツアー横浜アリーナ公演がU-NEXT独占配信へ オリジナル冠番組の新情報も解禁 山陽新聞",
-      "id": "e995ea8fe2ae4e5f",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "補助金クラウド運営のStayway、「FIT大阪2026」に出展 静銀コンサルと合同セミナーも開催",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IQTJyNGdjMWZQQ2g2NDN4am5HczRoNDZsdE82SUstODRFMjN4NE95ejBGZWIxNUFEZHJ5Nl9PeW13VXFZS1hnM1FzcWxDdGJhSGtXU2xsYnBCRk5RR2dLOXFQRTNPelNoU0E?oc=5",
       "source": "PR TIMES",
@@ -487,11 +535,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "川崎市、30年ぶり高金利が逆風 大型投資続き市債の金利負担重荷に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jMGNldFo4c1JoM0U2bFRLejZFMDJ4MnJ0T2FFRHE0dW5YWmN5cE56SFQ4NC1ab0FidEV4NUtTYXBoU1B6ZDFobTlzVVZGdUx4cERXRE9OQXZfTWh4RVFPTWRwSHJpaFZXVnNDaA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-17T20:00:00+00:00",
+      "summary": "川崎市、30年ぶり高金利が逆風 大型投資続き市債の金利負担重荷に 日本経済新聞",
+      "id": "28cd0078b0e7b876",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "あいみょん楽曲提供で森七菜が４年ぶり音楽活動　あいみょんファンの森が自らオファー　１０月７日シングルリリース、同１８日にイベント",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUFDTE9rRFZyUUxnMHNucGVMWW5xVVBscnZmb1JvZEluNWdSR0IwYTBjdkt5ZVNPLTZxQ1B2VGNhdV9iVXhqVGRYcVRsdmlSUlhFNThrUlVVQ0ZFRUljLXJmY1ZZYVpMSDFJTldoSjEycDBEZ3dHXzB0X0stUUJwbnVGUdIBiAFBVV95cUxNUlZQSXl3RnplSVhXN1MzcWtGbDFmXzViS1JmSWlzMW90Q0kyd2ZOdGZ0d3B4ZWM5UXNHZnlCMjFJQnd6UVdKNy1CX3JsUEljOE9pTTgtT2Q3Y0htU1RhekpFN1Z3WUJLOUhSM0xOTm9kVmJjVFN3RmNRUnhYTzBkNUFRY1hFWmp4?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "published": "2026-08-17T19:09:26+00:00",
-      "summary": "あいみょん楽曲提供で森七菜が４年ぶり音楽活動 あいみょんファンの森が自らオファー １０月７日シングルリリース、同１８日にイベント ｄメニューニュース",
+      "summary": "あいみょん楽曲提供で森七菜が４年ぶり音楽活動 あいみょんファンの森が自らオファー １０月７日シングルリリース、同１８日にイベント topics.smt.docomo.ne.jp",
       "id": "7c45225b27c1bb47",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -501,9 +561,9 @@
     {
       "title": "森七菜　あいみょん作詞作曲「カフェ・オ・レ」で4年ぶり音楽活動再開「ご褒美のようなことができたら」",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXhGOGM3WmJKWW9xOWRuREJrZk0tOGdlNVZWamZfbVdtMmMtTlZyZUJ4SExJM1psT0JtUXlsVThvbVNMMFl3WWdmTXJqRlVickxuMndOYWJJRUhqZlo1aVpQc3FiTFNWcjM4OHZCU3FjOXQ4TG41d2EycFpHSHdDbDBqS0Z1cHM3WF8tVWJkdEVNNDBKQTRn0gGcAUFVX3lxTE5fUDk4STdGajVmVU1qdUhEY04zcFg2Z01rT2FrdHd3dHc3cHNZODlLcVZjQU9ielNkS0YzeWJaNXl3WF9kRjliWlFkWE1ZUmdHZEVFTi1BdTVYbDBocHFZMkplX3I2QmRlSXluTjVlbUxxZkVUMHBBam9uMkdPb3VLS1VyTGFiY21KWEdQbzFhemNXR2VOUFRuM1R3MA?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "published": "2026-08-17T19:09:24+00:00",
-      "summary": "森七菜 あいみょん作詞作曲「カフェ・オ・レ」で4年ぶり音楽活動再開「ご褒美のようなことができたら」 ｄメニューニュース",
+      "summary": "森七菜 あいみょん作詞作曲「カフェ・オ・レ」で4年ぶり音楽活動再開「ご褒美のようなことができたら」 topics.smt.docomo.ne.jp",
       "id": "3bf2e8d7567e2f56",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -571,12 +631,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "株式会社G&N、VCとの連携強化で補助金支援キャンペーンを開始",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnNXBQSktTUkFTMUVLY3ZKcUxTeG1kZnZfa1dON1k5SUNNQUhma21LSUZMejhOemg3WUtXaGlKaGJYYy1ON1pkMENGM3BaclA5QTVyckZUNFI1RWhqV1VQeXNlNmtEVVYyNlM0?oc=5",
-      "source": "voix.jp",
-      "published": "2026-08-17T09:34:33+00:00",
-      "summary": "株式会社G&N、VCとの連携強化で補助金支援キャンペーンを開始 voix.jp",
-      "id": "6af108ebe536288a",
+      "title": "生保13社、債券含み損30兆円に拡大 金利上昇で財務圧迫リスク",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TNXBHOU1BeHVjcHQzRWphdnM5eHBnaFg3MVlkT0VXUlNESkp0eUllY3JHTmdCTVdHM3Y3ck95TWw4VEpva01YVFJ1VjJucklBZGtidmdtMDlxRW5kVFk4Z0RSNzNDODFzcGpzRw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-17T10:24:32+00:00",
+      "summary": "生保13社、債券含み損30兆円に拡大 金利上昇で財務圧迫リスク 日本経済新聞",
+      "id": "418107a6d9beae44",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -597,9 +657,9 @@
     {
       "title": "野球少年、熱闘誓う　「第48回鎌倉ライオンズクラブ旗争奪少年野球リーグ」始まる〈鎌倉市〉",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkZINDZ0VXo1dUMxOVhkbjBqaEV6TlZ5WlJKd1VfNjNyU0VBdFhuX0dMSVZMajVSeDdzWFNLTlBFcmdnTlljSDd5dUxpSktDRWNQRXVVSmluV00zRzRpRUJzUnJEcU5qSWdSOGhEV2prZ2Z2QWU4VTZxeEhISS04cNIBgAFBVV95cUxNMkZINDZ0VXo1dUMxOVhkbjBqaEV6TlZ5WlJKd1VfNjNyU0VBdFhuX0dMSVZMajVSeDdzWFNLTlBFcmdnTlljSDd5dUxpSktDRWNQRXVVSmluV00zRzRpRUJzUnJEcU5qSWdSOGhEV2prZ2Z2QWU4VTZxeEhISS04cA?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "published": "2026-08-17T03:00:00+00:00",
-      "summary": "野球少年、熱闘誓う 「第48回鎌倉ライオンズクラブ旗争奪少年野球リーグ」始まる〈鎌倉市〉 ｄメニューニュース",
+      "summary": "野球少年、熱闘誓う 「第48回鎌倉ライオンズクラブ旗争奪少年野球リーグ」始まる〈鎌倉市〉 topics.smt.docomo.ne.jp",
       "id": "c5deb275d02789d4",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -640,30 +700,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "株式会社ガイア 経済産業省「中小企業成長加速化補助金（第2次公募）」に採択されました。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16V0ZkUUJYSGhjbjV2YVRjdk5ndEcyTW93YVFOUExYd3NxMUtSRHhmdXlFd0hIQ2ZGS3RPSHRVWmtrR2M0cnQ0OEJPXzgzT3EtRmZBam5qZXVVMXRpc3BFcTl5eXl6emRzSFE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-16T09:23:11+00:00",
-      "summary": "株式会社ガイア 経済産業省「中小企業成長加速化補助金（第2次公募）」に採択されました。 PR TIMES",
-      "id": "ea89c933abbcf2aa",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Ｎｅｗｓモーニングサテライト【米・30年金利上昇は新たな時代の始まりか】(テレ東、2026/8/17 05:45 OA)の番組情報ページ",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmN5eGZuTTVsbzltSDQ5YmpKRUdGOW9BWXpTRWZhZDNEM3JHcEpYSHlXLTVCMmZIb1MwdzRXTlFlWlNucXVRTWJsazNwbVZkU29KX0EzemxMZmdya2R2NVBSaGRacWh3MVlHa3Q3c0J5X28tNllPc0tueTB4bE5BNE1Nd3h2eUpFXzRPX0hZWQ?oc=5",
-      "source": "tv-tokyo.co.jp",
-      "published": "2026-08-16T08:07:05+00:00",
-      "summary": "Ｎｅｗｓモーニングサテライト【米・30年金利上昇は新たな時代の始まりか】(テレ東、2026/8/17 05:45 OA)の番組情報ページ tv-tokyo.co.jp",
-      "id": "e3c37560d3376ed4",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -765,9 +801,9 @@
     {
       "title": "【鎌倉市】桜貝アクセサリー専門店「Lino Drops Kamakura」本店10周年！年に一度のシークレットキャンペーン開催",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS3BEbWNBMXdIRkhzTU1HcW5VcEpValgzdUhTWHRzWlZTdm9rd1B2UFd6dVI1RC1TVm83eWp2S3FDVUNrTEZhU3E2Y083ZXp5WUZiMWJfZnR0VnVUNjJKdzFwY0htUUppWG5meVROUE1VM3ZGV0lmQnNQbF9PN3BmYnFIbjM3MEZrWkVn?oc=5",
-      "source": "湘南人",
+      "source": "shonanjin.com",
       "published": "2026-08-15T08:59:51+00:00",
-      "summary": "【鎌倉市】桜貝アクセサリー専門店「Lino Drops Kamakura」本店10周年！年に一度のシークレットキャンペーン開催 湘南人",
+      "summary": "【鎌倉市】桜貝アクセサリー専門店「Lino Drops Kamakura」本店10周年！年に一度のシークレットキャンペーン開催 shonanjin.com",
       "id": "9d8236eb674ac399",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -789,9 +825,9 @@
     {
       "title": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmWmJFTG85RUhmdl9adUVrempvRnAyT0F2LW84SEN5SVRNLU1mNTBMNzlaaXRhaVcxRjBPcEFpNlE3STVDYm9NS2dEVVl6U3JZdHV6U2tJSmkxc2oxOTBobm45SDJpNEhuWUZJ?oc=5",
-      "source": "時事ドットコム",
+      "source": "jiji.com",
       "published": "2026-08-15T06:16:00+00:00",
-      "summary": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催 時事ドットコム",
+      "summary": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催 jiji.com",
       "id": "7d1c13fa32832a57",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -801,9 +837,9 @@
     {
       "title": "シニアの元気に触れる　8月28日、カラオケ・芸能大会〈鎌倉市〉",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UelU5S1pMcmQzSU1zbDF3ZG5Ra1prcVBuMk1zbFBoMnR4bV9JU2QySDlsdUg5Tko1REo2SnAzNjQtal8wczNWMHEwOUZjWjBNV0ZrNnc2QmhBa2xXaWRQbHBsN2c4dFJzRHpKX1FPenlmR0Rla3JBWHY5Y9IBgAFBVV95cUxNUU9wZXRaWTI3TzV2RHhzdVo3WEU4NWZzU3BCdzRFLS0wbzg2Xy1vUHlmNjBHWUhjVUQ2OG1RZGd5blp4NExVaUwyN19UM21ZRk40RmhLWWxRTFZfRjlaWkNhbFU2LVRkLXNXUy1leVdGR3NIZGdrVUwzNEVPeUNHZQ?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "published": "2026-08-15T06:00:00+00:00",
-      "summary": "シニアの元気に触れる 8月28日、カラオケ・芸能大会〈鎌倉市〉 ｄメニューニュース",
+      "summary": "シニアの元気に触れる 8月28日、カラオケ・芸能大会〈鎌倉市〉 topics.smt.docomo.ne.jp",
       "id": "096e454d14246278",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -813,9 +849,9 @@
     {
       "title": "県立大船フラワーセンターで8月15日、16日、22日、23日の４日間は夜花を楽しむ夜間開園　〈鎌倉市〉",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XWlg2NkFrTmt4MTYwSUowUF9FbDFsWFplckZlUzZlNEhXWXFEWXhlS3ZzekpwMUhvZFJFWFdDay1naDhZenp6SmpBc1lMa3NmcGVSWmhwLUI4Y1dGNC1kVmdCdUc2UG1mQ2Jtc2VZSEJJME5fMXYzOEt1WdIBgAFBVV95cUxORk5aSmVwejRNcU04Z0M1ME5Ebl9OZ0ZqOTRlQ29OcFdBeTB0MzFzYXhQb2QzaU5PempMaWRGbkVnYnNkaVo1N1djUWdtRm9Na1h1OUdSVzFuMjRKdVZIcno3cmVQclV2TWZvQk92NU1iV2VnMXBQc3pCckdid2tQSw?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "published": "2026-08-15T06:00:00+00:00",
-      "summary": "県立大船フラワーセンターで8月15日、16日、22日、23日の４日間は夜花を楽しむ夜間開園 〈鎌倉市〉 ｄメニューニュース",
+      "summary": "県立大船フラワーセンターで8月15日、16日、22日、23日の４日間は夜花を楽しむ夜間開園 〈鎌倉市〉 topics.smt.docomo.ne.jp",
       "id": "0aeb62440e60e2b0",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -872,10 +908,10 @@
     },
     {
       "title": "あいみょん、『マリーゴールド』が400週連続TOP100入り 快挙にコメント オリコン史上初（日テレNEWS NNN）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XRFpoeDZhcVhmbzVYejk4UERfT0h0WFZ0djh6ekZfNVZfZXBKdmdvWURHblY0YnJ5UTVGYXRhbTlETk1VeHhISlR1SVdCQy1xa1VVOElfNGtmSGJuU2ZoZnI4Q3ByaUpHS3RWQWw0Q2Q2SXFSZmQtU3g0YkVaWWM?oc=5",
-      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVQ5SElmRHhRVG9vWW1acEVuN05ncDFKNWl5NFBtbFl2djdQaUJTMlVzZkxNOW1rbGxiMlJKTDhwNm1pcG40VU5SamV2ZHI5azlvcFBLY2JnWk1KODVRN1AzeDRLb3JnVlI1YU5rMHdoazdleWRJNVRKRVJENklmV0VMZG13dkhGOW1TMy1GUDRYbldjc28w?oc=5",
+      "source": "topics.smt.docomo.ne.jp",
       "published": "2026-08-14T14:10:00+00:00",
-      "summary": "あいみょん、『マリーゴールド』が400週連続TOP100入り 快挙にコメント オリコン史上初（日テレNEWS NNN） Yahoo!ニュース",
+      "summary": "あいみょん、『マリーゴールド』が400週連続TOP100入り 快挙にコメント オリコン史上初（日テレNEWS NNN） topics.smt.docomo.ne.jp",
       "id": "2ac67e9f77caf154",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -955,6 +991,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走：山陽新聞デジタル｜さんデジ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zQnRfNF9fVkNJM1o1SWpxXzQyWFF0Z2gxWkc3ZGNMYklRdG96OXRiN0dTTFdwNVNBXzhYVGpZSm5TZGRTZ2d3RllNQmxzd0s1U21sTjBHX2VCbjdqTHFyRlFvRHh4VVU?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-08-13T22:20:36+00:00",
+      "summary": "ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走：山陽新聞デジタル｜さんデジ 山陽新聞",
+      "id": "243d63650a1aca21",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "かつては「鎌倉海老」とも 鎌倉産の伊勢海老 漁解禁",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52NzY1Rk9NLXdKSWxUV3FLOEhNQW0zVFVla1BTUkRnNHFmc00xSExvYUNTNDhrMmVMOHAyd1pWMmNiZUpweUQxQnltVzFVclNUUUlkR2h3eE5FeWxtT1YzTkRzTmQ?oc=5",
       "source": "タウンニュース",
@@ -1015,40 +1063,28 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "カウンターワークス、R&Iカンパニーリミテッドが開発したイートイン対応型トレーラーハウスの商業施設展開に協力",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtd3hVRGwwUXI5anVWVjVMMVVtSXFjZEhnS2loY0t3VURXLXc4WGQ3WTlEZUt1bkRJUWczWUtiT2Vudjh0Nk5KanBFeFNESjUtS1VXV3VXTEs5ZXo2QWJIeEhUZ0RGeEgzZHoydEpLaVdGQQ?oc=5",
+      "source": "Infoseek",
+      "published": "2026-08-12T02:15:24+00:00",
+      "summary": "カウンターワークス、R&Iカンパニーリミテッドが開発したイートイン対応型トレーラーハウスの商業施設展開に協力 Infoseek",
+      "id": "404fedec586ec324",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【ニューオープン連載】西小山の商店街に誕生！ 古民家改造した「ミチ」で味わう、イタリアン",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qZnF4WVN6MUpJY05IR0UxQVhJb1NOQWtuemxxR1JtVkF6UzFZUzQ4eUlXRFBmQ1JBekFQbHUyOEc3a3pEM3NTbVlXaTdEbU9QVG0tLTg3RzF5Y1JibEhLUW9IZC1mSlJ0anRFOGJwMHZwNDQyc2JKOXlUOXQ?oc=5",
-      "source": "ELLE",
+      "source": "elle.com",
       "published": "2026-08-12T01:04:52+00:00",
-      "summary": "【ニューオープン連載】西小山の商店街に誕生！ 古民家改造した「ミチ」で味わう、イタリアン ELLE",
+      "summary": "【ニューオープン連載】西小山の商店街に誕生！ 古民家改造した「ミチ」で味わう、イタリアン elle.com",
       "id": "7f26ad7d1d1e2815",
       "category": "不動産",
       "topic": "道場物件（品川・大田）",
       "emoji": "🏠",
       "image": ""
-    },
-    {
-      "title": "武道の伝統からスポーツの経済発展の可能性を引き出す。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMC1qQ185Tk53NVlTMFJRWFMwYUZGd21MY1l6RUgzWC1PYnhUWUJnamxVRUN1R3Rsb1FCbnB5alZkbUU5YzkwUS14LWE1MzRILXRNbTNDQUFDTTVlMEhSTkh3N3hnVV9jSV9mU0syMXdRZ2l3UklzeGg0YkFxbTh0UFE1aEZoWVVkTnR5VG5sb2JOU28xWEE?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-08-10T04:54:26+00:00",
-      "summary": "武道の伝統からスポーツの経済発展の可能性を引き出す。 Vietnam.vn",
-      "id": "1719d8a8b3f94f8d",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【開催レポート】麻布十番で「無料護身術講習会」を開催！～危険回避の心構えから離脱法・打撃の防御まで学ぶ～合気道 覇天会（合気道家・藤崎天敬師範）が護身術を指導",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TWjFGZlhmOHJwREpWNEZ1VEZoUVJ3Q09BRVNEVzhydWtRZng5X0ZNYWN5LVY3cVBHem96LWEyeHBod2pKdEVaSTU5WG55NnhZTDBoM2tybS1lNGM?oc=5",
-      "source": "valuepress",
-      "published": "2026-08-10T02:00:00+00:00",
-      "summary": "【開催レポート】麻布十番で「無料護身術講習会」を開催！～危険回避の心構えから離脱法・打撃の防御まで学ぶ～合気道 覇天会（合気道家・藤崎天敬師範）が護身術を指導 valuepress",
-      "id": "92c66a6dcb5d60a6",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "title": "【品川区】子どもをネット犯罪やSNSの危険から守る「第3回 世界の安心・安全『絆』フォーラム」きゅりあんで9/4(金)開催",
@@ -1060,18 +1096,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ハノイ国際武道祭2026閉会式：武道が文化と友情をつなぐ",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTFBCRzM0UDcwTEY1RmtneUphclo2MWRJSXhKWUZRSG5uTWVQLTNiYUpISU9TblI1aDQ1NmxKc21CbXNqRDNSVlNBTmRhRzI5MUxOb19mZzJjczlEWkpWZHg0YlNKUzFiYmZ1TDRDQnJYY00tQ0kyUkRNb09kWndwYmdqYllQVG1FdzhSbExfWEoyc1FBMlRzcTNRSk9ZZWlwMlRCTDRtdWZCU3BpTnc?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-08-09T16:48:55+00:00",
-      "summary": "ハノイ国際武道祭2026閉会式：武道が文化と友情をつなぐ Vietnam.vn",
-      "id": "2d4d8ea81fb62c16",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1099,15 +1123,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょんライブチケット2026-2027一般発売いつから？取り方と確実に取るコツも！",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTZ1ZTQkx1djFWcEZadkJPS1VVelVwMEFlM3RZcVluX2t4ejF5aURXTVFMMWUwbjRJc0VScGQtZ09aRVZmdkFPY3hiTzAxamx2MFIyNXFXMXVCUFVzM1V0eC1B?oc=5",
-      "source": "株式会社マーケットプレイス",
-      "published": "2026-08-08T07:00:00+00:00",
-      "summary": "あいみょんライブチケット2026-2027一般発売いつから？取り方と確実に取るコツも！ 株式会社マーケットプレイス",
-      "id": "86b506bc4df2378b",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
+      "title": "エクストリーム−D 株式会社 代表取締役 柴田 直樹氏 コメント",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rV1lnMHlLdDRfVG05NjF3REY5RE45VzJXTU1ybHJqYldEUXAwZGJLN19Vbjhjc1VHU1R4enU0ZVl6NGZocEF3MnVYVmV5bUNEekI0dkFjNUlzTmhMb2FQckFNZ2JwWG5hNlZB?oc=5",
+      "source": "株式会社旅行新聞新社",
+      "published": "2026-08-08T06:42:21+00:00",
+      "summary": "エクストリーム−D 株式会社 代表取締役 柴田 直樹氏 コメント 株式会社旅行新聞新社",
+      "id": "cf8c8a131b4deca6",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1123,5 +1147,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 88
+  "count": 90
 }
