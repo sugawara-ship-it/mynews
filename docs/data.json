@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-18T02:28:10.140462+00:00",
+  "generated_at": "2026-08-18T03:56:14.900537+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -14,7 +14,7 @@
       "name": "推しアーティスト",
       "category": "音楽",
       "emoji": "🎵",
-      "count": 11
+      "count": 12
     },
     {
       "name": "ライブ・コンサート全般",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 6
+      "count": 7
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,6 +67,90 @@
   ],
   "items": [
     {
+      "title": "法人スライド生成AIの決定版へ。乗り換えキャンペーンを開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VV0xEQkVvYzRabFJ0YnJPZVF3ZXdGX3dpX3lwcGtINVNJaFJkU0M0X0xPbUlIem1iZ1h5NXpKbXhSMF9PN0J1ekdsSkdZZnhsMWthTEpOaGRDcGNnWmhEcFJnXzFQZHZnSWc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-18T03:42:52+00:00",
+      "summary": "法人スライド生成AIの決定版へ。乗り換えキャンペーンを開始 PR TIMES",
+      "id": "b618bf5c4ffe2799",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "森七菜、4年ぶり音楽活動再開 あいみょん提供曲「カフェ・オ・レ」を10月リリース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14SUFrUHRTZld3YW95Ym9jZ1IyMXpuTGNEYVRhM0hqamlxZS1ZMlE3NWo3ek45NGR0VGtjSnJkT3FVRTFUQV9WMXR4VkFhSER0NWt5QlZRUnJNdlNYeVVIdDNxRlRrUFYxOGhXa1liTzhFcExlMzZSTEVPYw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-08-18T03:12:28+00:00",
+      "summary": "森七菜、4年ぶり音楽活動再開 あいみょん提供曲「カフェ・オ・レ」を10月リリース ニコニコニュース",
+      "id": "694129c471ae1298",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【ホテルメトロポリタン 鎌倉】古都鎌倉の秋を彩る伝統芸能「第68回 鎌倉薪能」観覧席付き宿泊プランを販売",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZd0Vxcnl6NUxyR3AwNDdCOXJGdlc0aVFINlQzX29PVVh4NGUtNFRhNDJwM0MwQWsteUxvZmZFZDQtdjlIUG5uUjFrbXVSc1JoN2hQTEtpU2xmdHZSS1BNTjlsVFZFZF8xb1E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-18T03:00:41+00:00",
+      "summary": "【ホテルメトロポリタン 鎌倉】古都鎌倉の秋を彩る伝統芸能「第68回 鎌倉薪能」観覧席付き宿泊プランを販売 PR TIMES",
+      "id": "c6327639382c44da",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、Claude生成コンテンツにAI透かし導入へ・・・その仕組みとは?",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pTXhGOW50MnQyRW5BNUtSaUtndDA4MUtBODRjSG04c2dlbHluelRlYk1VWjF5WG81anBIWHhIYjNRSjZPN2VYSmlCSWRKdU9IZDMyemdtQjhmZGh4UkhMT1lFaWpzOG91Smc?oc=5",
+      "source": "media-innovation.jp",
+      "published": "2026-08-18T03:00:03+00:00",
+      "summary": "Anthropic、Claude生成コンテンツにAI透かし導入へ・・・その仕組みとは? media-innovation.jp",
+      "id": "b5fb774d01a9ac11",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、Claudeの生成テキストを判定可能にする「ウォーターマーク」導入",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UMnNGeEQ2RTJSSU1uejljVDBmU1lnX0R3QjJIVjF5TVJOd0VXMUxRSnlpN1pQX2FIVjdYVWR4bGN1TXZVZ0sxM2JtczFBdw?oc=5",
+      "source": "CodeZine",
+      "published": "2026-08-18T02:30:00+00:00",
+      "summary": "Anthropic、Claudeの生成テキストを判定可能にする「ウォーターマーク」導入 CodeZine",
+      "id": "11153a9ea3ea1389",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Steamシム量産メーカーPlayWay、今月だけで「新作16本」の異常なペース、うち12本が生成AI利用。急加速する“物量”戦略",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VNm9SS2M3cjRUamd2YWFkV3Bzal9YVm90NUhROXJDQV95c2s0UldrM1p6dG9McWpoZGNOUVdyZTNwNUdUTktTek8xOU5uVDZnM2dSX3BTTjI4TWdOVnJVR3FXd1ZCTWZVQUh5Zg?oc=5",
+      "source": "AUTOMATON",
+      "published": "2026-08-18T02:18:25+00:00",
+      "summary": "Steamシム量産メーカーPlayWay、今月だけで「新作16本」の異常なペース、うち12本が生成AI利用。急加速する“物量”戦略 AUTOMATON",
+      "id": "d71f8875cd22fb5d",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "青森県むつ市と東京、縁結び20年 品川区、イベントに品川汁 武蔵村山市は大湊ネブタ、パレードの顔（Web東奥）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mV29PblFDUGZoaFNwakpSTEpPRFZSWVowZklaemhWSm9kZDBNZHE2MzFBNGFWZ3RtbkhmcjlEQ2d6YnRPaWJINVlSdGFGZDVkTzhBX0FpbS1xWGd0cFktWFdSWUNRWkNnWTN5N05oNTlKM3NJMFNkSFdfUThYSEE?oc=5",
+      "source": "news.yahoo.co.jp",
+      "published": "2026-08-18T02:00:00+00:00",
+      "summary": "青森県むつ市と東京、縁結び20年 品川区、イベントに品川汁 武蔵村山市は大湊ネブタ、パレードの顔（Web東奥） news.yahoo.co.jp",
+      "id": "6c776e7502ca3856",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "株式会社旅行新聞新社",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmSWNpMGxEbElLZ1RKMlhvM2RfYll0eHZzUmg5dEVHNUdZWVB6UGYtalAzcEt4SU8wUUc2b0RtOHpTZHoxV2RvSjd0Yjl1Q2RnWmJUckNZWHh0SnR6MVZnZDhZQlJsUGxVS0E?oc=5",
       "source": "株式会社旅行新聞新社",
@@ -91,6 +175,30 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "モビルスとネクストジェンが業務提携 オンプレミスPBX環境とクラウド生成AIソリューションとの連携が実現",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91LV9ZWkVpMTA1VWVIS09oV3Y2ZXFObTFFa091MHoxR3B4Z25mSTJsU3dNNm9xZnRyRmVfTUV1WFJpTW9iTV9YbXotalloNnZlZTNDSHhLSVBPRlRIOFZpLWg5QVUydWN1bnc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-18T01:00:02+00:00",
+      "summary": "モビルスとネクストジェンが業務提携 オンプレミスPBX環境とクラウド生成AIソリューションとの連携が実現 PR TIMES",
+      "id": "cd3bb11840aca716",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "W2 Commerce、生成AI・ECのメディア化・eギフトなど、EC事業者の売上と顧客体験を広げる44機能を開発・アップデート",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hQWdhRGhuRklJX3lqQW1CWmRkbkpXRFFHT0VXVjNfVjFfTEhLUHFqY3J6UUh6aHdJUU1yLUkyWEJ2Z1ZIYjFQXzBRSGlzR0czWVNzalZVZE9rVWZ6Y2NqM2RwQXl4dF9rR0E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-18T01:00:02+00:00",
+      "summary": "W2 Commerce、生成AI・ECのメディア化・eギフトなど、EC事業者の売上と顧客体験を広げる44機能を開発・アップデート PR TIMES",
+      "id": "36433812dfcbaec7",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Sansanの取引管理サービス「Contract One」、Claudeを組み込んだAIエージェント機能を提供",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93QnhDSXFfZTJIckhGT0NLTXlEaWQ4UGY5dUhsYzNfWk5pV0Y2WjN5NHVCcFdFaEpPZHNwbmU4S3E5RDh3d0FSTjRVOXBDUlVxcU0zVF9ob2Q4U0RfZUJMMVJZUWN0a1U?oc=5",
       "source": "クラウド Watch",
@@ -100,18 +208,6 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "補助金クラウド運営のStayway、「FIT大阪2026」に出展 静銀コンサルと合同セミナーも開催",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ycUNHMWt6bERUSVV4d3BDTTI2TVFjb1dLVDZBUTdQMEQtdi0tRGhUTWRONzIxMEwzR3VYb3BTM2pTY2FDd0R0NmlCemlmb3djTVRhZ0RkMHNZWXFjeUxoS2JGYmVrQlloRGhz?oc=5",
-      "source": "jiji.com",
-      "published": "2026-08-18T00:45:00+00:00",
-      "summary": "補助金クラウド運営のStayway、「FIT大阪2026」に出展 静銀コンサルと合同セミナーも開催 jiji.com",
-      "id": "193e4ed5e272f648",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -177,13 +273,25 @@
     {
       "title": "プラチナファミリー＞土地代だけ推定70億円 敷地面積2000坪、品川区の“大豪邸” 家主は大企業の会長（MANTANWEB）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KaVJGVGlic0FsMTgzYkU0eFQ4NVBDQWI2VDBMcDNJSFRieEI4MlNFLVJzY2FBNlV1R3NBbnBzdDY5NTlMVGhyQU9yaFNwb3hYamZIQUhyZ0RXcHp4U1RiM2FWRXBTVFFhLWxHRzVDUWo1LVFyUzNxLTQ2Rm14bGM?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-08-17T23:05:00+00:00",
-      "summary": "プラチナファミリー＞土地代だけ推定70億円 敷地面積2000坪、品川区の“大豪邸” 家主は大企業の会長（MANTANWEB） Yahoo!ニュース",
+      "summary": "プラチナファミリー＞土地代だけ推定70億円 敷地面積2000坪、品川区の“大豪邸” 家主は大企業の会長（MANTANWEB） news.yahoo.co.jp",
       "id": "4202b3e0ad086761",
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "補助金クラウド運営のStayway、「FIT大阪2026」に出展 静銀コンサルと合同セミナーも開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IQTJyNGdjMWZQQ2g2NDN4am5HczRoNDZsdE82SUstODRFMjN4NE95ejBGZWIxNUFEZHJ5Nl9PeW13VXFZS1hnM1FzcWxDdGJhSGtXU2xsYnBCRk5RR2dLOXFQRTNPelNoU0E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-17T23:00:02+00:00",
+      "summary": "補助金クラウド運営のStayway、「FIT大阪2026」に出展 静銀コンサルと合同セミナーも開催 PR TIMES",
+      "id": "193e4ed5e272f648",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -199,30 +307,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "クラーケンの親会社PaywardがAnthropicのProject Glasswingに参加し、AIセキュリティ推進に取り組む",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUdFakxMWi1DbjJGS2hUeUVObFNmWl9KNXNPaXZ1aXBlVkxlZHNxRWU5eUdQY1JiVU1KSXZZYmFxa29fYkNIWlAtWU9lSkhLVXZOZTUyZVN0MldlNlNKRUdSQ0tPNnBKb1RSR1RWNEZscTRFN1J3TGl4WFVXVDJJMHIwVGtTLXpnNEtoT0Q4d29wUWIyamZWRFlmSlIwdnhnOUFYOTdCSERkdzZTWVpWek5nWXBIb19YbEJoR1I4TQ?oc=5",
-      "source": "CoinDesk",
-      "published": "2026-08-17T22:12:00+00:00",
-      "summary": "クラーケンの親会社PaywardがAnthropicのProject Glasswingに参加し、AIセキュリティ推進に取り組む CoinDesk",
-      "id": "26331a8737cb42da",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claudeを解約するユーザーが出始めた…「AIウォーターマーク」自動埋め込み機能に「仕事に支障が出る」と反発（海外）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43UFdSbDlvT3RaN3YtNGdDUi0yTU84bnU0X1VwazBHMk81bEtiTWlBaUN6cE4zZFNrOVBMNEh6WlV4Y1hFUDV1YkdUMXlIV0ppY1FRZEFXWFF5VWFCQ2l5U1I4ZG05THNNLVRoTEZvSkk1MTRPMHVHcERqam1ONFU?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-08-17T22:10:01+00:00",
-      "summary": "Claudeを解約するユーザーが出始めた…「AIウォーターマーク」自動埋め込み機能に「仕事に支障が出る」と反発（海外） Yahoo!ニュース",
-      "id": "3b38fdd0d06f840d",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "米津玄師 ガシャポン(R)・食玩が バンダイより、2026年8月発売決定！",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fMlQycU9Hajd0R0FKZkZVajJVNU52d1lpM2NRYXU1cTNJUFZGYVNPdTEzcWxSUnZJdzVrU2FwbExSQzF4QU51QmFheDhYbmtXUUtBcEJKbW9EOV9B?oc=5",
       "source": "USENの音楽情報サイト",
@@ -232,18 +316,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ChatGPTやClaudeの利用量とコストを一元管理、無料で使える法人向け新サービス マネーフォワード",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xSEZPdXk2T2dRY2NmVUhvbHJ4bC1BS19xVHl5Qk13WTEwRGx4bGxIOGV3Zk5oWnVFWURjSi13bkwzQ3kwX3FLa0lKdDA0Rlczb0FDN0ViRTd1Q2lBMzdSN1JObURVZE5zNFN0TA?oc=5",
-      "source": "ITmedia",
-      "published": "2026-08-17T21:50:00+00:00",
-      "summary": "ChatGPTやClaudeの利用量とコストを一元管理、無料で使える法人向け新サービス マネーフォワード ITmedia",
-      "id": "85d10546a94c58b2",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -285,9 +357,9 @@
     {
       "title": "森七菜が4年ぶり音楽活動、新曲「カフェ・オ・レ」リリース…ファンクラブに入ってライブを見に行くほど大好きなあいみょんに楽曲提供オファー（中日スポーツ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xUG1fZFNpbjdvTTJlQWlZX19LTnUxWXg4eUwySFVFWG5OVmtPNFI0SVhBQ3QzUWVETnNTLW52R3RoSkhFcmRhYThUZUdROFR0Nm9pMzg1Q19xbXRHdXpQemtxdUxhRmlESWpfV0FZZXhtTW1WU0JEWGE2ZHpTQlk?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-08-17T19:00:53+00:00",
-      "summary": "森七菜が4年ぶり音楽活動、新曲「カフェ・オ・レ」リリース…ファンクラブに入ってライブを見に行くほど大好きなあいみょんに楽曲提供オファー（中日スポーツ） Yahoo!ニュース",
+      "summary": "森七菜が4年ぶり音楽活動、新曲「カフェ・オ・レ」リリース…ファンクラブに入ってライブを見に行くほど大好きなあいみょんに楽曲提供オファー（中日スポーツ） news.yahoo.co.jp",
       "id": "85694e76b72f7e3f",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -319,18 +391,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic「Claude」AIウォーターマークに“除去”ツール登場｜“消せない証明”は可能なのか",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14MzRaZjAzQ2llZ20zY1MtdThWZzVaTGdBcndqWHotOG9CalEtaS1ibHlxSEFhWTNlMzROb1JYWEx4em1mTkxodFFzM0ltZHJvaEdZ?oc=5",
-      "source": "innovatopia.jp",
-      "published": "2026-08-17T15:21:05+00:00",
-      "summary": "Anthropic「Claude」AIウォーターマークに“除去”ツール登場｜“消せない証明”は可能なのか innovatopia.jp",
-      "id": "f4b1a4fa5c0626b0",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "2026～2027年度日本経済見通し（2026年8月）（2026年4-6月期GDP1次速報後改定）",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SNkQzbnRRT21venJoNXY5NEdBWUdxdHMxS0tpMnpJekN5MFVMM2RfX1ZuQkdzeDdOSGJHQ212djljVndjcm9sMllJMkZGM0NmV0NVa21PR3VudVk?oc=5",
       "source": "第一ライフ資産運用経済研究所",
@@ -340,30 +400,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "生成AIのAnthropic、2028年売上1,900億〜2,000億ドルを想定し大型IPOの評価材料に",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTjJwR1JaTEd2LXRfQnlJQk9STUYwMW5HeFZrY3NMek1kLWV6TkZFOHZZTzEwbHhjYWc4R0ZQVmUwLUhiOU5YalMwZlR3M0hqM2x5dmFXc1lVUzZaYVNlbFBoTjFEcTV6UXI4cHAweFFBZDUxV080MWlndE85ZW1oSW1RV3lBWmNsaFJVUE41MDVBRExsaktPWkRTanRxdktHei1BUk5CdGp0X0NtaGkyU2I5clZnNXdYVDR3TXA2YjBuTUJzNkNZSkZTM2lZeVFpNlluTU5MT2I3STBkMEwtdW5GREVjZTFLcm40ZThrTFVhRkZzNENfSXY2SHg4S2xISUlKYVlnenozQQ?oc=5",
-      "source": "AT PARTNERS",
-      "published": "2026-08-17T12:01:21+00:00",
-      "summary": "生成AIのAnthropic、2028年売上1,900億〜2,000億ドルを想定し大型IPOの評価材料に AT PARTNERS",
-      "id": "2ee52d8f524c0011",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "実はAnthropicには最上位のMythosよりも強力な「Model 2」というAIモデルがあるがリリース予定はない",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DNzZPamt5WTFrYlJLQ0dJS2NBa0cwZHduYm8xRHo4R2lBU2JNbS1yWEYwOXVUc3NyN09fOEcxZWpRbjl3UVhtdlFuWU9vV3RfOUFjeVJyZE95UlR2LVdYYmp2NA?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-08-17T12:00:00+00:00",
-      "summary": "実はAnthropicには最上位のMythosよりも強力な「Model 2」というAIモデルがあるがリリース予定はない GIGAZINE",
-      "id": "e994c0337cdd7208",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -379,11 +415,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "生保13社、債券含み損30兆円に拡大 金利上昇で財務圧迫リスク",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TNXBHOU1BeHVjcHQzRWphdnM5eHBnaFg3MVlkT0VXUlNESkp0eUllY3JHTmdCTVdHM3Y3ck95TWw4VEpva01YVFJ1VjJucklBZGtidmdtMDlxRW5kVFk4Z0RSNzNDODFzcGpzRw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-17T10:24:32+00:00",
+      "summary": "生保13社、債券含み損30兆円に拡大 金利上昇で財務圧迫リスク 日本経済新聞",
+      "id": "418107a6d9beae44",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "株式会社G&N、VCとの連携強化で補助金支援キャンペーンを開始",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnNXBQSktTUkFTMUVLY3ZKcUxTeG1kZnZfa1dON1k5SUNNQUhma21LSUZMejhOemg3WUtXaGlKaGJYYy1ON1pkMENGM3BaclA5QTVyckZUNFI1RWhqV1VQeXNlNmtEVVYyNlM0?oc=5",
-      "source": "ニュースメディアVOIX",
+      "source": "voix.jp",
       "published": "2026-08-17T09:34:33+00:00",
-      "summary": "株式会社G&N、VCとの連携強化で補助金支援キャンペーンを開始 ニュースメディアVOIX",
+      "summary": "株式会社G&N、VCとの連携強化で補助金支援キャンペーンを開始 voix.jp",
       "id": "6af108ebe536288a",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -393,9 +441,9 @@
     {
       "title": "TMNETWORK、公開収録イベント『キク・ミル・ヨム観測日』放送・配信決定 新作『QUANTUM』をメンバー3人と",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kUm1aNzJfSDlvV0I3WWdJZ1NiNUhDczRxa0FlOEt4aDBiS3VzVk5FajlENU5qQk5wQXFvU09TV2R4SzBJVHI2OFlDRVdIVXRTRUoxQ0ptSWVvejVwY1J5LWNIQjgzbVV3Zl9HYjdjWTBjWmMtbmM3VDZoWQ?oc=5",
-      "source": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "published": "2026-08-17T03:00:28+00:00",
-      "summary": "TMNETWORK、公開収録イベント『キク・ミル・ヨム観測日』放送・配信決定 新作『QUANTUM』をメンバー3人と news.nicovideo.jp",
+      "summary": "TMNETWORK、公開収録イベント『キク・ミル・ヨム観測日』放送・配信決定 新作『QUANTUM』をメンバー3人と ニコニコニュース",
       "id": "2b166487bc3b8838",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -439,11 +487,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "ゆず×羽生結弦が対談、初共演の舞台裏を貴重映像とともに紹介",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tMGdGT09hTkgtVk1qMHB5Z1JDZU5SYklHMzJyRXBLLWx6Q3pGcTMtWnJ1MWZldHpoNmgxeHhMSVlrejF4T3FGWHNfbjlneXMwR2VHLTNydG5ZWjlVbXJXa2VB?oc=5",
+      "source": "Billboard JAPAN",
+      "published": "2026-08-16T14:25:00+00:00",
+      "summary": "ゆず×羽生結弦が対談、初共演の舞台裏を貴重映像とともに紹介 Billboard JAPAN",
+      "id": "b891c9cb68aa3b76",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "STARGLOW、ファンミ横浜アリーナ公演より「Drivin' My Life」ライブ映像を公開",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SUi1RaW5VdU9sbUFLSmI5dHFQbXl4NHc5Tk41N2hOc3RBa2dCRVE3V3VIWm01RFJNeDdQMm5iME1KLVJhX0xIUUwyd2pVeVM3Z1dQZ2hXLVloOHBRREx2ZTEwdWM5UXEtYTVkQXhMZ2ZRV20yUHZOZldoSkYyN00?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-08-16T13:30:05+00:00",
-      "summary": "STARGLOW、ファンミ横浜アリーナ公演より「Drivin' My Life」ライブ映像を公開 Yahoo!ニュース",
+      "summary": "STARGLOW、ファンミ横浜アリーナ公演より「Drivin' My Life」ライブ映像を公開 news.yahoo.co.jp",
       "id": "f6fc448dd61e344a",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -496,18 +556,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "銀行預金、今は半年〜1年物の選択が賢明か 日銀利上げ加速なら",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YSFJNaEVrSkFoV0RQbXZSWG5ZU3NTQ2FZMG5MVFprRUpDOGVoMzZWQm5GS0d6QXFud3FiRHBKRWljblFjTTYxNGQ4TU15UzVCMWpmRmdWS3RmaVJRR0Z4UHlNSzF2RER3WWtYOA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-16T02:00:00+00:00",
-      "summary": "銀行預金、今は半年〜1年物の選択が賢明か 日銀利上げ加速なら 日本経済新聞",
-      "id": "d823678ec83d7f11",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -573,9 +621,9 @@
     {
       "title": "STARGLOW、ファンミーティングツアーの横浜アリーナ公演より最新シングル「Drivin’ My Life」ライブ映像公開",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiazdja3lkZnpnZGlPNHhWdi04SGhLd2QzYjRLLUxzWGNYemxpVk0zVmNOMmFtV0YySUlwU1FRMkJuM0U?oc=5",
-      "source": "BARKS",
+      "source": "barks.jp",
       "published": "2026-08-15T10:00:00+00:00",
-      "summary": "STARGLOW、ファンミーティングツアーの横浜アリーナ公演より最新シングル「Drivin’ My Life」ライブ映像公開 BARKS",
+      "summary": "STARGLOW、ファンミーティングツアーの横浜アリーナ公演より最新シングル「Drivin’ My Life」ライブ映像公開 barks.jp",
       "id": "58d31c258ce97bcc",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -585,9 +633,9 @@
     {
       "title": "【鎌倉市】桜貝アクセサリー専門店「Lino Drops Kamakura」本店10周年！年に一度のシークレットキャンペーン開催",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS3BEbWNBMXdIRkhzTU1HcW5VcEpValgzdUhTWHRzWlZTdm9rd1B2UFd6dVI1RC1TVm83eWp2S3FDVUNrTEZhU3E2Y083ZXp5WUZiMWJfZnR0VnVUNjJKdzFwY0htUUppWG5meVROUE1VM3ZGV0lmQnNQbF9PN3BmYnFIbjM3MEZrWkVn?oc=5",
-      "source": "shonanjin.com",
+      "source": "湘南人",
       "published": "2026-08-15T08:59:51+00:00",
-      "summary": "【鎌倉市】桜貝アクセサリー専門店「Lino Drops Kamakura」本店10周年！年に一度のシークレットキャンペーン開催 shonanjin.com",
+      "summary": "【鎌倉市】桜貝アクセサリー専門店「Lino Drops Kamakura」本店10周年！年に一度のシークレットキャンペーン開催 湘南人",
       "id": "9d8236eb674ac399",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -669,9 +717,9 @@
     {
       "title": "あいみょん、『マリーゴールド』が400週連続TOP100入り 快挙にコメント オリコン史上初（日テレNEWS NNN）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XRFpoeDZhcVhmbzVYejk4UERfT0h0WFZ0djh6ekZfNVZfZXBKdmdvWURHblY0YnJ5UTVGYXRhbTlETk1VeHhISlR1SVdCQy1xa1VVOElfNGtmSGJuU2ZoZnI4Q3ByaUpHS3RWQWw0Q2Q2SXFSZmQtU3g0YkVaWWM?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-08-14T14:10:00+00:00",
-      "summary": "あいみょん、『マリーゴールド』が400週連続TOP100入り 快挙にコメント オリコン史上初（日テレNEWS NNN） Yahoo!ニュース",
+      "summary": "あいみょん、『マリーゴールド』が400週連続TOP100入り 快挙にコメント オリコン史上初（日テレNEWS NNN） news.yahoo.co.jp",
       "id": "2ac67e9f77caf154",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -733,18 +781,6 @@
       "published": "2026-08-14T06:22:20+00:00",
       "summary": "三菱、鎌倉製作所で科学教室開催 ソーラーカーの工作体験 電波新聞デジタル",
       "id": "6c63112f8ec2b802",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "上田市中塩田地域恒例の「信州の鎌倉 塩田平の夏まつり」2026が中塩田小学校で開かれる！ ☆校庭で行う予定だったイベントは「台風15号」の影響で体育館に変更",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sNG5yZDBpcml1bE9Jbkd6c0tWY0JCUE4ydklQMUo3QzJLZ1VxTHRya19NU3FxdFRjZlVHOVQ1MmV3blMtQ29tLW1ZUWZxZHVfdlpwaG4zbXg?oc=5",
-      "source": "東信ジャーナル",
-      "published": "2026-08-14T01:02:00+00:00",
-      "summary": "上田市中塩田地域恒例の「信州の鎌倉 塩田平の夏まつり」2026が中塩田小学校で開かれる！ ☆校庭で行う予定だったイベントは「台風15号」の影響で体育館に変更 東信ジャーナル",
-      "id": "f7aa9e89c7d3670c",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -955,18 +991,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょんライブチケット2026-2027一般発売いつから？取り方と確実に取るコツも！",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTZ1ZTQkx1djFWcEZadkJPS1VVelVwMEFlM3RZcVluX2t4ejF5aURXTVFMMWUwbjRJc0VScGQtZ09aRVZmdkFPY3hiTzAxamx2MFIyNXFXMXVCUFVzM1V0eC1B?oc=5",
-      "source": "株式会社マーケットプレイス",
-      "published": "2026-08-08T07:00:00+00:00",
-      "summary": "あいみょんライブチケット2026-2027一般発売いつから？取り方と確実に取るコツも！ 株式会社マーケットプレイス",
-      "id": "86b506bc4df2378b",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "2026年全国伝統武道クラブ選手権大会：開催国が複数の目標を同時に達成。",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFpaNzFJanpSLTZseHVPUWZEOF80NGNVTnhKM09Id0h0SWVQaTFfbnpPS3JuTi1kQWs0ZVlqWnFfYXUxSU1aa2dZRUNyUy1yelJQM3ozQ2dLUEg2RFhvVHRpZzN2VFljdFU1SS1tTFVLMzRNSEszV2hRN2xqTG1Ha0N5VWxRWkt4aFZfTkpJWmlrcGFZMVJnM1lEWTRFcktuaUY2TkxWWGs4eW0wbXVoMkhzNA?oc=5",
       "source": "Vietnam.vn",
@@ -1051,5 +1075,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 82
+  "count": 84
 }
