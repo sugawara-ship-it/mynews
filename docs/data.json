@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-18T00:27:09.278430+00:00",
+  "generated_at": "2026-08-18T01:27:39.772100+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 6
+      "count": 5
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,6 +67,30 @@
   ],
   "items": [
     {
+      "title": "Sansanの取引管理サービス「Contract One」、Claudeを組み込んだAIエージェント機能を提供",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93QnhDSXFfZTJIckhGT0NLTXlEaWQ4UGY5dUhsYzNfWk5pV0Y2WjN5NHVCcFdFaEpPZHNwbmU4S3E5RDh3d0FSTjRVOXBDUlVxcU0zVF9ob2Q4U0RfZUJMMVJZUWN0a1U?oc=5",
+      "source": "クラウド Watch",
+      "published": "2026-08-18T01:00:00+00:00",
+      "summary": "Sansanの取引管理サービス「Contract One」、Claudeを組み込んだAIエージェント機能を提供 クラウド Watch",
+      "id": "735aad2d367b6f87",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic年率売上650億ドル超IPO加速 - CHOSUNBIZ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WTWllZGJlT3FoczhwdXlhTGhXZXRwX1VXNXNyS3djaHZmaHhuUExvQUdKRUNWNEQ1b2NobGNROVlDeGpaaE11YTZNUEFITnhlWUpCNkM5OXJlUFVJc1hwdEIyZEpJak0xWTZ3Zm1sSnZvcC1DaGQ4aXVn0gGOAUFVX3lxTFByNjllaGRtOGFmWm96bjh3QkRLYm5KWExBLUpETThVN25PUmczRU8xLURRdE5WMkxXQm5yRDZrTFR4N0dHRXVhSnNXN3FLX0RmQ0c3OEFnVDJFejNpMTNqb09IVTh4QXZxc005REJNTUp2eWdBVGh5MGpMM0JQanA1Q25BQnVNSU1DZjJqS1E?oc=5",
+      "source": "biz.chosun.com",
+      "published": "2026-08-18T00:23:00+00:00",
+      "summary": "Anthropic年率売上650億ドル超IPO加速 - CHOSUNBIZ biz.chosun.com",
+      "id": "fd6f7808392b70c3",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "中小法人がすぐ取り組める低コスト人材採用戦略を講演「採用カンファレンス2026 in 大阪」9/2（水）開催",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlV0NHQXRtTnRianU1dWZsbXBFbnVoR1pnNGFfR2twdkVhMTFEWWY0LVZ3VmdndllZSEYxUURmS0N1RUg4elB1dzEwSVpiYTlZMTlhNlVuZW9Bek1xRGtwTlNLX1BmRHE1X1E?oc=5",
       "source": "PR TIMES",
@@ -81,9 +105,9 @@
     {
       "title": "AnthropicのARR、650億ドルに拡大 1年で7倍、OpenAI超え",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc3VJbGNMTUZWTkNtVzZWcjN3MURnV2V6QnJBZzdhVXRkQklVc01fYjhnUDAwN3NZWWJBdnFqelJKNHVEZzJlczlwaHVZTmgtc2tUc3pDMWtqT3pDYVBURFgwNWpDYkV1Y1kwOXF3OWFPT3REcjVMYTM4TzhvRGltYU14MDZCRlpUQ3JLQ2loSGFsYjEtVGlYQ1Z0ZXI4dEl1a3dpcEgwXzl0Wk1QRXhtMWFfRzlHdy15OUFrVE50eFVxbnNpd1Fj?oc=5",
-      "source": "디지털투데이",
+      "source": "digitaltoday.co.kr",
       "published": "2026-08-17T23:16:29+00:00",
-      "summary": "AnthropicのARR、650億ドルに拡大 1年で7倍、OpenAI超え 디지털투데이",
+      "summary": "AnthropicのARR、650億ドルに拡大 1年で7倍、OpenAI超え digitaltoday.co.kr",
       "id": "c5727dd37738cacc",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -91,12 +115,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "補助金クラウド運営のStayway、「FIT大阪2026」に出展 静銀コンサルと合同セミナーも開催",
+      "title": "Kis-My-Ft2、15周年記念ツアー横浜アリーナ公演がU-NEXT独占配信へ オリジナル冠番組の新情報も解禁",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN1g5eDFzY1pxMGE5RjBpSmtrRi1jeUdJUEZlYnlmMmstMlhOUUw2VVYyRTRKUEROejJPMzRqOEd1RXViMmRiQmZESGFrS215X3d0NVRGQTVRUkF5bGk2LTVTUEVwcmVuN2xFWDAxXzNZUU4wTGE3MDdPS1N4NG04OTRWZnVaLXA2NjdTczhFMW93dTFfR1lDeWU3SmFMTnc0akR0bGNyTF9NWTVSUUpPWUx2TmdPUUdiN0h6Mnlpd3BMQzNmRWhRSHhoRQ?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-08-17T23:03:53+00:00",
+      "summary": "Kis-My-Ft2、15周年記念ツアー横浜アリーナ公演がU-NEXT独占配信へ オリジナル冠番組の新情報も解禁 山陽新聞",
+      "id": "e995ea8fe2ae4e5f",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "補助金クラウド運営のStayway、「FIT大阪2026」に出展 静銀コンサルと合同セミナーも開催 | 株式会社Staywayのプレスリリース",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IQTJyNGdjMWZQQ2g2NDN4am5HczRoNDZsdE82SUstODRFMjN4NE95ejBGZWIxNUFEZHJ5Nl9PeW13VXFZS1hnM1FzcWxDdGJhSGtXU2xsYnBCRk5RR2dLOXFQRTNPelNoU0E?oc=5",
       "source": "PR TIMES",
       "published": "2026-08-17T23:00:02+00:00",
-      "summary": "補助金クラウド運営のStayway、「FIT大阪2026」に出展 静銀コンサルと合同セミナーも開催 PR TIMES",
-      "id": "193e4ed5e272f648",
+      "summary": "補助金クラウド運営のStayway、「FIT大阪2026」に出展 静銀コンサルと合同セミナーも開催 | 株式会社Staywayのプレスリリース PR TIMES",
+      "id": "0e852309e0376671",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -139,11 +175,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "米津玄師 ガシャポン(R)・食玩が バンダイより、2026年8月発売決定！",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fMlQycU9Hajd0R0FKZkZVajJVNU52d1lpM2NRYXU1cTNJUFZGYVNPdTEzcWxSUnZJdzVrU2FwbExSQzF4QU51QmFheDhYbmtXUUtBcEJKbW9EOV9B?oc=5",
+      "source": "USENの音楽情報サイト",
+      "published": "2026-08-17T21:57:18+00:00",
+      "summary": "米津玄師 ガシャポン(R)・食玩が バンダイより、2026年8月発売決定！ USENの音楽情報サイト",
+      "id": "35582f53eb372876",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ChatGPTやClaudeの利用量とコストを一元管理、無料で使える法人向け新サービス マネーフォワード",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xSEZPdXk2T2dRY2NmVUhvbHJ4bC1BS19xVHl5Qk13WTEwRGx4bGxIOGV3Zk5oWnVFWURjSi13bkwzQ3kwX3FLa0lKdDA0Rlczb0FDN0ViRTd1Q2lBMzdSN1JObURVZE5zNFN0TA?oc=5",
-      "source": "itmedia.co.jp",
+      "source": "ITmedia",
       "published": "2026-08-17T21:50:00+00:00",
-      "summary": "ChatGPTやClaudeの利用量とコストを一元管理、無料で使える法人向け新サービス マネーフォワード itmedia.co.jp",
+      "summary": "ChatGPTやClaudeの利用量とコストを一元管理、無料で使える法人向け新サービス マネーフォワード ITmedia",
       "id": "85d10546a94c58b2",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -235,18 +283,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米津玄師 ガシャポン(R)・食玩が バンダイより、2026年8月発売決定！",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fMlQycU9Hajd0R0FKZkZVajJVNU52d1lpM2NRYXU1cTNJUFZGYVNPdTEzcWxSUnZJdzVrU2FwbExSQzF4QU51QmFheDhYbmtXUUtBcEJKbW9EOV9B?oc=5",
-      "source": "USENの音楽情報サイト",
-      "published": "2026-08-17T14:50:48+00:00",
-      "summary": "米津玄師 ガシャポン(R)・食玩が バンダイより、2026年8月発売決定！ USENの音楽情報サイト",
-      "id": "35582f53eb372876",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "2026～2027年度日本経済見通し（2026年8月）（2026年4-6月期GDP1次速報後改定）",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SNkQzbnRRT21venJoNXY5NEdBWUdxdHMxS0tpMnpJekN5MFVMM2RfX1ZuQkdzeDdOSGJHQ212djljVndjcm9sMllJMkZGM0NmV0NVa21PR3VudVk?oc=5",
       "source": "第一ライフ資産運用経済研究所",
@@ -325,30 +361,6 @@
       "published": "2026-08-17T08:54:04+00:00",
       "summary": "Claude Codeによるエンジニア採用の革新を探る~クラシル・kubell・グッドパッチ・AnotherBallの実践から学ぶ交流会 ニュースメディアVOIX",
       "id": "ee3e5c468732f607",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude生成文に「見えない透かし」 EU AI法対応で世界展開へ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tM2FsZ1VPZW81U2hmYzAweDBLOEQ1a3NwMEVlUUktamkzSVJjaUloRnV0dk95dzA5a0pmdGNudTdKbzZnSE5QNjYyU0g5ZlVkSUVyc0FlVF9kNnNmQnIw?oc=5",
-      "source": "千葉テレビ放送",
-      "published": "2026-08-17T08:22:00+00:00",
-      "summary": "Claude生成文に「見えない透かし」 EU AI法対応で世界展開へ 千葉テレビ放送",
-      "id": "d1e5c2c472bd641b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AIへの反発は「信頼の危機」｜Anthropic CEOアモデイ氏、ベイカー氏の批判に反論",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwNkhlaHlBX2swV0tZcjJGbGlaaF9vZHdLcGp2dnFvRzBKV0M3MldSQklnN2xtdWRBRzB0ZlRzWU5VeHM0d3dzYTNNdlJBeDNVallF?oc=5",
-      "source": "innovaTopia",
-      "published": "2026-08-17T08:05:41+00:00",
-      "summary": "AIへの反発は「信頼の危機」｜Anthropic CEOアモデイ氏、ベイカー氏の批判に反論 innovaTopia",
-      "id": "fd8ffb65873262dc",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -609,9 +621,9 @@
     {
       "title": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EVDB4Ri11Ymk5SktCckNTUldVSWppeFJsdEhKVDRpMDhqdTd2U1ZDWkNOYXlHUy02amxXMjNZVGJMdUdDMV8wcEJOSnVHZEd6UVF0WXBWSnNfWlFGdFlwbGZCWUlTem9KOTJpUDU1T1Y4WnBjM3ljRl9B?oc=5",
-      "source": "イザ！",
+      "source": "iza.ne.jp",
       "published": "2026-08-15T05:10:00+00:00",
-      "summary": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催 イザ！",
+      "summary": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催 iza.ne.jp",
       "id": "7d1c13fa32832a57",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -661,18 +673,6 @@
       "published": "2026-08-14T09:12:16+00:00",
       "summary": "『バズリズム LIVE 2026』横浜アリーナで3日間開催 Vaundy、超特急、Saucy Dogら第1弾発表 エンタのおはなし",
       "id": "980854e1d491420c",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "グループ史上最大規模のワンマンライブ『iLiFE!ワンマンLIVE「MEGALiFE!」＠Kアリーナ横浜』を8月26日（水）17時30分より「ABEMA PPV」にて独占生配信決定！",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QT1dmdWFwWXZFcU8tVnZsS2RBejVhVnZwZXdzNWJTSFVEWklWRnp3Rkxhb2Fmd1p4azM4UnV2WGZ6dVdBVVR3cXFTNTRYaVJBUi1ZMUZCMXBUU0Z5XzVQNjZpbWJjVG1OZFE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-14T09:10:01+00:00",
-      "summary": "グループ史上最大規模のワンマンライブ『iLiFE!ワンマンLIVE「MEGALiFE!」＠Kアリーナ横浜』を8月26日（水）17時30分より「ABEMA PPV」にて独占生配信決定！ PR TIMES",
-      "id": "70a09aa1b8172431",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -739,12 +739,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "かつては「鎌倉海老」とも 鎌倉産の伊勢海老 漁解禁",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52NzY1Rk9NLXdKSWxUV3FLOEhNQW0zVFVla1BTUkRnNHFmc00xSExvYUNTNDhrMmVMOHAyd1pWMmNiZUpweUQxQnltVzFVclNUUUlkR2h3eE5FeWxtT1YzTkRzTmQ?oc=5",
+      "title": "ゴルフ場がテーマパークに ９月26日、鎌パブでイベント",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1id0FfZndib0FEc05vc2tjTml0VzdhVWlUU3NtVFBsSE1wZk4tMDUxMDNiYkpzU29vLUlrVHI3ODMzdC1PZFo5WWNpbFh6c252UTdGM3ZnbnBYUENTQlQydFlVcWM?oc=5",
       "source": "タウンニュース",
       "published": "2026-08-13T15:00:00+00:00",
-      "summary": "かつては「鎌倉海老」とも 鎌倉産の伊勢海老 漁解禁 タウンニュース",
-      "id": "be0977ec6e63ae2f",
+      "summary": "ゴルフ場がテーマパークに ９月26日、鎌パブでイベント タウンニュース",
+      "id": "75e6e7a6c102891b",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "先生も｢炭火｣のように探究を 学校の枠超え｢子どもたちの未来と自らの学び｣語らう",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pZEkxa3pWc2hrblB0aFlXNDk2UGtqU3A1QXFQSnZobHF6dFhtdWoyLVZpcXZUcHhPSHRyRTdZQmtSVHVucXF2TmVIZWFxNUNneklMU1o1blhfY2lRbTdOakdxalo?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-08-13T15:00:00+00:00",
+      "summary": "先生も｢炭火｣のように探究を 学校の枠超え｢子どもたちの未来と自らの学び｣語らう タウンニュース",
+      "id": "487f20cb58f0d100",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -787,18 +799,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "野球少年、熱闘誓う 「第48回鎌倉ライオンズクラブ旗争奪少年野球リーグ」始まる",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PS3lRTFA3WUlMakxBWVplTnpXcXZCbXVDM3B3N3pKcV9RRTFxb3FvZXdDelZ1NTZ6ckRYTkJWQjZhT1F2NS1mNEJhRnYxOFRXNUdhQlIyR1k2aWhOeGhlamRiRzM?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-08-13T15:00:00+00:00",
-      "summary": "野球少年、熱闘誓う 「第48回鎌倉ライオンズクラブ旗争奪少年野球リーグ」始まる タウンニュース",
-      "id": "45b97f07dc41f153",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "レミオロメン 活動再開後初の夏フェス突入目前！ 2006年の横浜アリーナライブをYouTubeプレミア公開！",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MSEh5STN1R0lDa1BSQUdoeUlGeTlTWmpWYnA0OXFlX0g3ZXVBb1Y1Z3JETTJVYVhnRVVLbWZzLUN1aEY4SE53dDcyVkdoWEswZkEzTjR3bUh2VFVmcnVjWjdB?oc=5",
       "source": "USENの音楽情報サイト",
@@ -817,6 +817,18 @@
       "published": "2026-08-13T07:00:00+00:00",
       "summary": "ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催 ウォーカープラス",
       "id": "648ede1b0fb90298",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "2026年人民公安軍事・武道・スポーツ競技大会決勝",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnlmU25oa3pHRkdVc3B2RVoyYTVrZXluRlFaNE8tLWE0SDZteUJrOXJZbTBVNnR2ZzkxZVNnZWhtZVNNTUFRY0NVc3ZVdmx1R2l4MDI2MTBqbzlKeDBhV19uYlN3eldfUzdDakE2V1dHbjNSTkZkTFF1S2FkRXlVcEZLaS1oY0lneHo0LWxtcjR1UTRtSXFWMHF6Z0licFVCcnJtOVpBTUlOZw?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-08-12T02:52:09+00:00",
+      "summary": "2026年人民公安軍事・武道・スポーツ競技大会決勝 Vietnam.vn",
+      "id": "bd5aa48f74b7d1c4",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
@@ -1003,41 +1015,17 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "東京都や品川区が熊本支援　職員増派、〝最先端〟物資提供　公立住宅の無償貸し出しも",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM1hhNExMV3pUa0ZGQjZMRjVVUzZCRkhUUDlXbnRqcHpmWnlMVWxaZTlHc1RBQzJMX1A0ZUs3dk1nYjBBT3lpWFlmVE1ZR3hJaWRvRW9mZFFyb1BnWDlHUWI1SFM2SUlSZEhBbmdJVTZ4U2ZaNG9uNDlwV3VfX2h2M2hnWF9JX185TDRDUlRiTktwbC1COGxJRm8wNkFhc19Ya01iUWFFZnLSAa4BQVVfeXFMTU55Mzh5T2NGazJqRHhBOXpQYWkwN21sdVlnR3hPWFdseXFQSGU3a3J4Vk5EdU9YS3lVTWFqV1ZhQ3A2cWkzUFFNYWd1YjBRTlhhc3BiZml5d3l0LUpWOEVjeTJVWVpVakcxSFBTOE9GYmRZUF9xa3A4WlE0eFJJYWpZM3hxT1NYZnBqSFlsaXR2QnY2ZFpXZnh2UFZJdGtjSDNrMzJDeGhUU0xVajBn?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
-      "published": "2026-08-06T07:00:00+00:00",
-      "summary": "東京都や品川区が熊本支援 職員増派、〝最先端〟物資提供 公立住宅の無償貸し出しも topics.smt.docomo.ne.jp",
-      "id": "1d74a4775f93970c",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "2026年人民公安軍事・武道・スポーツ大会閉会式",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3lKZFJOaElHRUFFZlZsMjNJWE1BN3FNc0VFdDRXZW83ZjNLZDRIN2sxYXBHT0pCV09Fd191M3MzWjh0Q1pRSWhPRTJjdW5DNmx2allrUFFiRHlVTUxMZVRuYnBGeXY2d2hIeFEzWmllY25LNFF0UGlSWjR6dWpZQlROMEJIa1E1Qk1wWDliSm42SDdBQ0tFZ2k0VEw?oc=5",
+      "title": "ハノイ国際武道フェスティバル2026：武道の卓越性の集結を待ち望んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYVdvclR4NGYwQnpRME9vZlVEV1JxSkZXRzVnb3FjbUw4VDdmaUZrdThBRGxkcDhnZlBvcWM1QU5WNWhkbXRDTjlzOGZTSmNEMUNCWHU3WTdmRFlxdEdGdGhQUHcxLTdXQy1nVXBGUE5tdnhVV1VfOTgxWW5RZWN6MHFDRy1NSHF5Rzdab0dNQmw4bHluZ3VSMTVHUEZIUQ?oc=5",
       "source": "Vietnam.vn",
       "published": "2026-08-06T07:00:00+00:00",
-      "summary": "2026年人民公安軍事・武道・スポーツ大会閉会式 Vietnam.vn",
-      "id": "4bf325a6e40b2eed",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ラムドン省警察署は、2026年警察軍事・武道・スポーツ競技大会決勝で総合3位を獲得した。",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMVRLY1Q2QW5GeW9fM0Z3WTF3R2g1UXlsdkxzMjZFUHZnUHcyanloYjhEa2NuNEc5Q1haZ3h5UjJoamxmaEk1NVJDUTJjUzRBY1A5a09HSTB4VFVaZFhNZElVaHlPaGJGdHdtTm1LX0JxYVRfQy1qSmNDZmg1allYbDF4c1NVVXpMWTRxNm5rLWdUWWszbUZFYU8yTGNkSWZFUFNqTjZWdUhpRW5uLTUyd1lCWlJHQ2pGUjk3aW5oZjhROWpBOVlFZm8xOFdISGtzOWJLd1F2RQ?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-08-06T07:00:00+00:00",
-      "summary": "ラムドン省警察署は、2026年警察軍事・武道・スポーツ競技大会決勝で総合3位を獲得した。 Vietnam.vn",
-      "id": "685a044cdb029ded",
+      "summary": "ハノイ国際武道フェスティバル2026：武道の卓越性の集結を待ち望んでいます。 Vietnam.vn",
+      "id": "de932476c33ade27",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 81
+  "count": 80
 }
