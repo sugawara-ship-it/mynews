@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-18T01:27:39.772100+00:00",
+  "generated_at": "2026-08-18T02:28:10.140462+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 2
+      "count": 3
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 5
+      "count": 6
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,6 +67,30 @@
   ],
   "items": [
     {
+      "title": "株式会社旅行新聞新社",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmSWNpMGxEbElLZ1RKMlhvM2RfYll0eHZzUmg5dEVHNUdZWVB6UGYtalAzcEt4SU8wUUc2b0RtOHpTZHoxV2RvSjd0Yjl1Q2RnWmJUckNZWHh0SnR6MVZnZDhZQlJsUGxVS0E?oc=5",
+      "source": "株式会社旅行新聞新社",
+      "published": "2026-08-18T01:51:31+00:00",
+      "summary": "株式会社旅行新聞新社 株式会社旅行新聞新社",
+      "id": "e9a6d0dde1a390ca",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Sumo Logic（スモーロジック）、解析ステートメントを自動生成するAI Parse Assistをリリース",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjZKejJwWFNOUlNNLXNLdjBxTjE0RWptYXVhaUZsN0prNmdueW8xUXdENHJGTzdERXVWN2pNTDE3a1JUZjNhQnFpR0pjYjBrY2lqVXR4ZFpUWDFwMFNMNEFDUVpPeUI4MW5jb1dJX25HMHg3QlEzMjE5U01RV3dHUHAzUFFuREd0NWNaX2tBOExldjVOOFNEbDhwVQ?oc=5",
+      "source": "DXable News",
+      "published": "2026-08-18T01:28:41+00:00",
+      "summary": "Sumo Logic（スモーロジック）、解析ステートメントを自動生成するAI Parse Assistをリリース DXable News",
+      "id": "3024ad053016034d",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Sansanの取引管理サービス「Contract One」、Claudeを組み込んだAIエージェント機能を提供",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93QnhDSXFfZTJIckhGT0NLTXlEaWQ4UGY5dUhsYzNfWk5pV0Y2WjN5NHVCcFdFaEpPZHNwbmU4S3E5RDh3d0FSTjRVOXBDUlVxcU0zVF9ob2Q4U0RfZUJMMVJZUWN0a1U?oc=5",
       "source": "クラウド Watch",
@@ -79,11 +103,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "補助金クラウド運営のStayway、「FIT大阪2026」に出展 静銀コンサルと合同セミナーも開催",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ycUNHMWt6bERUSVV4d3BDTTI2TVFjb1dLVDZBUTdQMEQtdi0tRGhUTWRONzIxMEwzR3VYb3BTM2pTY2FDd0R0NmlCemlmb3djTVRhZ0RkMHNZWXFjeUxoS2JGYmVrQlloRGhz?oc=5",
+      "source": "jiji.com",
+      "published": "2026-08-18T00:45:00+00:00",
+      "summary": "補助金クラウド運営のStayway、「FIT大阪2026」に出展 静銀コンサルと合同セミナーも開催 jiji.com",
+      "id": "193e4ed5e272f648",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Anthropic年率売上650億ドル超IPO加速 - CHOSUNBIZ",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WTWllZGJlT3FoczhwdXlhTGhXZXRwX1VXNXNyS3djaHZmaHhuUExvQUdKRUNWNEQ1b2NobGNROVlDeGpaaE11YTZNUEFITnhlWUpCNkM5OXJlUFVJc1hwdEIyZEpJak0xWTZ3Zm1sSnZvcC1DaGQ4aXVn0gGOAUFVX3lxTFByNjllaGRtOGFmWm96bjh3QkRLYm5KWExBLUpETThVN25PUmczRU8xLURRdE5WMkxXQm5yRDZrTFR4N0dHRXVhSnNXN3FLX0RmQ0c3OEFnVDJFejNpMTNqb09IVTh4QXZxc005REJNTUp2eWdBVGh5MGpMM0JQanA1Q25BQnVNSU1DZjJqS1E?oc=5",
-      "source": "biz.chosun.com",
+      "source": "Chosunbiz",
       "published": "2026-08-18T00:23:00+00:00",
-      "summary": "Anthropic年率売上650億ドル超IPO加速 - CHOSUNBIZ biz.chosun.com",
+      "summary": "Anthropic年率売上650億ドル超IPO加速 - CHOSUNBIZ Chosunbiz",
       "id": "fd6f7808392b70c3",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -103,11 +139,35 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "AI検索・生成AIに選ばれやすいWebサイトかどうか調査し、改善案をリストアップするツール「AI検索最適化診断」を無料で提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPZWhPYmFyXzNaMlVJOHRLOC1UcXo3bFQwZENsQnQ5Q3ZhSEY5SEphMHN4R1IxTnlXRm4tZFhrVHhhZVJYVEQ4Wm9HWEF2UmUxa0wtMHk0ZjFBWUpoRTczM1VjWW85Q0YxUHc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-18T00:00:02+00:00",
+      "summary": "AI検索・生成AIに選ばれやすいWebサイトかどうか調査し、改善案をリストアップするツール「AI検索最適化診断」を無料で提供開始 PR TIMES",
+      "id": "e0a89a5b7eabfbe5",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "長期金利上昇、一時2.945% 財政懸念や日銀利上げ観測で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TSUNhdUxlTGRiRGVWbG9fNllNbW80Zl9Vdm9feUdXdmFnRTBFd2VreVh1ZG1yWGJfUkdCRkpsbE5SYnNBNGFodXFfU0FmbTRZcWlfdmp1Ni1mOXFUMklHZkdhLWlWNkgycldBaA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-17T23:59:35+00:00",
+      "summary": "長期金利上昇、一時2.945% 財政懸念や日銀利上げ観測で 日本経済新聞",
+      "id": "9eae3255c516df8c",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "AnthropicのARR、650億ドルに拡大 1年で7倍、OpenAI超え",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc3VJbGNMTUZWTkNtVzZWcjN3MURnV2V6QnJBZzdhVXRkQklVc01fYjhnUDAwN3NZWWJBdnFqelJKNHVEZzJlczlwaHVZTmgtc2tUc3pDMWtqT3pDYVBURFgwNWpDYkV1Y1kwOXF3OWFPT3REcjVMYTM4TzhvRGltYU14MDZCRlpUQ3JLQ2loSGFsYjEtVGlYQ1Z0ZXI4dEl1a3dpcEgwXzl0Wk1QRXhtMWFfRzlHdy15OUFrVE50eFVxbnNpd1Fj?oc=5",
-      "source": "digitaltoday.co.kr",
+      "source": "디지털투데이",
       "published": "2026-08-17T23:16:29+00:00",
-      "summary": "AnthropicのARR、650億ドルに拡大 1年で7倍、OpenAI超え digitaltoday.co.kr",
+      "summary": "AnthropicのARR、650億ドルに拡大 1年で7倍、OpenAI超え 디지털투데이",
       "id": "c5727dd37738cacc",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -115,27 +175,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Kis-My-Ft2、15周年記念ツアー横浜アリーナ公演がU-NEXT独占配信へ オリジナル冠番組の新情報も解禁",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN1g5eDFzY1pxMGE5RjBpSmtrRi1jeUdJUEZlYnlmMmstMlhOUUw2VVYyRTRKUEROejJPMzRqOEd1RXViMmRiQmZESGFrS215X3d0NVRGQTVRUkF5bGk2LTVTUEVwcmVuN2xFWDAxXzNZUU4wTGE3MDdPS1N4NG04OTRWZnVaLXA2NjdTczhFMW93dTFfR1lDeWU3SmFMTnc0akR0bGNyTF9NWTVSUUpPWUx2TmdPUUdiN0h6Mnlpd3BMQzNmRWhRSHhoRQ?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-08-17T23:03:53+00:00",
-      "summary": "Kis-My-Ft2、15周年記念ツアー横浜アリーナ公演がU-NEXT独占配信へ オリジナル冠番組の新情報も解禁 山陽新聞",
-      "id": "e995ea8fe2ae4e5f",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "補助金クラウド運営のStayway、「FIT大阪2026」に出展 静銀コンサルと合同セミナーも開催 | 株式会社Staywayのプレスリリース",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IQTJyNGdjMWZQQ2g2NDN4am5HczRoNDZsdE82SUstODRFMjN4NE95ejBGZWIxNUFEZHJ5Nl9PeW13VXFZS1hnM1FzcWxDdGJhSGtXU2xsYnBCRk5RR2dLOXFQRTNPelNoU0E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-17T23:00:02+00:00",
-      "summary": "補助金クラウド運営のStayway、「FIT大阪2026」に出展 静銀コンサルと合同セミナーも開催 | 株式会社Staywayのプレスリリース PR TIMES",
-      "id": "0e852309e0376671",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
+      "title": "プラチナファミリー＞土地代だけ推定70億円 敷地面積2000坪、品川区の“大豪邸” 家主は大企業の会長（MANTANWEB）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KaVJGVGlic0FsMTgzYkU0eFQ4NVBDQWI2VDBMcDNJSFRieEI4MlNFLVJzY2FBNlV1R3NBbnBzdDY5NTlMVGhyQU9yaFNwb3hYamZIQUhyZ0RXcHp4U1RiM2FWRXBTVFFhLWxHRzVDUWo1LVFyUzNxLTQ2Rm14bGM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-08-17T23:05:00+00:00",
+      "summary": "プラチナファミリー＞土地代だけ推定70億円 敷地面積2000坪、品川区の“大豪邸” 家主は大企業の会長（MANTANWEB） Yahoo!ニュース",
+      "id": "4202b3e0ad086761",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -213,9 +261,9 @@
     {
       "title": "あいみょん楽曲提供で森七菜が４年ぶり音楽活動　あいみょんファンの森が自らオファー　１０月７日シングルリリース、同１８日にイベント",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUFDTE9rRFZyUUxnMHNucGVMWW5xVVBscnZmb1JvZEluNWdSR0IwYTBjdkt5ZVNPLTZxQ1B2VGNhdV9iVXhqVGRYcVRsdmlSUlhFNThrUlVVQ0ZFRUljLXJmY1ZZYVpMSDFJTldoSjEycDBEZ3dHXzB0X0stUUJwbnVGUdIBiAFBVV95cUxNUlZQSXl3RnplSVhXN1MzcWtGbDFmXzViS1JmSWlzMW90Q0kyd2ZOdGZ0d3B4ZWM5UXNHZnlCMjFJQnd6UVdKNy1CX3JsUEljOE9pTTgtT2Q3Y0htU1RhekpFN1Z3WUJLOUhSM0xOTm9kVmJjVFN3RmNRUnhYTzBkNUFRY1hFWmp4?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "published": "2026-08-17T19:09:26+00:00",
-      "summary": "あいみょん楽曲提供で森七菜が４年ぶり音楽活動 あいみょんファンの森が自らオファー １０月７日シングルリリース、同１８日にイベント topics.smt.docomo.ne.jp",
+      "summary": "あいみょん楽曲提供で森七菜が４年ぶり音楽活動 あいみょんファンの森が自らオファー １０月７日シングルリリース、同１８日にイベント ｄメニューニュース",
       "id": "7c45225b27c1bb47",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -225,9 +273,9 @@
     {
       "title": "森七菜　あいみょん作詞作曲「カフェ・オ・レ」で4年ぶり音楽活動再開「ご褒美のようなことができたら」",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXhGOGM3WmJKWW9xOWRuREJrZk0tOGdlNVZWamZfbVdtMmMtTlZyZUJ4SExJM1psT0JtUXlsVThvbVNMMFl3WWdmTXJqRlVickxuMndOYWJJRUhqZlo1aVpQc3FiTFNWcjM4OHZCU3FjOXQ4TG41d2EycFpHSHdDbDBqS0Z1cHM3WF8tVWJkdEVNNDBKQTRn0gGcAUFVX3lxTE5fUDk4STdGajVmVU1qdUhEY04zcFg2Z01rT2FrdHd3dHc3cHNZODlLcVZjQU9ielNkS0YzeWJaNXl3WF9kRjliWlFkWE1ZUmdHZEVFTi1BdTVYbDBocHFZMkplX3I2QmRlSXluTjVlbUxxZkVUMHBBam9uMkdPb3VLS1VyTGFiY21KWEdQbzFhemNXR2VOUFRuM1R3MA?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "published": "2026-08-17T19:09:24+00:00",
-      "summary": "森七菜 あいみょん作詞作曲「カフェ・オ・レ」で4年ぶり音楽活動再開「ご褒美のようなことができたら」 topics.smt.docomo.ne.jp",
+      "summary": "森七菜 あいみょん作詞作曲「カフェ・オ・レ」で4年ぶり音楽活動再開「ご褒美のようなことができたら」 ｄメニューニュース",
       "id": "3bf2e8d7567e2f56",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -273,9 +321,9 @@
     {
       "title": "Anthropic「Claude」AIウォーターマークに“除去”ツール登場｜“消せない証明”は可能なのか",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14MzRaZjAzQ2llZ20zY1MtdThWZzVaTGdBcndqWHotOG9CalEtaS1ibHlxSEFhWTNlMzROb1JYWEx4em1mTkxodFFzM0ltZHJvaEdZ?oc=5",
-      "source": "innovaTopia",
+      "source": "innovatopia.jp",
       "published": "2026-08-17T15:21:05+00:00",
-      "summary": "Anthropic「Claude」AIウォーターマークに“除去”ツール登場｜“消せない証明”は可能なのか innovaTopia",
+      "summary": "Anthropic「Claude」AIウォーターマークに“除去”ツール登場｜“消せない証明”は可能なのか innovatopia.jp",
       "id": "f4b1a4fa5c0626b0",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -331,18 +379,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "古いミニPCとClaude Codeのおかげでスマートホームに出戻りました",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCV0ZxVXRNQ1pDbFR4VlNheG04RUNYN05vbTYwT1ZUQWJvcE5tTnBNTjdnY0VQUXYwRUdWUU5HZVBuejlkSDB3b0xiekRUMG9kMW5BNzhGVlhPU1h4Qk9RbFNIUmtkM0FqVzFCaXdQZzBjdEZHd2NWd0hXaG13QQ?oc=5",
-      "source": "Korben",
-      "published": "2026-08-17T10:02:36+00:00",
-      "summary": "古いミニPCとClaude Codeのおかげでスマートホームに出戻りました Korben",
-      "id": "121980dfb2c0de95",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "株式会社G&N、VCとの連携強化で補助金支援キャンペーンを開始",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnNXBQSktTUkFTMUVLY3ZKcUxTeG1kZnZfa1dON1k5SUNNQUhma21LSUZMejhOemg3WUtXaGlKaGJYYy1ON1pkMENGM3BaclA5QTVyckZUNFI1RWhqV1VQeXNlNmtEVVYyNlM0?oc=5",
       "source": "ニュースメディアVOIX",
@@ -355,23 +391,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Codeによるエンジニア採用の革新を探る~クラシル・kubell・グッドパッチ・AnotherBallの実践から学ぶ交流会",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81Q3k3TjdVcVU4Q2RiQXg3QWpEWVQ5TVhveEF3dURVdWszZ2E0SDFjQXpPUkdaRVg5RVA0VjhvRFJGY2YxQmtmRTZaQnMzVVQydFp5WnhjbDdkNmhweENfa3ZLbi1TVGZGakNTLW1ocWN5NUtVOTVJSUlvRQ?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-08-17T08:54:04+00:00",
-      "summary": "Claude Codeによるエンジニア採用の革新を探る~クラシル・kubell・グッドパッチ・AnotherBallの実践から学ぶ交流会 ニュースメディアVOIX",
-      "id": "ee3e5c468732f607",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "TMNETWORK、公開収録イベント『キク・ミル・ヨム観測日』放送・配信決定 新作『QUANTUM』をメンバー3人と",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kUm1aNzJfSDlvV0I3WWdJZ1NiNUhDczRxa0FlOEt4aDBiS3VzVk5FajlENU5qQk5wQXFvU09TV2R4SzBJVHI2OFlDRVdIVXRTRUoxQ0ptSWVvejVwY1J5LWNIQjgzbVV3Zl9HYjdjWTBjWmMtbmM3VDZoWQ?oc=5",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "published": "2026-08-17T03:00:28+00:00",
-      "summary": "TMNETWORK、公開収録イベント『キク・ミル・ヨム観測日』放送・配信決定 新作『QUANTUM』をメンバー3人と ニコニコニュース",
+      "summary": "TMNETWORK、公開収録イベント『キク・ミル・ヨム観測日』放送・配信決定 新作『QUANTUM』をメンバー3人と news.nicovideo.jp",
       "id": "2b166487bc3b8838",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -381,9 +405,9 @@
     {
       "title": "野球少年、熱闘誓う　「第48回鎌倉ライオンズクラブ旗争奪少年野球リーグ」始まる〈鎌倉市〉",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkZINDZ0VXo1dUMxOVhkbjBqaEV6TlZ5WlJKd1VfNjNyU0VBdFhuX0dMSVZMajVSeDdzWFNLTlBFcmdnTlljSDd5dUxpSktDRWNQRXVVSmluV00zRzRpRUJzUnJEcU5qSWdSOGhEV2prZ2Z2QWU4VTZxeEhISS04cNIBgAFBVV95cUxNMkZINDZ0VXo1dUMxOVhkbjBqaEV6TlZ5WlJKd1VfNjNyU0VBdFhuX0dMSVZMajVSeDdzWFNLTlBFcmdnTlljSDd5dUxpSktDRWNQRXVVSmluV00zRzRpRUJzUnJEcU5qSWdSOGhEV2prZ2Z2QWU4VTZxeEhISS04cA?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "published": "2026-08-17T03:00:00+00:00",
-      "summary": "野球少年、熱闘誓う 「第48回鎌倉ライオンズクラブ旗争奪少年野球リーグ」始まる〈鎌倉市〉 topics.smt.docomo.ne.jp",
+      "summary": "野球少年、熱闘誓う 「第48回鎌倉ライオンズクラブ旗争奪少年野球リーグ」始まる〈鎌倉市〉 ｄメニューニュース",
       "id": "c5deb275d02789d4",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -400,18 +424,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "長期金利一時2.93%、30年ぶり高水準 日銀の早期利上げ観測",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByRWd6aGxZZEVVOW1IR1lVaE5PRWM5T2N1NVU4NG81SkczbC1JV2pwWTgwWS1xT1Y3eEJhSlB1R1B3SV9nTXJUNmFUTkRGZG9vNUl5dnJ5U3lKamNTV0poRFdjbjdaUk1rUmM5aQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-17T01:05:03+00:00",
-      "summary": "長期金利一時2.93%、30年ぶり高水準 日銀の早期利上げ観測 日本経済新聞",
-      "id": "77434291c193f718",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -573,9 +585,9 @@
     {
       "title": "【鎌倉市】桜貝アクセサリー専門店「Lino Drops Kamakura」本店10周年！年に一度のシークレットキャンペーン開催",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS3BEbWNBMXdIRkhzTU1HcW5VcEpValgzdUhTWHRzWlZTdm9rd1B2UFd6dVI1RC1TVm83eWp2S3FDVUNrTEZhU3E2Y083ZXp5WUZiMWJfZnR0VnVUNjJKdzFwY0htUUppWG5meVROUE1VM3ZGV0lmQnNQbF9PN3BmYnFIbjM3MEZrWkVn?oc=5",
-      "source": "湘南人",
+      "source": "shonanjin.com",
       "published": "2026-08-15T08:59:51+00:00",
-      "summary": "【鎌倉市】桜貝アクセサリー専門店「Lino Drops Kamakura」本店10周年！年に一度のシークレットキャンペーン開催 湘南人",
+      "summary": "【鎌倉市】桜貝アクセサリー専門店「Lino Drops Kamakura」本店10周年！年に一度のシークレットキャンペーン開催 shonanjin.com",
       "id": "9d8236eb674ac399",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -595,11 +607,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmWmJFTG85RUhmdl9adUVrempvRnAyT0F2LW84SEN5SVRNLU1mNTBMNzlaaXRhaVcxRjBPcEFpNlE3STVDYm9NS2dEVVl6U3JZdHV6U2tJSmkxc2oxOTBobm45SDJpNEhuWUZJ?oc=5",
+      "source": "jiji.com",
+      "published": "2026-08-15T06:16:00+00:00",
+      "summary": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催 jiji.com",
+      "id": "7d1c13fa32832a57",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "シニアの元気に触れる　8月28日、カラオケ・芸能大会〈鎌倉市〉",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UelU5S1pMcmQzSU1zbDF3ZG5Ra1prcVBuMk1zbFBoMnR4bV9JU2QySDlsdUg5Tko1REo2SnAzNjQtal8wczNWMHEwOUZjWjBNV0ZrNnc2QmhBa2xXaWRQbHBsN2c4dFJzRHpKX1FPenlmR0Rla3JBWHY5Y9IBgAFBVV95cUxNUU9wZXRaWTI3TzV2RHhzdVo3WEU4NWZzU3BCdzRFLS0wbzg2Xy1vUHlmNjBHWUhjVUQ2OG1RZGd5blp4NExVaUwyN19UM21ZRk40RmhLWWxRTFZfRjlaWkNhbFU2LVRkLXNXUy1leVdGR3NIZGdrVUwzNEVPeUNHZQ?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "published": "2026-08-15T06:00:00+00:00",
-      "summary": "シニアの元気に触れる 8月28日、カラオケ・芸能大会〈鎌倉市〉 topics.smt.docomo.ne.jp",
+      "summary": "シニアの元気に触れる 8月28日、カラオケ・芸能大会〈鎌倉市〉 ｄメニューニュース",
       "id": "096e454d14246278",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -609,25 +633,13 @@
     {
       "title": "超特急ライブチケット2026一般発売いつから？取り方と確実に取るコツも！",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SR2Rid1Z2cXdyV0t5TGJHWEdkbUVwNXJYOWt5QnFzd2lzTW1Qa0Zyc0RKN0pjZ2dPZzd6MFJvbGR1SWd3VlF5TTB0Q0YzclJtbmd3Z2lvdVh5Yy1Sanh6eGhYZXYtSE9PdFcxYkZTRWJQeEtY?oc=5",
-      "source": "marketplace.co.jp",
+      "source": "株式会社マーケットプレイス",
       "published": "2026-08-15T05:40:47+00:00",
-      "summary": "超特急ライブチケット2026一般発売いつから？取り方と確実に取るコツも！ marketplace.co.jp",
+      "summary": "超特急ライブチケット2026一般発売いつから？取り方と確実に取るコツも！ 株式会社マーケットプレイス",
       "id": "c3e7cceff6b6edbf",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EVDB4Ri11Ymk5SktCckNTUldVSWppeFJsdEhKVDRpMDhqdTd2U1ZDWkNOYXlHUy02amxXMjNZVGJMdUdDMV8wcEJOSnVHZEd6UVF0WXBWSnNfWlFGdFlwbGZCWUlTem9KOTJpUDU1T1Y4WnBjM3ljRl9B?oc=5",
-      "source": "iza.ne.jp",
-      "published": "2026-08-15T05:10:00+00:00",
-      "summary": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催 iza.ne.jp",
-      "id": "7d1c13fa32832a57",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -736,6 +748,18 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走：山陽新聞デジタル｜さんデジ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zQnRfNF9fVkNJM1o1SWpxXzQyWFF0Z2gxWkc3ZGNMYklRdG96OXRiN0dTTFdwNVNBXzhYVGpZSm5TZGRTZ2d3RllNQmxzd0s1U21sTjBHX2VCbjdqTHFyRlFvRHh4VVU?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-08-13T22:20:36+00:00",
+      "summary": "ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走：山陽新聞デジタル｜さんデジ 山陽新聞",
+      "id": "243d63650a1aca21",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -933,9 +957,9 @@
     {
       "title": "あいみょんライブチケット2026-2027一般発売いつから？取り方と確実に取るコツも！",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTZ1ZTQkx1djFWcEZadkJPS1VVelVwMEFlM3RZcVluX2t4ejF5aURXTVFMMWUwbjRJc0VScGQtZ09aRVZmdkFPY3hiTzAxamx2MFIyNXFXMXVCUFVzM1V0eC1B?oc=5",
-      "source": "marketplace.co.jp",
+      "source": "株式会社マーケットプレイス",
       "published": "2026-08-08T07:00:00+00:00",
-      "summary": "あいみょんライブチケット2026-2027一般発売いつから？取り方と確実に取るコツも！ marketplace.co.jp",
+      "summary": "あいみょんライブチケット2026-2027一般発売いつから？取り方と確実に取るコツも！ 株式会社マーケットプレイス",
       "id": "86b506bc4df2378b",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -1005,9 +1029,9 @@
     {
       "title": "東京・品川区が熊本地震被災者へ区立公営住宅を無償貸し出し　家電、家具も区が用意",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTlNOQU5vSU1nMzJaYk1ZN3NhengwWWUyRzJ5RjBJWUk4RGJtdWhRQXNibF84Ym5TbHBIdVRiR3NpanBxU1dNUllUYTBiSkpJMXNySE56bEMzT19NU2JWQzY2U0E4U0xjdUhSYXNqRlpmeU9lYVJpeFhWS2VveDFSam5qWDJoWlByZ1RzRno3VURFbWRPYmpjZ0ZQMkROZUtzN2FubHN3VHDSAa4BQVVfeXFMT3QtcUFoYW03RHd5alFXdnZaX2dOTk9SelV3Q05DRjJNV2J0U3NNOE5EWlBzRG1zSWFYMjJrUTUwMXVtZEFWM3pqdTA2dHRELXJseWtlMUZEQXU3MTd3d2p5N0FEZjVFVTRyVlMyYnJ2dmxPTWlwTDBmUkszM3ZoUWtmelE2Mm5mT1VtSDdoM3d0c1JIQWtHbUN6eldWRE1odEZGeFJFWTZyOFh4TXh3?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "published": "2026-08-06T07:00:00+00:00",
-      "summary": "東京・品川区が熊本地震被災者へ区立公営住宅を無償貸し出し 家電、家具も区が用意 topics.smt.docomo.ne.jp",
+      "summary": "東京・品川区が熊本地震被災者へ区立公営住宅を無償貸し出し 家電、家具も区が用意 ｄメニューニュース",
       "id": "545616e7364d1cb7",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1027,5 +1051,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 80
+  "count": 82
 }
