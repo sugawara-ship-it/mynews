@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-18T03:56:14.900537+00:00",
+  "generated_at": "2026-08-18T04:56:37.368772+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 3
+      "count": 5
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 7
+      "count": 8
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -88,6 +88,30 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "オリコンニュース：土地代だけで推定70億円…品川区にある大豪邸を公開「これ家じゃないよ…」",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sZWc3RnJFWnRnbXFTbU40eE5lOU9PLXhBQ18wMzdoZ1YwM2hMdmZBME1UeHNtQlFRVlk5d3BGUHF0SFlGcWNjbmg0cTI1NXRMRFlkRFpHNjl2R2NqZkNLYjVkaTFIOHA0?oc=5",
+      "source": "毎日新聞",
+      "published": "2026-08-18T03:05:00+00:00",
+      "summary": "オリコンニュース：土地代だけで推定70億円…品川区にある大豪邸を公開「これ家じゃないよ…」 毎日新聞",
+      "id": "5f3a359cd783ec34",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "クラーケン親会社ペイワード、ソフトウェア脆弱性検出にAnthropicのAIを導入",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92RXdkbXI0UlA5c3ZUcmp4bEdoVjVnZXNVb3V4bEZnQVUxbUhZdzN0ZFMzNFZJYndjVXBqNXl0NWpTZGhnZFl3Qjk4cWNuWHZ0WmZjdzUySGNLcDdVcnZNMmpZMkZvYVlOVDc4WWc1ZmQ0UUdE?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-08-18T03:05:00+00:00",
+      "summary": "クラーケン親会社ペイワード、ソフトウェア脆弱性検出にAnthropicのAIを導入 BigGo ファイナンス",
+      "id": "6ea07715d77e6231",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -141,9 +165,9 @@
     {
       "title": "青森県むつ市と東京、縁結び20年 品川区、イベントに品川汁 武蔵村山市は大湊ネブタ、パレードの顔（Web東奥）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mV29PblFDUGZoaFNwakpSTEpPRFZSWVowZklaemhWSm9kZDBNZHE2MzFBNGFWZ3RtbkhmcjlEQ2d6YnRPaWJINVlSdGFGZDVkTzhBX0FpbS1xWGd0cFktWFdSWUNRWkNnWTN5N05oNTlKM3NJMFNkSFdfUThYSEE?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "published": "2026-08-18T02:00:00+00:00",
-      "summary": "青森県むつ市と東京、縁結び20年 品川区、イベントに品川汁 武蔵村山市は大湊ネブタ、パレードの顔（Web東奥） news.yahoo.co.jp",
+      "summary": "青森県むつ市と東京、縁結び20年 品川区、イベントに品川汁 武蔵村山市は大湊ネブタ、パレードの顔（Web東奥） Yahoo!ニュース",
       "id": "6c776e7502ca3856",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -273,9 +297,9 @@
     {
       "title": "プラチナファミリー＞土地代だけ推定70億円 敷地面積2000坪、品川区の“大豪邸” 家主は大企業の会長（MANTANWEB）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KaVJGVGlic0FsMTgzYkU0eFQ4NVBDQWI2VDBMcDNJSFRieEI4MlNFLVJzY2FBNlV1R3NBbnBzdDY5NTlMVGhyQU9yaFNwb3hYamZIQUhyZ0RXcHp4U1RiM2FWRXBTVFFhLWxHRzVDUWo1LVFyUzNxLTQ2Rm14bGM?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "published": "2026-08-17T23:05:00+00:00",
-      "summary": "プラチナファミリー＞土地代だけ推定70億円 敷地面積2000坪、品川区の“大豪邸” 家主は大企業の会長（MANTANWEB） news.yahoo.co.jp",
+      "summary": "プラチナファミリー＞土地代だけ推定70億円 敷地面積2000坪、品川区の“大豪邸” 家主は大企業の会長（MANTANWEB） Yahoo!ニュース",
       "id": "4202b3e0ad086761",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -292,18 +316,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Codeが突然止まった夜、開発者は何をしていたか。8月16日の36分間で見えたAI依存の輪郭",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9hSldWQm9RRnNyQ3U2YnpTU3JDV0o0RUlIemx0TnhELWVxcnk4LW1oQ000Q1psdGJBZ1h2VVFYODU?oc=5",
-      "source": "shiritomo",
-      "published": "2026-08-17T22:25:30+00:00",
-      "summary": "Claude Codeが突然止まった夜、開発者は何をしていたか。8月16日の36分間で見えたAI依存の輪郭 shiritomo",
-      "id": "9b9a8a3dee01d524",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -357,9 +369,9 @@
     {
       "title": "森七菜が4年ぶり音楽活動、新曲「カフェ・オ・レ」リリース…ファンクラブに入ってライブを見に行くほど大好きなあいみょんに楽曲提供オファー（中日スポーツ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xUG1fZFNpbjdvTTJlQWlZX19LTnUxWXg4eUwySFVFWG5OVmtPNFI0SVhBQ3QzUWVETnNTLW52R3RoSkhFcmRhYThUZUdROFR0Nm9pMzg1Q19xbXRHdXpQemtxdUxhRmlESWpfV0FZZXhtTW1WU0JEWGE2ZHpTQlk?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "published": "2026-08-17T19:00:53+00:00",
-      "summary": "森七菜が4年ぶり音楽活動、新曲「カフェ・オ・レ」リリース…ファンクラブに入ってライブを見に行くほど大好きなあいみょんに楽曲提供オファー（中日スポーツ） news.yahoo.co.jp",
+      "summary": "森七菜が4年ぶり音楽活動、新曲「カフェ・オ・レ」リリース…ファンクラブに入ってライブを見に行くほど大好きなあいみょんに楽曲提供オファー（中日スポーツ） Yahoo!ニュース",
       "id": "85694e76b72f7e3f",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -429,9 +441,9 @@
     {
       "title": "株式会社G&N、VCとの連携強化で補助金支援キャンペーンを開始",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnNXBQSktTUkFTMUVLY3ZKcUxTeG1kZnZfa1dON1k5SUNNQUhma21LSUZMejhOemg3WUtXaGlKaGJYYy1ON1pkMENGM3BaclA5QTVyckZUNFI1RWhqV1VQeXNlNmtEVVYyNlM0?oc=5",
-      "source": "voix.jp",
+      "source": "ニュースメディアVOIX",
       "published": "2026-08-17T09:34:33+00:00",
-      "summary": "株式会社G&N、VCとの連携強化で補助金支援キャンペーンを開始 voix.jp",
+      "summary": "株式会社G&N、VCとの連携強化で補助金支援キャンペーンを開始 ニュースメディアVOIX",
       "id": "6af108ebe536288a",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -501,9 +513,9 @@
     {
       "title": "STARGLOW、ファンミ横浜アリーナ公演より「Drivin' My Life」ライブ映像を公開",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SUi1RaW5VdU9sbUFLSmI5dHFQbXl4NHc5Tk41N2hOc3RBa2dCRVE3V3VIWm01RFJNeDdQMm5iME1KLVJhX0xIUUwyd2pVeVM3Z1dQZ2hXLVloOHBRREx2ZTEwdWM5UXEtYTVkQXhMZ2ZRV20yUHZOZldoSkYyN00?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "published": "2026-08-16T13:30:05+00:00",
-      "summary": "STARGLOW、ファンミ横浜アリーナ公演より「Drivin' My Life」ライブ映像を公開 news.yahoo.co.jp",
+      "summary": "STARGLOW、ファンミ横浜アリーナ公演より「Drivin' My Life」ライブ映像を公開 Yahoo!ニュース",
       "id": "f6fc448dd61e344a",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -621,9 +633,9 @@
     {
       "title": "STARGLOW、ファンミーティングツアーの横浜アリーナ公演より最新シングル「Drivin’ My Life」ライブ映像公開",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiazdja3lkZnpnZGlPNHhWdi04SGhLd2QzYjRLLUxzWGNYemxpVk0zVmNOMmFtV0YySUlwU1FRMkJuM0U?oc=5",
-      "source": "barks.jp",
+      "source": "BARKS",
       "published": "2026-08-15T10:00:00+00:00",
-      "summary": "STARGLOW、ファンミーティングツアーの横浜アリーナ公演より最新シングル「Drivin’ My Life」ライブ映像公開 barks.jp",
+      "summary": "STARGLOW、ファンミーティングツアーの横浜アリーナ公演より最新シングル「Drivin’ My Life」ライブ映像公開 BARKS",
       "id": "58d31c258ce97bcc",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -633,9 +645,9 @@
     {
       "title": "【鎌倉市】桜貝アクセサリー専門店「Lino Drops Kamakura」本店10周年！年に一度のシークレットキャンペーン開催",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS3BEbWNBMXdIRkhzTU1HcW5VcEpValgzdUhTWHRzWlZTdm9rd1B2UFd6dVI1RC1TVm83eWp2S3FDVUNrTEZhU3E2Y083ZXp5WUZiMWJfZnR0VnVUNjJKdzFwY0htUUppWG5meVROUE1VM3ZGV0lmQnNQbF9PN3BmYnFIbjM3MEZrWkVn?oc=5",
-      "source": "湘南人",
+      "source": "shonanjin.com",
       "published": "2026-08-15T08:59:51+00:00",
-      "summary": "【鎌倉市】桜貝アクセサリー専門店「Lino Drops Kamakura」本店10周年！年に一度のシークレットキャンペーン開催 湘南人",
+      "summary": "【鎌倉市】桜貝アクセサリー専門店「Lino Drops Kamakura」本店10周年！年に一度のシークレットキャンペーン開催 shonanjin.com",
       "id": "9d8236eb674ac399",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -657,9 +669,9 @@
     {
       "title": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmWmJFTG85RUhmdl9adUVrempvRnAyT0F2LW84SEN5SVRNLU1mNTBMNzlaaXRhaVcxRjBPcEFpNlE3STVDYm9NS2dEVVl6U3JZdHV6U2tJSmkxc2oxOTBobm45SDJpNEhuWUZJ?oc=5",
-      "source": "jiji.com",
+      "source": "時事ドットコム",
       "published": "2026-08-15T06:16:00+00:00",
-      "summary": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催 jiji.com",
+      "summary": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催 時事ドットコム",
       "id": "7d1c13fa32832a57",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -717,9 +729,9 @@
     {
       "title": "あいみょん、『マリーゴールド』が400週連続TOP100入り 快挙にコメント オリコン史上初（日テレNEWS NNN）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XRFpoeDZhcVhmbzVYejk4UERfT0h0WFZ0djh6ekZfNVZfZXBKdmdvWURHblY0YnJ5UTVGYXRhbTlETk1VeHhISlR1SVdCQy1xa1VVOElfNGtmSGJuU2ZoZnI4Q3ByaUpHS3RWQWw0Q2Q2SXFSZmQtU3g0YkVaWWM?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "published": "2026-08-14T14:10:00+00:00",
-      "summary": "あいみょん、『マリーゴールド』が400週連続TOP100入り 快挙にコメント オリコン史上初（日テレNEWS NNN） news.yahoo.co.jp",
+      "summary": "あいみょん、『マリーゴールド』が400週連続TOP100入り 快挙にコメント オリコン史上初（日テレNEWS NNN） Yahoo!ニュース",
       "id": "2ac67e9f77caf154",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -741,9 +753,9 @@
     {
       "title": "超特急、IMP.、TAGRIGHT 、NEXZ 、Vaundyら12組出演「バズリズム LIVE 2026」開催決定！",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtOU5hWTZuQlphWEMtS3MxOWY0Nm1HY1RfZHVQaU1IbEVqZkY4YUFOZk5MSWdwODAzVzgxelFfSXZOb01ZUThsbFVrazh0VWxEaW5qTUVGaWo?oc=5",
-      "source": "推し楽",
+      "source": "fan.books.rakuten.co.jp",
       "published": "2026-08-14T09:01:44+00:00",
-      "summary": "超特急、IMP.、TAGRIGHT 、NEXZ 、Vaundyら12組出演「バズリズム LIVE 2026」開催決定！ 推し楽",
+      "summary": "超特急、IMP.、TAGRIGHT 、NEXZ 、Vaundyら12組出演「バズリズム LIVE 2026」開催決定！ fan.books.rakuten.co.jp",
       "id": "a024e725bcd32dd6",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -799,6 +811,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "かつては「鎌倉海老」とも 鎌倉産の伊勢海老 漁解禁",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52NzY1Rk9NLXdKSWxUV3FLOEhNQW0zVFVla1BTUkRnNHFmc00xSExvYUNTNDhrMmVMOHAyd1pWMmNiZUpweUQxQnltVzFVclNUUUlkR2h3eE5FeWxtT1YzTkRzTmQ?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-08-13T15:00:00+00:00",
+      "summary": "かつては「鎌倉海老」とも 鎌倉産の伊勢海老 漁解禁 タウンニュース",
+      "id": "be0977ec6e63ae2f",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ゴルフ場がテーマパークに ９月26日、鎌パブでイベント",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1id0FfZndib0FEc05vc2tjTml0VzdhVWlUU3NtVFBsSE1wZk4tMDUxMDNiYkpzU29vLUlrVHI3ODMzdC1PZFo5WWNpbFh6c252UTdGM3ZnbnBYUENTQlQydFlVcWM?oc=5",
       "source": "タウンニュース",
@@ -847,30 +871,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "｢めぐるいのち｣描く 鎌倉在住のアーティスト・増山理人さんが初の絵本「ベベタンとぺヨタン 星のうまれるところへ」を出版",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQzRtRzJHUk5aWk5nOXJWU0JTUjZ6Y3RqcmdSTFNZVzdyYkhpWlo1N3g1dEprSi1MNFV1dEdYY01PbVp6b3FTRHpnakhqTmZXeS13YUZ2RlZjYkloOU1PdTNaVEk?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-08-13T15:00:00+00:00",
-      "summary": "｢めぐるいのち｣描く 鎌倉在住のアーティスト・増山理人さんが初の絵本「ベベタンとぺヨタン 星のうまれるところへ」を出版 タウンニュース",
-      "id": "99861b6fb1ca3b5b",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "レミオロメン 活動再開後初の夏フェス突入目前！ 2006年の横浜アリーナライブをYouTubeプレミア公開！",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MSEh5STN1R0lDa1BSQUdoeUlGeTlTWmpWYnA0OXFlX0g3ZXVBb1Y1Z3JETTJVYVhnRVVLbWZzLUN1aEY4SE53dDcyVkdoWEswZkEzTjR3bUh2VFVmcnVjWjdB?oc=5",
-      "source": "USENの音楽情報サイト",
-      "published": "2026-08-13T07:57:35+00:00",
-      "summary": "レミオロメン 活動再開後初の夏フェス突入目前！ 2006年の横浜アリーナライブをYouTubeプレミア公開！ USENの音楽情報サイト",
-      "id": "88092d23383c0133",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hOV9ya2JnRmhtVFF1VkRrOHR1V0p3YkpxajctOHBfVjU0eGhpcWdhOWhMellRNnE0UjB6ZzZqME1wMnhyX05GVldHX2czQlBhT0oxNtIBWkFVX3lxTE03YVpMY3ZuYVE0MXoyNlNTaXprLWR0aVdUeU9SRkdPenhBNHJxU251MVJQczZwWFZNWWV5OVBQaVE0RzI5V2l1T1lYVmFTWTdoOThBdUEtSXBfQQ?oc=5",
       "source": "ウォーカープラス",
@@ -895,6 +895,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "カウンターワークス、R&Iカンパニーリミテッドが開発したイートイン対応型トレーラーハウスの商業施設展開に協力",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtd3hVRGwwUXI5anVWVjVMMVVtSXFjZEhnS2loY0t3VURXLXc4WGQ3WTlEZUt1bkRJUWczWUtiT2Vudjh0Nk5KanBFeFNESjUtS1VXV3VXTEs5ZXo2QWJIeEhUZ0RGeEgzZHoydEpLaVdGQQ?oc=5",
+      "source": "Infoseek",
+      "published": "2026-08-12T02:15:24+00:00",
+      "summary": "カウンターワークス、R&Iカンパニーリミテッドが開発したイートイン対応型トレーラーハウスの商業施設展開に協力 Infoseek",
+      "id": "404fedec586ec324",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【ニューオープン連載】西小山の商店街に誕生！ 古民家改造した「ミチ」で味わう、イタリアン",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qZnF4WVN6MUpJY05IR0UxQVhJb1NOQWtuemxxR1JtVkF6UzFZUzQ4eUlXRFBmQ1JBekFQbHUyOEc3a3pEM3NTbVlXaTdEbU9QVG0tLTg3RzF5Y1JibEhLUW9IZC1mSlJ0anRFOGJwMHZwNDQyc2JKOXlUOXQ?oc=5",
       "source": "ELLE",
@@ -907,11 +919,23 @@
       "image": ""
     },
     {
+      "title": "レミオロメン、2006年の横浜アリーナライブ映像をプレミア公開",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51b1E1MDYzOHdDX21peXdCaDdIQnAtTGlZRmxFN3ZPQmpzUk83Vjg0Skh5eUxBSGtXNEktM216MDJHSmJJbDhnV1V0TkNnX2JTLW9sbGVRV01tdm10SVNVY0FwTFhFOWZueUpqVEE0bk9JVjV4OHVKNnowY0RUcEU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-08-11T12:35:06+00:00",
+      "summary": "レミオロメン、2006年の横浜アリーナライブ映像をプレミア公開 Yahoo!ニュース",
+      "id": "ebcb7489b435f16c",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "（写真）あいみょん、甲子園での10周年凱旋ライブ “4年越しの約束”を果たしたメモリアルライブレポート",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6OUloOWlvWHlWeFRrTHdtSzZpZXR6MkN3b1BLZE9WNHR6VW96WENhSEVNQmdCZ1FDRHRBY1lXUnR1a1dyV2tfQ1ZBU2VtcDF5WW9aWUxVMDl4QQ?oc=5",
-      "source": "クランクイン！",
+      "source": "crank-in.net",
       "published": "2026-08-11T07:56:23+00:00",
-      "summary": "（写真）あいみょん、甲子園での10周年凱旋ライブ “4年越しの約束”を果たしたメモリアルライブレポート クランクイン！",
+      "summary": "（写真）あいみょん、甲子園での10周年凱旋ライブ “4年越しの約束”を果たしたメモリアルライブレポート crank-in.net",
       "id": "00ddd7f9fcd2de72",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -1015,6 +1039,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "エクストリーム−D 株式会社 代表取締役 柴田 直樹氏 コメント",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rV1lnMHlLdDRfVG05NjF3REY5RE45VzJXTU1ybHJqYldEUXAwZGJLN19Vbjhjc1VHU1R4enU0ZVl6NGZocEF3MnVYVmV5bUNEekI0dkFjNUlzTmhMb2FQckFNZ2JwWG5hNlZB?oc=5",
+      "source": "株式会社旅行新聞新社",
+      "published": "2026-08-08T06:42:21+00:00",
+      "summary": "エクストリーム−D 株式会社 代表取締役 柴田 直樹氏 コメント 株式会社旅行新聞新社",
+      "id": "cf8c8a131b4deca6",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96NE1VYTZ2STgxOTZVaU83eWxhZm5fa0NZRGxoT0ROblAzSTF4VnlnbFF0Z2lrVC1HOEdGOF9mVVpCbUgxNl81LXY0WGZzLVB0alFnV2NRVThReHlZak11WUhUZW9qN2J3ZUE?oc=5",
       "source": "PR TIMES",
@@ -1075,5 +1111,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 84
+  "count": 87
 }
