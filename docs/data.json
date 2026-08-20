@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-20T06:05:26.398923+00:00",
+  "generated_at": "2026-08-20T10:03:45.797267+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 1
+      "count": 2
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,15 +67,75 @@
   ],
   "items": [
     {
-      "title": "話題のAI「Claude」のビジネス向けAIエージェントで日常業務を爆速化！ 今日から使える実践例が詰まった『Claude Cowork スゴイ活用術』発売",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR1ZPQThLOWVLTzQ5eHVjMzRGdHZyNHpCWVEzaXdUcWZtUnZKR01POU4xYWFOQVdhdFU0cmxKRVF3NTBsSWtoaVhtVlN1TVo0azJiRkN0cE1qYWNTaWVieDNVRUxvNnJBT1FDa1ZoVVY4MDRGQzBISFpJdHRzRUNrajJn?oc=5",
-      "source": "南日本新聞",
-      "published": "2026-08-20T06:01:47+00:00",
-      "summary": "話題のAI「Claude」のビジネス向けAIエージェントで日常業務を爆速化！ 今日から使える実践例が詰まった『Claude Cowork スゴイ活用術』発売 南日本新聞",
-      "id": "1a0e2e67e0633d90",
+      "title": "あいみょん10周年特番『NHK ONE LIVE』完全版が放送決定、テレビ初披露曲も！",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GcFhSa09fVjdqblIyV0xaTVNlSWJ6NHhtVi1IOVRqckhTLTJHODBmSWE5MzlCMFdXcVBrbkxfek5RdVlGdXUzWk9jMGpOaGJZVnRlb1lUUDdlQQ?oc=5",
+      "source": "NiEW",
+      "published": "2026-08-20T09:09:00+00:00",
+      "summary": "あいみょん10周年特番『NHK ONE LIVE』完全版が放送決定、テレビ初披露曲も！ NiEW",
+      "id": "f082a404d516f03f",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GMOグループと米Anthropicが戦略的パートナーシップ契約を締結。Claudeの徹底活用でAI基盤を強化",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5POU90Rl8tVlVnWmMyVUlyYUJnM2V0OVpHUkU3ek5BRnNVMG1zVkdnUFpZdlBVeXRBZjNoemdSbDdaMFVKeFBVcFUtTTFEVjF1RkpfQ2pzMzd5MjFyc0NqVjkwWHRPLUI3?oc=5",
+      "source": "AIsmiley",
+      "published": "2026-08-20T08:52:04+00:00",
+      "summary": "GMOグループと米Anthropicが戦略的パートナーシップ契約を締結。Claudeの徹底活用でAI基盤を強化 AIsmiley",
+      "id": "b79013db6348b577",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "プレスリリース：最新動画生成AI「Seedance 2.5」搭載AIアニメ制作プラットフォーム「PopPixs」提供開始（PR TIMES）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LME1hTU5WSjdFbWZoY3FoVklsdWdoc2xYM2U3dXBNSFlZVmpyVmNseWJWOVRhZVRvMWp1NFNickdQOG5LbU1CZm14SnFMM1cyQk1MVlh1WXBpQi1EOUFHYVhwMWVlT2do?oc=5",
+      "source": "毎日新聞",
+      "published": "2026-08-20T07:52:37+00:00",
+      "summary": "プレスリリース：最新動画生成AI「Seedance 2.5」搭載AIアニメ制作プラットフォーム「PopPixs」提供開始（PR TIMES） 毎日新聞",
+      "id": "2596ef09458fa43b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "あいみょんメジャー10周年特番の完全版を高画質でOA、未公開トーク追加",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MM2JTQjJnTEJrblJxeXdnX0hibnZNOW05bEJDYkVuelVNc2ZzWmRGTlFFT3ZTUTJsM0ZSNjlXNTBUbTZfbzZlbnB5UHc?oc=5",
+      "source": "ナタリー",
+      "published": "2026-08-20T07:31:00+00:00",
+      "summary": "あいみょんメジャー10周年特番の完全版を高画質でOA、未公開トーク追加 ナタリー",
+      "id": "e7d5d30cc1176cba",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropicは企業データを30日間保持、OpenAIは「原則ゼロ保管」で対抗",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOQzl0YTZfQnk4UkF2OUN3ejByMzlyam9YSnd5RDU4RWF4Szc2YzJsVG1RNWZ2VElyTmtxVUoyRFNxdEFpdjhVc2dLcWRkTnRpU3BYaDE2QW9kZmMtdzBSVnc5OHdMeGhaLVpGdXJSbHJaWWpPaDVKRzNhTmFBSG1PZjhBX05nUEUzQ0UwQjdoQWJOZEdBVFdyeFNzZkxTaWlUY1pzMm1pT3NJT3BkVUxnTG1idGZqV0ZuNmFnOGJHVDVyWmhYc0JPT3otVWQ5cUd0aDJyaXpKajZXTmNRVFhSUDR0TllMWC1BOVpOa2ZmRC1UR1c0clltRlpHR0tjTV85clFtUkxnX0ZGY3I3X1JJUWk5VW5JY0M5TklUdHZsYUItV0tjRE00Q3doVlBzbUJnTWZJd0hBVkhfSzJxc0RwOFVVcFpKVXVKVGZMX3ViYWoyd0tQYW1qRVdLSURzUlI2UUxaWnU3MFBhdGJXemNwLVExbHFvLXM?oc=5",
+      "source": "Yellow.com",
+      "published": "2026-08-20T07:17:16+00:00",
+      "summary": "Anthropicは企業データを30日間保持、OpenAIは「原則ゼロ保管」で対抗 Yellow.com",
+      "id": "e6121331e7d14498",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米津玄師、出口夏希＆蒔田彩珠W主演「ルックバック」友情演奏で参加 本編1シーンで印象的なギターの音色",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1idUtleW45VEwzbkxtWmV0UFFWLVV2TWQzQkQzdXc0aVNWQ3JyNk4yT2UtUmNTWmdhRV9QMFpJcVVaUmhZdlhnMDY0R1phUdIBSkFVX3lxTE9YYTdvdmgwVXJGdU5hMTVub2tiOUMySmMxWFdudjhOUlJhTlNuMVBuaDBrQm9aMTRvQWpRQktISXI5YXlKc2lpRFVn?oc=5",
+      "source": "モデルプレス",
+      "published": "2026-08-20T06:30:00+00:00",
+      "summary": "米津玄師、出口夏希＆蒔田彩珠W主演「ルックバック」友情演奏で参加 本編1シーンで印象的なギターの音色 モデルプレス",
+      "id": "1175103251f590fa",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -139,6 +199,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【BtoB営業における生成AI活用】“AI活用は当たり前”の時代へ──それでも差がつく「対人力×独自データの活用」とは",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xaEZiNS1uTEhmcGhocEVyNXE1ekc2SEtSWkRQOVlQU1JGbU9sU0lwT3Z1OExuYjdONW9iOWN1MGk5eUVNMVAyS1Q5ak5MV1h1VkxEcnkwV0g5Vy12bFJDenZNc2NFVFZTU0E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-20T04:00:01+00:00",
+      "summary": "【BtoB営業における生成AI活用】“AI活用は当たり前”の時代へ──それでも差がつく「対人力×独自データの活用」とは PR TIMES",
+      "id": "37b397bcae8be0ce",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "なぜAnthropicなどAI企業は、古書を買い集め裁断し処分しているのか",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HMVRZN1NDSlI4ZXcyaG9HemRmMTVrM0JJN1c2SVQyMERHVk0tLXB0Q0JtRHpqV1MzRHF6ZjhoZ1h6S2x1MWhKdWFzUGtrSFREa3NvMlBKUFgyRmVNYTJIMnpGbEFLS25ycVU1Ylp1TDZ3RDNtMEJNSmNUbjZaWGc?oc=5",
       "source": "Yahoo!ニュース",
@@ -157,6 +229,30 @@
       "published": "2026-08-20T03:18:51+00:00",
       "summary": "Claudeが14標的で蛋白質結合体を設計、計算設計工程をエージェントが自動運用 XenoSpectrum",
       "id": "33908d4aa43e2ea4",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "生成AIの活用により、点検・整備費のデータ入力工数を70%削減",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UUHNIVEVHSnpGd2VvYWF5eXhZX0xrMnUtQ0piS1kxOC0yMFczbEZwRjFqb0lrdnYxZmpqQTR0aWVaUzgtTTE0blp3d01BeVFIX01uUXk2dHJJZldOTHBrNXQxSXpEbmd1OFE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-20T03:03:28+00:00",
+      "summary": "生成AIの活用により、点検・整備費のデータ入力工数を70%削減 PR TIMES",
+      "id": "b4cd84bdb112c874",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "話題のAI「Claude」のビジネス向けAIエージェントで日常業務を爆速化！ 今日から使える実践例が詰まった『Claude Cowork スゴイ活用術』発売",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nOUs3aUpuckU4d0I2SG1XSWZBT2t0OE9SS0VuelFzN0RCd3V0Y1o5TlA1UjdCTlV3SENaRm1NblEzQ0Y1YlJ6MS1nWG9PZ284dGo3aTh0elFCYno2NWNiY0h1M0I2Y3RqT0E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-20T03:00:02+00:00",
+      "summary": "話題のAI「Claude」のビジネス向けAIエージェントで日常業務を爆速化！ 今日から使える実践例が詰まった『Claude Cowork スゴイ活用術』発売 PR TIMES",
+      "id": "1a0e2e67e0633d90",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -187,72 +283,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "RAG技術専門集団「ChatSense」、「AI時代のナレッジ活用」無料相談キャンペーンを開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51ZGhxNkwyRDZFeE1ISlpkcjhUTjhZX3RQWWVUZDk2bk85dEt2UDYxczMtVjdKSjRNYkx2ZGxZdWhjREJoY3U2d0NvWTNYWC1oa1FoT3d0cGllME94TlpHZXczVmMzSUhHY3c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-20T02:27:29+00:00",
-      "summary": "RAG技術専門集団「ChatSense」、「AI時代のナレッジ活用」無料相談キャンペーンを開始 PR TIMES",
-      "id": "725740e737b84c77",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude in Excelとは？料金・使い方・インストール方法を解説",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QbWViNVlrTkVIXzdHNXo2RXI5NEwtTTEwLWNLVlh6Q0NlSGlka2g0bkxkNmhuX0tBckpBV0tfSnpWYll6QkY2bnBncEstQWJJU0NsTzJUYnFiT2s?oc=5",
-      "source": "AIsmiley",
-      "published": "2026-08-20T02:19:57+00:00",
-      "summary": "Claude in Excelとは？料金・使い方・インストール方法を解説 AIsmiley",
-      "id": "f3c590abb8a8bc9b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ClaudeのAIエージェントが「ライバル抹殺」「証拠隠滅」など危険な挙動…Anthropicが公表したその実態（海外）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VVEZqdWtrMmtfZU1ieWNEUGEtanlObU9fT0lkNkJsSEtSemdJcmprUVE4cF9zT0NYc0R0NzZ0bm5ual94MFU5dXczUWN3LS1JTllvTVlyYnhqZkhlR3l4Snd4QTFSU2czMXVuOWZQeVpubS13bkVnQ1pvekN2elk?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-08-20T02:10:02+00:00",
-      "summary": "ClaudeのAIエージェントが「ライバル抹殺」「証拠隠滅」など危険な挙動…Anthropicが公表したその実態（海外） Yahoo!ニュース",
-      "id": "c64d5f7cb93d6fbb",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「Claude」が「Gmail」のメール送信に対応、「Google ドライブ」のファイル操作も（窓の杜）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jQW5WdHJsNkV0aVRrRm91NjVBbU1KUW1yMjhWTVNpZWNLS050MThOeHA1dnhqaV9pcUUxWm0xXzZIQ3BFR0pkckxqNVZ3Qmd3TU83MFNhNHJYR05QYVRMS1lGMGpWU1U0TnBVeTI1S1phVzlKcG9LRVZzM1E0ODA?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-08-20T02:10:00+00:00",
-      "summary": "「Claude」が「Gmail」のメール送信に対応、「Google ドライブ」のファイル操作も（窓の杜） Yahoo!ニュース",
-      "id": "224cfde4cd6d9776",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【株式会社KIYONO】クリエイティブ制作の工数を大幅改善！短時間でクリエイティブを自動生成する『MAGNET Creator』提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ueldrN1FBMERZY3ZRY0xEZXhqMDUwRlZ3bGVMNHUtck5uNTFJcTFpM2g5Q1FjY2VzczFyQ3hjd1RLTDk5Z1dLcE0tQmkzTjVHOC1DSS14dmEydHVXQ1NRdVhvR3AwWGFNMmc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-20T02:06:35+00:00",
-      "summary": "【株式会社KIYONO】クリエイティブ制作の工数を大幅改善！短時間でクリエイティブを自動生成する『MAGNET Creator』提供開始 PR TIMES",
-      "id": "f1b5244eb9808475",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょん、『ブラタモリ』ロケ初参加！ タモリと甲子園誕生の秘密をたどる",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ldFhlczhoYUVuSkhWV2UtZHZOLVdKQ0plSmFlV0FySTlvcXljc1ZPVExmQTN0Y0hOWWo2YzlwRTFleksxOXFiOHluV2hNZ3IweXlOMmpHUHVfZlFHSFRZ?oc=5",
-      "source": "ぴあエンタメ情報",
-      "published": "2026-08-20T02:00:00+00:00",
-      "summary": "あいみょん、『ブラタモリ』ロケ初参加！ タモリと甲子園誕生の秘密をたどる ぴあエンタメ情報",
-      "id": "bdc6dcf0f289c834",
+      "title": "あいみょんが「ブラタモリ」ロケ初参加、タモリとともに地元・西宮の甲子園を巡る（コメントあり）",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zWWlFNDNWenVaZU9wVE9PUktmNmhiQ0NBdjFxc25BVGRsWTNqTmFvbGtMdGNmZ1RyNjVkd3o2QXU4U2JpQVF6cG95OEo?oc=5",
+      "source": "ナタリー",
+      "published": "2026-08-20T01:42:00+00:00",
+      "summary": "あいみょんが「ブラタモリ」ロケ初参加、タモリとともに地元・西宮の甲子園を巡る（コメントあり） ナタリー",
+      "id": "99f2a788e66b7192",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -283,18 +319,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 岡山」8/27(木) 開催",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SVldtUXZvTDNLdnd6MVZfanJWUnZPOTNUWVo3MjRNclpicEhIZktRb1VCbkFVdzllXzE4QklyY2cyTERPdG84QnlnalBsY2VGeUE?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-08-19T23:19:55+00:00",
-      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 岡山」8/27(木) 開催 山陽新聞",
-      "id": "aca4ffa288c16215",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【関東】2026年8月22日・23日週末開催の無料イベント19選 大規模夏祭り＆花火も満喫！",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jSDV3VjA2VE13UXpiOFpQQ0dZLXU0d2xSTElDMlQ2SEVteEsyRTNZT1pNVXRpRG9KOHZDM3BudFBmalN6a0Q3UTFqUGRZREFmZ0E?oc=5",
       "source": "いこーよニュース",
@@ -319,24 +343,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米欧の長期金利が急低下、買い入れ奏功 ドル全面安で円一時158円台前半",
+      "title": "米欧の長期金利が急低下、買い入れ奏功 ドル全面安で円158円台前半",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVQ1RrR3hyek13QzE3azZGUExFSFRKR242eU1jMFlsc0FmcEJ5ZkE0aTZHNkdLak1aUEZaZDZId2VXUlZWazVUYXk1eXliUzYtZW1QYTgwTGhQWVA4YnR3TlRSZU9OaVY0V2I5VA?oc=5",
       "source": "日本経済新聞",
       "published": "2026-08-19T21:12:26+00:00",
-      "summary": "米欧の長期金利が急低下、買い入れ奏功 ドル全面安で円一時158円台前半 日本経済新聞",
-      "id": "36bbaa1789b00dfd",
+      "summary": "米欧の長期金利が急低下、買い入れ奏功 ドル全面安で円158円台前半 日本経済新聞",
+      "id": "ce6e8d7ceddda2f7",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か",
+      "title": "長崎県の海底遺跡で鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か | NHKニュース | 長崎県、文化・芸術・エンタメ",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wYW42QWhsN2dSTVI5Tjkyd3NLWGFqQTNQd01ZNTdFMnY5SjRwWjNOenJ0NVlKXy02cDQyM0FUWUo2cFpzY2xPaXVvOFl2ellRRVdEb0tSUVlKUGZKYXJr?oc=5",
       "source": "NHKニュース",
       "published": "2026-08-19T20:05:00+00:00",
-      "summary": "鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か NHKニュース",
-      "id": "35e8eb3d0e0efcb1",
+      "summary": "長崎県の海底遺跡で鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か | NHKニュース | 長崎県、文化・芸術・エンタメ NHKニュース",
+      "id": "9309e3917e411f90",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -352,6 +376,18 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 鳥取」8/18(火) 開催",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iV2wyb2tWci1nd0hKa1RvcjRPRGhPbjZoSjdRZlUwZXcxd0JLNndkS0VDV1NNaHNRT01qRS1CWVZxVFFmeU5wWUtYTzVTbkdKdkE?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-08-19T17:24:56+00:00",
+      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 鳥取」8/18(火) 開催 山陽新聞",
+      "id": "a4b69f207e516818",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -631,23 +667,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【RIZIN】「子供海の家プロジェクト」ファイターと子どもたちが鎌倉で夏をエンジョイ【現地レポート】",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05aTdxdEtXcHVDeGtoZVYyRG5WbTlHak9fLXM0TGFOemVVQjcxRDMyamgyVFZOMldDTDF1OVdqNFRzU2xtb09PMEJHT1dibjg?oc=5",
-      "source": "オリコンニュース",
-      "published": "2026-08-18T09:00:00+00:00",
-      "summary": "【RIZIN】「子供海の家プロジェクト」ファイターと子どもたちが鎌倉で夏をエンジョイ【現地レポート】 オリコンニュース",
-      "id": "f7210ddcc2cfd420",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "森七菜、4年ぶり音楽活動再開 あいみょん提供曲「カフェ・オ・レ」を10月リリース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14SUFrUHRTZld3YW95Ym9jZ1IyMXpuTGNEYVRhM0hqamlxZS1ZMlE3NWo3ek45NGR0VGtjSnJkT3FVRTFUQV9WMXR4VkFhSER0NWt5QlZRUnJNdlNYeVVIdDNxRlRrUFYxOGhXa1liTzhFcExlMzZSTEVPYw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-08-18T03:12:28+00:00",
-      "summary": "森七菜、4年ぶり音楽活動再開 あいみょん提供曲「カフェ・オ・レ」を10月リリース ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOZXZqMGtGQW03eXBDYVJoY3JlSHVXZFZEYUU2WUZMaDJ1MGkzblRDdVNkQU1VR2pRX2xONUY5QVFCZlU5WEdIeHpXeTJlcHIzOU5tckNSbG0wM1B5czFrSm5PZ3JxMXpIUEp1amlR?oc=5",
+      "source": "au Webポータル",
+      "published": "2026-08-18T03:12:06+00:00",
+      "summary": "森七菜、4年ぶり音楽活動再開 あいみょん提供曲「カフェ・オ・レ」を10月リリース au Webポータル",
       "id": "694129c471ae1298",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -656,9 +680,9 @@
     },
     {
       "title": "土地代だけで推定70億円…品川区にある大豪邸を公開「これ家じゃないよ…」",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rTE92TmpkY2Q2NXBJZnM4Z3ZoaTNYNG82dUFYc0dPX1NualRvZEp6aTJzdWxjRjI5U0tFR3ZmNVdqVWZ5d2Z1SFA2ZDJ1RnRIZkFsVkp3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WZlB0ZnkxalZ5VWFsWlE1TkVtanNoRlNJQUxsR0dWV2pXZktIOWhoMHpyTUtlZTBfejdwbEVzUHVYeWFfNVR3Z0FYQmJfQzQ?oc=5",
       "source": "オリコンニュース",
-      "published": "2026-08-18T03:05:00+00:00",
+      "published": "2026-08-18T03:05:57+00:00",
       "summary": "土地代だけで推定70億円…品川区にある大豪邸を公開「これ家じゃないよ…」 オリコンニュース",
       "id": "6bf9d9ab6e061d1e",
       "category": "地域",
@@ -681,9 +705,9 @@
     {
       "title": "森七菜、4年ぶりに音楽活動開始　あいみょんが楽曲提供【コメントあり】",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TOVg5cHlXSFBVb213c2FYX2JCa1lSVEp4WmhWS0hWV0NHYzVPSWdMZVBKV25PWmxGbG5FaUQ3Y1VHZW1lOWxCR2l6Tk8wRnfSAVRBVV95cUxQWW0yM1JnVmRyMHVkSl80aDZKbkk1djVnVWNPQzNPenJETmUtVzB0SHpJbmM4MW0ydUVtV1hVdUlDOFVySUY5N0dhUWhoSW9URV90a20?oc=5",
-      "source": "spice.eplus.jp",
+      "source": "エンタメ特化型情報メディア スパイス",
       "published": "2026-08-18T03:00:00+00:00",
-      "summary": "森七菜、4年ぶりに音楽活動開始 あいみょんが楽曲提供【コメントあり】 spice.eplus.jp",
+      "summary": "森七菜、4年ぶりに音楽活動開始 あいみょんが楽曲提供【コメントあり】 エンタメ特化型情報メディア スパイス",
       "id": "3381a73e38df809a",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -763,39 +787,27 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【品川区】9/5 (土)開催「人と麦と音」品川本照寺に本格的な焼き窯が！",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhQ2U4Q3FEOUxoZWRKbG00dERNMjlTcF9qa2xDc3IwQ3hJVDhoUnZzWTd5SWtscjVSVlpNeWoyRy15bWpiMnlRSVB1R3ZfaGU5T1VyOEVFMEZ1NGtseExseDVmZw?oc=5",
-      "source": "shinagawa.goguynet.jp",
-      "published": "2026-08-17T22:43:00+00:00",
-      "summary": "【品川区】9/5 (土)開催「人と麦と音」品川本照寺に本格的な焼き窯が！ shinagawa.goguynet.jp",
-      "id": "80434eb90b07cc81",
+      "title": "松竹大船の黄金期を支えたカメラマン　親子で紡ぐ厚田雄春氏の美意識〈鎌倉市〉",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwVDVSbTk1Q0dtQXRJd2szSzhmY245STRsNjVFZDVnaklaUVNaVllMd09uQmlfUWl1azZjTVZYS1NRX01aOEtsRk12dkVucGppVzBPNWVxRmk0UFFLTEluZkU1akc2aDdfaFlLLXQ3NnRMbGJwajhIUzMtUdIBgAFBVV95cUxOR2NjcnVBUFZ3VHpHNllySWd5T1N4V0U5S0ZjUWUwS1pKQ3F1VEtwbXJHV2VNQ2tMaWJDdzBlU2J2Qmd0bnZkSURFczQwRUZyWDhXYVpzZ2xxcUpUQVgtOWJidDJlczRQRVFhc1BkczFHMjk4WGZlc1Q4b1U0QnFKSg?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-08-17T22:48:41+00:00",
+      "summary": "松竹大船の黄金期を支えたカメラマン 親子で紡ぐ厚田雄春氏の美意識〈鎌倉市〉 ｄメニューニュース",
+      "id": "8577f4a401f7743f",
       "category": "地域",
-      "topic": "地域ニュース 品川",
+      "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょん楽曲提供で森七菜が４年ぶり音楽活動　あいみょんファンの森が自らオファー　１０月７日シングルリリース、同１８日にイベント",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUFDTE9rRFZyUUxnMHNucGVMWW5xVVBscnZmb1JvZEluNWdSR0IwYTBjdkt5ZVNPLTZxQ1B2VGNhdV9iVXhqVGRYcVRsdmlSUlhFNThrUlVVQ0ZFRUljLXJmY1ZZYVpMSDFJTldoSjEycDBEZ3dHXzB0X0stUUJwbnVGUdIBiAFBVV95cUxNUlZQSXl3RnplSVhXN1MzcWtGbDFmXzViS1JmSWlzMW90Q0kyd2ZOdGZ0d3B4ZWM5UXNHZnlCMjFJQnd6UVdKNy1CX3JsUEljOE9pTTgtT2Q3Y0htU1RhekpFN1Z3WUJLOUhSM0xOTm9kVmJjVFN3RmNRUnhYTzBkNUFRY1hFWmp4?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-08-17T19:09:26+00:00",
-      "summary": "あいみょん楽曲提供で森七菜が４年ぶり音楽活動 あいみょんファンの森が自らオファー １０月７日シングルリリース、同１８日にイベント ｄメニューニュース",
-      "id": "7c45225b27c1bb47",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "森七菜　あいみょん作詞作曲「カフェ・オ・レ」で4年ぶり音楽活動再開「ご褒美のようなことができたら」",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXhGOGM3WmJKWW9xOWRuREJrZk0tOGdlNVZWamZfbVdtMmMtTlZyZUJ4SExJM1psT0JtUXlsVThvbVNMMFl3WWdmTXJqRlVickxuMndOYWJJRUhqZlo1aVpQc3FiTFNWcjM4OHZCU3FjOXQ4TG41d2EycFpHSHdDbDBqS0Z1cHM3WF8tVWJkdEVNNDBKQTRn0gGcAUFVX3lxTE5fUDk4STdGajVmVU1qdUhEY04zcFg2Z01rT2FrdHd3dHc3cHNZODlLcVZjQU9ielNkS0YzeWJaNXl3WF9kRjliWlFkWE1ZUmdHZEVFTi1BdTVYbDBocHFZMkplX3I2QmRlSXluTjVlbUxxZkVUMHBBam9uMkdPb3VLS1VyTGFiY21KWEdQbzFhemNXR2VOUFRuM1R3MA?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-08-17T19:09:24+00:00",
-      "summary": "森七菜 あいみょん作詞作曲「カフェ・オ・レ」で4年ぶり音楽活動再開「ご褒美のようなことができたら」 ｄメニューニュース",
-      "id": "3bf2e8d7567e2f56",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
+      "title": "【品川区】9/5 (土)開催「人と麦と音」品川本照寺に本格的な焼き窯が！",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhQ2U4Q3FEOUxoZWRKbG00dERNMjlTcF9qa2xDc3IwQ3hJVDhoUnZzWTd5SWtscjVSVlpNeWoyRy15bWpiMnlRSVB1R3ZfaGU5T1VyOEVFMEZ1NGtseExseDVmZw?oc=5",
+      "source": "号外NET 品川区",
+      "published": "2026-08-17T22:43:00+00:00",
+      "summary": "【品川区】9/5 (土)開催「人と麦と音」品川本照寺に本格的な焼き窯が！ 号外NET 品川区",
+      "id": "80434eb90b07cc81",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -825,9 +837,9 @@
     {
       "title": "「ぶつかりおじさん」から身を守る無料護身術講習会を横浜駅前で開催―合気道 覇天会・藤崎天敬師範が親子・女性・一般向けに指導―",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoekhZYy1hLWpGZXB5LVVVU3I5ZUlFclltT29yNm5fWTV5Mks5RjZlTTZ1WE15OG9qMXB4VjJmc19IZkh1LUthZVowWmQ1RXdwSXdLNFJIcVZJZ1E?oc=5",
-      "source": "value-press.com",
+      "source": "valuepress",
       "published": "2026-08-17T03:00:00+00:00",
-      "summary": "「ぶつかりおじさん」から身を守る無料護身術講習会を横浜駅前で開催―合気道 覇天会・藤崎天敬師範が親子・女性・一般向けに指導― value-press.com",
+      "summary": "「ぶつかりおじさん」から身を守る無料護身術講習会を横浜駅前で開催―合気道 覇天会・藤崎天敬師範が親子・女性・一般向けに指導― valuepress",
       "id": "653ec6b1636f5204",
       "category": "武道",
       "topic": "合気道・武道",
@@ -844,18 +856,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょん、NHKでメジャーデビュー10周年特番 ライブ＆貴重映像、特別トークも「初めて歌った時の映像がやばいです」",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CT2dUR25lX1lHNkVmRnh4T01wN3RsR2d6aW1UeDg4dENzNUhnNWlYam5qMy1KRjhDZFYtdDlneFA5blljdDZmYTBlT3ZSM1F0WFFlNXZLbU5QZUU?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-08-16T10:37:41+00:00",
-      "summary": "あいみょん、NHKでメジャーデビュー10周年特番 ライブ＆貴重映像、特別トークも「初めて歌った時の映像がやばいです」 山陽新聞",
-      "id": "0193cac5c2c92256",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -885,9 +885,9 @@
     {
       "title": "【品川区】都内最大級「大井競馬場フリーマーケット」8/22(土)・23(日)開催",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ddmp0TVVUakxIM08zelVvUVhuM2NlbVhGUGt0azJFUmNzcTZSd09GVHRSZmxlR1NHNVhWenhCWldrYkpSX3UyeEJpZjVQT05Hc2NOWVd3NzBXdGFDVTA2VUctWQ?oc=5",
-      "source": "shinagawa.goguynet.jp",
+      "source": "号外NET 品川区",
       "published": "2026-08-15T22:43:25+00:00",
-      "summary": "【品川区】都内最大級「大井競馬場フリーマーケット」8/22(土)・23(日)開催 shinagawa.goguynet.jp",
+      "summary": "【品川区】都内最大級「大井競馬場フリーマーケット」8/22(土)・23(日)開催 号外NET 品川区",
       "id": "8e6eaef16bfaae3b",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1029,9 +1029,9 @@
     {
       "title": "【品川区】「小山両社祭」9/6(日)開催！しながわ百景の熱気溢れる「小山両社祭連合渡御」は17時集結！武蔵小山～西小山まで練り歩き",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oXzJ4WHdKQVFoSGMtbWZXOEFRYU8wRnNxTVlKRkxSczBORi1qcEJWeWZqdGx5TG5FZlJTMjZ0MzlhRGV3VUVRVEd2NE9vdW02elpUVGcyMmVfU01HSmpnSDhlZzl2R0FpWnc?oc=5",
-      "source": "shinagawa.goguynet.jp",
+      "source": "号外NET 品川区",
       "published": "2026-08-14T06:18:24+00:00",
-      "summary": "【品川区】「小山両社祭」9/6(日)開催！しながわ百景の熱気溢れる「小山両社祭連合渡御」は17時集結！武蔵小山～西小山まで練り歩き shinagawa.goguynet.jp",
+      "summary": "【品川区】「小山両社祭」9/6(日)開催！しながわ百景の熱気溢れる「小山両社祭連合渡御」は17時集結！武蔵小山～西小山まで練り歩き 号外NET 品川区",
       "id": "df7b3ad27b2f0161",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1065,9 +1065,9 @@
     {
       "title": "品川区で小中学生24名が挑戦 ママズオン参画の実践型アントレ教育が地域を変える",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtYzBFVE9jczNReXlFUTlHamVDNXF5YUtOWjA5N2N5NXVhQjM4dlVSOER1T1pRdUczRjk3VEJRNUdBQkJET2U1cHJ6RGNmUQ?oc=5",
-      "source": "dxmagazine.jp",
+      "source": "DXマガジン",
       "published": "2026-08-12T07:00:00+00:00",
-      "summary": "品川区で小中学生24名が挑戦 ママズオン参画の実践型アントレ教育が地域を変える dxmagazine.jp",
+      "summary": "品川区で小中学生24名が挑戦 ママズオン参画の実践型アントレ教育が地域を変える DXマガジン",
       "id": "1580926b6d6b1afb",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1089,9 +1089,9 @@
     {
       "title": "【品川区】子どもをネット犯罪やSNSの危険から守る「第3回 世界の安心・安全『絆』フォーラム」きゅりあんで9/4(金)開催",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHduaGJLSkRTRnJWMGNaRzJ3RElWOHMtdjRXSW9nbTRQUHlrdDRrQVUtU0VFR3ljWlBETlNWVzJ5TEthX2wtOGhITmhmbml6SXlTSi1aTC10NVIyRFpmbDA0UGdxT1VwdXRNTGtneHAtYWE0X3pLV09qQmM0YVlPR29n?oc=5",
-      "source": "shinagawa.goguynet.jp",
+      "source": "号外NET 品川区",
       "published": "2026-08-09T22:43:03+00:00",
-      "summary": "【品川区】子どもをネット犯罪やSNSの危険から守る「第3回 世界の安心・安全『絆』フォーラム」きゅりあんで9/4(金)開催 shinagawa.goguynet.jp",
+      "summary": "【品川区】子どもをネット犯罪やSNSの危険から守る「第3回 世界の安心・安全『絆』フォーラム」きゅりあんで9/4(金)開催 号外NET 品川区",
       "id": "29463fd2ea3820b9",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1111,6 +1111,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5UGhlZWFmNENrYnZtTHhQV3YtYWV2YXU5dEtzZHFKalczZUhWWFVFLU11ZUJSUGdudEFTSFlRZmJvTzBYNUI3UzM1OWlLUENPcUFVT0Y4LWZxdHBHcGFTRXFXb2RwM2cwcThXSEdiU2F0cFhU?oc=5",
+      "source": "Excite エキサイト",
+      "published": "2026-08-07T14:15:00+00:00",
+      "summary": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始 Excite エキサイト",
+      "id": "abb3c9017e3bb913",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "鎌倉梶原商業施設 2026年8月28日(金)より順次開業！ライフやカインズが出店！全4店舗一覧！最新情報も！",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40cUl2TnR1czNOc1BlQVZlZmUwTGpCamhudm4wSVRPYXhZb283M2xfYm50eGNyYmJ2ZVRTMHZ1bEFLNmh2eHVNamJVR0FWWUE?oc=5",
       "source": "出店ウォッチ",
@@ -1123,5 +1135,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 88
+  "count": 89
 }
