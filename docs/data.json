@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-20T04:04:26.361116+00:00",
+  "generated_at": "2026-08-20T05:04:53.228838+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 2
+      "count": 1
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -66,6 +66,30 @@
     }
   ],
   "items": [
+    {
+      "title": "東京武道館 スポーツの日記念イベント「東京2020大会５周年記念事業 武道・スポーツフェスティバル2026」開催！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Bb0YtZ0F1d0V4anFINEFuVkNLcWd3clBHeUhtZlBkM2xvVnpydjNacHFnNGdXRUl1OEhzRGJfV1dDdDdUSklGZlJ6YWh3UmNNQjNNc2dVOXJCQWpOQUF1WVpJM1dHN0p2VXc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-20T05:00:02+00:00",
+      "summary": "東京武道館 スポーツの日記念イベント「東京2020大会５周年記念事業 武道・スポーツフェスティバル2026」開催！ PR TIMES",
+      "id": "c37b054d05faa647",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ITエンジニア向けウェビナー～開発業務のレポーティングにも「Claude Code」が活用できる!?～『「Claude",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50bHpYRFJPUGdoeDJTLTJyVFBUTnFnemRTQ3BmXzJXNlMtUXJSdmlnMTk2NjNIYlFrRTBJUU5VbEJhdEtYLV9ZNlZod0phaWRjNGZHVlR2V0MwWWxQMjBJLXhCRUFBR1NFYjJPVUhWb0NPMnl3bkNIWlJENA?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-08-20T04:30:29+00:00",
+      "summary": "ITエンジニア向けウェビナー～開発業務のレポーティングにも「Claude Code」が活用できる!?～『「Claude ニコニコニュース",
+      "id": "882e5a26553e1124",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "なぜAnthropicなどAI企業は、古書を買い集め裁断し処分しているのか",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HMVRZN1NDSlI4ZXcyaG9HemRmMTVrM0JJN1c2SVQyMERHVk0tLXB0Q0JtRHpqV1MzRHF6ZjhoZ1h6S2x1MWhKdWFzUGtrSFREa3NvMlBKUFgyRmVNYTJIMnpGbEFLS25ycVU1Ylp1TDZ3RDNtMEJNSmNUbjZaWGc?oc=5",
@@ -109,18 +133,6 @@
       "published": "2026-08-20T03:00:02+00:00",
       "summary": "話題のAI「Claude」のビジネス向けAIエージェントで日常業務を爆速化！ 今日から使える実践例が詰まった『Claude Cowork スゴイ活用術』発売 PR TIMES",
       "id": "1a0e2e67e0633d90",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ITエンジニア向けウェビナー～開発業務のレポーティングにも「Claude Code」が活用できる!?～『「Claude Code」を用いた“AI臭くない”スライド作成術』",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DanhIQmNmSkpTVlRwOUE3VHJwV0JTeUNTaERfR09RRlVDYzhpTi1IMG45SF93cWtGVGx3S05nQUxHWVRZTF9RWFhuUzlSSmo5cFphMHJWZ1N2LTFXSGJtOXdENzUtS2Z1UTc0THJkTEdOc2Zj?oc=5",
-      "source": "Excite エキサイト",
-      "published": "2026-08-20T02:45:00+00:00",
-      "summary": "ITエンジニア向けウェビナー～開発業務のレポーティングにも「Claude Code」が活用できる!?～『「Claude Code」を用いた“AI臭くない”スライド作成術』 Excite エキサイト",
-      "id": "c4767a22ccda7056",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -201,9 +213,9 @@
     {
       "title": "Ｓａｎｓａｎ、Bill OneにAIが仕訳を自動作成する新機能を追加",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uQ25md3dBa0VYUU5pVmtWbm8wTTVZX3ZRNjlUVUhNazVYLVdyalQ0alpBdmFZSUZXWE4wZUhRaTZJc0Y1NlpRYXdibG9BTmFBMGNV?oc=5",
-      "source": "ニュースメディアVOIX",
+      "source": "voix.jp",
       "published": "2026-08-20T02:04:05+00:00",
-      "summary": "Ｓａｎｓａｎ、Bill OneにAIが仕訳を自動作成する新機能を追加 ニュースメディアVOIX",
+      "summary": "Ｓａｎｓａｎ、Bill OneにAIが仕訳を自動作成する新機能を追加 voix.jp",
       "id": "2cc910ea1bb15f45",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -220,6 +232,30 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "あいみょん、『ブラタモリ』ロケ初参加！ タモリと甲子園誕生の秘密をたどる",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ldFhlczhoYUVuSkhWV2UtZHZOLVdKQ0plSmFlV0FySTlvcXljc1ZPVExmQTN0Y0hOWWo2YzlwRTFleksxOXFiOHluV2hNZ3IweXlOMmpHUHVfZlFHSFRZ?oc=5",
+      "source": "ぴあエンタメ情報",
+      "published": "2026-08-20T02:00:00+00:00",
+      "summary": "あいみょん、『ブラタモリ』ロケ初参加！ タモリと甲子園誕生の秘密をたどる ぴあエンタメ情報",
+      "id": "bdc6dcf0f289c834",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "あいみょんが「ブラタモリ」ロケ初参加、タモリとともに地元・西宮の甲子園を巡る（コメントあり）",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zWWlFNDNWenVaZU9wVE9PUktmNmhiQ0NBdjFxc25BVGRsWTNqTmFvbGtMdGNmZ1RyNjVkd3o2QXU4U2JpQVF6cG95OEo?oc=5",
+      "source": "ナタリー",
+      "published": "2026-08-20T01:42:00+00:00",
+      "summary": "あいみょんが「ブラタモリ」ロケ初参加、タモリとともに地元・西宮の甲子園を巡る（コメントあり） ナタリー",
+      "id": "99f2a788e66b7192",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -256,6 +292,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【関東】2026年8月22日・23日週末開催の無料イベント19選 大規模夏祭り＆花火も満喫！",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jSDV3VjA2VE13UXpiOFpQQ0dZLXU0d2xSTElDMlQ2SEVteEsyRTNZT1pNVXRpRG9KOHZDM3BudFBmalN6a0Q3UTFqUGRZREFmZ0E?oc=5",
+      "source": "いこーよニュース",
+      "published": "2026-08-19T22:01:27+00:00",
+      "summary": "【関東】2026年8月22日・23日週末開催の無料イベント19選 大規模夏祭り＆花火も満喫！ いこーよニュース",
+      "id": "1fc859ff9df5a480",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -561,9 +609,9 @@
     {
       "title": "あいみょん初ベスト盤の配信予約で限定映像プレゼント 全国5都市で体験型展示も実施",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XSERJTjBGdFdydnVYdGttM2R3U1F5MUZ6NzdqQ3RTd3AyQ2R0Y3FaMGVCbkswYXlZdkI0Qmprcy1jaDhDaElwR2FKVEpZd0FBV3BkdlRrOFpzczVNZ3JBQjJpSjV4eFpTRXRjM2pMeTNacS1xUmtoYQ?oc=5",
-      "source": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
       "published": "2026-08-18T10:31:40+00:00",
-      "summary": "あいみょん初ベスト盤の配信予約で限定映像プレゼント 全国5都市で体験型展示も実施 lp.p.pia.jp",
+      "summary": "あいみょん初ベスト盤の配信予約で限定映像プレゼント 全国5都市で体験型展示も実施 ぴあエンタメ情報",
       "id": "0c0025d8b68224f5",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -717,9 +765,9 @@
     {
       "title": "【品川区】9/5 (土)開催「人と麦と音」品川本照寺に本格的な焼き窯が！",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhQ2U4Q3FEOUxoZWRKbG00dERNMjlTcF9qa2xDc3IwQ3hJVDhoUnZzWTd5SWtscjVSVlpNeWoyRy15bWpiMnlRSVB1R3ZfaGU5T1VyOEVFMEZ1NGtseExseDVmZw?oc=5",
-      "source": "号外NET 品川区",
+      "source": "shinagawa.goguynet.jp",
       "published": "2026-08-17T22:43:00+00:00",
-      "summary": "【品川区】9/5 (土)開催「人と麦と音」品川本照寺に本格的な焼き窯が！ 号外NET 品川区",
+      "summary": "【品川区】9/5 (土)開催「人と麦と音」品川本照寺に本格的な焼き窯が！ shinagawa.goguynet.jp",
       "id": "80434eb90b07cc81",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -765,9 +813,9 @@
     {
       "title": "あいみょん、10周年で甲子園に凱旋！「4年越しの約束」を果たしたメモリアルライブのオフィシャルレポート到着",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MZF95SFVpRlF5dkdPX0lDNGRNQXg2REoyVjJUYmJNTGQ3NGVqZ0ZwUGdvdUFGU0VqT1hxaDVlT21MbmRTczh2TUVPdnpUcThYUVY0ekVBNUkxTWlFRlZ6SUxaRnFKa0tpNC1jVXlLclB5SEVVNENxNA?oc=5",
-      "source": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
       "published": "2026-08-17T07:00:00+00:00",
-      "summary": "あいみょん、10周年で甲子園に凱旋！「4年越しの約束」を果たしたメモリアルライブのオフィシャルレポート到着 lp.p.pia.jp",
+      "summary": "あいみょん、10周年で甲子園に凱旋！「4年越しの約束」を果たしたメモリアルライブのオフィシャルレポート到着 ぴあエンタメ情報",
       "id": "b7ceaf7bbcb0f2e1",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -799,18 +847,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょん、NHKでメジャーデビュー10周年特番 ライブ＆貴重映像、特別トークも「初めて歌った時の映像がやばいです」",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CT2dUR25lX1lHNkVmRnh4T01wN3RsR2d6aW1UeDg4dENzNUhnNWlYam5qMy1KRjhDZFYtdDlneFA5blljdDZmYTBlT3ZSM1F0WFFlNXZLbU5QZUU?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-08-16T10:37:41+00:00",
-      "summary": "あいみょん、NHKでメジャーデビュー10周年特番 ライブ＆貴重映像、特別トークも「初めて歌った時の映像がやばいです」 山陽新聞",
-      "id": "0193cac5c2c92256",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "古墳時代や鎌倉時代の出土品も 板倉区針「天源寺遺跡 現地見学会」23日(日)開催",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JR1VMT0I0Ui0yMS1rODdBRkxpRU9EQjkzbGRrc18xbTVzcWQwb0VWalphS1VNeUNEdHl1Q190cUZ1M1ZkQVVnZVZhSlBlTFc2MW1ocERR?oc=5",
       "source": "上越妙高タウン情報",
@@ -837,9 +873,9 @@
     {
       "title": "【品川区】都内最大級「大井競馬場フリーマーケット」8/22(土)・23(日)開催",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ddmp0TVVUakxIM08zelVvUVhuM2NlbVhGUGt0azJFUmNzcTZSd09GVHRSZmxlR1NHNVhWenhCWldrYkpSX3UyeEJpZjVQT05Hc2NOWVd3NzBXdGFDVTA2VUctWQ?oc=5",
-      "source": "号外NET 品川区",
+      "source": "shinagawa.goguynet.jp",
       "published": "2026-08-15T22:43:25+00:00",
-      "summary": "【品川区】都内最大級「大井競馬場フリーマーケット」8/22(土)・23(日)開催 号外NET 品川区",
+      "summary": "【品川区】都内最大級「大井競馬場フリーマーケット」8/22(土)・23(日)開催 shinagawa.goguynet.jp",
       "id": "8e6eaef16bfaae3b",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -861,9 +897,9 @@
     {
       "title": "東京都品川区の『あかゆ』開催報告✨ | ＊新＊全国こども食堂プロジェクト 〜ミライ・テラス〜",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZUGphd3RlQmRtb2M5a2otZDh0MVBwdGFJT01TYVh2TUhOa05zWEJqaXFrZ1JfMUY3TXJHaUgwakY1bXlRM0JfRWNCU1FNQlpOS2RZYkloRzVMY0hxcDE1YW1n?oc=5",
-      "source": "congrant.com",
+      "source": "コングラント",
       "published": "2026-08-15T11:00:00+00:00",
-      "summary": "東京都品川区の『あかゆ』開催報告✨ | ＊新＊全国こども食堂プロジェクト 〜ミライ・テラス〜 congrant.com",
+      "summary": "東京都品川区の『あかゆ』開催報告✨ | ＊新＊全国こども食堂プロジェクト 〜ミライ・テラス〜 コングラント",
       "id": "bf1e36c8a7251119",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -885,9 +921,9 @@
     {
       "title": "STARGLOW、ファンミーティングツアーの横浜アリーナ公演より最新シングル「Drivin’ My Life」ライブ映像公開",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiazdja3lkZnpnZGlPNHhWdi04SGhLd2QzYjRLLUxzWGNYemxpVk0zVmNOMmFtV0YySUlwU1FRMkJuM0U?oc=5",
-      "source": "barks.jp",
+      "source": "BARKS",
       "published": "2026-08-15T10:00:00+00:00",
-      "summary": "STARGLOW、ファンミーティングツアーの横浜アリーナ公演より最新シングル「Drivin’ My Life」ライブ映像公開 barks.jp",
+      "summary": "STARGLOW、ファンミーティングツアーの横浜アリーナ公演より最新シングル「Drivin’ My Life」ライブ映像公開 BARKS",
       "id": "58d31c258ce97bcc",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -904,30 +940,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lZV94eGZTaUlMOTZfUHlGX0pjdW9PNm5udDI4VVVmWmV1YTNyTkx1d1Jab2hyaVQ3RGhYRnpOLURZZWFjTXpKSmdyWExtZFlYSGc?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-08-15T07:00:00+00:00",
-      "summary": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】 山陽新聞",
-      "id": "840b14bd4cfbf68f",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "第1回ハノイ国際武道祭が2026年に開催されます。",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSnFqc1FrTjRoZkcxRXBVQXJMTnZkOXZrYmNvY0NtdjcwM2NuWjV4eV94RWhhSmRfazZMQk01S05LOE41cXBXNmNSRmJxaDlhNGxsTW1IVUQwRjlXOXY3VWYzNVE5QzJtb2k1eFNncmxVWkZ3TlNNencyVXJaaklDNVllUW1TQk0yWHAwMGZGQzJ0QzA?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-08-15T07:00:00+00:00",
-      "summary": "第1回ハノイ国際武道祭が2026年に開催されます。 Vietnam.vn",
-      "id": "cfe3062b797f2955",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1005,9 +1017,9 @@
     {
       "title": "【品川区】「小山両社祭」9/6(日)開催！しながわ百景の熱気溢れる「小山両社祭連合渡御」は17時集結！武蔵小山～西小山まで練り歩き",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oXzJ4WHdKQVFoSGMtbWZXOEFRYU8wRnNxTVlKRkxSczBORi1qcEJWeWZqdGx5TG5FZlJTMjZ0MzlhRGV3VUVRVEd2NE9vdW02elpUVGcyMmVfU01HSmpnSDhlZzl2R0FpWnc?oc=5",
-      "source": "号外NET 品川区",
+      "source": "shinagawa.goguynet.jp",
       "published": "2026-08-14T06:18:24+00:00",
-      "summary": "【品川区】「小山両社祭」9/6(日)開催！しながわ百景の熱気溢れる「小山両社祭連合渡御」は17時集結！武蔵小山～西小山まで練り歩き 号外NET 品川区",
+      "summary": "【品川区】「小山両社祭」9/6(日)開催！しながわ百景の熱気溢れる「小山両社祭連合渡御」は17時集結！武蔵小山～西小山まで練り歩き shinagawa.goguynet.jp",
       "id": "df7b3ad27b2f0161",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1041,9 +1053,9 @@
     {
       "title": "品川区で小中学生24名が挑戦 ママズオン参画の実践型アントレ教育が地域を変える",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtYzBFVE9jczNReXlFUTlHamVDNXF5YUtOWjA5N2N5NXVhQjM4dlVSOER1T1pRdUczRjk3VEJRNUdBQkJET2U1cHJ6RGNmUQ?oc=5",
-      "source": "DXマガジン",
+      "source": "dxmagazine.jp",
       "published": "2026-08-12T07:00:00+00:00",
-      "summary": "品川区で小中学生24名が挑戦 ママズオン参画の実践型アントレ教育が地域を変える DXマガジン",
+      "summary": "品川区で小中学生24名が挑戦 ママズオン参画の実践型アントレ教育が地域を変える dxmagazine.jp",
       "id": "1580926b6d6b1afb",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1077,9 +1089,9 @@
     {
       "title": "【品川区】子どもをネット犯罪やSNSの危険から守る「第3回 世界の安心・安全『絆』フォーラム」きゅりあんで9/4(金)開催",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHduaGJLSkRTRnJWMGNaRzJ3RElWOHMtdjRXSW9nbTRQUHlrdDRrQVUtU0VFR3ljWlBETlNWVzJ5TEthX2wtOGhITmhmbml6SXlTSi1aTC10NVIyRFpmbDA0UGdxT1VwdXRNTGtneHAtYWE0X3pLV09qQmM0YVlPR29n?oc=5",
-      "source": "号外NET 品川区",
+      "source": "shinagawa.goguynet.jp",
       "published": "2026-08-09T22:43:03+00:00",
-      "summary": "【品川区】子どもをネット犯罪やSNSの危険から守る「第3回 世界の安心・安全『絆』フォーラム」きゅりあんで9/4(金)開催 号外NET 品川区",
+      "summary": "【品川区】子どもをネット犯罪やSNSの危険から守る「第3回 世界の安心・安全『絆』フォーラム」きゅりあんで9/4(金)開催 shinagawa.goguynet.jp",
       "id": "29463fd2ea3820b9",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1099,30 +1111,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【品川区】しながわ水族館「エリック・カールと いのちの色ー同じ世界で、ちがう色ー」12/25(金)まで開催中",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XRERVOUJRZ2Z3UFZhbWgtOUpoYV9WQmdSSnRraEs4NWkyQXo4WEVPMXR6aVNNSno5dDRSNUZQczBRMkxDb2ZSZ1BnMEpHUXdvUXFRRVdxUTY5M3dXTjl0NGNOMA?oc=5",
-      "source": "号外NET 品川区",
-      "published": "2026-08-09T01:50:41+00:00",
-      "summary": "【品川区】しながわ水族館「エリック・カールと いのちの色ー同じ世界で、ちがう色ー」12/25(金)まで開催中 号外NET 品川区",
-      "id": "1e9f765a2db4f658",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5UGhlZWFmNENrYnZtTHhQV3YtYWV2YXU5dEtzZHFKalczZUhWWFVFLU11ZUJSUGdudEFTSFlRZmJvTzBYNUI3UzM1OWlLUENPcUFVT0Y4LWZxdHBHcGFTRXFXb2RwM2cwcThXSEdiU2F0cFhU?oc=5",
-      "source": "Excite エキサイト",
-      "published": "2026-08-07T14:15:00+00:00",
-      "summary": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始 Excite エキサイト",
-      "id": "abb3c9017e3bb913",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鎌倉梶原商業施設 2026年8月28日(金)より順次開業！ライフやカインズが出店！全4店舗一覧！最新情報も！",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40cUl2TnR1czNOc1BlQVZlZmUwTGpCamhudm4wSVRPYXhZb283M2xfYm50eGNyYmJ2ZVRTMHZ1bEFLNmh2eHVNamJVR0FWWUE?oc=5",
       "source": "出店ウォッチ",
@@ -1135,5 +1123,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 89
+  "count": 88
 }
