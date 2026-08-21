@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-21T01:51:06.265823+00:00",
+  "generated_at": "2026-08-21T03:34:40.122870+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 2
+      "count": 1
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,24 +67,132 @@
   ],
   "items": [
     {
-      "title": "生成AIサービス４つを比較ChatGPT・Claude・Gemini・Copilotをデータアナリストはどう使い分ける？",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tdTNxdWdfakhyTkZiM2xlbWZ5YzhjLVBENVJuU2huMDBIV1hoZkVEOFBzYVNGcjJMUU9BSmhMZ0xOSEZYSkJEYXhXWjBpUQ?oc=5",
-      "source": "株式会社ロイヤリティマーケティング",
-      "published": "2026-08-21T01:34:41+00:00",
-      "summary": "生成AIサービス４つを比較ChatGPT・Claude・Gemini・Copilotをデータアナリストはどう使い分ける？ 株式会社ロイヤリティマーケティング",
-      "id": "fff49cab1c75f650",
+      "title": "企業のAIコストを一元管理。法人AI「ChatSense」が新サービス公開",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sVzE1WE5MOW9MMXFfRzNkUWFmZ0Zyc2UtczhsM0pjUDlSZEw5bDRGTGpGYWl6cnIzcUwzdTlQcDBUT2ltNmlBOUFUYms4d2NMbDFiYWg2aXZVUndVNnBiQ20zeEJTMWZyRVE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-21T03:31:36+00:00",
+      "summary": "企業のAIコストを一元管理。法人AI「ChatSense」が新サービス公開 PR TIMES",
+      "id": "0077955dc7def335",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claudeが生成するテキストへのウォーターマーク導入で、除去ツールが続々と登場",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeFJ6LVNCNkRCakVDQ2RPZGU4Q1pBYU5YQlA4LXFqbTNIY0xNV1d0Z0xwSnZuc2tuYldyM0lldDJCZk5DUTFpZkk4WFk4UXVJZnVNVWEwOFNLUktRTWpFNHBQMFVudlhxQl92UnRicWhmVlFQSDY3eG5GRklIVzVYbHlqcXdMdnE1?oc=5",
-      "source": "Business Insider Japan",
-      "published": "2026-08-21T01:30:00+00:00",
-      "summary": "Claudeが生成するテキストへのウォーターマーク導入で、除去ツールが続々と登場 Business Insider Japan",
-      "id": "e29249b9a9eb7e04",
+      "title": "経営者限定「AIを使わない会社は、終わる。Claude Code経営実装セミナー」を11月25日に沖縄で開催",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yenduaGZFNURicmF4V1ROLTNKdU9wWWp3Q3R2TElXcUoybEl5SV8yYjJwMXFCNzZQUDZnYVBEZ0hNU0hSZk5Ma0wwS0VIeW9pZ1hkR0ladUlpMTFiT2xoWm52dG5NbUFf?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-08-21T02:45:31+00:00",
+      "summary": "経営者限定「AIを使わない会社は、終わる。Claude Code経営実装セミナー」を11月25日に沖縄で開催 ニコニコニュース",
+      "id": "df26c09d67e3e151",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claudeの使い方を学べる公式チュートリアル「Claude Academy」が登場、単純なチャットからエージェントまで網羅",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aX1hwejNlV0IwaGVfanFybEZERmp0RFpEZEx3VWNkNjJneUFYLXRyZmQyZlJYTF9HOHZuRDBTS0pnWUh2S204M1UxWGJMa0hhdnloVUZPOVFCX29tcF9KZTRTc1JVWWVMWDdHNg?oc=5",
+      "source": "GIGAZINE",
+      "published": "2026-08-21T02:42:00+00:00",
+      "summary": "Claudeの使い方を学べる公式チュートリアル「Claude Academy」が登場、単純なチャットからエージェントまで網羅 GIGAZINE",
+      "id": "807228e6cfacd4ea",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropicの無料AI学習サイト「Claude Academy」が公開された",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFB5LTJ3d2RuWEFCRmw1Sk0yRGRyVzlfdGZaSkhwMnlVVGZLQzZhWnFpWkdMMWV6QnpjdFU1WXVR?oc=5",
+      "source": "ゴリミー",
+      "published": "2026-08-21T02:38:47+00:00",
+      "summary": "Anthropicの無料AI学習サイト「Claude Academy」が公開された ゴリミー",
+      "id": "6e10979a0c26a220",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「Claudeの使い方」を無料で学べる公式サイト登場 「Code」「Cowork」などサービスごとに解説",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hQU44NlhJdDN4MGVib3F6RWZEUmlqOVUwMHFfTWttTVM3WEd6U01JaVoxOW5KOE9UMmhZbTQtbVUwMU81Mkt1bUhBOEZobkRhTWtQei1YQWN3SDJMaEE5cDc5Qm5lT3NrMFJBVjJfXzhyRWp1WlQyOA?oc=5",
+      "source": "Infoseek",
+      "published": "2026-08-21T02:29:08+00:00",
+      "summary": "「Claudeの使い方」を無料で学べる公式サイト登場 「Code」「Cowork」などサービスごとに解説 Infoseek",
+      "id": "60806c126dcac83b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「Claudeの使い方」を無料で学べる公式サイト登場 「Code」「Cowork」などサービスごとに解説（ITmedia NEWS）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqa1pLZURFN2VwRDQ3Wm1UU2c4dWRHZDF4X2ZZQy1Xb1dzSFlBNG1HVnl3UTRyTW5IUjA2cndBYmxtdGZDQWN1YWN3RVdvdm5CVldPdmtQZUVsdVNyenRZUWQ2MkxZWEhZRnZFVDhwSTJMd2VWVlU1YmpHWkZaVWs?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-08-21T02:28:02+00:00",
+      "summary": "「Claudeの使い方」を無料で学べる公式サイト登場 「Code」「Cowork」などサービスごとに解説（ITmedia NEWS） Yahoo!ニュース",
+      "id": "fd339bcd750b6217",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "韓国でも広がるAIウォーターマーク…生成コンテンツ判別へ、AnthropicがClaudeに導入（KOREA WAVE）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kV3phV3M3ZFh5OFRSaE0taWRUNDIwNWwxbEswa1ZFNFJkRFBuRjRaQW44LXZERVdLS0JVZzRwSU5seXpHZWYwc3gzak5SYUNEcEpWXy1ESmc1RnoxTmpGU09QQmV4bDVGVUkxMzZidURDUWo1ZC1DR2RKWWtFcVk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-08-21T02:24:15+00:00",
+      "summary": "韓国でも広がるAIウォーターマーク…生成コンテンツ判別へ、AnthropicがClaudeに導入（KOREA WAVE） Yahoo!ニュース",
+      "id": "3d17314bc6debc29",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "企業向けAI市場でOpenAIがAnthropicを上回る成長率 - 米決済データ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jcHhZUEEtWkdRbDZLM0oycTc3cUVhTVo5cmhNNzNHRmpFV211elFfWHpxcnVOZ2N0UFowQThhQk5wSmFQczJQaUJINldZaUZFSlZwLW9NSlBPdnJGdTA3SFFOa0Z4THhS?oc=5",
+      "source": "マイナビニュース",
+      "published": "2026-08-21T02:21:10+00:00",
+      "summary": "企業向けAI市場でOpenAIがAnthropicを上回る成長率 - 米決済データ マイナビニュース",
+      "id": "d9274e71321faad6",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claudeが生成するテキストへのウォーターマーク導入で、除去ツールが続々と登場（海外）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sR2VrU1BoeWtWNXhCNXROUmExVktUZmR3SUpyQWpCQkNPZFl6aTBsZVlvT0hUaWE2bVA4SnZWNHhRQXIzZk05OU5tR0JZY3NfdEdra3VhdUNiamU3T29EMXIzVGZqNWpHWWpsNGxzc3JtSkdkeTl3cmJrMlk0WXM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-08-21T02:10:02+00:00",
+      "summary": "Claudeが生成するテキストへのウォーターマーク導入で、除去ツールが続々と登場（海外） Yahoo!ニュース",
+      "id": "b67b85288d532621",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AnthropicのIPOが迫る：上場前露出のために注目すべき10銘柄",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkZBMV8zN2ZDQU1CODdwczE4aHJGb19XdU9hVFBBY2R6aTN1QXNkdmk2TDd6elZEaUI1ams3TlhuNG9nbDVUanVodFhYSlBaWWIyZjd0c1dvZWI0XzdmcEFWVlJ2MGVKdVR0V0NWTUFSRnZ6SE5EaFJ6MkEwNUY4TWkyTlJYTnVSTldUcEpaQ2lYeTUxUDAyZWNEbVpxOXE2RU02cVBPWUlkNEZu?oc=5",
+      "source": "Moomoo",
+      "published": "2026-08-21T02:06:11+00:00",
+      "summary": "AnthropicのIPOが迫る：上場前露出のために注目すべき10銘柄 Moomoo",
+      "id": "b7c863284b52111c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "生成AIサービス４つを比較ChatGPT・Claude・Gemini・Copilotをデータアナリストはどう使い分ける？",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tdTNxdWdfakhyTkZiM2xlbWZ5YzhjLVBENVJuU2huMDBIV1hoZkVEOFBzYVNGcjJMUU9BSmhMZ0xOSEZYSkJEYXhXWjBpUQ?oc=5",
+      "source": "株式会社ロイヤリティマーケティング",
+      "published": "2026-08-21T01:34:41+00:00",
+      "summary": "生成AIサービス４つを比較ChatGPT・Claude・Gemini・Copilotをデータアナリストはどう使い分ける？ 株式会社ロイヤリティマーケティング",
+      "id": "fff49cab1c75f650",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -115,18 +223,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "経営者限定「AIを使わない会社は、終わる。Claude Code経営実装セミナー」を11月25日に沖縄で開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fSzhnbU1kNXczUjh4emxyb2pkNmJVN0pncVBjRkR2TkpZdG1aMzdGWkM0d1VMYzlBbDd2SXZ5MFBJcUJsVWx6dkVybWZnVUU5bC1jeHBtYndTUmg4bTlQUHhkY3BMTGJ6LUE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-21T00:49:09+00:00",
-      "summary": "経営者限定「AIを使わない会社は、終わる。Claude Code経営実装セミナー」を11月25日に沖縄で開催 PR TIMES",
-      "id": "df26c09d67e3e151",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "「【最大5億円】成長加速化補助金3次公募」の申請サポートを開始します！【助成金なう】",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yTnpHTEd4NWJXUXY0SzhQSG5TNFhOaTBCclJiNkxpcEJpVVAtQ2V0X3FhQ2N3dG45bE9PNHZsbVNXRm1QV3phbHEwYkxUZXpCNVNtSU5WSWRxZzdPdTItV2drT2lNWWg0MFE?oc=5",
       "source": "PR TIMES",
@@ -136,102 +232,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic上場、1兆ドル調達でSpaceX超えか",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82czZNVzVYZGluaURVdnRlNE1nYnM4NjFrd2NwZm9adVlweU5WcTZkTUkxOHhjY29KRWNxUnBRVGt2bHBsdDRkMTdXenYtd1dKdU91aF9yaVhhSXczQkdaeVlNMWhrY3JIcWw0OGlB?oc=5",
-      "source": "BeInCrypto",
-      "published": "2026-08-20T23:48:13+00:00",
-      "summary": "Anthropic上場、1兆ドル調達でSpaceX超えか BeInCrypto",
-      "id": "c3f78c51d2a64b5c",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "株式会社リベルクラフトが「岡山県生成AIアドバンスト事業」を受託。県内中小企業向け研修の受講企業を募集中",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84U0x0TkRiT3J2Vk4wMnNhVlZnczRXdGpjTGpSNDRVQ2VHSmlNLWFiZ0swUEtnTHk0SmJLM3JoTnl2S3ZManhjajBTeXI5RDE5VUpqVjZLZ3hYSXA4RG9qbnNMTVE4aWdocXc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-20T23:30:01+00:00",
-      "summary": "株式会社リベルクラフトが「岡山県生成AIアドバンスト事業」を受託。県内中小企業向け研修の受講企業を募集中 PR TIMES",
-      "id": "3e2879b4792eb262",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Academy公開｜Anthropicが変えた教材の背骨",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByNHNVOXBMeVhoSVB3NzN6d3pZQUNSVnNZZUFDTWhwUW9HRlZISFcyalRRZFg2YTdGT25TTG1qZHlKeHVCR3dKVUt3d2VrdXl2azJZ?oc=5",
-      "source": "innovaTopia",
-      "published": "2026-08-20T23:05:00+00:00",
-      "summary": "Claude Academy公開｜Anthropicが変えた教材の背骨 innovaTopia",
-      "id": "9ab8c820623f34b8",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropicの無料AI学習サイト「Claude Academy」が公開された",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFB5LTJ3d2RuWEFCRmw1Sk0yRGRyVzlfdGZaSkhwMnlVVGZLQzZhWnFpWkdMMWV6QnpjdFU1WXVR?oc=5",
-      "source": "ゴリミー",
-      "published": "2026-08-20T22:45:17+00:00",
-      "summary": "Anthropicの無料AI学習サイト「Claude Academy」が公開された ゴリミー",
-      "id": "6e10979a0c26a220",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「知られたくない」と内部文書に記していた——Anthropicが古書を裁断してスキャンし続けた理由",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBHM3kwYkVsQUZXeWJwalZvQ0MteG5oX0FlaFJEQnI4b1BnallSSGVOM2JVQnR5a1hoYTFnVzF2aXY?oc=5",
-      "source": "shiritomo",
-      "published": "2026-08-20T22:27:31+00:00",
-      "summary": "「知られたくない」と内部文書に記していた——Anthropicが古書を裁断してスキャンし続けた理由 shiritomo",
-      "id": "ead43831853d3dc2",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「孫さんはOpenAIだが、僕はAnthropic」 SBI北尾会長が語る「AI投資5億円→増収27億円」の勝算（1/2 ページ）",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tMlJSS1R6ZDlRZS02aEoxYzJlNk9TY0tTcmRCXzZjaGRXcExYQzBOU2ZTQmZLVVB6VWJ5LU9JdTVENFhlREgyejVieElUNTZMNnh4RU1md0dFLWMwSXY5T1RGN0cwN2ZIc283dGZ2bTc3QQ?oc=5",
-      "source": "ITmedia",
-      "published": "2026-08-20T22:00:00+00:00",
-      "summary": "「孫さんはOpenAIだが、僕はAnthropic」 SBI北尾会長が語る「AI投資5億円→増収27億円」の勝算（1/2 ページ） ITmedia",
-      "id": "c94ab0592dc9af78",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ（ビジネス＋IT）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FRXNGUW5SSFIyc3M4clJodHlNU2RidjAxRHhnRjlZNzhDd2VIYmQ5bXJQX2lxSnQ1MlFRUVIyalNkb21KN2I2aDFrY3pfOVVxU3pXWFltY2lyWTUzZUhoM0J2S05Yay1QbGNGLThfTGhQOHR1Qk9EVWY5RS1BcFk?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-08-20T21:50:06+00:00",
-      "summary": "「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ（ビジネス＋IT） Yahoo!ニュース",
-      "id": "27ed3fc90bcb9f1e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "身近な発見を集めて、整理して、発信！ Claude×Notionで作る「AIキノコ図鑑」【【連載】EducAItion Times】",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SMTcxTHpQZDNoZG1LQWU2Yy15VTdrcVJhU1RocnlkQ2IzTktxYlU3eTd4cF9xYXF6ZlVTRDlmY0piZzBfcTBSanVwdEpMQm45NmZhdXIxdTVLOEMzU1FR?oc=5",
-      "source": "千葉テレビ放送",
-      "published": "2026-08-20T21:44:18+00:00",
-      "summary": "身近な発見を集めて、整理して、発信！ Claude×Notionで作る「AIキノコ図鑑」【【連載】EducAItion Times】 千葉テレビ放送",
-      "id": "251b8316b5ba4588",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -253,6 +253,18 @@
       "published": "2026-08-20T20:45:00+00:00",
       "summary": "日本経済 金利上昇の耐性は?【プロの眼】 テレ東BIZ",
       "id": "e69890a68d30ac43",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "NYダウは反落し703ドル安 金利再び上昇、ウォルマート大幅安も逆風",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yRzB3VVBnTjM4TU1fbVEzNnk3bnBvVDhjOEpvS0lfRnlncklwSy12WXo0eGViZnFFZ3FsdHNQbWFkOHZUUXRzQkpaUERxTVJmV1dlX3dZUmdBZUNnRHdXOWF2Y2czVlNNZWpCeg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-20T20:36:14+00:00",
+      "summary": "NYダウは反落し703ドル安 金利再び上昇、ウォルマート大幅安も逆風 日本経済新聞",
+      "id": "baa86ba7be0075e4",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -379,12 +391,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Ｎｅｗｓモーニングサテライト【日本経済 金利上昇の耐性は？】(テレ東、2026/8/21 05:45 OA)の番組情報ページ",
+      "title": "Ｎｅｗｓモーニングサテライト【日本経済 金利上昇の耐性は？】",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNazgwbDlFeUFqdVlQVGlBeU10NHNyUnZLSzN5d2VHb1pmSVlfYkQzZy1HRjVRZVZWcldPNVhnNGFBRjA4QmFGbFZZOG5XYW5aeXFQeXFqa1Y1aG1QRVNWdHllVEJxWHY2TVY3d0tJRFh3N0FKRjVYOUp4OXlhUEVNR29PTDA3WVNmNm9TNGE4UQ?oc=5",
       "source": "tv-tokyo.co.jp",
       "published": "2026-08-20T10:14:04+00:00",
-      "summary": "Ｎｅｗｓモーニングサテライト【日本経済 金利上昇の耐性は？】(テレ東、2026/8/21 05:45 OA)の番組情報ページ tv-tokyo.co.jp",
-      "id": "2373aba43868e7a3",
+      "summary": "Ｎｅｗｓモーニングサテライト【日本経済 金利上昇の耐性は？】 tv-tokyo.co.jp",
+      "id": "3daa002c1396fd6f",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -511,6 +523,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 岡山」8/27(木) 開催",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SVldtUXZvTDNLdnd6MVZfanJWUnZPOTNUWVo3MjRNclpicEhIZktRb1VCbkFVdzllXzE4QklyY2cyTERPdG84QnlnalBsY2VGeUE?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-08-19T23:19:55+00:00",
+      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 岡山」8/27(木) 開催 山陽新聞",
+      "id": "aca4ffa288c16215",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【関東】2026年8月22日・23日週末開催の無料イベント19選 大規模夏祭り＆花火も満喫！",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jSDV3VjA2VE13UXpiOFpQQ0dZLXU0d2xSTElDMlQ2SEVteEsyRTNZT1pNVXRpRG9KOHZDM3BudFBmalN6a0Q3UTFqUGRZREFmZ0E?oc=5",
       "source": "いこーよニュース",
@@ -520,30 +544,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米連邦政府債務、40兆ドル突破 金利上昇で利払い費が膨張",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5odWtaa1BKblJxSHFPQW5oOXItVEJNbkgyOVNEbTN1aXpxY3FnRXRaczVmb1d2Y0xKeWVEZFU1a3U0T1JnUlotQVFkczRRSmRxUlFqdUFMd0FKVkk0OFV3ZWdDb1k0UVVKZ1dCTg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-19T21:36:02+00:00",
-      "summary": "米連邦政府債務、40兆ドル突破 金利上昇で利払い費が膨張 日本経済新聞",
-      "id": "65ddff947da2c1a1",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米欧の長期金利が急低下、買い入れ奏功 ドル全面安で円158円台前半",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVQ1RrR3hyek13QzE3azZGUExFSFRKR242eU1jMFlsc0FmcEJ5ZkE0aTZHNkdLak1aUEZaZDZId2VXUlZWazVUYXk1eXliUzYtZW1QYTgwTGhQWVA4YnR3TlRSZU9OaVY0V2I5VA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-19T21:12:26+00:00",
-      "summary": "米欧の長期金利が急低下、買い入れ奏功 ドル全面安で円158円台前半 日本経済新聞",
-      "id": "ce6e8d7ceddda2f7",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -736,6 +736,18 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Juice=Juiceライブチケット2026一般発売いつから？取り方と確実に取るコツも！",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHcVZReFpnc2JDcGkxVGtKRFdlN1pMUk1mRmZKaHdtSHh1ZW8wX3NVZ0hHSi1acTBFZnhGYkZUMGpNYWU3ZWoyQXV0RjUyVVQ4RWZUdlhjenpvX0R2?oc=5",
+      "source": "株式会社マーケットプレイス",
+      "published": "2026-08-18T06:44:13+00:00",
+      "summary": "Juice=Juiceライブチケット2026一般発売いつから？取り方と確実に取るコツも！ 株式会社マーケットプレイス",
+      "id": "33e06be5c0887bbb",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1051,18 +1063,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "『バズリズム LIVE 2026』横浜アリーナで3日間開催 Vaundy、超特急、Saucy Dogら第1弾発表",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVWHJkdExST25oRXRvbjdQd3oxdGtPR3owLXRBaG5mb25SdU9WZEJsdFM1YjNwWnQwVGJUUUQ1c0x6ZEZsT2YtWkM1WQ?oc=5",
-      "source": "エンタのおはなし",
-      "published": "2026-08-14T09:12:16+00:00",
-      "summary": "『バズリズム LIVE 2026』横浜アリーナで3日間開催 Vaundy、超特急、Saucy Dogら第1弾発表 エンタのおはなし",
-      "id": "980854e1d491420c",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【品川区】「小山両社祭」9/6(日)開催！しながわ百景の熱気溢れる「小山両社祭連合渡御」は17時集結！武蔵小山～西小山まで練り歩き",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oXzJ4WHdKQVFoSGMtbWZXOEFRYU8wRnNxTVlKRkxSczBORi1qcEJWeWZqdGx5TG5FZlJTMjZ0MzlhRGV3VUVRVEd2NE9vdW02elpUVGcyMmVfU01HSmpnSDhlZzl2R0FpWnc?oc=5",
       "source": "号外NET 品川区",
@@ -1111,18 +1111,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5UGhlZWFmNENrYnZtTHhQV3YtYWV2YXU5dEtzZHFKalczZUhWWFVFLU11ZUJSUGdudEFTSFlRZmJvTzBYNUI3UzM1OWlLUENPcUFVT0Y4LWZxdHBHcGFTRXFXb2RwM2cwcThXSEdiU2F0cFhU?oc=5",
-      "source": "Excite エキサイト",
-      "published": "2026-08-07T07:00:00+00:00",
-      "summary": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始 Excite エキサイト",
-      "id": "abb3c9017e3bb913",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鎌倉梶原商業施設 2026年8月28日(金)より順次開業！ライフやカインズが出店！全4店舗一覧！最新情報も！",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40cUl2TnR1czNOc1BlQVZlZmUwTGpCamhudm4wSVRPYXhZb283M2xfYm50eGNyYmJ2ZVRTMHZ1bEFLNmh2eHVNamJVR0FWWUE?oc=5",
       "source": "出店ウォッチ",
@@ -1135,5 +1123,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 89
+  "count": 88
 }
