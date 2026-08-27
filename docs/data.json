@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-27T01:39:10.810565+00:00",
+  "generated_at": "2026-08-27T02:42:02.351340+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 10
+      "count": 11
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -66,6 +66,30 @@
     }
   ],
   "items": [
+    {
+      "title": "スライド生成AI「ChatSense」、パワポ内の画像をそのまま活用可能に",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94MmlTTVRZMEZtYmJUSXM5azR4dlNpNFFWckU3bV9tUm9rck5SX0dvdi1tVm1jeTVCTmdoaGFnWlVya1dCSnB2MzV0MU5oOHcxX2YxdVN5V0lRNnFSRlM3M2xNanNHMUZvVmc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-08-27T01:36:11+00:00",
+      "summary": "スライド生成AI「ChatSense」、パワポ内の画像をそのまま活用可能に PR TIMES",
+      "id": "b47b3c5834d3d845",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "DProの広告データ分析から画像・動画制作まで、Codex／Claude Codeなどでつなぐ「Pro ai MCP」を提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tbkFjd0tlSC04Y1JYTHlXaUFiMWxaRFU3NThwZGhVQUwzajNkNnZXeU5aLXk3NEJwUnViZ182Q2JEU2YwQzhqdExnUDA0NndLMmNoNVUyYnkzSElEOVp1TTdCVjItbG92?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-08-27T01:30:11+00:00",
+      "summary": "DProの広告データ分析から画像・動画制作まで、Codex／Claude Codeなどでつなぐ「Pro ai MCP」を提供開始 ニコニコニュース",
+      "id": "d23d952a26c26921",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "WOW WORLD、メール配信システム「WEBCAS e-mail」に生成AIを活用した「件名・プリヘッダー提案」「テキストメール自動生成」機能を追加",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wSGtQTElLQUFPSEhKb2l3bTZmYkhmTlZONFI1akFJOTBkMloxMXdBcUR4VmgwZXFRVVFjNHVjVGtEQWViR0NmR1lSVVhSMmRPWTgwZ0VFRG9xSk5VdERRQ0hxMHRESTJuZ3c?oc=5",
@@ -100,30 +124,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、早ければ明日にも「Fable 5.1」発表か OpenAIの「Astra」に先手を打つ",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4cmY5RWxyMWdobmhFZy1oQ1QxbUt5ZFlGdmNGWlhOaUNZT0pTMHMzNmNqbTJiV2wzZWNONEI3RHQ2d2J5RDRKN2hCcHlSVHlINDNyX0RlVWJ6bDh2TjctajdwaFF0LW1CaVlDdk82clVTUm9W?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-08-27T00:35:00+00:00",
-      "summary": "Anthropic、早ければ明日にも「Fable 5.1」発表か OpenAIの「Astra」に先手を打つ BigGo ファイナンス",
-      "id": "1628d836ffd4e5aa",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "プレスリリース：株式会社プエンテ、日経「生成AIサミット2026」IMPACT PITCHに選出 ― SaaS「知識の複利ループ」応援投票受付中（9/6まで）（PR TIMES）",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WMWxTeEd1RGpEX0UwNlNscjZud3BkeTE1X1VzVUFuMlJmUXA1OHJ4enliOUJUNjgyWkp5WlJFOW1NNTN6SU5GcjhJbGZGTmV4UE5TVXVGTEU4WTNzWklZUEsxbXdLUUpL?oc=5",
-      "source": "毎日新聞",
-      "published": "2026-08-27T00:22:53+00:00",
-      "summary": "プレスリリース：株式会社プエンテ、日経「生成AIサミット2026」IMPACT PITCHに選出 ― SaaS「知識の複利ループ」応援投票受付中（9/6まで）（PR TIMES） 毎日新聞",
-      "id": "10d0e1f0804ff122",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -223,6 +223,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "Anthropicが450億ドル投じ計算能力確保 IPO準備でSpaceXの記録に挑む",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZXFTSmcyZGtrUkZZbi13X1VLWnJBM1p4Z3l2dnliNkJSd1pIOW5wejcyRjN6UUdQNjdKWE84d2VsUmFsNXgyeEY1V1NUUzQ4WU9JU1FhLXRoQWJiSG1sYVNsRVl5cS03SklVQXFtSmlfM2hf?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-08-26T19:35:00+00:00",
+      "summary": "Anthropicが450億ドル投じ計算能力確保 IPO準備でSpaceXの記録に挑む BigGo ファイナンス",
+      "id": "23390ad1bd38e205",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "年末IPOに備え、AI新興Anthropicが法務部門トップを大幅刷新",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02ZTBoTHFZaGsxa04zS3ZtRXkwZ3VFa2ZYWlF2Q2ZSaVQ4RmFxTURrT0NlUjNYdzhXaGszVGkyU19pY1A5b2NYeEdBRmlkaUpXT3p3UUFUZjNGQWFDZ3RXelk4TUJCWV9nSnEwREJWU1FBQWdB?oc=5",
       "source": "BigGo ファイナンス",
@@ -259,15 +271,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【2DAYS・8時間】1名から参加できるClaude Code超実践コースを提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LTC1xVVBTUVJzaVBVeTBxbG5pZ0ZuMWM1VFRwbUNXTXBVcnZGLWxHdElGTlpGT3F3TlZ4SUxXektjSnBUaFdVNTFtNjBGLU9IOFFEQ2lhSWgxekgwY2ljcG1NRUJOUFM5?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-08-26T16:00:30+00:00",
-      "summary": "【2DAYS・8時間】1名から参加できるClaude Code超実践コースを提供開始 ニコニコニュース",
-      "id": "64d9ba01ad091fdd",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
+      "title": "17信金、金利上昇で赤字 前期、債券含み損が重荷 中小・零細に逆風",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyN1ptU0xPRXk1YkZ4WGR2WE1NRk9LZHI1SmxKcFhFR09IUndvd3BtV2tSbGhsQThpTVBRcmtmZEhzakJ1SmN2dE1PSFRHQks2TmI0RkxJYUUtSXVRNUQ1U3FsbG9aMm1FaWcyWA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-26T17:00:00+00:00",
+      "summary": "17信金、金利上昇で赤字 前期、債券含み損が重荷 中小・零細に逆風 日本経済新聞",
+      "id": "30f700a3088a31f2",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -475,18 +487,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「適温」相場のリスクは金利上昇 AIが奪い合う資本の行く末は",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iWmNBN1g2N1RieHE2b0VYdzZjT1cxRnZ3dHU2eFQ0NEYwbFRCS2tBZlRVbnlOeFE2Y1RKcEVIYjBYUm9RX2pyZmVRbzYyX1drUEd5WTVyZTh6RmpSaXFlWFcwTWhXUUYwVkJsTA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-25T19:00:00+00:00",
-      "summary": "「適温」相場のリスクは金利上昇 AIが奪い合う資本の行く末は 日本経済新聞",
-      "id": "eab8b4844b4f81c5",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Appare!、横浜アリーナでワンマン開催",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55X3Zia3drWmZvZmJQQ0w3Ynh5aGpHZjJ1Sktxc1IwTll2U2FZSlctNEJDUG5qeU9fbU11N25LZkxwYndOZUFkanl4RC0?oc=5",
       "source": "natalie.mu",
@@ -511,12 +511,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "カインズ 鎌倉梶原店 2026年8月28日（金）いよいよグランドオープン | 株式会社カインズのプレスリリース",
+      "title": "カインズ 鎌倉梶原店 2026年8月28日（金）いよいよグランドオープン",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xbzhsV2NzdUxmbzRaU29qLXZXYi0yc01LOTdWNm9PWGw0Y0pqbzNlVGF0RHdVQTRCUmFpa2pPUERrVGdsY1Nwa3VrWm1GRU9IQ3ktNEFwZzB4NHlJS0pUSFlmckJ3bDE4eUE?oc=5",
       "source": "PR TIMES",
       "published": "2026-08-25T09:17:24+00:00",
-      "summary": "カインズ 鎌倉梶原店 2026年8月28日（金）いよいよグランドオープン | 株式会社カインズのプレスリリース PR TIMES",
-      "id": "02f8b0a543b3f48d",
+      "summary": "カインズ 鎌倉梶原店 2026年8月28日（金）いよいよグランドオープン PR TIMES",
+      "id": "754b24fc9e82d022",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -799,18 +799,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "横山裕ライブチケット2026一般発売いつから？取り方と確実に取るコツも！",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfd2w5REtJT2NzaENmZzZ4bDI2MExRRk5yYUJyQ3lQdEV0SU1UNE9iODh0NXRyejd5eWpkN0JjS0NyRW1RS0xYSjVpSXZwbTV1QUdxRUhWcEE5dGswRWc?oc=5",
-      "source": "株式会社マーケットプレイス",
-      "published": "2026-08-22T01:00:00+00:00",
-      "summary": "横山裕ライブチケット2026一般発売いつから？取り方と確実に取るコツも！ 株式会社マーケットプレイス",
-      "id": "bef78c1cd645989b",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "久留米市『ぶどう祭り2026』通常よりも安く販売！空くじなしのお楽しみ抽選会も",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wdjFONnZVMzdudHMycHVFV3VVR2psSjZLaGJMS2E4enVnak5xZ1p4dWpUQ1RyMVJtUk9Td19qLU1vczdkaDBSczkyNzUxUQ?oc=5",
       "source": "久留米ファン",
@@ -892,6 +880,18 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Kis-My-Ft2『fan IS ･･････』横浜アリーナ公演を見逃した人へ｜キスマイの魅力全開ライブ、U-NEXT独占アーカイブ配信9/21スタート",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XT2tCT2hUemo3T2NRb0dvcERPdGF4VTZlbmxCS2EzWHFYdzNRbVV4bUZpa2VoSDBqSkJScEEwWTNSemlxemtRckx3?oc=5",
+      "source": "banger.jp",
+      "published": "2026-08-18T22:12:29+00:00",
+      "summary": "Kis-My-Ft2『fan IS ･･････』横浜アリーナ公演を見逃した人へ｜キスマイの魅力全開ライブ、U-NEXT独占アーカイブ配信9/21スタート banger.jp",
+      "id": "bccce9d4fa8ab79e",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1003,6 +1003,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "東京都品川区の『あかゆ』開催報告✨ | ＊新＊全国こども食堂プロジェクト 〜ミライ・テラス〜",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZUGphd3RlQmRtb2M5a2otZDh0MVBwdGFJT01TYVh2TUhOa05zWEJqaXFrZ1JfMUY3TXJHaUgwakY1bXlRM0JfRWNCU1FNQlpOS2RZYkloRzVMY0hxcDE1YW1n?oc=5",
+      "source": "コングラント",
+      "published": "2026-08-15T11:00:00+00:00",
+      "summary": "東京都品川区の『あかゆ』開催報告✨ | ＊新＊全国こども食堂プロジェクト 〜ミライ・テラス〜 コングラント",
+      "id": "bf1e36c8a7251119",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【9/4開催】女性の“次の一歩”を品川から応援！女性起業家の事業ピッチ×品川区長・森澤恭子氏登壇のクロストーク×JICA・アフリカ視察団との交流「ウーマンズエンパワーメント・サミット 品川」開催",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfaTRxZWhyS3pjNHdOUVd3RV9OQnhHMzFXY3NEQXc5Ymc0b3F6cFZ6Nko3TlZVXzNHeU9WOFhfTDRLMUNtYXEzcVcyTUJDYW56QnB2eTFPN1RiemVReVltdUMtYXdDcW9fU0E?oc=5",
       "source": "PR TIMES",
@@ -1018,7 +1030,7 @@
       "title": "【品川区】「小山両社祭」9/6(日)開催！しながわ百景の熱気溢れる「小山両社祭連合渡御」は17時集結！武蔵小山～西小山まで練り歩き",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oXzJ4WHdKQVFoSGMtbWZXOEFRYU8wRnNxTVlKRkxSczBORi1qcEJWeWZqdGx5TG5FZlJTMjZ0MzlhRGV3VUVRVEd2NE9vdW02elpUVGcyMmVfU01HSmpnSDhlZzl2R0FpWnc?oc=5",
       "source": "号外NET 品川区",
-      "published": "2026-08-14T06:18:24+00:00",
+      "published": "2026-08-14T07:00:00+00:00",
       "summary": "【品川区】「小山両社祭」9/6(日)開催！しながわ百景の熱気溢れる「小山両社祭連合渡御」は17時集結！武蔵小山～西小山まで練り歩き 号外NET 品川区",
       "id": "df7b3ad27b2f0161",
       "category": "地域",
@@ -1027,5 +1039,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 80
+  "count": 81
 }
