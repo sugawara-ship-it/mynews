@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-08-28T13:24:15.547900+00:00",
+  "generated_at": "2026-08-28T14:42:23.305850+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -14,7 +14,7 @@
       "name": "推しアーティスト",
       "category": "音楽",
       "emoji": "🎵",
-      "count": 9
+      "count": 11
     },
     {
       "name": "ライブ・コンサート全般",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 12
+      "count": 6
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -121,6 +121,18 @@
       "published": "2026-08-28T08:30:48+00:00",
       "summary": "OpenAIやAnthropicなど100社超がAIサイバー攻撃急増を警告 BeInCrypto",
       "id": "c764e098607aaac1",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "2月は57兆円、8月は300兆円――Anthropicの企業価値が半年で5倍に膨らんだ理由",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBqUFV0eXQ0OWNEdHk2aXQyYUpWMl9fTFJlaXVtMzMyY2xlOEtIWFlkUDJaWUJKR2pnVURUd3pER2Y?oc=5",
+      "source": "shiritomo",
+      "published": "2026-08-28T08:24:41+00:00",
+      "summary": "2月は57兆円、8月は300兆円――Anthropicの企業価値が半年で5倍に膨らんだ理由 shiritomo",
+      "id": "37cb3003b88a2ab6",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -223,18 +235,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzT25oY0V3Ri02NFVDSFdmVk84aGhlTzBnYmlIcHFDcTU5eDBhM3Y1aHF3RGZvaDFzVTNNLUI5aE9fOC1fc1BWREV1U21FSTdOb3RHX1lsdzlXaEJXTzdMaHlBMmxTNE04Q0E?oc=5",
-      "source": "ITmedia",
-      "published": "2026-08-28T05:20:45+00:00",
-      "summary": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ ITmedia",
-      "id": "3dc90ec06190c3e4",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "全国の補助金情報を楽々検索 恵那市がスタートアップのシステム導入：ニュース",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xdGpNMkhHaDgwcHlibWYteGlGS2tiNmhDVnhtOF9OU2pva3BjYTZ5SnF5QmZvc1dhYXdkLWx0MkZTR0g5UXJYbnZoQ0VxTTd1Q1ZDdVZBTVE4MjFQOTBj?oc=5",
       "source": "中日BIZナビ",
@@ -259,15 +259,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ＦＣ東京、品川区と包括連携協定締結　１１項目で連携　１０・２５水戸戦に５００組１０００人の区民を招待",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPanA4eHdkcng2d2xXTS15ZTBDRWxMeG1GSGo1Q29kOVRYcVd4WDNXZzNXNlQxVEprbE1rLWw2amVNTjhGMktIbHAwVjBHdUplb2ZhR1dpV05EQ21Ybm8tOVdQUVV4RnF2QkhuZWlrNjVQWEZIQUhWVHJYRGcwcFRTYzk0TDl4VlFsZ0HSAYoBQVVfeXFMT2pwOHh3ZHJ4NndsV00teWUwQ0VsTHhtRkhqNUNvZDlUWHFXeFgzV2czVzZUMVRKa2xNay1sNmplTU44RjJLSGxwMFYwR3VKZW9mYUdXaVdORENtWG5vLTlXUFFVeEZxdkJIbmVpazY1UFhGSEFIVlRyWERnMHBUU2M5NEw5eFZRbGdB?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-08-28T02:04:00+00:00",
-      "summary": "ＦＣ東京、品川区と包括連携協定締結 １１項目で連携 １０・２５水戸戦に５００組１０００人の区民を招待 ｄメニューニュース",
-      "id": "b1b2c4352272aba6",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
+      "title": "Kvi Baba、アリーナ・ツアーの追加公演決定 自身最大規模となるKアリーナ横浜にて開催",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jdEkxX1MtdmNheXVsRXlhRFZYalpyeFdKNG9KaGJOYnROUEdYaHRuS1gtVXlvSHRXdG5ETWlVOUFvUm5LaGc5UDB4Y01xazVDUzN1WkRFaGR4UQ?oc=5",
+      "source": "CDJournal.com",
+      "published": "2026-08-28T01:43:00+00:00",
+      "summary": "Kvi Baba、アリーナ・ツアーの追加公演決定 自身最大規模となるKアリーナ横浜にて開催 CDJournal.com",
+      "id": "3f43f8c17f9a2bbf",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -391,18 +391,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "子どもたちが鎌倉市内の各所でお仕事体験「高齢者の苦労分かった」",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HdGxyMVZNdlFNRjhmaFU2a1VpeDFjSkZPTkMxLWtVNWo4S3QxQ3dkYkxSLV96TV82RE5ySFJRSEl0NEZ6TjQzWmNxYklPTVppMklqc1hnMDJSSFpzdGxPSHdKTW4?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-08-27T15:00:00+00:00",
-      "summary": "子どもたちが鎌倉市内の各所でお仕事体験「高齢者の苦労分かった」 タウンニュース",
-      "id": "7fa7630a1a1cc371",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "縁むすびカード利用率５割 期限は９月16日",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOV3QxQUNLQkdnSG41dEhabzRod3NIZVI4MVVWWU51ZFFiVHpocmlXSTJQYTJJTDM2R3ZOWF9YWGpOb2JTMnNQcFdISmttNVN3eW94eUVtWWFoQlJlN0VuNmVTNDI?oc=5",
       "source": "タウンニュース",
@@ -427,24 +415,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉市議会 新議長に日向氏 中沢前議長の辞職に伴い選出",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uOTZlTUN2M2Fxc19TR3NkU056aUo5aU4wY0F2V1A3U0EteS1oM2tiZW43MlFMMUVCczBFb2FBLTJLUGt0M1QybVlLQ1NRV2oxZVkydDdKdUNoRHBGd2pPVXktbnc?oc=5",
+      "title": "子どもたちが鎌倉市内の各所でお仕事体験「高齢者の苦労分かった」",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HdGxyMVZNdlFNRjhmaFU2a1VpeDFjSkZPTkMxLWtVNWo4S3QxQ3dkYkxSLV96TV82RE5ySFJRSEl0NEZ6TjQzWmNxYklPTVppMklqc1hnMDJSSFpzdGxPSHdKTW4?oc=5",
       "source": "タウンニュース",
       "published": "2026-08-27T15:00:00+00:00",
-      "summary": "鎌倉市議会 新議長に日向氏 中沢前議長の辞職に伴い選出 タウンニュース",
-      "id": "20a5d01b282605d8",
+      "summary": "子どもたちが鎌倉市内の各所でお仕事体験「高齢者の苦労分かった」 タウンニュース",
+      "id": "7fa7630a1a1cc371",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「鎌倉エシカルトレイン」のラッピングデザインを手掛けた 澤渡 俊仁（さわど としひと）さん 材木座在住 62歳",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xWFhKYlF6RGZlZnhabTBtbGN4NXVxcnNmeG1ZR09WM3Q4Q0p0ZmVTTVZ6UEM1ZjhVSGlTMDl2M3d2SG1DNVN2OWg2OFZxZVd3Ym1WT3BYS1pqNWhUclM5VXl4ZkQ?oc=5",
+      "title": "鎌倉市議会 新議長に日向氏 中沢前議長の辞職に伴い選出",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uOTZlTUN2M2Fxc19TR3NkU056aUo5aU4wY0F2V1A3U0EteS1oM2tiZW43MlFMMUVCczBFb2FBLTJLUGt0M1QybVlLQ1NRV2oxZVkydDdKdUNoRHBGd2pPVXktbnc?oc=5",
       "source": "タウンニュース",
       "published": "2026-08-27T15:00:00+00:00",
-      "summary": "「鎌倉エシカルトレイン」のラッピングデザインを手掛けた 澤渡 俊仁（さわど としひと）さん 材木座在住 62歳 タウンニュース",
-      "id": "de181e490e0f4d59",
+      "summary": "鎌倉市議会 新議長に日向氏 中沢前議長の辞職に伴い選出 タウンニュース",
+      "id": "20a5d01b282605d8",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -463,11 +451,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "FC東京と品川区が包括連携協定　区民1000人の試合招待や“防災サッカー”「スポーツの力を生かした地域づくりを」",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rVXBCTHNmdFY0STB3RlFBbWdVT1dHUkxzMVJ4MlBLMXhMMjFrWVNhWS13VkZaZzEyWGRaRmRrWkZBUVlZWkdVSnhkVklKMFBad3RXb3FsQ0VNSWtZdnZEOVdFN1ZlMzZ2LWVGY3F3TTFFQTZ6SGJueUhzZG_SAXxBVV95cUxPa1VwQkxzZnRWNEkwd0ZRQW1nVU9XR1JMczFSeDJQSzF4TDIxa1lTYVktd1ZGWmcxMlhkWkZka1pGQVFZWVpHVUp4ZFZJSjBQWnd0V29xbENFTUlrWXZ2RDlXRTdWZTM2di1lRmNxd00xRUE2ekhibnlIc2Rv?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-08-27T13:40:00+00:00",
-      "summary": "FC東京と品川区が包括連携協定 区民1000人の試合招待や“防災サッカー”「スポーツの力を生かした地域づくりを」 ｄメニューニュース",
+      "title": "「鎌倉エシカルトレイン」のラッピングデザインを手掛けた 澤渡 俊仁（さわど としひと）さん 材木座在住 62歳",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xWFhKYlF6RGZlZnhabTBtbGN4NXVxcnNmeG1ZR09WM3Q4Q0p0ZmVTTVZ6UEM1ZjhVSGlTMDl2M3d2SG1DNVN2OWg2OFZxZVd3Ym1WT3BYS1pqNWhUclM5VXl4ZkQ?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-08-27T15:00:00+00:00",
+      "summary": "「鎌倉エシカルトレイン」のラッピングデザインを手掛けた 澤渡 俊仁（さわど としひと）さん 材木座在住 62歳 タウンニュース",
+      "id": "de181e490e0f4d59",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "FC東京と品川区が包括連携協定 区民1000人の試合招待や“防災サッカー”「スポーツの力を生かした地域づくりを」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WanVaWU96a09TZXcwY0hXcjVTYkQxVkkycDZITDlucG9Ec2hTYjc0aVl5UF9GZ2p0N0pneVR3eWlUQ1c2STFTTUlpOHE3NndLWFR3Ng?oc=5",
+      "source": "中日新聞Web",
+      "published": "2026-08-27T13:40:46+00:00",
+      "summary": "FC東京と品川区が包括連携協定 区民1000人の試合招待や“防災サッカー”「スポーツの力を生かした地域づくりを」 中日新聞Web",
       "id": "862215bdbd3b3d6a",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -555,18 +555,6 @@
       "id": "39884c3b3733ff02",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "FC東京が品川区と包括連携協定を締結　森沢区長「地域に根付いたスポーツクラブが果たす役割は非常に大きい」",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb1d3ak8xYU03SzJ1a1JCRjF3NERZb3BpcXdEMllyQVphMUptdzdkY29ONlV2b3dPZFlzWDJZNWYxdlVuMFM3MFRaLThjZkZxdTJVQmdtWXlXMEh2clNfQ2M4LVZ3TmJPaEQ4X1NxWW9VMy1RQ1FmV19GX3ZkMUF6SFJLMXZHUkRxeDI4QzBxU2kwRFRoSFRSd1lxR0xaYnF5YzVsYmZwNFZpOXlyT1J1ZdIBtgFBVV95cUxNSHcySXpBTV9DakNNUi1fQVRXMGQxQ3pFYVpZd2wzb2Ntc3dheG5OSm9NcTBOZUs3YjFnQXlySnNoWHVLQW5DQmI4T1Y1Q2hkanZmVUctT2lpS280c3VrZHNSYWtwZ0dIYUY4QnZrM2s4TXliNE1ZSUJFSGZuV1dkUVgwUHVzYVM0aXgzRkpYUlZCS052Q1hBYzl6QURjbE01SHQ3RDhkcFU0R0gtcWRXZDRSOTJXUQ?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-08-27T09:05:00+00:00",
-      "summary": "FC東京が品川区と包括連携協定を締結 森沢区長「地域に根付いたスポーツクラブが果たす役割は非常に大きい」 ｄメニューニュース",
-      "id": "b2af76584b94c503",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
@@ -751,24 +739,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "スキズライブチケット2026一般発売いつから？取り方と確実に取るコツも！",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fZDc4ZURaWjM2bWNIUkxWeU5lVDZkOHNZckpka0dYU1VuQko3X3RWNDJ6TldIOFBOSXExM2h5dmNkQk5ORU1sNG9iQTVJQkllVzFqNmpGU1JCdW8?oc=5",
-      "source": "株式会社マーケットプレイス",
-      "published": "2026-08-26T00:00:00+00:00",
-      "summary": "スキズライブチケット2026一般発売いつから？取り方と確実に取るコツも！ 株式会社マーケットプレイス",
-      "id": "5f60f514e01c6b34",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Appare!、横浜アリーナでワンマン開催",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55X3Zia3drWmZvZmJQQ0w3Ynh5aGpHZjJ1Sktxc1IwTll2U2FZSlctNEJDUG5qeU9fbU11N25LZkxwYndOZUFkanl4RC0?oc=5",
       "source": "ナタリー",
       "published": "2026-08-25T12:23:00+00:00",
       "summary": "Appare!、横浜アリーナでワンマン開催 ナタリー",
       "id": "505015d10b89729a",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "藤井風ライブチケット倍率・取り方は？当選のコツと一般発売・リセールまとめ【2026】",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PenpHU292aURxX3psR29DMGRfVUg1X3JUY19iZWlRZ2Q1VFhDcFhLaTBKdDQ0bndyRkVaRDNDdXBBa2VtLVd3X0EtV29jaU0?oc=5",
+      "source": "lignea.co.jp",
+      "published": "2026-08-25T09:11:16+00:00",
+      "summary": "藤井風ライブチケット倍率・取り方は？当選のコツと一般発売・リセールまとめ【2026】 lignea.co.jp",
+      "id": "094add8db5521d58",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -784,18 +772,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ちゃんみな自身初の東京ドーム公演を全国100館規模の映画館でライブビューイング！一般発売1時間完売のプレミア公演",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vNjFrVTZYaldWamh5SjFKV19PNkc1MWJJZTdDaXBBZGpaZW9yU0Q0YlRkQzYtZHNteUVPa2ZGUXEtTVZ1cVc0ci1Yb3FzWk16QUFxd2N30gFbQVVfeXFMT3V6NjFiMkk5b1JvNWptNjgya0xJWDN4X0VfRHpEQ2w5LWR2MTV0QkJMVW1KNlhkTXloLU96V2NxNmNwTDFFbGRTR3VlbGZtcEdudHRPcmhqbENHYw?oc=5",
-      "source": "ウォーカープラス",
-      "published": "2026-08-25T07:00:00+00:00",
-      "summary": "ちゃんみな自身初の東京ドーム公演を全国100館規模の映画館でライブビューイング！一般発売1時間完売のプレミア公演 ウォーカープラス",
-      "id": "04b0f4c7ebcbaba4",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -835,18 +811,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【品川区】都内最大級「大井競馬場フリーマーケット」8/29(土)・30(日)開催",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wa2tLZmFzSnZVb0ZjTHFTajBSWUVzV21UWjd6MTFVbWRlNXpMUkFKNHRlWHNyTW9aanVkX2daWWFIelhQbXlfRkdFS3ZtOFg1QWZsUUgyWmRudl9KQVdfVDRpMA?oc=5",
-      "source": "号外NET 品川区",
-      "published": "2026-08-25T01:45:32+00:00",
-      "summary": "【品川区】都内最大級「大井競馬場フリーマーケット」8/29(土)・30(日)開催 号外NET 品川区",
-      "id": "989405827adef04c",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ダン・タム・トゥアンと新しい季節",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14WEJHS0YwOVM2NlFkVU9NM0djdGpCZ1hCeXRISFNDNmRUdll5dDFSQVRkcjFqSmtDYlFhUmxvNTJNMmpnNW13dUZMdUpnajhteGFKUktuekdaN1FQQzRfVEE4NkpNbkpPbV95WQ?oc=5",
       "source": "Vietnam.vn",
@@ -868,42 +832,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "品川区大井町で開催された“青空プロレス”で、JWPの道場マッチで夏の定番だったプールサイド戦が10年ぶりに復活！",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXSjFNNl9DNVdxVWhzeVZTbXB5VFhOSXNsS0hnejBjQ2NWWGswdVhKVzB5TUF6VEZnZllVdE1oaS1uXzJ0VTI1REhmNW5VRG82Y2FwQWJUUWFEZGlEczlnSG8yU0h3RHRpeXptNjgzOFFicGdiVncxS0V2aTA1Z0U?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-08-24T02:18:09+00:00",
-      "summary": "品川区大井町で開催された“青空プロレス”で、JWPの道場マッチで夏の定番だったプールサイド戦が10年ぶりに復活！ Yahoo!ニュース",
-      "id": "b7debdd55bacc007",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "週末は各品川区内のイベントへGO！大崎ニューシティ盆踊り、目黒川夢まつり、大井どんたく夏祭り…...",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MbzR6RC04R2hsRmlHTG1rTEhlekFDY0t3N28xRmNpUGlNMjdlbGJ4cm1WWDFOTjlkQkxwOWxKYS1sV3pwcXhIN1JES2FNdTVUdlFqa2JqSHA0VkhZRUE?oc=5",
-      "source": "選挙ドットコム",
-      "published": "2026-08-23T22:48:11+00:00",
-      "summary": "週末は各品川区内のイベントへGO！大崎ニューシティ盆踊り、目黒川夢まつり、大井どんたく夏祭り…... 選挙ドットコム",
-      "id": "b920904ee9035c16",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【品川区】毎月第一水曜日開催！「REACH大崎クラフトマーケット」9/2(水)開催♪",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyOVF0VVRmOGs5RmFrVDlQMm15VHZ6ZzFoaVFONkw4a2JNaF9kY2liSEdXcTNERUZ5SUhRSGlLbFl0ai1OQUNQSGxvMHFNdGNld1JmMTFVTDFzTGpsOTVvRE1vYw?oc=5",
-      "source": "号外NET 品川区",
-      "published": "2026-08-23T22:43:38+00:00",
-      "summary": "【品川区】毎月第一水曜日開催！「REACH大崎クラフトマーケット」9/2(水)開催♪ 号外NET 品川区",
-      "id": "96a02f78330468fb",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -979,6 +907,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "米津玄師、出口夏希＆蒔田彩珠W主演「ルックバック」友情演奏で参加 本編1シーンで印象的なギターの音色",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1idUtleW45VEwzbkxtWmV0UFFWLVV2TWQzQkQzdXc0aVNWQ3JyNk4yT2UtUmNTWmdhRV9QMFpJcVVaUmhZdlhnMDY0R1phUdIBSkFVX3lxTE9YYTdvdmgwVXJGdU5hMTVub2tiOUMySmMxWFdudjhOUlJhTlNuMVBuaDBrQm9aMTRvQWpRQktISXI5YXlKc2lpRFVn?oc=5",
+      "source": "モデルプレス",
+      "published": "2026-08-20T06:30:00+00:00",
+      "summary": "米津玄師、出口夏希＆蒔田彩珠W主演「ルックバック」友情演奏で参加 本編1シーンで印象的なギターの音色 モデルプレス",
+      "id": "1175103251f590fa",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "東京武道館 スポーツの日記念イベント「東京2020大会５周年記念事業 武道・スポーツフェスティバル2026」開催！",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Bb0YtZ0F1d0V4anFINEFuVkNLcWd3clBHeUhtZlBkM2xvVnpydjNacHFnNGdXRUl1OEhzRGJfV1dDdDdUSklGZlJ6YWh3UmNNQjNNc2dVOXJCQWpOQUF1WVpJM1dHN0p2VXc?oc=5",
       "source": "PR TIMES",
@@ -988,6 +928,18 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "あいみょんが「ブラタモリ」ロケ初参加、タモリとともに地元・西宮の甲子園を巡る",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zWWlFNDNWenVaZU9wVE9PUktmNmhiQ0NBdjFxc25BVGRsWTNqTmFvbGtMdGNmZ1RyNjVkd3o2QXU4U2JpQVF6cG95OEo?oc=5",
+      "source": "ナタリー",
+      "published": "2026-08-20T01:42:00+00:00",
+      "summary": "あいみょんが「ブラタモリ」ロケ初参加、タモリとともに地元・西宮の甲子園を巡る ナタリー",
+      "id": "aa452bf3aafcccf5",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1039,5 +991,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 81
+  "count": 77
 }
