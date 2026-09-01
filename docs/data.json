@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-01T01:47:22.105702+00:00",
+  "generated_at": "2026-09-01T02:47:48.912082+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 1
+      "count": 0
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,12 +67,12 @@
   ],
   "items": [
     {
-      "title": "Anthropic、Claudeモデルが第三者システムに侵入した問題を受けAIセキュリティテストを再開",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MZ0M5REJjY3lJUW1wZjlJaFVVaWZZOXk5b003TDFFd0JQWGtTY1J5ZC1hZE9ONVQyU1hiTVdlU2oxajZ3dWhlS0ZFVkhrcHVRYXJCRDBrZEt1cWh5NmtvLWdDTUZLdjBza1dodHZNUjkwcE1I?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-09-01T01:36:00+00:00",
-      "summary": "Anthropic、Claudeモデルが第三者システムに侵入した問題を受けAIセキュリティテストを再開 BigGo ファイナンス",
-      "id": "a23fc7be46386b1e",
+      "title": "生成AIは道具から同僚へ ― 生成AIは迷惑を気にせず悩みを最初に相談できる相手に ―",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52al82dXhhVG1jZzREWERaNDc2QzV6U2pablJjNjYtamFqTkk3WTRfQVlycmlJek5CS1MwYUxjU3BHM2ltR181MXpOWmhkQlpvRHZFVWsyM3NzMTIwaktsV3FyeThOcTZMaFE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-01T02:00:02+00:00",
+      "summary": "生成AIは道具から同僚へ ― 生成AIは迷惑を気にせず悩みを最初に相談できる相手に ― PR TIMES",
+      "id": "9e5b605094d1c0fa",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -80,7 +80,7 @@
     },
     {
       "title": "【マルチAI対応】法人特化型 生成AI「LINNE",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SmhMUlJmcko2aldVTnZ5bG5fSnkzSWVkVnR6WFlOYXFKWmZILTZMeUZqOTBCV2RSVlR3VWdGTjdUS3hLZHg4ODBhUy1BSmV1dklaQ2YyTTRnYmIwRHY4X2lKb3ZXTnB1TFgyUks5aVZtZVR4WVJZQjBYRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PQlhCeVFKOXZUWXVUNDA3RDNTZHllZzhsV19EQjdiU19oQlBRckdwNThaUmNIQkJKQmhKaEdzc1hFU09sNmVia3ZXOXB1OXRrVzZlUk1UM0VIeV8tVTVTMnktekZ0TDh1bExsRnE5UGludXZyLWI3eThfbw?oc=5",
       "source": "ニコニコニュース",
       "published": "2026-09-01T01:15:21+00:00",
       "summary": "【マルチAI対応】法人特化型 生成AI「LINNE ニコニコニュース",
@@ -175,6 +175,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "『大量の紙資料を、生成AIで安全に検索・活用するには？』というテーマのウェビナーを開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wWGxqeUdqM1NjeWNQSEpvRGFaZFplSllSdU9XSDkwRzk3VWVaQUJQSFZDdUFyamJKSUtWVVNDaF9DbFB1Qy1SZlBISVlIbWVEUlc4OEtqakdVa3hWUEpmMTZiQlE3V1QyM2c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-01T00:00:02+00:00",
+      "summary": "『大量の紙資料を、生成AIで安全に検索・活用するには？』というテーマのウェビナーを開催 PR TIMES",
+      "id": "e48acaefae3c7b75",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【鎌倉市】コーナン鎌倉大船店で救急フェア開催！心肺蘇生法やAED体験・救急車乗車体験も 9月9日",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QUEN6QnRvTTRYQmRadHRHa0VDcTRUUEZIRkZMSjRVbDdEcHBHWmx3VGJoQ1o4UVpKdTFUTFNKODVHV1pWcnQ4M3lYbkVkMUNFNFVCNS1fZndleGRBMDZfNy1MWVY2Zw?oc=5",
       "source": "湘南人",
@@ -235,11 +247,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LNzA3Tmt3N0lWQmF0QzZRM29hdm9DM2FUN1NsclRSU0l3TV9WUkpXSHN1YTNkZWtPYjdqcnA1R2JHcFB6c3NQNGZJcl9CWXdFUFRkQXFyT3lySHpLWXBnUWpTN0VRN0V1ZXhqeGliOE9zZw?oc=5",
+      "source": "atmarkit.itmedia.co.jp",
+      "published": "2026-08-31T20:00:00+00:00",
+      "summary": "AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ atmarkit.itmedia.co.jp",
+      "id": "8229ce1647bf5aa9",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "NUWORKS、Claude Enterpriseを全社導入しAI活用を加速",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NejRBOUQ1NkZfeDBoSHRDYzRHNS00cVlkandQdDlZdWR4Q2FIMVItazdIMEx4UjFwRUFGOE5sLTBiVUZpam9uRkhOSEk4UEFHMjA5ODFhVWZHYzZydmRzZVk5Z21YaXBpMkRPUC1FWDFmQQ?oc=5",
-      "source": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "published": "2026-08-31T19:10:00+00:00",
-      "summary": "NUWORKS、Claude Enterpriseを全社導入しAI活用を加速 news.infoseek.co.jp",
+      "summary": "NUWORKS、Claude Enterpriseを全社導入しAI活用を加速 Infoseek",
       "id": "ddfed6f4e494f1df",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -253,18 +277,6 @@
       "published": "2026-08-31T18:39:00+00:00",
       "summary": "AWS政府向けクラウドを大幅拡充 OpenAI、Anthropicなど6大モデルを集結し公的機関の受注獲得へ BigGo ファイナンス",
       "id": "a79fd065e18229a6",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "EU、ChatGPTやRedditなど規制 クロードは対象外の理由",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BQVdndHN1S2x2LVdiY3lHWjlhWFJGV1gtT003cXYzNVJjVE5PT3E2YXcwcVpZcDZEM3NncDBfOFQ4cEREclNDSWhVQjhJb0FBejR1b2FUSmtjVlFKTHdwc1I1TUlZZ0hyYWpFcDlXcE5meDZm?oc=5",
-      "source": "BeInCrypto",
-      "published": "2026-08-31T18:07:59+00:00",
-      "summary": "EU、ChatGPTやRedditなど規制 クロードは対象外の理由 BeInCrypto",
-      "id": "eb9e62bd00945444",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -292,18 +304,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ソニーらがAnthropicを海賊版歌詞の無断学習で提訴など 日刊出版ニュースまとめ 2026.09.01",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SUEk0dlVBb2t2SUR1Y0NwUDV3ODM4VkNuWDJ5OWlUVlZ1R1k4X21mV1B0TWVsSGlqZ0lQWmpURE0wT1NCeWc?oc=5",
-      "source": "hon.jp",
-      "published": "2026-08-31T15:04:50+00:00",
-      "summary": "ソニーらがAnthropicを海賊版歌詞の無断学習で提訴など 日刊出版ニュースまとめ 2026.09.01 hon.jp",
-      "id": "22df4bb25cc1e6cd",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -585,9 +585,9 @@
     {
       "title": "【品川区】創建５００年記念！「戸越八幡神社 例大祭」が9/12(土)・13(日)に開催されます♪",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GcU1RaFp3djJJamNfVDhXb3gwVlhwYUFUbWI0RTdTUUswWHl4MVBkVVFBNnhDS1RnZHhCV04wR3hqYms5VmpnNUp1bElXZENaSnM1QVVJdU5FeG00c043QTV3SQ?oc=5",
-      "source": "号外NET 品川区",
+      "source": "shinagawa.goguynet.jp",
       "published": "2026-08-30T22:43:02+00:00",
-      "summary": "【品川区】創建５００年記念！「戸越八幡神社 例大祭」が9/12(土)・13(日)に開催されます♪ 号外NET 品川区",
+      "summary": "【品川区】創建５００年記念！「戸越八幡神社 例大祭」が9/12(土)・13(日)に開催されます♪ shinagawa.goguynet.jp",
       "id": "f94ef25bda0682ca",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -789,9 +789,9 @@
     {
       "title": "【品川区】６社局のバスとマスコットキャラクターが大集合！「バスの日イベント2026 in大井競馬場」9/26（土）開催",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0JqZWRRT0hNQlVZcWZNN0xLLWZNSXpmSDE5TDc5c09kTlV2YjBPemI4Sk5UckV5NGtWZjRqR2dkeDR5Qy14bU8tUjdJV3JEQkxNblNjT0ZHakp6bDF5M012eVNpSnpMUjVDWC0yTVhOSUtHaTk2QVBYSVdDWUhWVw?oc=5",
-      "source": "号外NET 品川区",
+      "source": "shinagawa.goguynet.jp",
       "published": "2026-08-29T22:43:36+00:00",
-      "summary": "【品川区】６社局のバスとマスコットキャラクターが大集合！「バスの日イベント2026 in大井競馬場」9/26（土）開催 号外NET 品川区",
+      "summary": "【品川区】６社局のバスとマスコットキャラクターが大集合！「バスの日イベント2026 in大井競馬場」9/26（土）開催 shinagawa.goguynet.jp",
       "id": "08336a1dd5b0c7a9",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -825,9 +825,9 @@
     {
       "title": "Kvi Baba、横浜アリーナ公演からKREVAと共に披露した“BPM”ライブ映像公開",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Vb1VVbVVfM3hwdTFMT3BxYUpQMTQ4MXEyaHp2VHhIUkpwNks2NjdQZWtqRGxIUVltSC01Y1hfOVZHTVgxZEV5NnFDRkd0WWhxbTR5WFlHZEZVd3puLVhsM09pVGxEQQ?oc=5",
-      "source": "spincoaster.com",
+      "source": "Spincoaster",
       "published": "2026-08-29T11:04:50+00:00",
-      "summary": "Kvi Baba、横浜アリーナ公演からKREVAと共に披露した“BPM”ライブ映像公開 spincoaster.com",
+      "summary": "Kvi Baba、横浜アリーナ公演からKREVAと共に披露した“BPM”ライブ映像公開 Spincoaster",
       "id": "beb7887040613fa2",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -861,9 +861,9 @@
     {
       "title": "【品川区】荏原町「ハッピーサマーフェス in えばらまち商店街」8/29(土)・30(日)開催♪",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtanNxLU1qRklvdjFBU2hFblBrMHNaelZsYU1JT2MwQjZPOWZNSDRNZkd6R3U3UG1aNHM0eF9TdUd4dUg3TWtNenhyZ0ptT3JGZGswWm5XVERpcGFFVk9TWFVncw?oc=5",
-      "source": "号外NET 品川区",
+      "source": "shinagawa.goguynet.jp",
       "published": "2026-08-29T06:28:39+00:00",
-      "summary": "【品川区】荏原町「ハッピーサマーフェス in えばらまち商店街」8/29(土)・30(日)開催♪ 号外NET 品川区",
+      "summary": "【品川区】荏原町「ハッピーサマーフェス in えばらまち商店街」8/29(土)・30(日)開催♪ shinagawa.goguynet.jp",
       "id": "323cea0ed929a221",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -933,9 +933,9 @@
     {
       "title": "【品川区】五反田TOC〈イベント情報〉ビッグセール！秋の「徳の市」9/11(金)・12(土)・13(日)の3日間開催",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNOXItVVNsa3RsQzd1Y1JncDhvdXJfbU1WeW9ZZXpTZWJqYXpnTlFERHJoYXluZVR0Yl80TFBhVUxyQ19IMlNjQTFxS0NqNDFwaENFV20tZ01nVEk?oc=5",
-      "source": "号外NET 品川区",
+      "source": "shinagawa.goguynet.jp",
       "published": "2026-08-27T01:42:30+00:00",
-      "summary": "【品川区】五反田TOC〈イベント情報〉ビッグセール！秋の「徳の市」9/11(金)・12(土)・13(日)の3日間開催 号外NET 品川区",
+      "summary": "【品川区】五反田TOC〈イベント情報〉ビッグセール！秋の「徳の市」9/11(金)・12(土)・13(日)の3日間開催 shinagawa.goguynet.jp",
       "id": "fdb83f8b27802bc3",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1027,18 +1027,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【調査】主要7区オフィス空室率は1.07％、三菱地所リアル",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RSjk3VjliV25xTFViTWctWnhjZXJ0Qk5RNmlUZXJBMHlMQ3gwVDVuRGUxUmVfckVuZ2FiV3p1QnRHYzE2NXZrUXZCSm5hMEdVVUVRSmRGbVllS2RpWjQ1MlpB?oc=5",
-      "source": "日経不動産マーケット情報",
-      "published": "2026-08-22T08:11:21+00:00",
-      "summary": "【調査】主要7区オフィス空室率は1.07％、三菱地所リアル 日経不動産マーケット情報",
-      "id": "111121c55cf6dd8a",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "久留米市『ぶどう祭り2026』通常よりも安く販売！空くじなしのお楽しみ抽選会も",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wdjFONnZVMzdudHMycHVFV3VVR2psSjZLaGJMS2E4enVnak5xZ1p4dWpUQ1RyMVJtUk9Td19qLU1vczdkaDBSczkyNzUxUQ?oc=5",
       "source": "久留米ファン",
@@ -1087,5 +1075,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 85
+  "count": 84
 }
