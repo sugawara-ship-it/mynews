@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-10T07:08:51.176566+00:00",
+  "generated_at": "2026-09-10T10:02:21.853342+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -32,7 +32,7 @@
       "name": "道場物件（鎌倉・湘南）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 1
+      "count": 2
     },
     {
       "name": "地域ニュース 品川",
@@ -67,24 +67,48 @@
   ],
   "items": [
     {
-      "title": "【AS/400×生成AI 第2弾】若手エンジニアが「Claude",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oYkVsZUtVdUlxYkRIRlZfSFBCWTkxMFd2WGpsVVpibjF2M2lzMTQ1Z1h6NElFM21MQ1ltSzlocDlGaUhKVGFUR2ZYdFJhaEJ1TXJqSzV6bHdMS3NrVHcyOFpfNnlfSEo1bDhENmdxQ1BXekFfc1BGd0pUNA?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-09-10T06:30:25+00:00",
-      "summary": "【AS/400×生成AI 第2弾】若手エンジニアが「Claude ニコニコニュース",
-      "id": "3de3fa851b6659c2",
+      "title": "Sonos、ClaudeやChatGPTなどAIで再生環境を操作できるOS「Sonos 27」発表",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOS0xY2tPckwwRXhLQlJzenJqX0M0VWdDY2oxYlBjNDJWa3YxZmlUckFNMkVKeTViVFI1YkcyekhXX2wtS0cwVm5peGtfclBselFZanRZeHFpZjFFQkF5ZkxBMHBGSU82bEZJaE44LWpHZkpjQTM5N1VSNmJvdVZkbno5MmZkUVRFWW45Z0QwVQ?oc=5",
+      "source": "Music Ally Japan",
+      "published": "2026-09-10T09:43:40+00:00",
+      "summary": "Sonos、ClaudeやChatGPTなどAIで再生環境を操作できるOS「Sonos 27」発表 Music Ally Japan",
+      "id": "97660c4ba56bf768",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic元研究員がAI終末論を再燃させる - CHOSUNBIZ",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85RE9sTEZWSm8ybUREbm9vdFVPQ21haW9HSHdyTkkxVHBlbGYtUlhnTXYyUDY4aU1LLUNwSFR1NkIyQldybkJUNjI4TF9SdlJhMTg1VVRyanNqUVBtaUViMjZfaGljYTRtLXR6UE5kcHdBM0VoMkxLN0xB0gGOAUFVX3lxTE56Zjl4OFdLZmRORy00SkdRdTRmc3hCMW9OWU5GRTNZUE5VQ21BeUkwRkJiZlBIc2FFYnVuRkY0REV1dlNDVkdSVlNOS3hzTnZLdXI1WUNmX3VpRU1kTVdlZ1hzUGJLS0hTanpOR1VCZTI1M2ZPcWFDNW8yM2VZT2V5Ukt2SlFjbF9ZM1RjVGc?oc=5",
-      "source": "biz.chosun.com",
-      "published": "2026-09-10T06:14:00+00:00",
-      "summary": "Anthropic元研究員がAI終末論を再燃させる - CHOSUNBIZ biz.chosun.com",
-      "id": "26eab6a780b7ba49",
+      "title": "27歳のAI研究者がAnthropicを辞職、AIが人類を絶滅させる恐れがあると懸念",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3YUV4cG5PeDJZRmFjUFpBTDdKdUIzWk9GbWFaWFlBSWRNOUhFWGw4YnVweVJWSHBKaFBXNmFwQUdxODdkS0JzWVN3NlRNRU1CSHpZcEd4TWJ1by1NdGFCMDM5V3p4V19saFRWdk1qam9WbEZoV2F0TVd5X2xCak0?oc=5",
+      "source": "PANews",
+      "published": "2026-09-10T09:34:00+00:00",
+      "summary": "27歳のAI研究者がAnthropicを辞職、AIが人類を絶滅させる恐れがあると懸念 PANews",
+      "id": "6b2fa555f92612fe",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【東京都品川区】小学生向けワークショップ「エコ石けんで使い終わった油のリサイクルを学ぼう！」開催",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IaXdfUEEzSzZrem9uSldkY2pqc01KazEtaHh0bkVWR01IZF9rNkNlMlRlcEFLUHNPOEp4RVdnSlV3djZfb0x1ZmlzMFJ3UU1BYWQ4?oc=5",
+      "source": "STRAIGHT PRESS",
+      "published": "2026-09-10T09:23:43+00:00",
+      "summary": "【東京都品川区】小学生向けワークショップ「エコ石けんで使い終わった油のリサイクルを学ぼう！」開催 STRAIGHT PRESS",
+      "id": "dbf883dd19b08358",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【AS/400×生成AI 第2弾】若手エンジニアが「Claude",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oYkVsZUtVdUlxYkRIRlZfSFBCWTkxMFd2WGpsVVpibjF2M2lzMTQ1Z1h6NElFM21MQ1ltSzlocDlGaUhKVGFUR2ZYdFJhaEJ1TXJqSzV6bHdMS3NrVHcyOFpfNnlfSEo1bDhENmdxQ1BXekFfc1BGd0pUNA?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-09-10T06:30:25+00:00",
+      "summary": "【AS/400×生成AI 第2弾】若手エンジニアが「Claude ニコニコニュース",
+      "id": "3de3fa851b6659c2",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -115,12 +139,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "結局、AIはどれだけ人間の労働を代替し給料を下げるのか Anthropicが提示する「米国経済3つのシナリオ」（ITmedia NEWS）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQjh4c3haaGtYWVVfZEhhSlVsVVhta1VCY0IzSF9ZQUFkOXlKZTZpWExwYVhuNWdIb01LZWE3VWF2cFJqUUE2MXRQVnF0NE5Hd2xoTUZ3ZFY0bXlVQXd5bm5XZTgxcU96OTl1bFZ5Yjd4bHc5MUJ2c3BNMzhFV1U?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-09-10T05:37:52+00:00",
-      "summary": "結局、AIはどれだけ人間の労働を代替し給料を下げるのか Anthropicが提示する「米国経済3つのシナリオ」（ITmedia NEWS） Yahoo!ニュース",
-      "id": "7fea7a086db19ab9",
+      "title": "結局、AIはどれだけ人間の労働を代替し給料を下げるのか Anthropicが提示する「米国経済3つのシナリオ」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HWGxLa2R4Z0V4cm1DSkk4ZU4zb1dPX3lMQTlya1NvZl93SThVOWZ4NWpfWjdKRmprbDVDSDkxT2JwZTJnSDhJU3BCMkFKTW1ETlhERGQzaldkM0ZMZ1dvMlAyQ1Nld3JQQ1NtcA?oc=5",
+      "source": "ITmedia",
+      "published": "2026-09-10T05:37:21+00:00",
+      "summary": "結局、AIはどれだけ人間の労働を代替し給料を下げるのか Anthropicが提示する「米国経済3つのシナリオ」 ITmedia",
+      "id": "c39643af41fea213",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -163,12 +187,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【地方総合病院 × 東大発スタートアップ】院内データ × AIエージェントで病院を変える、AI基幹システム「Apollo AI」を正式提供開始！ | 株式会社Albatrusのプレスリリース",
+      "title": "【地方総合病院 × 東大発スタートアップ】院内データ × AIエージェントで病院を変える、AI基幹システム「Apollo AI」を正式提供開始！",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Fb0ZoaW5fOUQ2VTlabFdvb0pBV1RfWnp4SW1pY3NOX3FaMUpRUm1UQXJCQk9FaHQySEtTX0x1RFZPTVRXNTdJMFh1aHVjUlktQUtsajlMMFduVURIMGk3YnVOUnM1WEhXX2c?oc=5",
       "source": "PR TIMES",
       "published": "2026-09-10T05:00:02+00:00",
-      "summary": "【地方総合病院 × 東大発スタートアップ】院内データ × AIエージェントで病院を変える、AI基幹システム「Apollo AI」を正式提供開始！ | 株式会社Albatrusのプレスリリース PR TIMES",
-      "id": "f58e4f9d324e4d54",
+      "summary": "【地方総合病院 × 東大発スタートアップ】院内データ × AIエージェントで病院を変える、AI基幹システム「Apollo AI」を正式提供開始！ PR TIMES",
+      "id": "24333370b84729e5",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -211,24 +235,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「AIが全人類を死なせる可能性」Anthropicの研究者から警告相次ぐ（アスキー）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VZGt1RG1oQzNnOFRNOGllYnVpb0pIRFotRXlFc3RYY0JsZHBFREJoaUp2SnZjdERTc1kzTWJQbWlrNW9jRXNJWEUyNkNHc2lDT0MtN3J6bTZKSVgxUjBwMWhZTkFZT0RlLWVtUWNheFlIRnJrRFh3VjZIWTlBUE0?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-09-10T03:20:00+00:00",
-      "summary": "「AIが全人類を死なせる可能性」Anthropicの研究者から警告相次ぐ（アスキー） Yahoo!ニュース",
-      "id": "a22f3a70b5aedf48",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "日経平均午前終値、545円安 再び強まる金利上昇不安",
+      "title": "日経平均128円高 金利上昇不安で売り先行、先物主導で上昇に転じる",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBheU0yRVhkRmRxM1JIcU1nMEdLSUllMWdQbi1WekdxQWRZUmktZnNyNG5wQ2RzM0xOT2IyWlZSX1NXaG1TTkZOTjlPMWFNcmJZMnVGb0lBamdFUUU5c2ZzMUxxcThKU2lzcHI2eQ?oc=5",
       "source": "日本経済新聞",
       "published": "2026-09-10T02:49:03+00:00",
-      "summary": "日経平均午前終値、545円安 再び強まる金利上昇不安 日本経済新聞",
-      "id": "2678d223350a729c",
+      "summary": "日経平均128円高 金利上昇不安で売り先行、先物主導で上昇に転じる 日本経済新聞",
+      "id": "7691bee16f324b32",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -261,9 +273,9 @@
     {
       "title": "「金利のある世界」に戻った日本経済～～Japan Spotlight 2026年9－10月号（連載第61回）",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkd09NLUtlZ3FMSHNlYUtVMkEwNFFlVVpqT0gxZVV1c3JsandQLVo5dWhxRXJabWtUWVUwU0UxT1daRzR6Y3JxWmQyYm5MQlNKVmNXeQ?oc=5",
-      "source": "note",
+      "source": "note.com",
       "published": "2026-09-10T00:43:22+00:00",
-      "summary": "「金利のある世界」に戻った日本経済～～Japan Spotlight 2026年9－10月号（連載第61回） note",
+      "summary": "「金利のある世界」に戻った日本経済～～Japan Spotlight 2026年9－10月号（連載第61回） note.com",
       "id": "11bd7f4fce9fede3",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -331,6 +343,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "桑田佳祐 昨年１０月開催ライブをアルバム化決定 利益は令和８年熊本地震や各地豪雨災害の被災地支援へ全額寄付",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nVFNwdzR4SlRiUDltSW9VNzBEZk1CVndRWjVHSTBzSXdsZWRUNklLclk0bWhKLUEwd1pGTEhKUlp1cWpRSk9JMHQ5eWFZck1iaDdSWk5aSFlSaHJkQTJMdlZTdjAtUzBGT01fQU0waFUyZWk5RVdEZm9hTFBJQlk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-09-09T19:00:22+00:00",
+      "summary": "桑田佳祐 昨年１０月開催ライブをアルバム化決定 利益は令和８年熊本地震や各地豪雨災害の被災地支援へ全額寄付 Yahoo!ニュース",
+      "id": "db301ab7aad7f9c8",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ライブアルバム『九段下フォーク・フェスティバル'25』CDが2026年11月3日、アナログレコードが12月16日発売 桑田佳祐企画発案、あいみょん、桜井和寿、竹内まりや、原由子、吉井和哉参加",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96bWp6ajREd19NcG5SLWN5VGIwUU5tblBRbm51RGJEMjNxNnBYb2pzRTZ4el9sOVhBdDZsN0Q4SVBabGlSMFRUamJzZWtpWVJlc0lJRV96NmplQnZpN0RnTlllOA?oc=5",
       "source": "タワーレコード オンライン",
@@ -367,18 +391,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょん、タトゥーが見える自撮りショット公開",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2SzNseDNvNWJWRXlOZldDOUFtRzFRU2hUWkNqS2tjbUxPSl9NT2pWREZVWmcyVUJQd0RkOUZONTJ0dWpYODVSQlA3SzlSaG1pbGtIOA?oc=5",
-      "source": "ABEMA TIMES",
-      "published": "2026-09-09T14:03:00+00:00",
-      "summary": "あいみょん、タトゥーが見える自撮りショット公開 ABEMA TIMES",
-      "id": "0ed3c4560f770709",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "多様な支援策で賃上げを後押し最低賃金引き上げに対応する中小企業支援策 | お知らせ | ニュース",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jeDRlLTBtUkdIUDFJMUx5Mkw4WERNU0F2eVo5R2JPSWFSQ1Y2T1F4VVcwc2dwWFd5YXJtd3I2eGtJUjdmTTgyTjdjR2xuUkYwYURhOGNucXJ2ZkE1b0E?oc=5",
       "source": "jimin.jp",
@@ -391,12 +403,48 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "松倉海斗さんと吉澤閑也さんが登壇",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oUlNXdEtSZl9VNVhJVVZJQ3k1TW04VENYaWpWQkZOMllKXzh0cGtuOC12ZEJfUFBPWnZZOWFkQU9WQUJFX3VmN055Z2M2THBTU21Z?oc=5",
+      "source": "湘南経済新聞",
+      "published": "2026-09-09T10:59:33+00:00",
+      "summary": "松倉海斗さんと吉澤閑也さんが登壇 湘南経済新聞",
+      "id": "5bd27f1d80a3b9e6",
+      "category": "不動産",
+      "topic": "道場物件（鎌倉・湘南）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "My Hair is Bad全国ツアーの追加公演が決定、横浜アリーナで2DAYS（音楽ナタリー）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lSU9KazM0RGQ0R2xGd1lvcG1MUEpOMGxrOUJka0QySHJjak9Da0hIdWRYNE9RSlZPZ2NPTEtPZ25KSHFsQ2dXc0hLaDVlTW1IUkFsWVRuVmE2MzdRM0FvRWVna3A2UmQ3d0hrZ21jT2l4c29Yclo3YVNTdVR3VFk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-09-09T09:00:33+00:00",
+      "summary": "My Hair is Bad全国ツアーの追加公演が決定、横浜アリーナで2DAYS（音楽ナタリー） Yahoo!ニュース",
+      "id": "20191b82db66f44c",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "My Hair is Bad全国ツアーの追加公演が決定、横浜アリーナで2DAYS",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsTlBqTmtlVFBKZnJnbk90TEdicEV1a0pENnE0Yk5fMWg3c2NEUVBTTTlkdTdUR2kwekJjNVNnR1VCaDdOTlRKVUprdE0?oc=5",
-      "source": "natalie.mu",
+      "source": "ナタリー",
       "published": "2026-09-09T09:00:00+00:00",
-      "summary": "My Hair is Bad全国ツアーの追加公演が決定、横浜アリーナで2DAYS natalie.mu",
+      "summary": "My Hair is Bad全国ツアーの追加公演が決定、横浜アリーナで2DAYS ナタリー",
       "id": "f4afd109bec812df",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "My Hair is Bad、アルバム『cats』本日発売。リリースツアー追加公演として神奈川・横浜アリーナ公演2デイズ開催決定も",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9nd1ZGWG5sTV9iOFhJdnRJYWhaaFEwbjBibFNScWxJbm01V0ZBWHNFby1jOXh5QWlkUjlJZFpuM3hGVWs?oc=5",
+      "source": "BARKS",
+      "published": "2026-09-09T09:00:00+00:00",
+      "summary": "My Hair is Bad、アルバム『cats』本日発売。リリースツアー追加公演として神奈川・横浜アリーナ公演2デイズ開催決定も BARKS",
+      "id": "3135864b231e9635",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -465,9 +513,9 @@
     {
       "title": "長期金利3％、家計は30年前より強くなったのか",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QYXJNbHNXY2hNN1E3Mk4yWk51bjNWZTM3QWRkVzF0UkRuYUNuTXdRbzYzQm5TSjJRa1lDTG9vazNHUXdkc1FhWjcwQll0RWhjMkZFcU5ObWZuaGs?oc=5",
-      "source": "dlri.co.jp",
+      "source": "第一ライフ資産運用経済研究所",
       "published": "2026-09-09T06:37:17+00:00",
-      "summary": "長期金利3％、家計は30年前より強くなったのか dlri.co.jp",
+      "summary": "長期金利3％、家計は30年前より強くなったのか 第一ライフ資産運用経済研究所",
       "id": "cdb7455f7d79ba9b",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -484,18 +532,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "続く円買い、22･24年の「介入後円高」想起 150円突破に現実味",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tUXpfT0xXWE9HR1ZmS0puZ3F6akVkcVVNcnZ6OXVudGxVQXdtN0MzWlY1dnlFQS1acXhsclk2ZFFGVFlnZUwxeG9HcHFEMl9GbHAwQTBGNXk3SERXdUV4SGdIdkJMUHluQWw4Qw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-09T06:04:32+00:00",
-      "summary": "続く円買い、22･24年の「介入後円高」想起 150円突破に現実味 日本経済新聞",
-      "id": "02baf8deafeeb03b",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -559,18 +595,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Stayway、呉市と業務提携を開始 官民金連携で市内事業者へ支援を届ける「補助金DXインフラ」を構築",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jSkUyV01WNzFfckt0TE5laTVSemxsaVJOOG9CdkQ2YV83ZlNTaUhiejEwX1VHekNzeWZ5MTZkdWh6RzU1ZDZlQ3d3bVhLN3JTeDcxM0htV0FITlhMMVhKN3B4aGszSFVNa1dwaHBZQ2kyem5iaUE?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-09-09T00:48:35+00:00",
-      "summary": "Stayway、呉市と業務提携を開始 官民金連携で市内事業者へ支援を届ける「補助金DXインフラ」を構築 ニコニコニュース",
-      "id": "019a76e5617a9b97",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "NEWSが横浜アリーナ公演「ごめんあそばせ」ハイライトをYouTube公開",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAybFRPZFpvQWE1c1NZaXNvRUE5Y0FuNXYtOElEUVlaMDA3b1FFVjl4OXZfS0tCNHVmR3VJeDFXQXpRQ0Z2dDVqY2ZBSi1aOHI4RFFnYy1UUQ?oc=5",
       "source": "x.com",
@@ -580,6 +604,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "日本銀行の利上げの経済効果：利上げの成否は円高によるインフレ抑制効果にかかっている（NRI研究員の時事解説）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vc1h6Zm1PdFpuZmZIdzhQV2ZTZFR6M1g2dnlSYUw4Tl8zMm5aSDhlMmhuQ3BDam90SDd0cFcteklJZVV5SXVlS0ZwTkIyazM4Q1d6SzBxQ01yLVRzWDRPZzFldWx1VElYcU5vVk9BUmdObjBBWnAxVklIXzU3NUE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-09-08T23:02:28+00:00",
+      "summary": "日本銀行の利上げの経済効果：利上げの成否は円高によるインフレ抑制効果にかかっている（NRI研究員の時事解説） Yahoo!ニュース",
+      "id": "b0fdeb79fa07d0ae",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -608,10 +644,10 @@
     },
     {
       "title": "松坂屋上野店で「秋のうまいもの物産展」開催！551HORAI、鎌倉紅谷など人気店の整理券情報をチェック",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1USDZGT2VNTk5mcmlFMnhEazNfSTBBMzg4bWhjRmxDd3RnRURSQVNRT2ZoN1NxUVNqTENOVVRpZkdzTHlsZk0yNEUwdFlfc0Fubmpr?oc=5",
-      "source": "東京バーゲンマニア",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VYmpzcjY5OWJIczd5MTV1UVFLRUZnX2FWZ18zSmxXbVBVVTZraGxuWWk2NUZ1ZUc3ZDVlN2tVT3pXc2d5RjdTTENqTHdKZTRUWkszSVBIWl9fa3k3XzBVQVAwSHVoeVlndGtLQjQtNWdWUENNZ2hj?oc=5",
+      "source": "ｄメニューニュース",
       "published": "2026-09-08T22:21:00+00:00",
-      "summary": "松坂屋上野店で「秋のうまいもの物産展」開催！551HORAI、鎌倉紅谷など人気店の整理券情報をチェック 東京バーゲンマニア",
+      "summary": "松坂屋上野店で「秋のうまいもの物産展」開催！551HORAI、鎌倉紅谷など人気店の整理券情報をチェック ｄメニューニュース",
       "id": "0f42ac00784455ca",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -657,13 +693,25 @@
     {
       "title": "鎌倉市 イベント紹介 クリーンアップかまくら2026",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfNTV4M3ZsaVU0bVVLNzVEWF8yYW82ekM2cUNDdy1xendPN1pWXzhMOS1pRDhnMWlsOTNOYktUc083Zy1wa1dKekttTVYwUnFfRVZPa2VkX1VTX1dZMkJj?oc=5",
-      "source": "選挙ドットコム",
+      "source": "go2senkyo.com",
       "published": "2026-09-08T10:54:15+00:00",
-      "summary": "鎌倉市 イベント紹介 クリーンアップかまくら2026 選挙ドットコム",
+      "summary": "鎌倉市 イベント紹介 クリーンアップかまくら2026 go2senkyo.com",
       "id": "bd41f9a030644911",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "2026～2027年度日本経済見通し（2026年9月）（2026年4-6月期GDP2次速報後改定）",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45Yk5rSzRsYXRQNlVzTFFYUEpaUmI5cW9nVm9tWDNxZ0ZhX1A2TzkyWXpUMWwwT2pkbndkdkJaVFZkSXBXdElGeFdRRk9ROVdYQ3pBUHZVbDdEcXM?oc=5",
+      "source": "第一ライフ資産運用経済研究所",
+      "published": "2026-09-08T09:59:59+00:00",
+      "summary": "2026～2027年度日本経済見通し（2026年9月）（2026年4-6月期GDP2次速報後改定） 第一ライフ資産運用経済研究所",
+      "id": "5248f5b7edca3e7b",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -787,18 +835,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "U-NEXTライブ配信2026年9月話題ランキングTOP7｜Kis-My-Ft2・ONE N’ ONLY・大塚 愛ら独占配信を31日間無料トライアルで",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vSktWY0tCTFRZRS11V0EtVlA4eEU1T1hZNVVxNGx5NDh5R2xoNzZnSFNlTVQyZ043ZlRwSTV0OFV2b203LWF5UFVn?oc=5",
-      "source": "banger.jp",
-      "published": "2026-09-07T23:23:59+00:00",
-      "summary": "U-NEXTライブ配信2026年9月話題ランキングTOP7｜Kis-My-Ft2・ONE N’ ONLY・大塚 愛ら独占配信を31日間無料トライアルで banger.jp",
-      "id": "d2a3154069ae2377",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【品川区】「絵本とわたしの物語展」9/21(月・祝)～23(水・祝)開催",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QTkxiOHNqVmNqTFN6MWdkM0NSZzBjYmtOMGpGMWZPd3NEMEpESS14aXVSTHVHdVljeXNOTDViRDJrZjVjT0NoZTBJLVlfcnAtazVRa0hJRFd4aFFSZWlZTS1zZw?oc=5",
       "source": "号外NET 品川区",
@@ -895,18 +931,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【レベル3大雨警報】東京都・品川区、目黒区、世田谷区などに発表 21:07時点（TBS NEWS DIG Powered by JNN）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wM3lUVktCR3Y2cDRMY3JFS3RxRW44MjhseTY0NGs1bkxKZ0pldDJDVHhiaE1qd25Nck1iU1FKNlU2OEFYS3lPMVpKZnpFMFJPMVhUVnpPQV90RUZJVHZnaDlxTzJfNUtVNEx2cFJ2UFBVQVFEaDZQTG5iLWdjZTQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-09-06T12:09:17+00:00",
-      "summary": "【レベル3大雨警報】東京都・品川区、目黒区、世田谷区などに発表 21:07時点（TBS NEWS DIG Powered by JNN） Yahoo!ニュース",
-      "id": "8bd782fb21f829be",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "「ブルーボトルコーヒー」や「Boundless Life」日本初拠点など、多彩なテナントが集う「フィル・パーク鎌倉」が、新たなまちの賑わいを創出",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40WmRsY1ZHNDhnanBDZnRwbFAwbHdEZGJqTTlWaW1xLVd0cklXc1F4akh6VXQ3Y2JvZ0doZzVKcUI4Y3l0alc1aEJaUXBQUjFKQkJFMGppdw?oc=5",
       "source": "CLASSY.[クラッシィ]",
@@ -937,18 +961,6 @@
       "published": "2026-09-05T13:07:57+00:00",
       "summary": "モーニング娘。'26小田さくら、卒コンは12月11日・横浜アリーナに決定 ハロプロの歌姫が最後のツアーへ（WEBザテレビジョン） Yahoo!ニュース",
       "id": "c89214cd29dbb7ab",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【ライブレポート】モーニング娘。’26、秋のツアー開幕。小田さくらは横浜アリーナ公演で卒業へ 「最後の一公演まで『前回よりうまくなってるな』と思わせ続けたい」",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAyLWk2cHdfczdabU54V2syNEExdDdHdmZ1dVdvTnE0MUE0dE1NQV9lWms1RXFwVmFsS1hoaXRoOUdURm8?oc=5",
-      "source": "BARKS",
-      "published": "2026-09-05T11:30:00+00:00",
-      "summary": "【ライブレポート】モーニング娘。’26、秋のツアー開幕。小田さくらは横浜アリーナ公演で卒業へ 「最後の一公演まで『前回よりうまくなってるな』と思わせ続けたい」 BARKS",
-      "id": "b27ad996bc056b4f",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -1075,5 +1087,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 84
+  "count": 85
 }
