@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-10T05:55:31.901910+00:00",
+  "generated_at": "2026-09-10T07:08:51.176566+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 12
+      "count": 11
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,54 @@
     }
   ],
   "items": [
+    {
+      "title": "【AS/400×生成AI 第2弾】若手エンジニアが「Claude",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oYkVsZUtVdUlxYkRIRlZfSFBCWTkxMFd2WGpsVVpibjF2M2lzMTQ1Z1h6NElFM21MQ1ltSzlocDlGaUhKVGFUR2ZYdFJhaEJ1TXJqSzV6bHdMS3NrVHcyOFpfNnlfSEo1bDhENmdxQ1BXekFfc1BGd0pUNA?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-09-10T06:30:25+00:00",
+      "summary": "【AS/400×生成AI 第2弾】若手エンジニアが「Claude ニコニコニュース",
+      "id": "3de3fa851b6659c2",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic元研究員がAI終末論を再燃させる - CHOSUNBIZ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85RE9sTEZWSm8ybUREbm9vdFVPQ21haW9HSHdyTkkxVHBlbGYtUlhnTXYyUDY4aU1LLUNwSFR1NkIyQldybkJUNjI4TF9SdlJhMTg1VVRyanNqUVBtaUViMjZfaGljYTRtLXR6UE5kcHdBM0VoMkxLN0xB0gGOAUFVX3lxTE56Zjl4OFdLZmRORy00SkdRdTRmc3hCMW9OWU5GRTNZUE5VQ21BeUkwRkJiZlBIc2FFYnVuRkY0REV1dlNDVkdSVlNOS3hzTnZLdXI1WUNmX3VpRU1kTVdlZ1hzUGJLS0hTanpOR1VCZTI1M2ZPcWFDNW8yM2VZT2V5Ukt2SlFjbF9ZM1RjVGc?oc=5",
+      "source": "biz.chosun.com",
+      "published": "2026-09-10T06:14:00+00:00",
+      "summary": "Anthropic元研究員がAI終末論を再燃させる - CHOSUNBIZ biz.chosun.com",
+      "id": "26eab6a780b7ba49",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、2030年の米経済試算公表 AIでGDP拡大も知識労働に逆風",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM210aTNySmVaM0pJU1RsX2E3WkZuMzk3LUFURVdvcloxaHZWblU1UHpXc3JWaDl1bDJxaXhkT3FweG45N2wtVHZ1RjZ3aVNqdktGbkk0ZlcyU0NNdDFmcG91NzY1Q0xNeHhSRVZQQ2ZqeWFMWlAyVTRtNlZVRndJRnJqaEpDMm5WSHhJWEtmTUphNTlZQmVneE9CVDFtR2xZc3R4bEpTNi04SDhnNllCN0RRYw?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-09-10T06:06:17+00:00",
+      "summary": "Anthropic、2030年の米経済試算公表 AIでGDP拡大も知識労働に逆風 디지털투데이",
+      "id": "04468d786ef183af",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、Meta専任営業を募集後に削除 年俸最大45万ドル",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSUtuYk9LMUxReEluNEpQM3JMbE4xMGlFNm5nY0M0dnc4Y2I3ZUJSbHdKSWM4VzNXck9tcUZsdkxsN0RGSHJSZFBmSzd3bjdnQm9BaTZ5dXllbms4aFpIcGxhYlJ5RU9tazM2UkFJendLbm9NUWRKU0loRDU0U1BHem9KNlNRbno0VEtKZ0R3X1A4Mm8zSEl3VzlvdTBwVU1YQlVWYmVSR2EySmNOMU0ybXI0clRwWEluSDV3WDZoU2RoU2lKRG9JcEFGbGpWY1NLcDJmRVVBWHY?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-09-10T05:53:31+00:00",
+      "summary": "Anthropic、Meta専任営業を募集後に削除 年俸最大45万ドル 디지털투데이",
+      "id": "67139a8e07d5eadd",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "結局、AIはどれだけ人間の労働を代替し給料を下げるのか Anthropicが提示する「米国経済3つのシナリオ」（ITmedia NEWS）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQjh4c3haaGtYWVVfZEhhSlVsVVhta1VCY0IzSF9ZQUFkOXlKZTZpWExwYVhuNWdIb01LZWE3VWF2cFJqUUE2MXRQVnF0NE5Hd2xoTUZ3ZFY0bXlVQXd5bm5XZTgxcU96OTl1bFZ5Yjd4bHc5MUJ2c3BNMzhFV1U?oc=5",
@@ -115,6 +163,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【地方総合病院 × 東大発スタートアップ】院内データ × AIエージェントで病院を変える、AI基幹システム「Apollo AI」を正式提供開始！ | 株式会社Albatrusのプレスリリース",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Fb0ZoaW5fOUQ2VTlabFdvb0pBV1RfWnp4SW1pY3NOX3FaMUpRUm1UQXJCQk9FaHQySEtTX0x1RFZPTVRXNTdJMFh1aHVjUlktQUtsajlMMFduVURIMGk3YnVOUnM1WEhXX2c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-10T05:00:02+00:00",
+      "summary": "【地方総合病院 × 東大発スタートアップ】院内データ × AIエージェントで病院を変える、AI基幹システム「Apollo AI」を正式提供開始！ | 株式会社Albatrusのプレスリリース PR TIMES",
+      "id": "f58e4f9d324e4d54",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Anthropic、AI普及で2030年の米GDPは最大44.4兆ドルと試算",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGQThWY0VYX1otZF9jekF1cy10WEJmcWxxbVBjTms5YWQ3TXFvMmktM000OTBCX1paTXhqamh0dXRzUDlTeVF3VmY0X0hXTmhnZkZnbWplMUJMWHprSEhJT0h1OUV5MlNjWjZ6R2dfSm03ckdW?oc=5",
       "source": "BigGo ファイナンス",
@@ -151,48 +211,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "プレスリリース：［AS/400×生成AI 第2弾］若手エンジニアが「Claude Code」を活用、2026年7月から8月にかけて20本程度の帳票発行系プログラム改修を完遂し、作業時間を30～40%削減（PR TIMES）",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zUWt6R0k1WmMxQ1hnNWxVSzRldkplVTJja0gzQ2pqeVNiaUlKNW8ySXFnakhzbzkxeTd1MmplMjJDMWU0UGEwaHE2RlkyY2ZLRld2dFlxd292bHlma19FZzRxXzhhckNk?oc=5",
-      "source": "mainichi.jp",
-      "published": "2026-09-10T03:22:40+00:00",
-      "summary": "プレスリリース：［AS/400×生成AI 第2弾］若手エンジニアが「Claude Code」を活用、2026年7月から8月にかけて20本程度の帳票発行系プログラム改修を完遂し、作業時間を30～40%削減（PR TIMES） mainichi.jp",
-      "id": "14c6cb2f9d2d646e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "「AIが全人類を死なせる可能性」Anthropicの研究者から警告相次ぐ（アスキー）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VZGt1RG1oQzNnOFRNOGllYnVpb0pIRFotRXlFc3RYY0JsZHBFREJoaUp2SnZjdERTc1kzTWJQbWlrNW9jRXNJWEUyNkNHc2lDT0MtN3J6bTZKSVgxUjBwMWhZTkFZT0RlLWVtUWNheFlIRnJrRFh3VjZIWTlBUE0?oc=5",
       "source": "Yahoo!ニュース",
       "published": "2026-09-10T03:20:00+00:00",
       "summary": "「AIが全人類を死なせる可能性」Anthropicの研究者から警告相次ぐ（アスキー） Yahoo!ニュース",
       "id": "a22f3a70b5aedf48",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Unity、Claude Code向け公式プラグインを発表！Unity CLIとMCPサーバー、29のスキルを単一インストールで",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPYVE4RE1FXzc2X2dIQjdTS21zMW9pblhsLXNIQXpYeWlJb01nc2pxRGFBZGZjU1F3NXFvenk0VEJyQ1FKbmw5YjliZXJXcXM3VEpuUklZWGNMRl94dUNjVXBRM1hPbU9WN2hUUjJGdG4xNjZwLU9Fc3pnaG81MHc5ZEdEdmxUTDB2SzQwWUZVbGpyYzY2a2E4SkhydG55OVRXNlpqaks0dzBxSENWWmo0QWozeU94R01uYk9lTmtWbnNTREVkRDIweGNBbVROZzhQVDJfMzZMYnRwaWpBLVF2cXdDbnN0S0JlMDZMd3pZbXRPSDBqdXpmWE8waDlRSUt6Z1BnaEhLSFJVRWxPRnhZSzRCMkJLZktNNnFsT2VoLWV0UE1pTVB0b2VDT0lDWEppV2J3aFpOaVQxb05INkxTOS1NRTUwM1IzeW04dE1uazd0VS1W?oc=5",
-      "source": "CGinterest",
-      "published": "2026-09-10T03:14:15+00:00",
-      "summary": "Unity、Claude Code向け公式プラグインを発表！Unity CLIとMCPサーバー、29のスキルを単一インストールで CGinterest",
-      "id": "e36609c68eb395d7",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropicが「2030年までにAIが経済に与える影響」を示すウェブページを公開",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XU0pEc3ZYNTRHTWtFcjRzOVJOdzFEY0c4Vk5ERXJ3ZV9tLURDWmRqaEJlWVVfTU5kQUlBR0dGdC0ySldoTjR6X1lYUF9nSFk5SnA1Rzd6YnRYOHoxX3Y4SVpHaEc3azMzZTg5RGRtMnFiR280?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-09-10T02:53:00+00:00",
-      "summary": "Anthropicが「2030年までにAIが経済に与える影響」を示すウェブページを公開 GIGAZINE",
-      "id": "8f2a6ba5abf48c7f",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -208,30 +232,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "プレスリリース：生成AIによる特許調査サービス「サマリア」、特許検索競技大会の過去問検証で電気／機械／化学・医薬の3分野で再現率100%(上位30件)を達成（PR TIMES）",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nVl9ic1lzZnM3VHpoTnpucTZqZ3NQRTlnenBwUFMwRVVmZ1lHV1RTWGV0akplOXNXejBDMURBWjBGT19qcXJuQ0d1LTdja2dmcWVjM0VfZ20tU3R0T2FqNmpQM1ZNNUV3?oc=5",
-      "source": "mainichi.jp",
-      "published": "2026-09-10T02:22:35+00:00",
-      "summary": "プレスリリース：生成AIによる特許調査サービス「サマリア」、特許検索競技大会の過去問検証で電気／機械／化学・医薬の3分野で再現率100%(上位30件)を達成（PR TIMES） mainichi.jp",
-      "id": "deb3e508a8c60a62",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AIクラウド工程管理システム『PROCOLLA（プロコラ）』生成AIによる工程表の作成と修正前後の比較技術で特許を取得〜自然言語や図面から工程表を生成し、修正の前後を見比べて確認できる仕組みを実装〜",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oV0pXUjBoSnF4cmRYMEY2cHhhX0lzcmFyNUV4X2wtTk5FNjRPSHJfY09xRlo3WDJYOU1ibGJEaFdCRDFvWkV3YUtvLUxiVWg3RXZFRG9kcWtPbFBNYnR0TGJEcUFDWGJtZGc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-10T02:00:02+00:00",
-      "summary": "AIクラウド工程管理システム『PROCOLLA（プロコラ）』生成AIによる工程表の作成と修正前後の比較技術で特許を取得〜自然言語や図面から工程表を生成し、修正の前後を見比べて確認できる仕組みを実装〜 PR TIMES",
-      "id": "9e806d40c82da301",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -273,9 +273,9 @@
     {
       "title": "【ニュース】 三井不動産レジデンシャル、地上29階、全183戸のタワー型賃貸レジデンス「パークアクシス五反田スカイタワー」を竣工 東京都品川区",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IcTg5YkhmYXpjQUFISEFGRENxcjBnMVdkNWNMOVBmeTFkaEpmWjRWbWdRVDM0MUJGZlQ3TzNiSF9qZGJTOFRvUzJjU2tudS1peDJhLXp3ZXFxZGNLcWN2VnRZSlk?oc=5",
-      "source": "yutosoken.com",
-      "published": "2026-09-10T00:04:08+00:00",
-      "summary": "【ニュース】 三井不動産レジデンシャル、地上29階、全183戸のタワー型賃貸レジデンス「パークアクシス五反田スカイタワー」を竣工 東京都品川区 yutosoken.com",
+      "source": "遊都総研",
+      "published": "2026-09-10T00:33:47+00:00",
+      "summary": "【ニュース】 三井不動産レジデンシャル、地上29階、全183戸のタワー型賃貸レジデンス「パークアクシス五反田スカイタワー」を竣工 東京都品川区 遊都総研",
       "id": "84dc3e0fed48c5c4",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -297,9 +297,9 @@
     {
       "title": "【品川区】都内最大級「大井競馬場フリーマーケット」9/12(土)・13(日)開催",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VVmNOSXRsbHRZNEdBRWxWSWhtVkgtWlZHLTVkS1k1dUxBNjNXUUhKT0JuYW0xOUQzbk1aUlZEY2YzZkxjeHlsallVQXdFZWlROU5RSnBNWldYX2pLUFNMRnEyZw?oc=5",
-      "source": "shinagawa.goguynet.jp",
+      "source": "号外NET 品川区",
       "published": "2026-09-09T22:43:16+00:00",
-      "summary": "【品川区】都内最大級「大井競馬場フリーマーケット」9/12(土)・13(日)開催 shinagawa.goguynet.jp",
+      "summary": "【品川区】都内最大級「大井競馬場フリーマーケット」9/12(土)・13(日)開催 号外NET 品川区",
       "id": "bda8e08638283e1f",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -393,9 +393,9 @@
     {
       "title": "My Hair is Bad全国ツアーの追加公演が決定、横浜アリーナで2DAYS",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsTlBqTmtlVFBKZnJnbk90TEdicEV1a0pENnE0Yk5fMWg3c2NEUVBTTTlkdTdUR2kwekJjNVNnR1VCaDdOTlRKVUprdE0?oc=5",
-      "source": "ナタリー",
+      "source": "natalie.mu",
       "published": "2026-09-09T09:00:00+00:00",
-      "summary": "My Hair is Bad全国ツアーの追加公演が決定、横浜アリーナで2DAYS ナタリー",
+      "summary": "My Hair is Bad全国ツアーの追加公演が決定、横浜アリーナで2DAYS natalie.mu",
       "id": "f4afd109bec812df",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -465,9 +465,9 @@
     {
       "title": "長期金利3％、家計は30年前より強くなったのか",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QYXJNbHNXY2hNN1E3Mk4yWk51bjNWZTM3QWRkVzF0UkRuYUNuTXdRbzYzQm5TSjJRa1lDTG9vazNHUXdkc1FhWjcwQll0RWhjMkZFcU5ObWZuaGs?oc=5",
-      "source": "第一ライフ資産運用経済研究所",
+      "source": "dlri.co.jp",
       "published": "2026-09-09T06:37:17+00:00",
-      "summary": "長期金利3％、家計は30年前より強くなったのか 第一ライフ資産運用経済研究所",
+      "summary": "長期金利3％、家計は30年前より強くなったのか dlri.co.jp",
       "id": "cdb7455f7d79ba9b",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -571,11 +571,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "NEWSが横浜アリーナ公演「ごめんあそばせ」ハイライトをYouTube公開",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAybFRPZFpvQWE1c1NZaXNvRUE5Y0FuNXYtOElEUVlaMDA3b1FFVjl4OXZfS0tCNHVmR3VJeDFXQXpRQ0Z2dDVqY2ZBSi1aOHI4RFFnYy1UUQ?oc=5",
+      "source": "x.com",
+      "published": "2026-09-09T00:35:03+00:00",
+      "summary": "NEWSが横浜アリーナ公演「ごめんあそばせ」ハイライトをYouTube公開 x.com",
+      "id": "7e807167337fb947",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【品川区】昭和通り商店会101周年「盆踊り大会」9/13(日)開催♪",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHphRjhwdy1kUHBsMWNHeFpGRUFfQ3JZd28zM3lPQkdDc2h3REhRNzZ2NEl6aGVldlVnY2ptR1V2QnhraDY1NEtoZ3BjVnFDNVo3dmxEWklHVXk3Z2FiMTBaeUhhWTE3Nm1QeVRZNWFzeFNray03VGlRWHBfdm1HdGJxZnJidw?oc=5",
-      "source": "shinagawa.goguynet.jp",
+      "source": "号外NET 品川区",
       "published": "2026-09-08T22:43:42+00:00",
-      "summary": "【品川区】昭和通り商店会101周年「盆踊り大会」9/13(日)開催♪ shinagawa.goguynet.jp",
+      "summary": "【品川区】昭和通り商店会101周年「盆踊り大会」9/13(日)開催♪ 号外NET 品川区",
       "id": "8b2f6d44b0e1ca9d",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -596,10 +608,10 @@
     },
     {
       "title": "松坂屋上野店で「秋のうまいもの物産展」開催！551HORAI、鎌倉紅谷など人気店の整理券情報をチェック",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VYmpzcjY5OWJIczd5MTV1UVFLRUZnX2FWZ18zSmxXbVBVVTZraGxuWWk2NUZ1ZUc3ZDVlN2tVT3pXc2d5RjdTTENqTHdKZTRUWkszSVBIWl9fa3k3XzBVQVAwSHVoeVlndGtLQjQtNWdWUENNZ2hj?oc=5",
-      "source": "ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1USDZGT2VNTk5mcmlFMnhEazNfSTBBMzg4bWhjRmxDd3RnRURSQVNRT2ZoN1NxUVNqTENOVVRpZkdzTHlsZk0yNEUwdFlfc0Fubmpr?oc=5",
+      "source": "東京バーゲンマニア",
       "published": "2026-09-08T22:21:00+00:00",
-      "summary": "松坂屋上野店で「秋のうまいもの物産展」開催！551HORAI、鎌倉紅谷など人気店の整理券情報をチェック ｄメニューニュース",
+      "summary": "松坂屋上野店で「秋のうまいもの物産展」開催！551HORAI、鎌倉紅谷など人気店の整理券情報をチェック 東京バーゲンマニア",
       "id": "0f42ac00784455ca",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -633,9 +645,9 @@
     {
       "title": "あいみょん全国アリーナツアータイトルは【cosmic %】、ベストアルバムでCD封入先行",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PVGZQYkxUM056NFdSc3RiTzBNb0d4SC00OVBfSDNOLXVxakVPLXFNN2l4c0ExS2c2eF9DOUNFekFmd0ZUdV9nWFktUHFvanIzVzJhQjlGaWc2NjRvRlVqVnptMll5dw?oc=5",
-      "source": "billboard-japan.com",
+      "source": "Billboard JAPAN",
       "published": "2026-09-08T12:15:00+00:00",
-      "summary": "あいみょん全国アリーナツアータイトルは【cosmic %】、ベストアルバムでCD封入先行 billboard-japan.com",
+      "summary": "あいみょん全国アリーナツアータイトルは【cosmic %】、ベストアルバムでCD封入先行 Billboard JAPAN",
       "id": "a0c42f30d71143d3",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -789,9 +801,9 @@
     {
       "title": "【品川区】「絵本とわたしの物語展」9/21(月・祝)～23(水・祝)開催",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QTkxiOHNqVmNqTFN6MWdkM0NSZzBjYmtOMGpGMWZPd3NEMEpESS14aXVSTHVHdVljeXNOTDViRDJrZjVjT0NoZTBJLVlfcnAtazVRa0hJRFd4aFFSZWlZTS1zZw?oc=5",
-      "source": "shinagawa.goguynet.jp",
+      "source": "号外NET 品川区",
       "published": "2026-09-07T22:43:21+00:00",
-      "summary": "【品川区】「絵本とわたしの物語展」9/21(月・祝)～23(水・祝)開催 shinagawa.goguynet.jp",
+      "summary": "【品川区】「絵本とわたしの物語展」9/21(月・祝)～23(水・祝)開催 号外NET 品川区",
       "id": "6f1cfdde2a5ef808",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -861,9 +873,9 @@
     {
       "title": "2026年国境警備隊武道大会（第1地域）開会式",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZnhiTmxMTWQtRXllOUNUMUpIYl8zeFZnZ0pUdDhwVV9XeFBxakI5bDBlN2Z2NHpGZTktMGVpVEd3ai1jNUhuTE82TXR3cExGN0JNN1RWbmZQWFRCTGtleVUwQ0x3NmFEMElzbEtuS1c3S0I4dzJwTktoZXFndUxyLW9mcWlFMG9WRVd3TzFmeUVaTEU?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-09-07T08:47:23+00:00",
-      "summary": "2026年国境警備隊武道大会（第1地域）開会式 vietnam.vn",
+      "summary": "2026年国境警備隊武道大会（第1地域）開会式 Vietnam.vn",
       "id": "540a7f231e8e539a",
       "category": "武道",
       "topic": "合気道・武道",
@@ -873,9 +885,9 @@
     {
       "title": "FRUITS ZIPPER 「オールナイトニッポンX」初の番組イベントを横浜アリーナで開催",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hUlVPeU5Fc2dKZGppU3J1N0F4Vk1rUHV0LUNRUlpRWkNzNnU3aGg2LTh2aS1kazZ3U1p5b0tscERqM2FmVzVQUnB3MTRQMU13TGc?oc=5",
-      "source": "musicman.co.jp",
+      "source": "音楽業界総合情報サイト",
       "published": "2026-09-07T06:48:26+00:00",
-      "summary": "FRUITS ZIPPER 「オールナイトニッポンX」初の番組イベントを横浜アリーナで開催 musicman.co.jp",
+      "summary": "FRUITS ZIPPER 「オールナイトニッポンX」初の番組イベントを横浜アリーナで開催 音楽業界総合情報サイト",
       "id": "9d218fbf268f6d0e",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -949,18 +961,6 @@
       "published": "2026-09-05T11:30:00+00:00",
       "summary": "モー娘。小田さくら 卒業公演は12月11日横浜アリーナ 秋ツアー初日に発表「最後まで成長を」 スポニチ Sponichi Annex",
       "id": "c1d484a1417f3968",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "SixTONESスタジアムチケット2026｜一般発売の販売状況・大阪神奈川の発売日・倍率",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zbEp3dFVtcWdxdTd4UkJ4WUdLVmh3bTJUQUIzbXZ2c1pRNFVmTUsxZkxYQU1VQ056Q1hOVTgtcmpRc3ZCaGN5aDlZYS1iZw?oc=5",
-      "source": "lignea.co.jp",
-      "published": "2026-09-05T08:10:49+00:00",
-      "summary": "SixTONESスタジアムチケット2026｜一般発売の販売状況・大阪神奈川の発売日・倍率 lignea.co.jp",
-      "id": "7ff67ad71e843959",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -1065,27 +1065,15 @@
     {
       "title": "武道祭が村にやってきて、村人たちは選手たちの競技を見守りながら歓声を上げた。",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLTZNaWE0RmJaYnlHV25uN3V0Rk9VVTZtMUF1TzNJLWJhOU1uRjBBSzBQR3d4YTh3UHBJbFVaUi1zaHp0dFBEUzVJYUVORlBGTmlyeGFIc1lNUmpyb3oxblZaTllhUjFuMnNwQmZ2djBEbDJZaWluR3QxZUxNWUs4dUNJS04?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-08-29T07:00:00+00:00",
-      "summary": "武道祭が村にやってきて、村人たちは選手たちの競技を見守りながら歓声を上げた。 vietnam.vn",
+      "summary": "武道祭が村にやってきて、村人たちは選手たちの競技を見守りながら歓声を上げた。 Vietnam.vn",
       "id": "a7fb1df72dc56e45",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "謙信公祭奉納武道大会",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA5MkYxVjNqT2FyUkVNVFJyMnlUVWRSaEhESE9Wa2NTWkJCdmJ6V0FxUWRIQklkeFdMak9LSGlPa3FEbDlQMVo2TDF3?oc=5",
-      "source": "上越タイムス社",
-      "published": "2026-08-27T07:00:00+00:00",
-      "summary": "謙信公祭奉納武道大会 上越タイムス社",
-      "id": "09f60f0db6e967d5",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 85
+  "count": 84
 }
