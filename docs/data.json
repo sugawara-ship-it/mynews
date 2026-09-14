@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-14T20:57:58.446908+00:00",
+  "generated_at": "2026-09-14T23:05:05.129139+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 12
+      "count": 11
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -66,6 +66,54 @@
     }
   ],
   "items": [
+    {
+      "title": "Claude Codeの週次利用制限、9月14日の引き上げ発表になぜ開発者はざわついたのか",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE13bUVEUmhBM2RkWktiS0F3Q2JWd3gwb0tfbmJSWk8yWUNvb0tNbUstcWtsZlJzVFpRSjZhNDZqYnNCQQ?oc=5",
+      "source": "shiritomo",
+      "published": "2026-09-14T22:32:48+00:00",
+      "summary": "Claude Codeの週次利用制限、9月14日の引き上げ発表になぜ開発者はざわついたのか shiritomo",
+      "id": "1d642ded4072af52",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、金融アドバイザー向け「Claude for Financial Advisors」発表 BlackRockやCharles Schwabと連携",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRG95bWRTaWtDLUpONVh0aHh4V2V4OHBtM2pvcUFySXJXMXcxb0wwTmszN3BxSXN1Vl9uN3VNUmo2QjlvdF8tWjNndVhubm5XWklUVmdpNG5jblNMbXdUTVA2djhOTGdMMHlXcC1BbW1fY3U4X3dwbGN4WmpKdXNaV0U1NnpXNmFwbzdreEtDLXp2ZE5mbl9fVjdFT2VsVUEyZjFTTlBRM3FBanFDNXFQcnJzdWN3ejc4M3ZGR2xrQkZIUWNqd1ZHUnVHSzcwbzg2M1BWSjl0MUQwMV8x?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-09-14T22:15:21+00:00",
+      "summary": "Anthropic、金融アドバイザー向け「Claude for Financial Advisors」発表 BlackRockやCharles Schwabと連携 디지털투데이",
+      "id": "b6aee3fe794b0930",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "半年後に「巨額の損害」、Anthropicトップが示す“最悪のシナリオ” AI開発減速にOpenAIも“異例の同調”のワケ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YVHVRX0x1T1BLTjZvcGdsUmFaTl91aVhzTTJvb1RXR0F3R09nek9TcjNpQ2NKTHowb296RURNdDZ3aEhieGoxaFpWZVN0TXA4S2V4RFJldDZzVzVRSmtRdFRHaFRaSmN1OUxoc05vQjkyZw?oc=5",
+      "source": "itmedia.co.jp",
+      "published": "2026-09-14T22:00:00+00:00",
+      "summary": "半年後に「巨額の損害」、Anthropicトップが示す“最悪のシナリオ” AI開発減速にOpenAIも“異例の同調”のワケ itmedia.co.jp",
+      "id": "2080374c56959085",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米長期金利が一時5%超 米国株、高値更新へ新たな壁",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxNFo3TjY4UGp1dmNkcjZwZ1UtSDV4aVg5ZDItZklBUTFtQTRDWFE5dFc3YnFCX1M3STBPV0JlYnlxanJWWElsR2kzNUhNZE5VNGw3c1NIVVNVS2JyYzZFUDJMUXUxb3N3N1ZsaA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-09-14T20:56:14+00:00",
+      "summary": "米長期金利が一時5%超 米国株、高値更新へ新たな壁 日本経済新聞",
+      "id": "bf6105fb90cd74a6",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "Anthropic、OpenAI、Googleが共同AI標準化機関を模索——安全性への警鐘が高まる中",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vZHd2RTZPUTF3dUxzS2lDYW50cGQzbTRiYkxuajQ5OHNWUEw5VGtHS2hiVWQ0dS02QXZkWVhhZ3FBUlZ4dXdYZkplbzNaRmxUYTVzNjFLalFUeVlfVFNlVk9xTVh5SHV2N011b3VKUlgwWHpu?oc=5",
@@ -141,9 +189,9 @@
     {
       "title": "大手テック企業が先端AIの利用を制限、AnthropicとOpenAIのデータ扱いに懸念広がる",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KQWg5cnZiSnNFY09sS2FsY3VKOE5qY04wU2E3cm5YckVnSGdRdUstLW5vUFhReWs3Q3QyZUQzcnVjblZUVVBEUkRjb3FQZnpyYTREZWVVU2VSUHRXR2xqZA?oc=5",
-      "source": "Межа. Новини України.",
+      "source": "mezha.net",
       "published": "2026-09-14T16:10:13+00:00",
-      "summary": "大手テック企業が先端AIの利用を制限、AnthropicとOpenAIのデータ扱いに懸念広がる Межа. Новини України.",
+      "summary": "大手テック企業が先端AIの利用を制限、AnthropicとOpenAIのデータ扱いに懸念広がる mezha.net",
       "id": "b0210062c2dfe563",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -153,9 +201,9 @@
     {
       "title": "OpenAI、Google、AnthropicがAIの共同管理について協議中か",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hdk1lQ3REa0IxWUJJNVNNaW1IeVFtY001Sy1ETW9UYWxzOEJXTVZ4dDhyNnZPYUpyMkVhNThrVWctMjgzMGJOaV9CaWhsNzdrOF9ZODIzY05ZTFA1WThjY0tua2loYWNkT0FwWXdXR055eTFL?oc=5",
-      "source": "Korben",
+      "source": "korben.info",
       "published": "2026-09-14T15:42:48+00:00",
-      "summary": "OpenAI、Google、AnthropicがAIの共同管理について協議中か Korben",
+      "summary": "OpenAI、Google、AnthropicがAIの共同管理について協議中か korben.info",
       "id": "cd402988f3032200",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -175,30 +223,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "データ保持懸念でAnthropicとOpenAIへの企業反発が拡大——報告書 執筆",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xNFdsWXd1VWwzdlEzTlhJdVpEaG91cUM5V3hYSGhabElHUXhSVmpoV09Fa3hKTWpSSlV0MXoxbGxUSDFOZUJQaV9oeWgzT09rZ2pBYmNoZW9QSTRmajdDd3pLd1BWZm1laU5yUklZSjM?oc=5",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "published": "2026-09-14T15:24:00+00:00",
-      "summary": "データ保持懸念でAnthropicとOpenAIへの企業反発が拡大——報告書 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "id": "4d52fbde4400c04e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "トークンに「仕事」を与えよ：Anthropicのケイトリン・レッセとアンジェラ・ジャン、予算だけではエージェントは改善しないと指摘",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UUU9kSENXYlAwOWpCVWVUQU02TEJtUGl1SlRvbmxmalUyMkpVYkpSOGRMOV9zQW5BYjNVcnNPT21KOWhYMEZsSFg4M0xRRXNKem1xNmdjaW85Zw?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-09-14T15:08:00+00:00",
-      "summary": "トークンに「仕事」を与えよ：Anthropicのケイトリン・レッセとアンジェラ・ジャン、予算だけではエージェントは改善しないと指摘 BigGo ファイナンス",
-      "id": "fd3bf77a582be464",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "米長期金利、2年11カ月ぶり5%台 インフレ・財政懸念で債券売り",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wUG9zTDlYZm1RNF9VN0ZoNEJLaDFYZkZsa3JZalI3TkJtQi1KR082QzB0S2MtZ3ZGS01aakFsT2Fjc3VGcnNOM21pWkdFbXQzRkpHMktUY1pkVTNZY2RRVDZrRTJiWkM4SmtEUg?oc=5",
       "source": "日本経済新聞",
@@ -208,18 +232,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "公共ITソリューション トピックス",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QQmkzN0sxeGtyMmRFTEV5OUloTWtIZTQtZWJxaThPSEl4dHN5Y2JrNG9CSVlkc0ttMEVvZG1kaWVlX2VHcGpUc0pzbXg3RWllYTFMQ2ZsQ0EybTZJejFFQnRHbjJoS1E?oc=5",
-      "source": "Hitachi Global",
-      "published": "2026-09-14T14:00:15+00:00",
-      "summary": "公共ITソリューション トピックス Hitachi Global",
-      "id": "96fbb7d8aef7d15d",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -285,9 +297,9 @@
     {
       "title": "「事業承継・M&A補助金」第15次公募採択結果公表",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14aDFhd1ExNUdjZXpKWmExNmRqS2l2bXRQMHNzM2ctSGxheUdsdW5aSnVuMS1TLXI2VU9ob1M2TmVSamFPTzZoQ1prZ2JCYWJJMEdsanc3RkE3QmxNSklTT09peDFHeV9peUo0?oc=5",
-      "source": "sogyotecho.jp",
+      "source": "創業手帳株式会社",
       "published": "2026-09-14T06:08:57+00:00",
-      "summary": "「事業承継・M&A補助金」第15次公募採択結果公表 sogyotecho.jp",
+      "summary": "「事業承継・M&A補助金」第15次公募採択結果公表 創業手帳株式会社",
       "id": "0490c31e7d9f94b2",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -297,9 +309,9 @@
     {
       "title": "更に「開かれた議会」へ　日向慎吾議長インタビュー〈鎌倉市〉",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQnNWMHBGQ1Fxbm1XYk1VZS12U2pMOFVIREhfR1ktZXp5RkFYb2dCWWxQc1ZsbWtVVGliZ1o5T3BMbkJOMkpQQ3JBQ1k5ODd2WnBzRjIzNmV2aU9pNWxKcG1SdUxEZXQxNktvMmpXcmJlV1haTEUwaGszcDZ6OUFjUnVSd2lrb3VYYi01N1AxeEZlbDFsY3lpdy14NTlxTUN5LWZ2WU9iRUdyNjNMLUFWbXNXQVRDZzdrWW9IMTdVZmxJVmREcUZ2UGVwd2FPSVBH0gGAAUFVX3lxTE9QbUYxOXk0bzNBNHdybGQxRnQ5SjdTVXoxdFNZTEFNU19kTHFBdW5vakVDSkxzbS1VZm90ZzJyUDR3M1JRQXFoWWJXU2h5UTE1enYwUjR6aUptdWowdll1aU9yX3hDMHBOS1kxZ0tqT0NmX05uU012TWxrbXpxazgx?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "published": "2026-09-14T06:00:00+00:00",
-      "summary": "更に「開かれた議会」へ 日向慎吾議長インタビュー〈鎌倉市〉 ｄメニューニュース",
+      "summary": "更に「開かれた議会」へ 日向慎吾議長インタビュー〈鎌倉市〉 topics.smt.docomo.ne.jp",
       "id": "bd5eb7e95ff23a2c",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -309,9 +321,9 @@
     {
       "title": "「中小企業省力化投資補助金（一般型）」第8回公募",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Uem5yZnFMdGw5WlRPOUpLeEhYUEh1QjVJblctbU9ZRFMtUkJEWWh6NXlBWEx3aWwwWmtJdmVpdkV5ejVaZkU3Z2UyUlZ2dVk5bzNtbkNJUHFuZw?oc=5",
-      "source": "sogyotecho.jp",
+      "source": "創業手帳株式会社",
       "published": "2026-09-14T05:18:48+00:00",
-      "summary": "「中小企業省力化投資補助金（一般型）」第8回公募 sogyotecho.jp",
+      "summary": "「中小企業省力化投資補助金（一般型）」第8回公募 創業手帳株式会社",
       "id": "aac201a2564ada48",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -321,9 +333,9 @@
     {
       "title": "【東京都】「多様な文化・習慣を持つ外国人旅行者受入れのためのアドバイザー派遣」（無料）",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6a3ZRYXR5XzQwRWhBVWYyUFliZXlOZnFjTWRYYkFIRUYwcnpROThJRVJtbUdKMjdqenQzb095eDBESG9wQk1vRGc3RkF2V3l4dW9kM2lR?oc=5",
-      "source": "sogyotecho.jp",
+      "source": "創業手帳株式会社",
       "published": "2026-09-14T04:44:03+00:00",
-      "summary": "【東京都】「多様な文化・習慣を持つ外国人旅行者受入れのためのアドバイザー派遣」（無料） sogyotecho.jp",
+      "summary": "【東京都】「多様な文化・習慣を持つ外国人旅行者受入れのためのアドバイザー派遣」（無料） 創業手帳株式会社",
       "id": "1736175bf0fdf59a",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -333,9 +345,9 @@
     {
       "title": "「事業承継・M&A補助金」16次公募",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCeHN4Q0tUUXNPaUhtaGJHbEdjbXhwcmVpYkVDcjFrNUlvajVaTHB3TTdWTm9URHN4WlFBekpRZ1UwaWlrYWU3dXE2ZDRRLVdpMTgwZ01EQnVlOG1xa0RMWll1RQ?oc=5",
-      "source": "sogyotecho.jp",
+      "source": "創業手帳株式会社",
       "published": "2026-09-14T04:31:07+00:00",
-      "summary": "「事業承継・M&A補助金」16次公募 sogyotecho.jp",
+      "summary": "「事業承継・M&A補助金」16次公募 創業手帳株式会社",
       "id": "248b1f5713db0361",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -345,9 +357,9 @@
     {
       "title": "【個人向け国債の“旨味とワナ”】長期金利3％は合理的だけど黄信号／財政破綻しない日本はむしろヤバい？",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMSVhvdUF6VXF2NzltV1ZaM2syeFVpWlMwWXlJNllmTXNjZmlmMGJsbEVsZXNTYWUxbk85Y2dfd1c3cVpfYlR3Wm4xUDdCQzd4WVFXQjRPWEJVQQ?oc=5",
-      "source": "newsweekjapan.jp",
+      "source": "ニューズウィーク日本版",
       "published": "2026-09-14T04:20:00+00:00",
-      "summary": "【個人向け国債の“旨味とワナ”】長期金利3％は合理的だけど黄信号／財政破綻しない日本はむしろヤバい？ newsweekjapan.jp",
+      "summary": "【個人向け国債の“旨味とワナ”】長期金利3％は合理的だけど黄信号／財政破綻しない日本はむしろヤバい？ ニューズウィーク日本版",
       "id": "b89676130cbf7e00",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -489,9 +501,9 @@
     {
       "title": "あいみょんライブチケット2027一般発売いつから？取り方と倍率も！",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HRFhjcnNzWS1XS3ZoM2h1V1NLNlZ4X0J6QS1hYUt2Y1h5ZG5nZDZCVlMtaEMxd3hNWXhINVpNZndoNUN3NXZLRklwOVcyanR4TUVnSExYdUVyOTZuQzJNUTkyb3VmNHN3bzZhN0V0WQ?oc=5",
-      "source": "marketplace.co.jp",
+      "source": "株式会社マーケットプレイス",
       "published": "2026-09-13T04:23:56+00:00",
-      "summary": "あいみょんライブチケット2027一般発売いつから？取り方と倍率も！ marketplace.co.jp",
+      "summary": "あいみょんライブチケット2027一般発売いつから？取り方と倍率も！ 株式会社マーケットプレイス",
       "id": "50c29ef3f3768bf9",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -525,9 +537,9 @@
     {
       "title": "【東京都】「次世代通信技術活用型スタートアップ支援事業」開発プロモーター3社が採択",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BdVY5TzhSOXA2QWlJN1pXQjFiY0VFZFBva2U5QkNwVDEwYnFtUTJaRW1CV29EdzJ0dW5YbUZKSkhGOGViUlo4SU1hTlJGeUV1QmZmNlFn?oc=5",
-      "source": "sogyotecho.jp",
+      "source": "創業手帳株式会社",
       "published": "2026-09-13T01:00:41+00:00",
-      "summary": "【東京都】「次世代通信技術活用型スタートアップ支援事業」開発プロモーター3社が採択 sogyotecho.jp",
+      "summary": "【東京都】「次世代通信技術活用型スタートアップ支援事業」開発プロモーター3社が採択 創業手帳株式会社",
       "id": "f21fd69c9215a0a5",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -573,9 +585,9 @@
     {
       "title": "【アイマス】『SideM』と『シャニマス』の対バンライブが2027年6月5日、6日に横浜アリーナで開催決定",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSalVaWE1TaVV0S3huTUNTeUFSM2IzRUROekd1ZlRMcXZmX29vY3dqUkZ2Y0ljN011TzNJbmY3TTJwQmhwZ25Db0xYcXlSMk8xWkFYTTZObw?oc=5",
-      "source": "famitsu.com",
+      "source": "ファミ通.com",
       "published": "2026-09-12T11:50:00+00:00",
-      "summary": "【アイマス】『SideM』と『シャニマス』の対バンライブが2027年6月5日、6日に横浜アリーナで開催決定 famitsu.com",
+      "summary": "【アイマス】『SideM』と『シャニマス』の対バンライブが2027年6月5日、6日に横浜アリーナで開催決定 ファミ通.com",
       "id": "a63ea2313c7b2c1c",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -643,6 +655,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "ミスチルチケット2026｜最終抽選・一般発売・定価トレード",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80U1F2U2RhcGxLaVoxMEFLT1l5MWl0Vm5JVjlEaG8yYzFCaVB6QjFHYVVlejV6M3dFMnJvUzZLLV9QZEVTdVJ1ejZpeV9MYU9Z?oc=5",
+      "source": "lignea.co.jp",
+      "published": "2026-09-12T07:06:03+00:00",
+      "summary": "ミスチルチケット2026｜最終抽選・一般発売・定価トレード lignea.co.jp",
+      "id": "8303dacca2e0b716",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "今週のTOP100｜TBSテレビ『CDTV ライブ! ライブ!』",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LVzNSM2tXak1WcWd1b0ZPWHIteUNKTExTMkdzYUNtVGN6bEhqM0R1d1RwaS1TUzlqMGNRRUhraU11TGNPZnZ4cXJmTWJYZllHQ3h3OFU3WnFDT0phbE5aN0Zrdm0?oc=5",
       "source": "tbs.co.jp",
@@ -685,18 +709,6 @@
       "published": "2026-09-12T03:00:00+00:00",
       "summary": "murffin discs × バズリズム02オーディション、グランプリアーティストは架音 ナタリー",
       "id": "405100196210c849",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "『AGESTOCK2026 in 横浜アリーナ supported by TGC CAMPUS』オープニングアクトにToi Toi Toiの出演が決定！意気込みコメントが到着！",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MRjNFeWpxcGFDeDE0cHJyZm5RUU5Ea1BENHkycWdCNVBDdUN2MEdubU1mT3VLTHNEU21XWGJnTG5mNExvQTZVeEJlV3BDZGt4aDlNTzRyYlc?oc=5",
-      "source": "オリコンニュース",
-      "published": "2026-09-12T01:16:00+00:00",
-      "summary": "『AGESTOCK2026 in 横浜アリーナ supported by TGC CAMPUS』オープニングアクトにToi Toi Toiの出演が決定！意気込みコメントが到着！ オリコンニュース",
-      "id": "b92cb13723772de1",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -775,18 +787,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "三菱UFJ技術育成財団「研究開発助成金」",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ja1dwOUtoeTBGaTQteTlKMkd5RmV5SWhRaVhXSExHZ0R5R2VpcHJjSlFOSG5yQ1ZaYlFOYzltNHJ3MTE3TFBnN29lYVNEc3BMdkNCOXdMb1FMRVlRYkdr?oc=5",
-      "source": "sogyotecho.jp",
-      "published": "2026-09-11T10:58:48+00:00",
-      "summary": "三菱UFJ技術育成財団「研究開発助成金」 sogyotecho.jp",
-      "id": "9f3bd02e20e77632",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【鎌倉女子大学・鎌倉女子大学短期大学部】第18回 かまくらママ＆パパ'sカレッジ特別企画「親子で楽しむ♪あそびの大学」を開催します",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9OVVktUjhvUVhkYlZhV1VCak5qNnc4MXppdHlId0l4YUwzdXBqT0JfbE1OUXlPX3NpNTdZQ1BwQ29sdTA?oc=5",
       "source": "Digital PR Platform",
@@ -861,9 +861,9 @@
     {
       "title": "吹奏楽コンクール 七高と深沢中が東関東へ 県代表として",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oT3ZXMjVneFk1SlI2RjNEaGdFdTR6WDBCeFRfODVhZFhrMVcxZ1dVaWpLOXdhWE50TWFfdDBNVWlGZGtQQVo5aDhXVWNYMVRwTXJsX1NZYm5MNlpDX3dEd21NUGQ?oc=5",
-      "source": "townnews.co.jp",
+      "source": "タウンニュース",
       "published": "2026-09-10T15:00:00+00:00",
-      "summary": "吹奏楽コンクール 七高と深沢中が東関東へ 県代表として townnews.co.jp",
+      "summary": "吹奏楽コンクール 七高と深沢中が東関東へ 県代表として タウンニュース",
       "id": "e36203c2518d2afd",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -885,9 +885,9 @@
     {
       "title": "2026年ベトナム青少年武道才能選手権大会には、2000人の選手が参加する予定です。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPekpsX29TRU9iTzV0eXU4VXFpX0NSTTMwb25fWWZ4M2xsdlhJZ3ZqMk5rVE5XWnZsSWtnLUdQUkRSaVRya00xanFEZUNkZU1ROGx3NkdHdzByVVk1ZmM4TlQwRUprbFdXRW5xQWNxSXpyTFVIemVjZWc0bGJTTFpjTWdqVVJPdzJzTnJqT01KNWN5N2J3VUlHZmxXTkg3N3MxcC12Vw?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-09-10T09:09:13+00:00",
-      "summary": "2026年ベトナム青少年武道才能選手権大会には、2000人の選手が参加する予定です。 vietnam.vn",
+      "summary": "2026年ベトナム青少年武道才能選手権大会には、2000人の選手が参加する予定です。 Vietnam.vn",
       "id": "94f580d7aa4ce096",
       "category": "武道",
       "topic": "合気道・武道",
@@ -945,25 +945,13 @@
     {
       "title": "2026年国境警備隊武道大会（第1地域）開会式",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZnhiTmxMTWQtRXllOUNUMUpIYl8zeFZnZ0pUdDhwVV9XeFBxakI5bDBlN2Z2NHpGZTktMGVpVEd3ai1jNUhuTE82TXR3cExGN0JNN1RWbmZQWFRCTGtleVUwQ0x3NmFEMElzbEtuS1c3S0I4dzJwTktoZXFndUxyLW9mcWlFMG9WRVd3TzFmeUVaTEU?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-09-07T08:47:23+00:00",
-      "summary": "2026年国境警備隊武道大会（第1地域）開会式 vietnam.vn",
+      "summary": "2026年国境警備隊武道大会（第1地域）開会式 Vietnam.vn",
       "id": "540a7f231e8e539a",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【レベル3大雨警報】東京都・品川区、目黒区、世田谷区などに発表 21:07時点（TBS NEWS DIG Powered by JNN）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wM3lUVktCR3Y2cDRMY3JFS3RxRW44MjhseTY0NGs1bkxKZ0pldDJDVHhiaE1qd25Nck1iU1FKNlU2OEFYS3lPMVpKZnpFMFJPMVhUVnpPQV90RUZJVHZnaDlxTzJfNUtVNEx2cFJ2UFBVQVFEaDZQTG5iLWdjZTQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-09-06T12:09:17+00:00",
-      "summary": "【レベル3大雨警報】東京都・品川区、目黒区、世田谷区などに発表 21:07時点（TBS NEWS DIG Powered by JNN） Yahoo!ニュース",
-      "id": "8bd782fb21f829be",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -981,9 +969,9 @@
     {
       "title": "オリコンニュース：細長い土地で開放感を楽しむ… 品川区にある『スゴイ家』 建築費も公開 6日放送",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZRTFFeUVRR1dzUG51dndsSnlQTmdhWXotMTVLNUotcDNKZm5QMGVFU21idThBdnNxakloZ2F2cDRPVXJkX0QzVEdQZi1nalNtdlZoeWI2UEV6eVVCNE5XeXdHUllBa25p?oc=5",
-      "source": "毎日新聞",
+      "source": "mainichi.jp",
       "published": "2026-09-04T22:00:00+00:00",
-      "summary": "オリコンニュース：細長い土地で開放感を楽しむ… 品川区にある『スゴイ家』 建築費も公開 6日放送 毎日新聞",
+      "summary": "オリコンニュース：細長い土地で開放感を楽しむ… 品川区にある『スゴイ家』 建築費も公開 6日放送 mainichi.jp",
       "id": "ddbf99554b166aa8",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1089,9 +1077,9 @@
     {
       "title": "【入場無料】来て！見て！体験！しながわアート！ 「品川アーティスト展2026」9月12・13日(土・日) きゅりあんで開催",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oUlRZbmU0SXFmTERnTERyMXJMV2pjQkdFSWJNNTl5NVNWc2FzZzVUdk5rb2FWS3V2UlE3N3BHbmFLTnJsbVpKNzRNMmxNUkE?oc=5",
-      "source": "newscast.jp",
+      "source": "Newscast.jp",
       "published": "2026-09-01T01:00:00+00:00",
-      "summary": "【入場無料】来て！見て！体験！しながわアート！ 「品川アーティスト展2026」9月12・13日(土・日) きゅりあんで開催 newscast.jp",
+      "summary": "【入場無料】来て！見て！体験！しながわアート！ 「品川アーティスト展2026」9月12・13日(土・日) きゅりあんで開催 Newscast.jp",
       "id": "b968b3a39eccbb2b",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1099,5 +1087,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 86
+  "count": 85
 }
