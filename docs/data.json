@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-14T07:21:08.171131+00:00",
+  "generated_at": "2026-09-14T08:21:40.974492+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -32,7 +32,7 @@
       "name": "道場物件（鎌倉・湘南）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 2
+      "count": 1
     },
     {
       "name": "地域ニュース 品川",
@@ -66,6 +66,54 @@
     }
   ],
   "items": [
+    {
+      "title": "茶畑の生産基盤モデルを開発・展開する「Blue Farm」が3.5億円調達",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92NHZnb3l4N2ZEa1ZGT3l6cXZFQlFaWUp2SlV5RG1XcWlGa3VEWVMzRUQ2TVpIbHdDRTViZjA2cndJRmp2bjNRaXhDTnE3bDJOYjRKVWRLal8?oc=5",
+      "source": "創業手帳株式会社",
+      "published": "2026-09-14T08:07:20+00:00",
+      "summary": "茶畑の生産基盤モデルを開発・展開する「Blue Farm」が3.5億円調達 創業手帳株式会社",
+      "id": "9eddcec550c700b2",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GVA TECHが提供するOLGA AIコンサルティングの新機能、売買契約プレイブックの追加",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMM0MxbFZZQ0JvMm5vMFJORnpHTWpzNjdjTU9VY3Y2VGZrQWEzOVlBUnhUY3Rtamd4YXFncHQtUVh0QWl3UnpkcjBHazFlbGMwZnhHaHcxc3dxamFlUTFDX2FKdEJXQXVEOEE?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-09-14T07:45:07+00:00",
+      "summary": "GVA TECHが提供するOLGA AIコンサルティングの新機能、売買契約プレイブックの追加 ニュースメディアVOIX",
+      "id": "e38fb038f57ccb10",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "安全懸念で「減速論」強まる AnthropicとOpenAIのCEOがAI開発ペース見直しを支持",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNSnAwZm16YjVteFZPaGQ4UHhQWWtERDlWek96Vk5uZnBjRkVNYUliQVJLSWx1Rzhxa0xzV2Nrd0xybFVGTENPckktODhqeHVNR3N1a3FaZlJSSWl5VnIyRzJCUDM0MHZSMHZhR25nQkY4U0x1Mk85SUp2dXVBYWZZX3BPNFFxZ2cyV2QxWFgwUWhUTUdrYXRGbWU4ZlZXN0pBcWFkM2FVY2FleW1MUWFicjZudGlLSUZoZHBSYjlqU1pua3VERVVwR2tqMWdfQ0V5WWd5LTZTVFd3TG8wcHBiTm5pQTROTmcyM0dSRE85NnV5N09wLU9vcGFPQlJIZUloQWZseXdQVV9aZW1zclNqVElsRjMwSDRacmppZUlReldWalZlb0dKcnNlVFhIa1RGVHdkdDkxMXg3OExKVVcxclhwcDRBemdDMmIxQ2s0TVEtR1lwREtON1RNQTNDSHVnM0NjbHdQMFFwOXlYcUVhaUJLa3hvdm5MVUdLUEFsYW03OTNpLWxFMzN1c25uX1lQWVQwTVoycHFjQWwtYmtiZQ?oc=5",
+      "source": "Yellow.com",
+      "published": "2026-09-14T07:39:23+00:00",
+      "summary": "安全懸念で「減速論」強まる AnthropicとOpenAIのCEOがAI開発ペース見直しを支持 Yellow.com",
+      "id": "6f3d90aa1f8f7fed",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "プレスリリース：［期間限定］メディア向け生成AI活用セミナーのアーカイブ動画を無料公開！現役編集者とAIコンサルが明かす「“読まれる記事”を作るAI設計術」（PR TIMES）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zVkRVa0pqUUJkMW94T0FxdGlxOUtIS3RiVUxLLWFtZy1hcmpiNlJYYmxlZUhaNVZwb2lqeVN0Ym83dVhNNE1UQXdRclBWeDdwSmV6QnNGZTBRM3Uxc2RoX3l5M29xam5i?oc=5",
+      "source": "毎日新聞",
+      "published": "2026-09-14T06:52:49+00:00",
+      "summary": "プレスリリース：［期間限定］メディア向け生成AI活用セミナーのアーカイブ動画を無料公開！現役編集者とAIコンサルが明かす「“読まれる記事”を作るAI設計術」（PR TIMES） 毎日新聞",
+      "id": "c6e1107c518b4d60",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "アンソロピック、中国系AIラボ7社の「Claude」不正利用を指摘。人民解放軍関連の入力も転送か（あたらしい経済）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rYm45WWo5Zk1vb1BqOTFWVzhOZURfZGtLR3NFakp4a0NmNlBmcWdUdTN1SUhaLXFpTS1GcmVCMExwcWhyZTVMNklXRUZhU3FKVEVabDZGX3o1MnU3UHhVZ0VuMlFsQ2l4MXJpQlo2NVdKOWZCeVE4Q3dPbTR1Mjg?oc=5",
@@ -247,30 +295,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic、Claude Codeのプラグイン評価コマンド「claude plugin eval」を紹介",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWDNkTXkxSnI0VHRqNi1SenpuYVljYVJhTHF0ekdjRzBrLU12S0RENWVIVlJxb2JVdmo2NlFjUUVpa1gxbVlnaHYxLTBQWGZGaWloaU9KNVBFS3d6c2pvaw?oc=5",
-      "source": "gihyo.jp",
-      "published": "2026-09-14T02:36:00+00:00",
-      "summary": "Anthropic、Claude Codeのプラグイン評価コマンド「claude plugin eval」を紹介 gihyo.jp",
-      "id": "f309cbf98191036d",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicのCEO、AI開発の減速を求める論考を公開",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNLXJmd1NvV21mVlVBVm5ZYnI3QTVfWkF5d2ZWZzhQYUptRDVuUGVldm9OSllEN29LT2w2OF9qTUJ4ekNFYmxDajZyeVpqTk5feUgzVGhMYnBaQXc2SGpxTC1JcEpMU3k3eTdHcGVpNlhCMlB6cW1iS1JoUEllMHhHVXNMZ1dway1veEJMUnJjSTBYT0RBalh3SEo3RndUM1ppLWh5eDU4a0dHNkNYTlZEMW9HaHlOT2l1ZU5oenpRanlVNUJzUzNFRVlBdUxmbmhVZGFoeTgwdmJJOFZXa1kwamk3eWxZdzVCNVQ0cWV2amtaRkt1TWVkamZBbEFCWVZSM3F3SGtCVEtRenVqVVhKbVRCUHAyREczS1dKd3ZXRFhIZ25tTmd5b0ZteEliazQtNVJIeEI0VnlNNjRpelE?oc=5",
-      "source": "スマートニュース",
-      "published": "2026-09-14T02:33:00+00:00",
-      "summary": "AnthropicのCEO、AI開発の減速を求める論考を公開 スマートニュース",
-      "id": "e24c61cdc4be326e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "独創的で強烈な唯一無二の世界観を持つ楽曲と、卓越したスキルで、聴く者すべてを魅了する新世代ロッ... | Lemino ニュース",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbzlqQ1g2bHlBT0xNVDRxeXVqNUVWcklyaGdrd01SZE50clBaU1BFT3hBZjhOdlBoQ1Y3dnNId2d4Sy1rRnZXb3h5T1N5WkJ2NExacUpKaDIzWl9jbl9DbFVfMkFFeVBLa012ZmwtZG1QX3BKalI1elRCTjIyUEhyTkpCRnMzbFdBQzZmeTNwNF8?oc=5",
       "source": "Lemino",
@@ -283,22 +307,10 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropicのダリオ・アモデイCEOが「6～12カ月以内にAIがインターネットを乗っ取る可能性あり」「AI開発を減速させるべき」と主張、イーロン・マスクやサム・アルトマンやデミス・ハサビスらも賛同",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rZDZxX0FkamxJcTNES1FENVhiVFRwbG91eHo5UnRwV1Q2eXo1dThiRXAwVTlhWWswVjdWUU1wbWhoNEJKNUUtV09PYzNGeXhEWFNqT2JNajJ2ZWphQWdzNHQ0bw?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-09-14T02:23:00+00:00",
-      "summary": "Anthropicのダリオ・アモデイCEOが「6～12カ月以内にAIがインターネットを乗っ取る可能性あり」「AI開発を減速させるべき」と主張、イーロン・マスクやサム・アルトマンやデミス・ハサビスらも賛同 GIGAZINE",
-      "id": "a1697cc0235b3c54",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【Chevon】新曲「クライネ」のリリース＆WOWOW・Leminoで「Chevon5カ月特集」＆2027年Kアリーナ横浜でのワンマンライブ決定！ | ニュース | エイベックス・ポータル",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wLU5ibDZ2S090T25DLVlSTXpyTGMwV2lENURCVTVLZ1N1Y251V0dXWHdrbUhjZXAxU1hrUnUxOWVaN3A4UHc?oc=5",
       "source": "エイベックス・ポータル",
-      "published": "2026-09-14T01:26:18+00:00",
+      "published": "2026-09-14T01:50:10+00:00",
       "summary": "【Chevon】新曲「クライネ」のリリース＆WOWOW・Leminoで「Chevon5カ月特集」＆2027年Kアリーナ横浜でのワンマンライブ決定！ | ニュース | エイベックス・ポータル エイベックス・ポータル",
       "id": "4f13a0749681da21",
       "category": "音楽",
@@ -403,11 +415,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "あいみょんライブチケット2027一般発売いつから？取り方と倍率も！",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HRFhjcnNzWS1XS3ZoM2h1V1NLNlZ4X0J6QS1hYUt2Y1h5ZG5nZDZCVlMtaEMxd3hNWXhINVpNZndoNUN3NXZLRklwOVcyanR4TUVnSExYdUVyOTZuQzJNUTkyb3VmNHN3bzZhN0V0WQ?oc=5",
+      "source": "株式会社マーケットプレイス",
+      "published": "2026-09-13T04:23:56+00:00",
+      "summary": "あいみょんライブチケット2027一般発売いつから？取り方と倍率も！ 株式会社マーケットプレイス",
+      "id": "50c29ef3f3768bf9",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【2026年最新】鎌倉から小田原まで！湘南エリアの秋祭り＆イベントまとめ｜伝統の例大祭から花火・ビールフェスなど",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrSkZ3THU5RDhrcU1FVzdzZ0tuc0owY1BNVDhTa2FyeEtnanhiRGpsaWpKM0RXNUN2M19IRFR2dVMtV0U2MEdUeVlMeDRxZFZOMmFNSFRZTkpIUFBNOUY3WGJMZzVJNE1MMm9RdFpCVmU?oc=5",
-      "source": "shonanjin.com",
+      "source": "湘南人",
       "published": "2026-09-13T02:45:24+00:00",
-      "summary": "【2026年最新】鎌倉から小田原まで！湘南エリアの秋祭り＆イベントまとめ｜伝統の例大祭から花火・ビールフェスなど shonanjin.com",
+      "summary": "【2026年最新】鎌倉から小田原まで！湘南エリアの秋祭り＆イベントまとめ｜伝統の例大祭から花火・ビールフェスなど 湘南人",
       "id": "fc3255d6471fd725",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -465,9 +489,9 @@
     {
       "title": "【アイマス】『SideM』と『シャニマス』の対バンライブが2027年6月5日、6日に横浜アリーナで開催決定",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSalVaWE1TaVV0S3huTUNTeUFSM2IzRUROekd1ZlRMcXZmX29vY3dqUkZ2Y0ljN011TzNJbmY3TTJwQmhwZ25Db0xYcXlSMk8xWkFYTTZObw?oc=5",
-      "source": "famitsu.com",
+      "source": "ファミ通.com",
       "published": "2026-09-12T11:50:00+00:00",
-      "summary": "【アイマス】『SideM』と『シャニマス』の対バンライブが2027年6月5日、6日に横浜アリーナで開催決定 famitsu.com",
+      "summary": "【アイマス】『SideM』と『シャニマス』の対バンライブが2027年6月5日、6日に横浜アリーナで開催決定 ファミ通.com",
       "id": "a63ea2313c7b2c1c",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -489,9 +513,9 @@
     {
       "title": "【鎌倉市】鎌倉市福祉センターでペット防災セミナー開催！2026年9月27日、参加費無料・先着50名",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZjNjX0JhT2ctb3pBOG1oek11RUpjWjB0ZUpQNlYzQU50ZzlXR09iN0RnMkMzdmpfTWl4NWlzNFpyTnZqMm1iTDBFRUd3NWJyYlplS0FTWTNqSjBsT3ZNbkRCRjZEU2pVUXc?oc=5",
-      "source": "shonanjin.com",
+      "source": "湘南人",
       "published": "2026-09-12T08:55:46+00:00",
-      "summary": "【鎌倉市】鎌倉市福祉センターでペット防災セミナー開催！2026年9月27日、参加費無料・先着50名 shonanjin.com",
+      "summary": "【鎌倉市】鎌倉市福祉センターでペット防災セミナー開催！2026年9月27日、参加費無料・先着50名 湘南人",
       "id": "e6c5dd665477d645",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -508,6 +532,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lZV94eGZTaUlMOTZfUHlGX0pjdW9PNm5udDI4VVVmWmV1YTNyTkx1d1Jab2hyaVQ3RGhYRnpOLURZZWFjTXpKSmdyWExtZFlYSGc?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-09-12T07:00:00+00:00",
+      "summary": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】 山陽新聞",
+      "id": "840b14bd4cfbf68f",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -607,18 +643,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "日銀、中部3県の景気判断据え置き 個人消費は底堅く",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtU2FFUGFkcGJOYkhsNHdtOUNsQXVlLU1iWVdDaWxGMnh4QWR6UlRwc0ZHYkFxSjcxN0U5ZU9vOHhtdFl1Z2V2Nm11ZWRtNjhLQm5IM1BzSXVLb2JMbVFwM3RDNTBHNHdubThtUQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-11T15:09:26+00:00",
-      "summary": "日銀、中部3県の景気判断据え置き 個人消費は底堅く 日本経済新聞",
-      "id": "2efd473b710da4cd",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "あいみょん、渋谷に450平米超の巨大広告が出現！初ベストアルバム発売を記念",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVGpnaGZTX3B3WVlidGNTOVpkMjdQaFJqNHI2NERzUTlyRG54Q29yejFpcWhxS0JaSkJKT0hHQXlVTUxIQmQwNFg4YVNqZjgyejhyT3N1dXpuWkI3aG9JbU9Sa3RNckVyX09ib0lSN05maGhfeGtvT1pzb0lOekJydGwtRXJ5cE5wYmdmTGhja9IBjwFBVV95cUxQVGpnaGZTX3B3WVlidGNTOVpkMjdQaFJqNHI2NERzUTlyRG54Q29yejFpcWhxS0JaSkJKT0hHQXlVTUxIQmQwNFg4YVNqZjgyejhyT3N1dXpuWkI3aG9JbU9Sa3RNckVyX09ib0lSN05maGhfeGtvT1pzb0lOekJydGwtRXJ5cE5wYmdmTGhjaw?oc=5",
       "source": "ｄメニューニュース",
@@ -679,12 +703,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "法人企業景気予測調査から見た26年度業績見通し",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tM1M4SG9kLW5VSkRqTEszTTJRbXBocW9nejU5YUxGSXJLajExNmlwQWdtdXhINkFNcnk3YjFDOW1aOEFSRTA1aGJabUV0RWg3VHNOYlRmc1JVbFk?oc=5",
-      "source": "dlri.co.jp",
-      "published": "2026-09-11T09:01:15+00:00",
-      "summary": "法人企業景気予測調査から見た26年度業績見通し dlri.co.jp",
-      "id": "58a5ea69243b71d7",
+      "title": "三菱UFJ技術育成財団「研究開発助成金」",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ja1dwOUtoeTBGaTQteTlKMkd5RmV5SWhRaVhXSExHZ0R5R2VpcHJjSlFOSG5yQ1ZaYlFOYzltNHJ3MTE3TFBnN29lYVNEc3BMdkNCOXdMb1FMRVlRYkdr?oc=5",
+      "source": "創業手帳株式会社",
+      "published": "2026-09-11T10:58:48+00:00",
+      "summary": "三菱UFJ技術育成財団「研究開発助成金」 創業手帳株式会社",
+      "id": "9f3bd02e20e77632",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -693,9 +717,9 @@
     {
       "title": "スーパー登山部、SATOHら『バズリズム LIVE 2026』次世代ステージに出演",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QQWlIWlNwV0VFLW9OcWw3RzNUMEtqOVA4di1MeUhmR2ZaVldoWnd2cmpObnN6UUVOTHpDVmpDQVItQUhOcnFTSlhDU3FBd2R5c2V3d0Nn?oc=5",
-      "source": "niewmedia.com",
+      "source": "NiEW",
       "published": "2026-09-11T09:00:00+00:00",
-      "summary": "スーパー登山部、SATOHら『バズリズム LIVE 2026』次世代ステージに出演 niewmedia.com",
+      "summary": "スーパー登山部、SATOHら『バズリズム LIVE 2026』次世代ステージに出演 NiEW",
       "id": "5c1aeaf294939b9b",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -724,6 +748,18 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "あいみょん、初のベストアルバム発売記念で渋谷に450平米超の大型広告が登場",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fZnlOSXc0c3JBS1BsMXByTDYzVnlpc25iTzZ3MVlVcEpfR3pwQWJza1dSLXJQejFKUjI5NjRXdnJUVTRhaFRoUFpkMA?oc=5",
+      "source": "ガジェット通信",
+      "published": "2026-09-11T08:00:04+00:00",
+      "summary": "あいみょん、初のベストアルバム発売記念で渋谷に450平米超の大型広告が登場 ガジェット通信",
+      "id": "e83768e390557b3a",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -757,18 +793,6 @@
       "published": "2026-09-11T04:43:00+00:00",
       "summary": "あいみょん、初のベスト・アルバム発売を記念して渋谷に450平米超の超大型広告が出現 CDJournal.com",
       "id": "537fbb8f6ab3015b",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょん、渋谷に450平米超の“超大型広告”登場　初ベスト発売記念で13日まで",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSWl1cENNcTU3ZDZwYURjMnB4aVFqd1ZodzhGY2h0MDA3eGNjN0N6LXlXdGdFQW5icnZuMHZlQ0doejJFb0NrdHdYbEtnb3JYSHVwNHNOaXJDZDFXbHFtOEtLeUFPNW9IWGYzYXAtRTBWYTVjMmw0bmd2aWJDRFFBQdIBhgFBVV95cUxOTm5RYnNTQUVLWldJWEwyUjNpRnBmNnFsTWVXSTM5SHpiR2UzZWFrUkxoWjhzcDV2VHRjTGxENWJwMTBtTzVGZ3pZM0xyam5CRkdmekJiUTFEQkRTWW5VN3ZXUFNFNGtDVzhVbHZDQU1oekFZbWp3UUZDZXc5SHlwNkJzVnp3Zw?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-09-11T04:05:00+00:00",
-      "summary": "あいみょん、渋谷に450平米超の“超大型広告”登場 初ベスト発売記念で13日まで ｄメニューニュース",
-      "id": "68cc0bfe865b82a5",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -820,30 +844,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "桑田佳祐〈九段下フォーク・フェスティバル’25〉がライブアルバムに! 竹内まりや、原 由子、桜井和寿、吉井和哉、あいみょんとの共演をもう一度",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mVnhOU1VkSm5ickt4Q0xYOERtMHRlTW15bnV6MmYtSTJPdDhvRWRwRDlIZGZXa0oxZEZtYmhaZ2RhVmtjNHVZWTZyU2V2M2ZWUkE?oc=5",
-      "source": "Mikiki by TOWER RECORDS",
-      "published": "2026-09-10T16:24:48+00:00",
-      "summary": "桑田佳祐〈九段下フォーク・フェスティバル’25〉がライブアルバムに! 竹内まりや、原 由子、桜井和寿、吉井和哉、あいみょんとの共演をもう一度 Mikiki by TOWER RECORDS",
-      "id": "61bd842f9ccb16dd",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "桑田佳祐 被災地支援のため、あいみょん・桜井和寿らが出演したライブを作品化 利益は全額寄付へ",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xQ0J0TUhGZTJ1WmFXenJXa05mREh5UEpqdTBkQlduWnZnenFGS2xFSm1fVHhrRTlncktGdkNza3JwU05xU0hkd011S213eUNCZnhvYXlEOGJNNjBhM1NUWVpyMy14Z1VsQmNZOU9B?oc=5",
-      "source": "au Webポータル",
-      "published": "2026-09-10T13:42:32+00:00",
-      "summary": "桑田佳祐 被災地支援のため、あいみょん・桜井和寿らが出演したライブを作品化 利益は全額寄付へ au Webポータル",
-      "id": "7f43f2a10d5b62f1",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -916,18 +916,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "松倉海斗さんと吉澤閑也さんが登壇",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oUlNXdEtSZl9VNVhJVVZJQ3k1TW04VENYaWpWQkZOMllKXzh0cGtuOC12ZEJfUFBPWnZZOWFkQU9WQUJFX3VmN055Z2M2THBTU21Z?oc=5",
-      "source": "湘南経済新聞",
-      "published": "2026-09-09T10:59:33+00:00",
-      "summary": "松倉海斗さんと吉澤閑也さんが登壇 湘南経済新聞",
-      "id": "5bd27f1d80a3b9e6",
-      "category": "不動産",
-      "topic": "道場物件（鎌倉・湘南）",
-      "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1111,5 +1099,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 87
+  "count": 86
 }
