@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-14T14:04:32.130909+00:00",
+  "generated_at": "2026-09-14T16:08:00.604430+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -67,6 +67,42 @@
   ],
   "items": [
     {
+      "title": "トランプ、AIの新たなガードレールを拒否し、AnthropicのAmodeiを攻撃",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDFCVDlmWDBZb3dGdGU1aFdXdlpqN0s3YzFKMGUxWmZmS3NDRElJb1NwSDkxOUloU0pSUmhheXN5ZktpRHRPMklrbDlRWXhzZGpDTjg0Q3lRSmpPOEFFMzVyUTdveUhFWXJkYm9hbVdCMnpSRy02Rm9aLTZ2X0MwN2FQbF9ibGJVdi02MmgzYw?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-09-14T15:25:29+00:00",
+      "summary": "トランプ、AIの新たなガードレールを拒否し、AnthropicのAmodeiを攻撃 Unite.AI",
+      "id": "3b6875af5986a50a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "データ保持懸念でAnthropicとOpenAIへの企業反発が拡大——報告書 執筆",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xNFdsWXd1VWwzdlEzTlhJdVpEaG91cUM5V3hYSGhabElHUXhSVmpoV09Fa3hKTWpSSlV0MXoxbGxUSDFOZUJQaV9oeWgzT09rZ2pBYmNoZW9QSTRmajdDd3pLd1BWZm1laU5yUklZSjM?oc=5",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "published": "2026-09-14T15:24:00+00:00",
+      "summary": "データ保持懸念でAnthropicとOpenAIへの企業反発が拡大——報告書 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "id": "4d52fbde4400c04e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "公共ITソリューション トピックス",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QQmkzN0sxeGtyMmRFTEV5OUloTWtIZTQtZWJxaThPSEl4dHN5Y2JrNG9CSVlkc0ttMEVvZG1kaWVlX2VHcGpUc0pzbXg3RWllYTFMQ2ZsQ0EybTZJejFFQnRHbjJoS1E?oc=5",
+      "source": "Hitachi Global",
+      "published": "2026-09-14T14:00:15+00:00",
+      "summary": "公共ITソリューション トピックス Hitachi Global",
+      "id": "96fbb7d8aef7d15d",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "『AGESTOCK2026 in 横浜アリーナ supported by TGC CAMPUS』",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FWUZRNy1sQXBSNV9mUHdDbExHZktHZHQyR0R1Y1FNSWlRekY3aVotR2FrbkNMUHh0MldZTkZSaDRkTjR4MjVBTnhaRC1oUWFNUFhVMF9DLTd2OUVMeEJtbHBTVWZvWS1P?oc=5",
       "source": "ニコニコニュース",
@@ -88,18 +124,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "iOS 27のSiriはChatGPTやClaudeへ変更可能に？コードから判明した新設計",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2d1TEZTMVI0TURiX1AtN0V6RG5uQWNiMDhHaFZzOGkwbVhpOWJjSTZ3QTRMMk5SUEtwMzFlSHJkMVBaRlhuUlpIZF9PNmRLc2lPSXdFQW5CbzhjQUszYUc0QlRSWUIyUWQ1aEluUVp1REF2aHREUlJqMjZRQU5WZG13?oc=5",
-      "source": "apple-hacks.com",
-      "published": "2026-09-14T12:52:37+00:00",
-      "summary": "iOS 27のSiriはChatGPTやClaudeへ変更可能に？コードから判明した新設計 apple-hacks.com",
-      "id": "d7f6911b6e3d89d6",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -139,6 +163,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【経済情報】「スピッツ」や「あいみょん」２０２７年５月あなぶきアリーナでコンサート【香川】（OHK岡山放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DQmd3NHg5NGdsV3dCN1BYY0pmZmg3ZFk1NU9qUENET05VMFRzdHlQZWFMbHhHTmVvMU1kS05QTFBEZ0VtakJsX3F3Tlc5d01zVzk5dC1lcHNwWklJMkJIcmlCTEV0OXBEQWFRbmpwUHVHVnU3OXdmTTc2c1FNT2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-09-14T09:33:01+00:00",
+      "summary": "【経済情報】「スピッツ」や「あいみょん」２０２７年５月あなぶきアリーナでコンサート【香川】（OHK岡山放送） Yahoo!ニュース",
+      "id": "22bc302016ee7f34",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Nvidia、Anthropicへの100億ドル規模の投資を検討 —— 史上最大規模のIPOに向けた動き",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1vWDJhSHc1VXVUaUF2Y0VTdTFWQ3NPS2xqaHVoYkZkWFo0MGgyNVIxd1kwRWlwLWNiM1pQWlpMMmtkUUU?oc=5",
       "source": "nextmoney.jp",
@@ -166,7 +202,7 @@
       "title": "アンソロピック、中国AI企業による「Claude」利用を問題視 蒸留と安全保障リスクが焦点に",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTTR1RG1tRm5IdW9XX2VoWXUwXzNpQ2NGWGV3a3FwTXNYOWxFUmVIZzktWE15Q3p6Uk9yQ2RnZ1JQSTZqVzJWN0RXRnpralh2SlJR?oc=5",
       "source": "東京報道新聞",
-      "published": "2026-09-14T08:29:27+00:00",
+      "published": "2026-09-14T08:35:41+00:00",
       "summary": "アンソロピック、中国AI企業による「Claude」利用を問題視 蒸留と安全保障リスクが焦点に 東京報道新聞",
       "id": "ecc017b337d91715",
       "category": "テック",
@@ -187,15 +223,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "茶畑の生産基盤モデルを開発・展開する「Blue Farm」が3.5億円調達",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92NHZnb3l4N2ZEa1ZGT3l6cXZFQlFaWUp2SlV5RG1XcWlGa3VEWVMzRUQ2TVpIbHdDRTViZjA2cndJRmp2bjNRaXhDTnE3bDJOYjRKVWRLal8?oc=5",
-      "source": "創業手帳株式会社",
-      "published": "2026-09-14T08:07:20+00:00",
-      "summary": "茶畑の生産基盤モデルを開発・展開する「Blue Farm」が3.5億円調達 創業手帳株式会社",
-      "id": "9eddcec550c700b2",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
+      "title": "デビュー10周年のあいみょん「初めての甲子園のときは設営日から来てました（笑）」父との関係を明かす",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42RjRGUEZ5bTFRb2Z5Z0cwbWd1ellhY2lsVUJOOWR6TUN4R2gzbFhfU0NLVUNtdnhNQ012MTdUdHRYaVpDUzV1VU5kVHI0bUJydlZSc09mbEwza1BjZlQ2a0NodmxIUQ?oc=5",
+      "source": "J-WAVE NEWS",
+      "published": "2026-09-14T08:00:00+00:00",
+      "summary": "デビュー10周年のあいみょん「初めての甲子園のときは設営日から来てました（笑）」父との関係を明かす J-WAVE NEWS",
+      "id": "97f18767d0c14a0e",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -217,30 +253,6 @@
       "published": "2026-09-14T07:43:09+00:00",
       "summary": "DXONEが青果卸向けに“AI経営参謀”を正式リリースし業務を革新する時代到来 ニュースメディアVOIX",
       "id": "d7b376903cc13cbd",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "安全懸念で「減速論」強まる AnthropicとOpenAIのCEOがAI開発ペース見直しを支持",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNSnAwZm16YjVteFZPaGQ4UHhQWWtERDlWek96Vk5uZnBjRkVNYUliQVJLSWx1Rzhxa0xzV2Nrd0xybFVGTENPckktODhqeHVNR3N1a3FaZlJSSWl5VnIyRzJCUDM0MHZSMHZhR25nQkY4U0x1Mk85SUp2dXVBYWZZX3BPNFFxZ2cyV2QxWFgwUWhUTUdrYXRGbWU4ZlZXN0pBcWFkM2FVY2FleW1MUWFicjZudGlLSUZoZHBSYjlqU1pua3VERVVwR2tqMWdfQ0V5WWd5LTZTVFd3TG8wcHBiTm5pQTROTmcyM0dSRE85NnV5N09wLU9vcGFPQlJIZUloQWZseXdQVV9aZW1zclNqVElsRjMwSDRacmppZUlReldWalZlb0dKcnNlVFhIa1RGVHdkdDkxMXg3OExKVVcxclhwcDRBemdDMmIxQ2s0TVEtR1lwREtON1RNQTNDSHVnM0NjbHdQMFFwOXlYcUVhaUJLa3hvdm5MVUdLUEFsYW03OTNpLWxFMzN1c25uX1lQWVQwTVoycHFjQWwtYmtiZQ?oc=5",
-      "source": "yellow.com",
-      "published": "2026-09-14T07:39:23+00:00",
-      "summary": "安全懸念で「減速論」強まる AnthropicとOpenAIのCEOがAI開発ペース見直しを支持 yellow.com",
-      "id": "6f3d90aa1f8f7fed",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、トランプ人脈のRUM Groupと6年で137億ドル（約2.1兆円）のコンピューティング契約",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zTXFOanpBQV9rNmR3R3pEN3NYQXBwalA0OFBTN2NZMUFBTVZnOHd5NjdfeGZIcmtVcU9yMkg0Y0E3dHUyNE1HbGFfTUd3M0RrWWpWVGt2UlFTcUF1MHdhUUhZSF8yWVg4SHRVU3VEQklRSkla?oc=5",
-      "source": "finance.biggo.jp",
-      "published": "2026-09-14T07:26:00+00:00",
-      "summary": "Anthropic、トランプ人脈のRUM Groupと6年で137億ドル（約2.1兆円）のコンピューティング契約 finance.biggo.jp",
-      "id": "f90ae66b1b5ea83c",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -319,12 +331,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "オリコンニュース：NHK朝ドラ『おかえりモネ』＆大河『鎌倉殿の13人』、Netflixで配信決定",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRYWtnWkVyYUZ2XzBRaE9SZDJ4cHRUQnJuUlVIWElyU2lFT3pNNklrYWxWb1d4dzJTRDNGY3RjZTNOVlhZcmZZOTN1X0pUREw0aTdLS0xSTzctRE1QVHdzbTNpMF9CVkRf?oc=5",
-      "source": "毎日新聞",
-      "published": "2026-09-14T04:08:50+00:00",
-      "summary": "オリコンニュース：NHK朝ドラ『おかえりモネ』＆大河『鎌倉殿の13人』、Netflixで配信決定 毎日新聞",
-      "id": "bf7b3a887abb13db",
+      "title": "NHK朝ドラ『おかえりモネ』＆大河『鎌倉殿の13人』、Netflixで配信決定",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GZ0xfUDBZM2xSSFU2dThRbHpTY19xRmVZcVRkcEZ3TWV5ak9SanZLTWZPRUZLdG5WM2hNZkRPeDBVZmZvU0pTOVFVWlllZThsdmNXdnZ3?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-09-14T04:08:00+00:00",
+      "summary": "NHK朝ドラ『おかえりモネ』＆大河『鎌倉殿の13人』、Netflixで配信決定 オリコンニュース",
+      "id": "1cf05d7c781f1dd8",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -477,9 +489,9 @@
     {
       "title": "【2026年最新】鎌倉から小田原まで！湘南エリアの秋祭り＆イベントまとめ｜伝統の例大祭から花火・ビールフェスなど",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrSkZ3THU5RDhrcU1FVzdzZ0tuc0owY1BNVDhTa2FyeEtnanhiRGpsaWpKM0RXNUN2M19IRFR2dVMtV0U2MEdUeVlMeDRxZFZOMmFNSFRZTkpIUFBNOUY3WGJMZzVJNE1MMm9RdFpCVmU?oc=5",
-      "source": "湘南人",
+      "source": "shonanjin.com",
       "published": "2026-09-13T02:45:24+00:00",
-      "summary": "【2026年最新】鎌倉から小田原まで！湘南エリアの秋祭り＆イベントまとめ｜伝統の例大祭から花火・ビールフェスなど 湘南人",
+      "summary": "【2026年最新】鎌倉から小田原まで！湘南エリアの秋祭り＆イベントまとめ｜伝統の例大祭から花火・ビールフェスなど shonanjin.com",
       "id": "fc3255d6471fd725",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -547,6 +559,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "Snow Manドームツアー倍率2026・2027｜当落結果・一般発売・取り方",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNHlOTkFacjRQeS16TkdIQ09RclFsMDhhZWV5M1BITGUwTktLRlM3N0lENXhLaWQwNkZ5T0FkUkpKbm9iREJManZWNjU?oc=5",
+      "source": "lignea.co.jp",
+      "published": "2026-09-12T10:52:38+00:00",
+      "summary": "Snow Manドームツアー倍率2026・2027｜当落結果・一般発売・取り方 lignea.co.jp",
+      "id": "ad2e31fc858610c4",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "あいみょん、眼帯姿を説明「目は結膜下出血！大丈夫！」 新ベストアルバムをアピール",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ONWlFLWVDZmRNdFAwYWFIODFvZ0twVlNyM3hkOW1lbzJCZzhtcGZia0E2ZlNBMFRiNmlqdFpRUzN6eGQtNS1oYUV4YTVGaTdnRDR2OWdNdzE1MEkyVHRGUQ?oc=5",
       "source": "Infoseek",
@@ -561,9 +585,9 @@
     {
       "title": "【鎌倉市】鎌倉市福祉センターでペット防災セミナー開催！2026年9月27日、参加費無料・先着50名",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZjNjX0JhT2ctb3pBOG1oek11RUpjWjB0ZUpQNlYzQU50ZzlXR09iN0RnMkMzdmpfTWl4NWlzNFpyTnZqMm1iTDBFRUd3NWJyYlplS0FTWTNqSjBsT3ZNbkRCRjZEU2pVUXc?oc=5",
-      "source": "湘南人",
+      "source": "shonanjin.com",
       "published": "2026-09-12T08:55:46+00:00",
-      "summary": "【鎌倉市】鎌倉市福祉センターでペット防災セミナー開催！2026年9月27日、参加費無料・先着50名 湘南人",
+      "summary": "【鎌倉市】鎌倉市福祉センターでペット防災セミナー開催！2026年9月27日、参加費無料・先着50名 shonanjin.com",
       "id": "e6c5dd665477d645",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -645,9 +669,9 @@
     {
       "title": "東京・品川区「全世帯に4000円」支給 所得制限なし、いつ受け取れる？",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04c1NzSmFzaEtUYWhQZnhwMDJ4ZDBFMmxROGFncGpaUVVYaTdhVkJHc29fSmt0OHI5TXdMYm5zSjhXbUVEdHZjZmZOV24?oc=5",
-      "source": "dxmagazine.jp",
+      "source": "DXマガジン",
       "published": "2026-09-12T00:55:40+00:00",
-      "summary": "東京・品川区「全世帯に4000円」支給 所得制限なし、いつ受け取れる？ dxmagazine.jp",
+      "summary": "東京・品川区「全世帯に4000円」支給 所得制限なし、いつ受け取れる？ DXマガジン",
       "id": "4ce4ecafdb1e8f51",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -669,22 +693,10 @@
     {
       "title": "日本だけじゃない長期金利の上昇 米国も欧州も…共通する要因と背景",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ncG4tS3Qwc2E3TXhXS0U1cTM0TW5naTBod1VXTXpDb2wtNEJ3VkxmeXNzNllFcC1GRENnOGhGRFRwOW9BM201azVBWWpSSkk0TXVtSWFWMEk4bkR2NE41MlZ0eFJicjg?oc=5",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "published": "2026-09-11T21:00:00+00:00",
-      "summary": "日本だけじゃない長期金利の上昇 米国も欧州も…共通する要因と背景 朝日新聞",
+      "summary": "日本だけじゃない長期金利の上昇 米国も欧州も…共通する要因と背景 asahi.com",
       "id": "f978053236fa374f",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "欧州金利、債務危機超えの高水準に 追加利上げを織り込み",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yUUhKOFRqYTVJTnBqWXRaeTJSQkM1eDhQV1RBT01TMzNzRE50bVplbnRRN3lMcUtaTTI2R0Y0NUdZNTZSVUF2QThiQVNaZ1BDajJWMFYyX0stOWRfeHA4UmRNajVydlQtNXd6eg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-11T20:25:08+00:00",
-      "summary": "欧州金利、債務危機超えの高水準に 追加利上げを織り込み 日本経済新聞",
-      "id": "6852a3a6cbbdea37",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -715,18 +727,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米長期金利5%に急接近 原油高と共振、トランプ・インフレ市場危惧",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpckh6SHJPYl9adHEtb0dYc3FNbjFFUmYtcWxFdl9iMTFsY2ItNndNcHVRUGE4RDM3Vi1ESlk3em56SzB4cmZFcF83RmxNNmppbTFrTkRkRU9fbXM4LVpXYXNpcERWTEtTQ2xkUA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-11T11:19:31+00:00",
-      "summary": "米長期金利5%に急接近 原油高と共振、トランプ・インフレ市場危惧 日本経済新聞",
-      "id": "01d0e27c6247f6ac",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "あいみょん、初のベストアルバム発売を記念し渋谷に450平米超の超大型広告が出現",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8zU3o2c2VTaUhkczBTMVkyeVphazJOYTJReU5BOUlnUEhaRTEzanI3Y0tVUlBwd21ub2dUeEdWRWFVMWc?oc=5",
       "source": "BARKS",
@@ -739,15 +739,39 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "スーパー登山部、SATOHら『バズリズム LIVE 2026』次世代ステージに出演",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QQWlIWlNwV0VFLW9OcWw3RzNUMEtqOVA4di1MeUhmR2ZaVldoWnd2cmpObnN6UUVOTHpDVmpDQVItQUhOcnFTSlhDU3FBd2R5c2V3d0Nn?oc=5",
-      "source": "NiEW",
-      "published": "2026-09-11T09:00:00+00:00",
-      "summary": "スーパー登山部、SATOHら『バズリズム LIVE 2026』次世代ステージに出演 NiEW",
-      "id": "5c1aeaf294939b9b",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
+      "title": "東証REIT指数が年初来安値 金利先高観から投資マネーが流出",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fRy05OTR5OWRIUDhHbk1VUTZyb0c5UkVqYm9uVGtMREFZSXJ0aFdYMEZHTXlYX0VhR2RjeWFwTHpsM2VQOFJhVlprTXlJSGxyN3E4cVBkZVBvR3pJaGRvZjFjc1NxRnFJSmU5Qg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-09-11T11:00:02+00:00",
+      "summary": "東証REIT指数が年初来安値 金利先高観から投資マネーが流出 日本経済新聞",
+      "id": "ece85b536057f78a",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "三菱UFJ技術育成財団「研究開発助成金」",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ja1dwOUtoeTBGaTQteTlKMkd5RmV5SWhRaVhXSExHZ0R5R2VpcHJjSlFOSG5yQ1ZaYlFOYzltNHJ3MTE3TFBnN29lYVNEc3BMdkNCOXdMb1FMRVlRYkdr?oc=5",
+      "source": "創業手帳株式会社",
+      "published": "2026-09-11T10:58:48+00:00",
+      "summary": "三菱UFJ技術育成財団「研究開発助成金」 創業手帳株式会社",
+      "id": "9f3bd02e20e77632",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "法人企業景気予測調査から見た26年度業績見通し",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tM1M4SG9kLW5VSkRqTEszTTJRbXBocW9nejU5YUxGSXJLajExNmlwQWdtdXhINkFNcnk3YjFDOW1aOEFSRTA1aGJabUV0RWg3VHNOYlRmc1JVbFk?oc=5",
+      "source": "第一ライフ資産運用経済研究所",
+      "published": "2026-09-11T09:01:15+00:00",
+      "summary": "法人企業景気予測調査から見た26年度業績見通し 第一ライフ資産運用経済研究所",
+      "id": "58a5ea69243b71d7",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -799,30 +823,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょん、初ベストアルバム発売を記念し渋谷に450平米超の大型広告を掲出",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCUTBSaEhqX2R5SXctTGdDalZwNDZtWEZpS3lDeVF3bktYUzRaWEtnd0xwUjY2NGJyUXVUamJwREEzdFZuN2xtNXhVU09RYTdZekE?oc=5",
-      "source": "音楽業界総合情報サイト",
-      "published": "2026-09-11T05:00:13+00:00",
-      "summary": "あいみょん、初ベストアルバム発売を記念し渋谷に450平米超の大型広告を掲出 音楽業界総合情報サイト",
-      "id": "115ca82852b22bd9",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょん、初のベスト・アルバム発売を記念して渋谷に450平米超の超大型広告が出現",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tb0hTOHBGTHFpTlFlbWN6ZmtudG5aaFlGZ0dWNEZnYjItSDhkc2J6Nk1Ud0duUy15WFNKTVl5MUg0cDRXR21FY1EyZGhlcDk2V1k3dmxTaXdQNWRLUUE?oc=5",
-      "source": "CDJournal.com",
-      "published": "2026-09-11T04:43:00+00:00",
-      "summary": "あいみょん、初のベスト・アルバム発売を記念して渋谷に450平米超の超大型広告が出現 CDJournal.com",
-      "id": "537fbb8f6ab3015b",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "インフルエンザ予防接種を前倒し　東京の品川区・港区・文京区",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV3ZuVVFObnJuenNmWk1hRlJMYnJvYWVIMUFkd3VnU2xqOEZkNnpvelhYOG9QMWhhY3FUeUdIakxURFEtU21pbnJWcEFNUEl6a2lqaS1BOGs1R2hISUNCOHR1dUtUNEEyNlptakpFTmR2ZzQzRzA1N2lCbjBXX1BuZEJKemlyTWlHN2Q5RkVrV1JJOWMxck5oRWppSGUxZ9IBngFBVV95cUxPV3ZuVVFObnJuenNmWk1hRlJMYnJvYWVIMUFkd3VnU2xqOEZkNnpvelhYOG9QMWhhY3FUeUdIakxURFEtU21pbnJWcEFNUEl6a2lqaS1BOGs1R2hISUNCOHR1dUtUNEEyNlptakpFTmR2ZzQzRzA1N2lCbjBXX1BuZEJKemlyTWlHN2Q5RkVrV1JJOWMxck5oRWppSGUxZw?oc=5",
       "source": "ｄメニューニュース",
@@ -849,9 +849,9 @@
     {
       "title": "吹奏楽コンクール 七高と深沢中が東関東へ 県代表として",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oT3ZXMjVneFk1SlI2RjNEaGdFdTR6WDBCeFRfODVhZFhrMVcxZ1dVaWpLOXdhWE50TWFfdDBNVWlGZGtQQVo5aDhXVWNYMVRwTXJsX1NZYm5MNlpDX3dEd21NUGQ?oc=5",
-      "source": "タウンニュース",
+      "source": "townnews.co.jp",
       "published": "2026-09-10T15:00:00+00:00",
-      "summary": "吹奏楽コンクール 七高と深沢中が東関東へ 県代表として タウンニュース",
+      "summary": "吹奏楽コンクール 七高と深沢中が東関東へ 県代表として townnews.co.jp",
       "id": "e36203c2518d2afd",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -909,9 +909,9 @@
     {
       "title": "初のやんばる空手古武道大会 小中生が４道場から27選手、熱戦 沖縄・国頭",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MblNyeWFNQkYzQ0VDa1RwaFRYYk9WVGxpMkZfNWFiTzlQV3lFVk5ZVmlkbjBpeU5jSkNfS1VRcml6YUk2T2p2cGllbWNJY2c0YllDOEhBVGpzclZmR3c?oc=5",
-      "source": "琉球新報デジタル",
+      "source": "ryukyushimpo.jp",
       "published": "2026-09-09T20:00:00+00:00",
-      "summary": "初のやんばる空手古武道大会 小中生が４道場から27選手、熱戦 沖縄・国頭 琉球新報デジタル",
+      "summary": "初のやんばる空手古武道大会 小中生が４道場から27選手、熱戦 沖縄・国頭 ryukyushimpo.jp",
       "id": "ded6f6ae6a8f27f7",
       "category": "武道",
       "topic": "合気道・武道",
@@ -921,9 +921,9 @@
     {
       "title": "親のスマホ買い替えも「最大3万円」補助？ 東京・品川区、65歳以上が対象",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkUHlPcDhXdlNlRGZCai12ODB6YUo4LUJCUUg5MllIS1NwczlTenhkdDFia1pUT01mQm9HaVpxRFJ3c2REZFFDalNDN20?oc=5",
-      "source": "dxmagazine.jp",
+      "source": "DXマガジン",
       "published": "2026-09-08T00:26:55+00:00",
-      "summary": "親のスマホ買い替えも「最大3万円」補助？ 東京・品川区、65歳以上が対象 dxmagazine.jp",
+      "summary": "親のスマホ買い替えも「最大3万円」補助？ 東京・品川区、65歳以上が対象 DXマガジン",
       "id": "eb0e569f5f8fda19",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1053,9 +1053,9 @@
     {
       "title": "第20回世界剣道選手権大会、会場が“武道の殿堂”日本武道館に正式決定！",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90bW5qeEY1RENMUkZnVnVmR19wNU9DM1pNdldMU1VJZGVDYWIyQktNMEprbDZXSF9yNkQ5T2Vnd29jbm1INHpfeWhMR2FwaWo2Tm1FUjdkejJsVUU?oc=5",
-      "source": "共同通信PRワイヤー",
+      "source": "kyodonewsprwire.jp",
       "published": "2026-09-01T07:00:00+00:00",
-      "summary": "第20回世界剣道選手権大会、会場が“武道の殿堂”日本武道館に正式決定！ 共同通信PRワイヤー",
+      "summary": "第20回世界剣道選手権大会、会場が“武道の殿堂”日本武道館に正式決定！ kyodonewsprwire.jp",
       "id": "7de3185115ca4d4f",
       "category": "武道",
       "topic": "合気道・武道",
