@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-14T16:08:00.604430+00:00",
+  "generated_at": "2026-09-14T18:12:55.985761+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 12
+      "count": 10
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,6 +67,30 @@
   ],
   "items": [
     {
+      "title": "Anthropic、パートナーコネクタ搭載の金融アドバイザー向けClaudeを発表",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYVJHMkFWVTVfLTEycmtxckpOUEc1QWJjSEtrWVUzbUZ2Wk9mdnRaQXBJbUI5TVZtazdvZ2pidTBVeXk0N1VzT1ZtbWhLNlQ3d29yQlJ3eGVlWWpBcEhGaVN3V0RtX283Nlk1REd6UzRVR2tTQURsbFB4M1M5UHUzLWkzMWpGSU0tUjRnWjVMZ0J5UnNidjd3dk9BXy1SZw?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-09-14T16:25:34+00:00",
+      "summary": "Anthropic、パートナーコネクタ搭載の金融アドバイザー向けClaudeを発表 Unite.AI",
+      "id": "ac26e1b3eec3d3a5",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "大手テック企業が先端AIの利用を制限、AnthropicとOpenAIのデータ扱いに懸念広がる",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KQWg5cnZiSnNFY09sS2FsY3VKOE5qY04wU2E3cm5YckVnSGdRdUstLW5vUFhReWs3Q3QyZUQzcnVjblZUVVBEUkRjb3FQZnpyYTREZWVVU2VSUHRXR2xqZA?oc=5",
+      "source": "Межа. Новини України.",
+      "published": "2026-09-14T16:10:13+00:00",
+      "summary": "大手テック企業が先端AIの利用を制限、AnthropicとOpenAIのデータ扱いに懸念広がる Межа. Новини України.",
+      "id": "b0210062c2dfe563",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "トランプ、AIの新たなガードレールを拒否し、AnthropicのAmodeiを攻撃",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDFCVDlmWDBZb3dGdGU1aFdXdlpqN0s3YzFKMGUxWmZmS3NDRElJb1NwSDkxOUloU0pSUmhheXN5ZktpRHRPMklrbDlRWXhzZGpDTjg0Q3lRSmpPOEFFMzVyUTdveUhFWXJkYm9hbVdCMnpSRy02Rm9aLTZ2X0MwN2FQbF9ibGJVdi02MmgzYw?oc=5",
       "source": "Unite.AI",
@@ -88,6 +112,30 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "トークンに「仕事」を与えよ：Anthropicのケイトリン・レッセとアンジェラ・ジャン、予算だけではエージェントは改善しないと指摘",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UUU9kSENXYlAwOWpCVWVUQU02TEJtUGl1SlRvbmxmalUyMkpVYkpSOGRMOV9zQW5BYjNVcnNPT21KOWhYMEZsSFg4M0xRRXNKem1xNmdjaW85Zw?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-09-14T15:08:00+00:00",
+      "summary": "トークンに「仕事」を与えよ：Anthropicのケイトリン・レッセとアンジェラ・ジャン、予算だけではエージェントは改善しないと指摘 BigGo ファイナンス",
+      "id": "fd3bf77a582be464",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米長期金利、2年11カ月ぶり5%台 インフレ・財政懸念で債券売り",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wUG9zTDlYZm1RNF9VN0ZoNEJLaDFYZkZsa3JZalI3TkJtQi1KR082QzB0S2MtZ3ZGS01aakFsT2Fjc3VGcnNOM21pWkdFbXQzRkpHMktUY1pkVTNZY2RRVDZrRTJiWkM4SmtEUg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-09-14T14:06:50+00:00",
+      "summary": "米長期金利、2年11カ月ぶり5%台 インフレ・財政懸念で債券売り 日本経済新聞",
+      "id": "d3ef8b7a6b4a2577",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -127,11 +175,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "iOS 27のSiriはChatGPTやClaudeへ変更可能に？コードから判明した新設計",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2d1TEZTMVI0TURiX1AtN0V6RG5uQWNiMDhHaFZzOGkwbVhpOWJjSTZ3QTRMMk5SUEtwMzFlSHJkMVBaRlhuUlpIZF9PNmRLc2lPSXdFQW5CbzhjQUszYUc0QlRSWUIyUWQ1aEluUVp1REF2aHREUlJqMjZRQU5WZG13?oc=5",
+      "source": "apple-hacks.com",
+      "published": "2026-09-14T12:52:37+00:00",
+      "summary": "iOS 27のSiriはChatGPTやClaudeへ変更可能に？コードから判明した新設計 apple-hacks.com",
+      "id": "d7f6911b6e3d89d6",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "中国国営紙、AnthropicのAI減速呼びかけを「冷戦」 tacticとして拒否 「環球時報」は、Amodei氏...",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1dReWxLWWFuR1M4RXA1NmtIbnlBVHZsb1Nydm15dGR1SmhLb0phcEV1RW8tQ2xsVHZ3dWlNU2NTZ01SUlgyc25jYkt4amRBN29NZ0RsMHBRaGwzbnBHNE5OZDVOR0xhUVNwQ1hyZHc5ZDRGNlVnNEFrbDNIbk9wSnYxeDhWcklaNktBRDhOYU9ycWlwOEFwRGZsOS1BNjMySEpoampSWjNQeV9KWEg3RmJXTjB4dw?oc=5",
-      "source": "Moomoo",
+      "source": "moomoo.com",
       "published": "2026-09-14T12:33:29+00:00",
-      "summary": "中国国営紙、AnthropicのAI減速呼びかけを「冷戦」 tacticとして拒否 「環球時報」は、Amodei氏... Moomoo",
+      "summary": "中国国営紙、AnthropicのAI減速呼びかけを「冷戦」 tacticとして拒否 「環球時報」は、Amodei氏... moomoo.com",
       "id": "4955aa3ab2f697a6",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -189,34 +249,10 @@
     {
       "title": "「AIによる人類滅亡」論がシリコンバレーで激論に：Anthropic元研究員が「10年以内に人類絶滅の可能性」、黄仁勲氏は「傲慢」と一蹴",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPMzBrYURoUElVMUk3Vkc2MkpVZ0lGajJfc1huTWtjaGlwbHpqc19ad1FpMVJCVjlWWXVJM2RQbHRDNGE1UlZWZkVldHdpWm9qd0lleFppWkZvNjBXTnVkcVc3RFdWeVRjTkFuMlNNNlVyZlUw?oc=5",
-      "source": "finance.biggo.jp",
+      "source": "BigGo ファイナンス",
       "published": "2026-09-14T08:56:00+00:00",
-      "summary": "「AIによる人類滅亡」論がシリコンバレーで激論に：Anthropic元研究員が「10年以内に人類絶滅の可能性」、黄仁勲氏は「傲慢」と一蹴 finance.biggo.jp",
+      "summary": "「AIによる人類滅亡」論がシリコンバレーで激論に：Anthropic元研究員が「10年以内に人類絶滅の可能性」、黄仁勲氏は「傲慢」と一蹴 BigGo ファイナンス",
       "id": "b504d635a2ab8d2f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "アンソロピック、中国AI企業による「Claude」利用を問題視 蒸留と安全保障リスクが焦点に",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTTR1RG1tRm5IdW9XX2VoWXUwXzNpQ2NGWGV3a3FwTXNYOWxFUmVIZzktWE15Q3p6Uk9yQ2RnZ1JQSTZqVzJWN0RXRnpralh2SlJR?oc=5",
-      "source": "東京報道新聞",
-      "published": "2026-09-14T08:35:41+00:00",
-      "summary": "アンソロピック、中国AI企業による「Claude」利用を問題視 蒸留と安全保障リスクが焦点に 東京報道新聞",
-      "id": "ecc017b337d91715",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【営業・マーケDXPO 福岡'26】シンカワークスが出展｜Claude×キーエンス流データ活用で「資産が残る」営業支援を提案",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BdWR2SUVOM3VGQzFFYk1SRHZlX2REYVJLdXRvalozbC02b0Z3b2J0djVDSWJ0OVB3cHFKVGJEZjdFUjBWWXlUS0kyMmlFcm5qNTlwSkdYUDFkR1RlTGk3djRETV82Y083QVU2RVpVU3BOZw?oc=5",
-      "source": "Infoseek",
-      "published": "2026-09-14T08:10:00+00:00",
-      "summary": "【営業・マーケDXPO 福岡'26】シンカワークスが出展｜Claude×キーエンス流データ活用で「資産が残る」営業支援を提案 Infoseek",
-      "id": "2912ee695d74e669",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -232,30 +268,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GVA TECHが提供するOLGA AIコンサルティングの新機能、売買契約プレイブックの追加",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMM0MxbFZZQ0JvMm5vMFJORnpHTWpzNjdjTU9VY3Y2VGZrQWEzOVlBUnhUY3Rtamd4YXFncHQtUVh0QWl3UnpkcjBHazFlbGMwZnhHaHcxc3dxamFlUTFDX2FKdEJXQXVEOEE?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-09-14T07:45:07+00:00",
-      "summary": "GVA TECHが提供するOLGA AIコンサルティングの新機能、売買契約プレイブックの追加 ニュースメディアVOIX",
-      "id": "e38fb038f57ccb10",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "DXONEが青果卸向けに“AI経営参謀”を正式リリースし業務を革新する時代到来",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQMGZQd01CZWZDb0VKbFRISm1mU1NDOExEY3ZTTUF4WmNUUjNIVnZtMHRiZU54VlVrNkJKNnZtdl9tWTFXOVIwdE5oWDE2elBMQWFyWm05NndtUGlQRVdvdWQxV0NIZnpJYzNZRnU0MDZlRW5ITVE?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-09-14T07:43:09+00:00",
-      "summary": "DXONEが青果卸向けに“AI経営参謀”を正式リリースし業務を革新する時代到来 ニュースメディアVOIX",
-      "id": "d7b376903cc13cbd",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -405,9 +417,9 @@
     {
       "title": "【品川区】「蛇窪祭 例大祭」が9/18(金)～20(日)に開催されます♪",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1URE55ZVAzLWFNR3lhczJ2aXFfRDFrOG9lc2dQVjhXNm1SU2N3YS1FTHNLRXRTSFJFRFRYVmNmalBKMEM0aWhxaFlMYS1BUFRhQzBtTF9vOG4zU00wencyMW9KWQ?oc=5",
-      "source": "号外NET 品川区",
+      "source": "shinagawa.goguynet.jp",
       "published": "2026-09-13T22:43:58+00:00",
-      "summary": "【品川区】「蛇窪祭 例大祭」が9/18(金)～20(日)に開催されます♪ 号外NET 品川区",
+      "summary": "【品川区】「蛇窪祭 例大祭」が9/18(金)～20(日)に開催されます♪ shinagawa.goguynet.jp",
       "id": "17cd9f8d3175a187",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -460,18 +472,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米津玄師、「Lemon」自身2作目の累積再生数5億回突破【オリコンランキング】",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxZHBqSHphOTZXNWR6b1NEYm42TThYVzJ4amVmUUFTLVNseG5TckhaS2pmOFFYVjM4NmtkaWFhQlMyM2RqaEJBbjIxNUdkakhINlE?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-09-13T07:47:14+00:00",
-      "summary": "米津玄師、「Lemon」自身2作目の累積再生数5億回突破【オリコンランキング】 山陽新聞",
-      "id": "a17830e0c82677ca",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -549,9 +549,9 @@
     {
       "title": "【アイマス】『SideM』と『シャニマス』の対バンライブが2027年6月5日、6日に横浜アリーナで開催決定",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSalVaWE1TaVV0S3huTUNTeUFSM2IzRUROekd1ZlRMcXZmX29vY3dqUkZ2Y0ljN011TzNJbmY3TTJwQmhwZ25Db0xYcXlSMk8xWkFYTTZObw?oc=5",
-      "source": "ファミ通.com",
+      "source": "ファミ通",
       "published": "2026-09-12T11:50:00+00:00",
-      "summary": "【アイマス】『SideM』と『シャニマス』の対バンライブが2027年6月5日、6日に横浜アリーナで開催決定 ファミ通.com",
+      "summary": "【アイマス】『SideM』と『シャニマス』の対バンライブが2027年6月5日、6日に横浜アリーナで開催決定 ファミ通",
       "id": "a63ea2313c7b2c1c",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -669,9 +669,9 @@
     {
       "title": "東京・品川区「全世帯に4000円」支給 所得制限なし、いつ受け取れる？",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04c1NzSmFzaEtUYWhQZnhwMDJ4ZDBFMmxROGFncGpaUVVYaTdhVkJHc29fSmt0OHI5TXdMYm5zSjhXbUVEdHZjZmZOV24?oc=5",
-      "source": "DXマガジン",
+      "source": "dxmagazine.jp",
       "published": "2026-09-12T00:55:40+00:00",
-      "summary": "東京・品川区「全世帯に4000円」支給 所得制限なし、いつ受け取れる？ DXマガジン",
+      "summary": "東京・品川区「全世帯に4000円」支給 所得制限なし、いつ受け取れる？ dxmagazine.jp",
       "id": "4ce4ecafdb1e8f51",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -693,9 +693,9 @@
     {
       "title": "日本だけじゃない長期金利の上昇 米国も欧州も…共通する要因と背景",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ncG4tS3Qwc2E3TXhXS0U1cTM0TW5naTBod1VXTXpDb2wtNEJ3VkxmeXNzNllFcC1GRENnOGhGRFRwOW9BM201azVBWWpSSkk0TXVtSWFWMEk4bkR2NE41MlZ0eFJicjg?oc=5",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "published": "2026-09-11T21:00:00+00:00",
-      "summary": "日本だけじゃない長期金利の上昇 米国も欧州も…共通する要因と背景 asahi.com",
+      "summary": "日本だけじゃない長期金利の上昇 米国も欧州も…共通する要因と背景 朝日新聞",
       "id": "f978053236fa374f",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -736,18 +736,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "東証REIT指数が年初来安値 金利先高観から投資マネーが流出",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fRy05OTR5OWRIUDhHbk1VUTZyb0c5UkVqYm9uVGtMREFZSXJ0aFdYMEZHTXlYX0VhR2RjeWFwTHpsM2VQOFJhVlprTXlJSGxyN3E4cVBkZVBvR3pJaGRvZjFjc1NxRnFJSmU5Qg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-11T11:00:02+00:00",
-      "summary": "東証REIT指数が年初来安値 金利先高観から投資マネーが流出 日本経済新聞",
-      "id": "ece85b536057f78a",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -823,15 +811,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "インフルエンザ予防接種を前倒し　東京の品川区・港区・文京区",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV3ZuVVFObnJuenNmWk1hRlJMYnJvYWVIMUFkd3VnU2xqOEZkNnpvelhYOG9QMWhhY3FUeUdIakxURFEtU21pbnJWcEFNUEl6a2lqaS1BOGs1R2hISUNCOHR1dUtUNEEyNlptakpFTmR2ZzQzRzA1N2lCbjBXX1BuZEJKemlyTWlHN2Q5RkVrV1JJOWMxck5oRWppSGUxZ9IBngFBVV95cUxPV3ZuVVFObnJuenNmWk1hRlJMYnJvYWVIMUFkd3VnU2xqOEZkNnpvelhYOG9QMWhhY3FUeUdIakxURFEtU21pbnJWcEFNUEl6a2lqaS1BOGs1R2hISUNCOHR1dUtUNEEyNlptakpFTmR2ZzQzRzA1N2lCbjBXX1BuZEJKemlyTWlHN2Q5RkVrV1JJOWMxck5oRWppSGUxZw?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-09-11T02:15:00+00:00",
-      "summary": "インフルエンザ予防接種を前倒し 東京の品川区・港区・文京区 ｄメニューニュース",
-      "id": "86bc1be7e7d8af1c",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
+      "title": "あいみょん、初ベストアルバム発売を記念し渋谷に450平米超の大型広告を掲出",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCUTBSaEhqX2R5SXctTGdDalZwNDZtWEZpS3lDeVF3bktYUzRaWEtnd0xwUjY2NGJyUXVUamJwREEzdFZuN2xtNXhVU09RYTdZekE?oc=5",
+      "source": "音楽業界総合情報サイト",
+      "published": "2026-09-11T05:00:13+00:00",
+      "summary": "あいみょん、初ベストアルバム発売を記念し渋谷に450平米超の大型広告を掲出 音楽業界総合情報サイト",
+      "id": "115ca82852b22bd9",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -849,9 +837,9 @@
     {
       "title": "吹奏楽コンクール 七高と深沢中が東関東へ 県代表として",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oT3ZXMjVneFk1SlI2RjNEaGdFdTR6WDBCeFRfODVhZFhrMVcxZ1dVaWpLOXdhWE50TWFfdDBNVWlGZGtQQVo5aDhXVWNYMVRwTXJsX1NZYm5MNlpDX3dEd21NUGQ?oc=5",
-      "source": "townnews.co.jp",
+      "source": "タウンニュース",
       "published": "2026-09-10T15:00:00+00:00",
-      "summary": "吹奏楽コンクール 七高と深沢中が東関東へ 県代表として townnews.co.jp",
+      "summary": "吹奏楽コンクール 七高と深沢中が東関東へ 県代表として タウンニュース",
       "id": "e36203c2518d2afd",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -896,7 +884,7 @@
     },
     {
       "title": "稽古の成果を発揮する選手に和菓子をお届けして応援",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TVXExZEFYVHhzNW12WTRWLWN5LS1rc0d0TEJtQTE1R2JEZ09JOERCR080TnhMX3pncVBjb0dXZVZwenJGZDFfTW1qUnBINzZKSm5kVEtVLXA5cE9Bay1CaWFZd0JtQ0ZR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UV2lXMEVfX1BXOUd6MnYtOXhtNC10UXN2OXN4dmd6VVE0eTMzYWR5RVlDcmRDU0Z3QXB5eVlWbFN6UjZ3cHJ1NUI3SXFTRHBfcEM1Qw?oc=5",
       "source": "ニコニコニュース",
       "published": "2026-09-10T01:03:19+00:00",
       "summary": "稽古の成果を発揮する選手に和菓子をお届けして応援 ニコニコニュース",
@@ -909,9 +897,9 @@
     {
       "title": "初のやんばる空手古武道大会 小中生が４道場から27選手、熱戦 沖縄・国頭",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MblNyeWFNQkYzQ0VDa1RwaFRYYk9WVGxpMkZfNWFiTzlQV3lFVk5ZVmlkbjBpeU5jSkNfS1VRcml6YUk2T2p2cGllbWNJY2c0YllDOEhBVGpzclZmR3c?oc=5",
-      "source": "ryukyushimpo.jp",
+      "source": "琉球新報デジタル",
       "published": "2026-09-09T20:00:00+00:00",
-      "summary": "初のやんばる空手古武道大会 小中生が４道場から27選手、熱戦 沖縄・国頭 ryukyushimpo.jp",
+      "summary": "初のやんばる空手古武道大会 小中生が４道場から27選手、熱戦 沖縄・国頭 琉球新報デジタル",
       "id": "ded6f6ae6a8f27f7",
       "category": "武道",
       "topic": "合気道・武道",
@@ -921,22 +909,10 @@
     {
       "title": "親のスマホ買い替えも「最大3万円」補助？ 東京・品川区、65歳以上が対象",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkUHlPcDhXdlNlRGZCai12ODB6YUo4LUJCUUg5MllIS1NwczlTenhkdDFia1pUT01mQm9HaVpxRFJ3c2REZFFDalNDN20?oc=5",
-      "source": "DXマガジン",
+      "source": "dxmagazine.jp",
       "published": "2026-09-08T00:26:55+00:00",
-      "summary": "親のスマホ買い替えも「最大3万円」補助？ 東京・品川区、65歳以上が対象 DXマガジン",
+      "summary": "親のスマホ買い替えも「最大3万円」補助？ 東京・品川区、65歳以上が対象 dxmagazine.jp",
       "id": "eb0e569f5f8fda19",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【品川区】「絵本とわたしの物語展」9/21(月・祝)～23(水・祝)開催",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QTkxiOHNqVmNqTFN6MWdkM0NSZzBjYmtOMGpGMWZPd3NEMEpESS14aXVSTHVHdVljeXNOTDViRDJrZjVjT0NoZTBJLVlfcnAtazVRa0hJRFd4aFFSZWlZTS1zZw?oc=5",
-      "source": "号外NET 品川区",
-      "published": "2026-09-07T22:43:21+00:00",
-      "summary": "【品川区】「絵本とわたしの物語展」9/21(月・祝)～23(水・祝)開催 号外NET 品川区",
-      "id": "6f1cfdde2a5ef808",
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
@@ -1089,9 +1065,9 @@
     {
       "title": "【入場無料】来て！見て！体験！しながわアート！ 「品川アーティスト展2026」9月12・13日(土・日) きゅりあんで開催",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oUlRZbmU0SXFmTERnTERyMXJMV2pjQkdFSWJNNTl5NVNWc2FzZzVUdk5rb2FWS3V2UlE3N3BHbmFLTnJsbVpKNzRNMmxNUkE?oc=5",
-      "source": "Newscast.jp",
+      "source": "newscast.jp",
       "published": "2026-09-01T01:00:00+00:00",
-      "summary": "【入場無料】来て！見て！体験！しながわアート！ 「品川アーティスト展2026」9月12・13日(土・日) きゅりあんで開催 Newscast.jp",
+      "summary": "【入場無料】来て！見て！体験！しながわアート！ 「品川アーティスト展2026」9月12・13日(土・日) きゅりあんで開催 newscast.jp",
       "id": "b968b3a39eccbb2b",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1099,5 +1075,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 86
+  "count": 84
 }
