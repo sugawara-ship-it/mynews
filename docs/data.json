@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-14T23:05:05.129139+00:00",
+  "generated_at": "2026-09-15T00:21:18.649910+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -67,6 +67,30 @@
   ],
   "items": [
     {
+      "title": "Claudeは計画、Antigravityは実行。AIを2つ使い分けたら開発が回りはじめた",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdWhhNXRndjF4SDk1WW1aVFRXWmRURjBTYWMyRnVtOFpnNEl0cExmMjk4UWM2VThiTjBhMkJMSkFqSktrd1VKUUo5RG55dk5QM3F3QjdGTkwzcFhDQnhPZWxyeUxxV2dtbzE0QkhDRk42TzRlZjlqdEhNVWtJNFVXZldYbFRCYU1iN1REQlYtNVBCcHB1MnNCMFZmUDRleHA1dW93djBwd2Y?oc=5",
+      "source": "ライフハッカー",
+      "published": "2026-09-14T23:45:00+00:00",
+      "summary": "Claudeは計画、Antigravityは実行。AIを2つ使い分けたら開発が回りはじめた ライフハッカー",
+      "id": "a73a0759a0142f9b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「科学者がAIで生物兵器の設計を試みている可能性がある」とAnthropicが報告するも専門家の見解はさまざま",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTc5Q19nNHNCLTY3STNXYXd3UThYRVRIVG5BRC1aX09udndteWZWM0UzWjViRXAyTzZ2bTRWcWJLXzVYUTV3M28tcXpJdVpoTGlTUDJZLTl6WDhSUWJZVWhjanFqUHlha2t0UWRTb0pFMGUwb2RxNWpobi1RVTJrdnJqdHlZLWw1aXc?oc=5",
+      "source": "GIGAZINE",
+      "published": "2026-09-14T23:00:00+00:00",
+      "summary": "「科学者がAIで生物兵器の設計を試みている可能性がある」とAnthropicが報告するも専門家の見解はさまざま GIGAZINE",
+      "id": "ac1b4cb20f04d321",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Claude Codeの週次利用制限、9月14日の引き上げ発表になぜ開発者はざわついたのか",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE13bUVEUmhBM2RkWktiS0F3Q2JWd3gwb0tfbmJSWk8yWUNvb0tNbUstcWtsZlJzVFpRSjZhNDZqYnNCQQ?oc=5",
       "source": "shiritomo",
@@ -93,9 +117,9 @@
     {
       "title": "半年後に「巨額の損害」、Anthropicトップが示す“最悪のシナリオ” AI開発減速にOpenAIも“異例の同調”のワケ",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YVHVRX0x1T1BLTjZvcGdsUmFaTl91aVhzTTJvb1RXR0F3R09nek9TcjNpQ2NKTHowb296RURNdDZ3aEhieGoxaFpWZVN0TXA4S2V4RFJldDZzVzVRSmtRdFRHaFRaSmN1OUxoc05vQjkyZw?oc=5",
-      "source": "itmedia.co.jp",
+      "source": "ITmedia",
       "published": "2026-09-14T22:00:00+00:00",
-      "summary": "半年後に「巨額の損害」、Anthropicトップが示す“最悪のシナリオ” AI開発減速にOpenAIも“異例の同調”のワケ itmedia.co.jp",
+      "summary": "半年後に「巨額の損害」、Anthropicトップが示す“最悪のシナリオ” AI開発減速にOpenAIも“異例の同調”のワケ ITmedia",
       "id": "2080374c56959085",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -139,18 +163,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "サンダース、バノン、元Anthropic研究者がAI安全サミットで同席へ",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zOHEtVUV2UktJaXdma1U5SXRVUXdzSENFZ2ZIbGROWGM3eWRGVVJGaUl5bUpxVzNPeC1RenBMLXFyZUhMODlLR19oV1lBU2FJZ1hSVVZfcm1CYVI1dE5VejdfRUJoalI1UTN1enVINFFuejhD?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-09-14T18:15:00+00:00",
-      "summary": "サンダース、バノン、元Anthropic研究者がAI安全サミットで同席へ BigGo ファイナンス",
-      "id": "9f9b6610e7bbb65b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "アンソロピック、Claudeで金融向けサービス拡充－資産運用大手と連携",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Gakp3Rzl4aUZjZUZvUmFyX2VPWm1jOEF4WXZtVWVHRVVuMmJkU3FpYTQ1bnVLemMtRm5SQ2stRDFTSjM3bEQwY3RXbENrSjBtQnZPVDdQT2pPUU02S2YxNkNiVlVYVDhRNGpHN18wWXRnVS1l?oc=5",
       "source": "TBS NEWS DIG",
@@ -177,9 +189,9 @@
     {
       "title": "Anthropic、パートナーコネクタ搭載の金融アドバイザー向けClaudeを発表",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYVJHMkFWVTVfLTEycmtxckpOUEc1QWJjSEtrWVUzbUZ2Wk9mdnRaQXBJbUI5TVZtazdvZ2pidTBVeXk0N1VzT1ZtbWhLNlQ3d29yQlJ3eGVlWWpBcEhGaVN3V0RtX283Nlk1REd6UzRVR2tTQURsbFB4M1M5UHUzLWkzMWpGSU0tUjRnWjVMZ0J5UnNidjd3dk9BXy1SZw?oc=5",
-      "source": "Unite.AI",
+      "source": "unite.ai",
       "published": "2026-09-14T16:25:34+00:00",
-      "summary": "Anthropic、パートナーコネクタ搭載の金融アドバイザー向けClaudeを発表 Unite.AI",
+      "summary": "Anthropic、パートナーコネクタ搭載の金融アドバイザー向けClaudeを発表 unite.ai",
       "id": "ac26e1b3eec3d3a5",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -189,9 +201,9 @@
     {
       "title": "大手テック企業が先端AIの利用を制限、AnthropicとOpenAIのデータ扱いに懸念広がる",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KQWg5cnZiSnNFY09sS2FsY3VKOE5qY04wU2E3cm5YckVnSGdRdUstLW5vUFhReWs3Q3QyZUQzcnVjblZUVVBEUkRjb3FQZnpyYTREZWVVU2VSUHRXR2xqZA?oc=5",
-      "source": "mezha.net",
+      "source": "Межа. Новини України.",
       "published": "2026-09-14T16:10:13+00:00",
-      "summary": "大手テック企業が先端AIの利用を制限、AnthropicとOpenAIのデータ扱いに懸念広がる mezha.net",
+      "summary": "大手テック企業が先端AIの利用を制限、AnthropicとOpenAIのデータ扱いに懸念広がる Межа. Новини України.",
       "id": "b0210062c2dfe563",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -205,18 +217,6 @@
       "published": "2026-09-14T15:42:48+00:00",
       "summary": "OpenAI、Google、AnthropicがAIの共同管理について協議中か korben.info",
       "id": "cd402988f3032200",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "トランプ、AIの新たなガードレールを拒否し、AnthropicのAmodeiを攻撃",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDFCVDlmWDBZb3dGdGU1aFdXdlpqN0s3YzFKMGUxWmZmS3NDRElJb1NwSDkxOUloU0pSUmhheXN5ZktpRHRPMklrbDlRWXhzZGpDTjg0Q3lRSmpPOEFFMzVyUTdveUhFWXJkYm9hbVdCMnpSRy02Rm9aLTZ2X0MwN2FQbF9ibGJVdi02MmgzYw?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-09-14T15:25:29+00:00",
-      "summary": "トランプ、AIの新たなガードレールを拒否し、AnthropicのAmodeiを攻撃 Unite.AI",
-      "id": "3b6875af5986a50a",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -261,9 +261,9 @@
     {
       "title": "【経済情報】「スピッツ」や「あいみょん」２０２７年５月あなぶきアリーナでコンサート【香川】（OHK岡山放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DQmd3NHg5NGdsV3dCN1BYY0pmZmg3ZFk1NU9qUENET05VMFRzdHlQZWFMbHhHTmVvMU1kS05QTFBEZ0VtakJsX3F3Tlc5d01zVzk5dC1lcHNwWklJMkJIcmlCTEV0OXBEQWFRbmpwUHVHVnU3OXdmTTc2c1FNT2M?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-09-14T09:33:01+00:00",
-      "summary": "【経済情報】「スピッツ」や「あいみょん」２０２７年５月あなぶきアリーナでコンサート【香川】（OHK岡山放送） Yahoo!ニュース",
+      "summary": "【経済情報】「スピッツ」や「あいみょん」２０２７年５月あなぶきアリーナでコンサート【香川】（OHK岡山放送） news.yahoo.co.jp",
       "id": "22bc302016ee7f34",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -309,9 +309,9 @@
     {
       "title": "更に「開かれた議会」へ　日向慎吾議長インタビュー〈鎌倉市〉",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQnNWMHBGQ1Fxbm1XYk1VZS12U2pMOFVIREhfR1ktZXp5RkFYb2dCWWxQc1ZsbWtVVGliZ1o5T3BMbkJOMkpQQ3JBQ1k5ODd2WnBzRjIzNmV2aU9pNWxKcG1SdUxEZXQxNktvMmpXcmJlV1haTEUwaGszcDZ6OUFjUnVSd2lrb3VYYi01N1AxeEZlbDFsY3lpdy14NTlxTUN5LWZ2WU9iRUdyNjNMLUFWbXNXQVRDZzdrWW9IMTdVZmxJVmREcUZ2UGVwd2FPSVBH0gGAAUFVX3lxTE9QbUYxOXk0bzNBNHdybGQxRnQ5SjdTVXoxdFNZTEFNU19kTHFBdW5vakVDSkxzbS1VZm90ZzJyUDR3M1JRQXFoWWJXU2h5UTE1enYwUjR6aUptdWowdll1aU9yX3hDMHBOS1kxZ0tqT0NmX05uU012TWxrbXpxazgx?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "published": "2026-09-14T06:00:00+00:00",
-      "summary": "更に「開かれた議会」へ 日向慎吾議長インタビュー〈鎌倉市〉 topics.smt.docomo.ne.jp",
+      "summary": "更に「開かれた議会」へ 日向慎吾議長インタビュー〈鎌倉市〉 ｄメニューニュース",
       "id": "bd5eb7e95ff23a2c",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -405,9 +405,9 @@
     {
       "title": "「パスタ市場」が活況。鎌倉パスタ、五右衛門、パンチョが拡大。「すぱじろう」は台風の目になるか #エキスパートトピ",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWxsNktReWlLeFZ1V0w4eWdHRVQ3SlBNZWcxVC1HMjdvSnNYM0ZuWU1YR2VQYm56UVhJWUk5TUtscVQwbFl3b3RVRTR3VmNSaWxzaThxY1BKMV9rX29vXzN4RGJzQVRwWEJDVTFaWDlTN3dGZmVpWlM0dUpzYlBmeWQzZkhuSTNH?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-09-14T01:01:37+00:00",
-      "summary": "「パスタ市場」が活況。鎌倉パスタ、五右衛門、パンチョが拡大。「すぱじろう」は台風の目になるか #エキスパートトピ Yahoo!ニュース",
+      "summary": "「パスタ市場」が活況。鎌倉パスタ、五右衛門、パンチョが拡大。「すぱじろう」は台風の目になるか #エキスパートトピ news.yahoo.co.jp",
       "id": "24741bd170bc3dc5",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -499,6 +499,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "米津玄師、「Lemon」自身2作目の累積再生数5億回突破【オリコンランキング】",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxZHBqSHphOTZXNWR6b1NEYm42TThYVzJ4amVmUUFTLVNseG5TckhaS2pmOFFYVjM4NmtkaWFhQlMyM2RqaEJBbjIxNUdkakhINlE?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-09-13T07:47:14+00:00",
+      "summary": "米津玄師、「Lemon」自身2作目の累積再生数5億回突破【オリコンランキング】 山陽新聞",
+      "id": "a17830e0c82677ca",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "あいみょんライブチケット2027一般発売いつから？取り方と倍率も！",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HRFhjcnNzWS1XS3ZoM2h1V1NLNlZ4X0J6QS1hYUt2Y1h5ZG5nZDZCVlMtaEMxd3hNWXhINVpNZndoNUN3NXZLRklwOVcyanR4TUVnSExYdUVyOTZuQzJNUTkyb3VmNHN3bzZhN0V0WQ?oc=5",
       "source": "株式会社マーケットプレイス",
@@ -585,9 +597,9 @@
     {
       "title": "【アイマス】『SideM』と『シャニマス』の対バンライブが2027年6月5日、6日に横浜アリーナで開催決定",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSalVaWE1TaVV0S3huTUNTeUFSM2IzRUROekd1ZlRMcXZmX29vY3dqUkZ2Y0ljN011TzNJbmY3TTJwQmhwZ25Db0xYcXlSMk8xWkFYTTZObw?oc=5",
-      "source": "ファミ通.com",
+      "source": "ファミ通",
       "published": "2026-09-12T11:50:00+00:00",
-      "summary": "【アイマス】『SideM』と『シャニマス』の対バンライブが2027年6月5日、6日に横浜アリーナで開催決定 ファミ通.com",
+      "summary": "【アイマス】『SideM』と『シャニマス』の対バンライブが2027年6月5日、6日に横浜アリーナで開催決定 ファミ通",
       "id": "a63ea2313c7b2c1c",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -763,11 +775,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "あいみょん、渋谷に450平米超の巨大広告が出現！初ベストアルバム発売を記念",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdWgwNWpLcjA3QUh2Skw5RnBiN1pLelROZUtobUZXb1ZyUndJcVg3SDJXWldUNFNLQjJpOFY5dXgyY2l2RWlMd3lvTXBJdWRnb0dqMnduNUhmbGVkZjJSQlVzQllkcFJ0SVp3YWl0RW83MmJkcWd6UzhBR3JrT1JIelFaZC14UTA4U1HSAY8BQVVfeXFMUFRqZ2hmU19wd1lZYnRjUzlaZDI3UGhSajRyNjREc1E5ckRueENvcnoxaXFocUtCWkpCSk9IR0F5VU1MSEJkMDRYOGFTamY4Mno4ck9zdXV6blpCN2hvSW1PUmt0TXJFcl9PYm9JUjdOZmhoX3hrb09ac29JTnpCcnRsLUVyeXBOcGJnZkxoY2s?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-09-11T13:30:00+00:00",
+      "summary": "あいみょん、渋谷に450平米超の巨大広告が出現！初ベストアルバム発売を記念 ｄメニューニュース",
+      "id": "947bb5c8c728c6c1",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "450平米超のインパクト！ あいみょん初ベストリリースで渋谷に特大ビジュアル現る（TOKYO FM＋）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nMW93aGtraTZBbURKUXExcjZRUmI5OHpwTjFlZEtvcG9qMkJ3NDhKV2E5YjlXTUNWaXJXLTVqZzVUR2Fpb3NDZ2x4c0Yxb056bmM1R01KSV9kckpZekNtQWIzRXBEUGVSZ281M1Q0SzRiR3JTZ2hfN0pQTld0MWs?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-09-11T11:50:59+00:00",
-      "summary": "450平米超のインパクト！ あいみょん初ベストリリースで渋谷に特大ビジュアル現る（TOKYO FM＋） Yahoo!ニュース",
+      "summary": "450平米超のインパクト！ あいみょん初ベストリリースで渋谷に特大ビジュアル現る（TOKYO FM＋） news.yahoo.co.jp",
       "id": "f52fd167d84957f0",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -811,18 +835,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょん、初のベストアルバム発売記念で渋谷に450平米超の大型広告が登場",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fZnlOSXc0c3JBS1BsMXByTDYzVnlpc25iTzZ3MVlVcEpfR3pwQWJza1dSLXJQejFKUjI5NjRXdnJUVTRhaFRoUFpkMA?oc=5",
-      "source": "ガジェット通信",
-      "published": "2026-09-11T08:00:04+00:00",
-      "summary": "あいみょん、初のベストアルバム発売記念で渋谷に450平米超の大型広告が登場 ガジェット通信",
-      "id": "e83768e390557b3a",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "決算プラス・インパクト銘柄・引け後 … 積水ハウス、３ＤＭ、鎌倉新書 (9月10日発表分)(株探ニュース)",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUpJWUc0T0hPRVRyLTh4UDFqckVXZkVKUUN3UkYwQzlLblBOYVpqQUhraHpKblliNXlrRXAwM0dVblR2WXRXakYzSUVmRDBLcnN4cV8zRzhDMVN6c3JfaTc3T21XX2FhYnF6OFR1NXVFV3ZSbVM5UlpUVnZIZ1FPbk1YZDJ0bkU?oc=5",
       "source": "Yahoo!ファイナンス",
@@ -835,23 +847,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょん、初ベストアルバム発売を記念し渋谷に450平米超の大型広告を掲出",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCUTBSaEhqX2R5SXctTGdDalZwNDZtWEZpS3lDeVF3bktYUzRaWEtnd0xwUjY2NGJyUXVUamJwREEzdFZuN2xtNXhVU09RYTdZekE?oc=5",
-      "source": "音楽業界総合情報サイト",
-      "published": "2026-09-11T05:00:13+00:00",
-      "summary": "あいみょん、初ベストアルバム発売を記念し渋谷に450平米超の大型広告を掲出 音楽業界総合情報サイト",
-      "id": "115ca82852b22bd9",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "路上でおもむろにショーツを下ろし…》歌舞伎町だけではなく鎌倉の“聖地”でも…深刻化する“観光地の排泄問題”「韓国は“排泄テロ”と問題視」「NZはトイレ増設に3億円超投入」（NEWSポストセブン",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nb3FwZkxvUXhmSnNXYjlpTWhMZ2k0eTY1ZlZNOUNqN0liRU9XMktXZXk1cnluU1dQY0NZVkRpVTJzYVZxV2REaHNEendpLWpXZjJBVjlidUhDczdHajVfZnJfUVNIOXdsejAwUkg1dGJCN2VEQUlCN2wwZEJ4VjA?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-09-10T22:15:00+00:00",
-      "summary": "路上でおもむろにショーツを下ろし…》歌舞伎町だけではなく鎌倉の“聖地”でも…深刻化する“観光地の排泄問題”「韓国は“排泄テロ”と問題視」「NZはトイレ増設に3億円超投入」（NEWSポストセブン Yahoo!ニュース",
+      "summary": "路上でおもむろにショーツを下ろし…》歌舞伎町だけではなく鎌倉の“聖地”でも…深刻化する“観光地の排泄問題”「韓国は“排泄テロ”と問題視」「NZはトイレ増設に3億円超投入」（NEWSポストセブン news.yahoo.co.jp",
       "id": "c86f561ddfd1c111",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -885,9 +885,9 @@
     {
       "title": "2026年ベトナム青少年武道才能選手権大会には、2000人の選手が参加する予定です。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPekpsX29TRU9iTzV0eXU4VXFpX0NSTTMwb25fWWZ4M2xsdlhJZ3ZqMk5rVE5XWnZsSWtnLUdQUkRSaVRya00xanFEZUNkZU1ROGx3NkdHdzByVVk1ZmM4TlQwRUprbFdXRW5xQWNxSXpyTFVIemVjZWc0bGJTTFpjTWdqVVJPdzJzTnJqT01KNWN5N2J3VUlHZmxXTkg3N3MxcC12Vw?oc=5",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "published": "2026-09-10T09:09:13+00:00",
-      "summary": "2026年ベトナム青少年武道才能選手権大会には、2000人の選手が参加する予定です。 Vietnam.vn",
+      "summary": "2026年ベトナム青少年武道才能選手権大会には、2000人の選手が参加する予定です。 vietnam.vn",
       "id": "94f580d7aa4ce096",
       "category": "武道",
       "topic": "合気道・武道",
@@ -945,9 +945,9 @@
     {
       "title": "2026年国境警備隊武道大会（第1地域）開会式",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZnhiTmxMTWQtRXllOUNUMUpIYl8zeFZnZ0pUdDhwVV9XeFBxakI5bDBlN2Z2NHpGZTktMGVpVEd3ai1jNUhuTE82TXR3cExGN0JNN1RWbmZQWFRCTGtleVUwQ0x3NmFEMElzbEtuS1c3S0I4dzJwTktoZXFndUxyLW9mcWlFMG9WRVd3TzFmeUVaTEU?oc=5",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "published": "2026-09-07T08:47:23+00:00",
-      "summary": "2026年国境警備隊武道大会（第1地域）開会式 Vietnam.vn",
+      "summary": "2026年国境警備隊武道大会（第1地域）開会式 vietnam.vn",
       "id": "540a7f231e8e539a",
       "category": "武道",
       "topic": "合気道・武道",
@@ -969,9 +969,9 @@
     {
       "title": "オリコンニュース：細長い土地で開放感を楽しむ… 品川区にある『スゴイ家』 建築費も公開 6日放送",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZRTFFeUVRR1dzUG51dndsSnlQTmdhWXotMTVLNUotcDNKZm5QMGVFU21idThBdnNxakloZ2F2cDRPVXJkX0QzVEdQZi1nalNtdlZoeWI2UEV6eVVCNE5XeXdHUllBa25p?oc=5",
-      "source": "mainichi.jp",
+      "source": "毎日新聞",
       "published": "2026-09-04T22:00:00+00:00",
-      "summary": "オリコンニュース：細長い土地で開放感を楽しむ… 品川区にある『スゴイ家』 建築費も公開 6日放送 mainichi.jp",
+      "summary": "オリコンニュース：細長い土地で開放感を楽しむ… 品川区にある『スゴイ家』 建築費も公開 6日放送 毎日新聞",
       "id": "ddbf99554b166aa8",
       "category": "地域",
       "topic": "地域ニュース 品川",
