@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-15T15:28:29.484990+00:00",
+  "generated_at": "2026-09-15T17:00:57.764594+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 9
+      "count": 10
     },
     {
       "name": "経済・ビジネス",
@@ -67,6 +67,42 @@
   ],
   "items": [
     {
+      "title": "Anthropic、クロード開発費を除けば黒字",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZVmpXbVZ3dUF3ZjhBLWlaWGg2UE04a21vLWpEOWhpcHlxUWMxU1h3ZTFrUkdPUXI2dlNTMmZHU3prZHFxR21DMU5kQks1VlN6cDVXRDQ3TWR1bThrbUFkV2hqZFpxaDhmR3RvZS1LZkpmQQ?oc=5",
+      "source": "BeInCrypto",
+      "published": "2026-09-15T16:51:51+00:00",
+      "summary": "Anthropic、クロード開発費を除けば黒字 BeInCrypto",
+      "id": "b7621cce98ccb4c2",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【鎌倉市】鎌倉紅谷のワークショップ「クルミッ子つくるっ子！」「はちまんじゅうつくるっ子！」開催！9月17日より受付開始 11月5日～11月29日",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vUFotbDh6SUNpZEVmME1xU2c5b0x0OWVOckZWRVh2ZThFRGVGaDdRX09nWGVzWndQelRSMnF5ZzVWUXM2US1JSEVQcXBQVndQZzRUNzhFMEhENE5hRXRfZ2dGZlB5TlZILXhZbHlKbHhBSU0?oc=5",
+      "source": "shonanjin.com",
+      "published": "2026-09-15T16:16:44+00:00",
+      "summary": "【鎌倉市】鎌倉紅谷のワークショップ「クルミッ子つくるっ子！」「はちまんじゅうつくるっ子！」開催！9月17日より受付開始 11月5日～11月29日 shonanjin.com",
+      "id": "843807365a61da56",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、37の営業スキルを搭載した Salesforce in Claude プラグインをリリース",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdllCWWIzemxMMG9RTE1Qd2xNejZqd1pmQVZQOURpLVBSdWZxVjlBZGJIQXFvLVFGQ1hNMFVFV2lzNVNPVEpoeDd4LXhKNVZsenZtUDJVN3N1T2NfaGg1M25TM1Z4NWpVeHpGR09wblUxQ1FNVjZBbFN6TkFtbHNRREp5YUpXTW9XcGNSdTFzS01jYXdGVDd3?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-09-15T16:09:01+00:00",
+      "summary": "Anthropic、37の営業スキルを搭載した Salesforce in Claude プラグインをリリース Unite.AI",
+      "id": "1e34bdd40163b2fd",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "過去の貴重映像が見られる「あいみょん特番 完全版」NHK総合で放送決定",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YanYxOFpDaEtKUFc2ZXQtdi1CQXdLdFRyLUJTc213QkdSRm9Lb0hUS0Fkc1ptSF94TWNtWXptSGRiblcxSC1oeGVqTXFTWUFQOURUY3lDRC00RjJvYVNpazh3Z1hUVHNKamxEVG9oWkQ5TXVaOUkzempOdw?oc=5",
       "source": "ニコニコニュース",
@@ -81,9 +117,9 @@
     {
       "title": "あいみょん、反響を呼んだ10周年記念NHK特番『NHK ONE LIVE』完全版が地上波にて放送決定",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UalpGR3JvUXRFQk9xZXNPQjdDLTJqM0lDMzdtZEtmVkk3WndQVUZoQnFYNXFwdXFQb2pOY1VGLUctOFFKUjhYMzFPeHJRRFZ4enN3T2g0NHI?oc=5",
-      "source": "THE FIRST TIMES",
+      "source": "thefirsttimes.jp",
       "published": "2026-09-15T12:22:10+00:00",
-      "summary": "あいみょん、反響を呼んだ10周年記念NHK特番『NHK ONE LIVE』完全版が地上波にて放送決定 THE FIRST TIMES",
+      "summary": "あいみょん、反響を呼んだ10周年記念NHK特番『NHK ONE LIVE』完全版が地上波にて放送決定 thefirsttimes.jp",
       "id": "deabe1886d484ffa",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -91,23 +127,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【鎌倉市】鎌倉紅谷のワークショップ「クルミッ子つくるっ子！」「はちまんじゅうつくるっ子！」開催！9月17日より受付開始 11月5日～11月29日",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vUFotbDh6SUNpZEVmME1xU2c5b0x0OWVOckZWRVh2ZThFRGVGaDdRX09nWGVzWndQelRSMnF5ZzVWUXM2US1JSEVQcXBQVndQZzRUNzhFMEhENE5hRXRfZ2dGZlB5TlZILXhZbHlKbHhBSU0?oc=5",
-      "source": "湘南人",
-      "published": "2026-09-15T11:16:02+00:00",
-      "summary": "【鎌倉市】鎌倉紅谷のワークショップ「クルミッ子つくるっ子！」「はちまんじゅうつくるっ子！」開催！9月17日より受付開始 11月5日～11月29日 湘南人",
-      "id": "843807365a61da56",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【鎌倉市】Zen2.0 10周年「Mindful City Kamakura Week」鎌倉で8日間開催｜2026年11月14日〜21日",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DOE1LYWZ6Wlg2cGlxa2h6M213NmN2Ung0R1Z5MkxMSS1vNHJqR29tTEFLWUhjRXdfR0lZUDlheHdKS3M4M29WN0s5cG9ELTJxb1VnWkZLSUIyNUpzdDJMc0dUajhvNFhnVHJrSndESWgyXzhpN3JZaA?oc=5",
-      "source": "湘南人",
+      "source": "shonanjin.com",
       "published": "2026-09-15T10:59:33+00:00",
-      "summary": "【鎌倉市】Zen2.0 10周年「Mindful City Kamakura Week」鎌倉で8日間開催｜2026年11月14日〜21日 湘南人",
+      "summary": "【鎌倉市】Zen2.0 10周年「Mindful City Kamakura Week」鎌倉で8日間開催｜2026年11月14日〜21日 shonanjin.com",
       "id": "3796775180ab96a4",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -117,9 +141,9 @@
     {
       "title": "AnyMind Group、AIライブコマース「AnyLive」でAIアバター生成と配信分析機能を大幅強化",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56VFkwNTdNOXFIQkloNXhKY0g1Q0Y1a3VCUGRmdnlrUmxYRExKWFpZUEREaTh4Z2VuV3FRd2xRUU1NNm5MZ1FHQUc2VENDbFlCMm5HZXFjNA?oc=5",
-      "source": "commercepick.com",
+      "source": "コマースピック",
       "published": "2026-09-15T09:50:06+00:00",
-      "summary": "AnyMind Group、AIライブコマース「AnyLive」でAIアバター生成と配信分析機能を大幅強化 commercepick.com",
+      "summary": "AnyMind Group、AIライブコマース「AnyLive」でAIアバター生成と配信分析機能を大幅強化 コマースピック",
       "id": "644e0ab9b4ad5a84",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -153,9 +177,9 @@
     {
       "title": "Anthropicは2兆ドル規模のAIブームに乗じて、史上最大のIPOを実現できるか？",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekt3bXFLbVcta25abEJZU0gtN3IxRUtnRE1aenpFMVhNQ2NyZkF4Z1hfNGVIYjZvQmc0VU5XS05NclA3Vnh3OUxSc0ZpYnRFR2xwQ1FEN09leER5TGUyRkRaUWpKaFQzLWJXRXNlTTZaWWpzeUREczdmLWo5alF6VnNwUkFiZlJ1TnpCU0EwX1p3NmlqVC0yTTBDQkY3OGgzb3dhSEtMMkQ?oc=5",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "published": "2026-09-15T09:16:48+00:00",
-      "summary": "Anthropicは2兆ドル規模のAIブームに乗じて、史上最大のIPOを実現できるか？ moomoo.com",
+      "summary": "Anthropicは2兆ドル規模のAIブームに乗じて、史上最大のIPOを実現できるか？ Moomoo",
       "id": "d3bf57f63b23c71e",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -177,9 +201,9 @@
     {
       "title": "【鎌倉市】令和になって最多！鎌倉の海水浴客数が656,020人を記録｜2026年夏",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5meWVqcXpGV2xJQTY3eGVuWF9ESFlWOXU1UUxObWtuMjZ3MHpZWUNUZVdoUVNsQ1BqY1JQQTNpUXpMVnowRWRqVmtuYUVGQV90NlkwX01aV2kwOGtDLTZLbXFjSVNmdWs?oc=5",
-      "source": "湘南人",
+      "source": "shonanjin.com",
       "published": "2026-09-15T08:57:31+00:00",
-      "summary": "【鎌倉市】令和になって最多！鎌倉の海水浴客数が656,020人を記録｜2026年夏 湘南人",
+      "summary": "【鎌倉市】令和になって最多！鎌倉の海水浴客数が656,020人を記録｜2026年夏 shonanjin.com",
       "id": "47b794544ea676e3",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -271,18 +295,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "アップル、「Siri AI」をClaudeやGPTに置き換え可能に？ 「iOS 27」のコードが示す新機能",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZ196ODBLZ05ac3lNTEJPcE1RemtJLTd6Z2l3MTZpSDlwdVlCeTh0SHMzN1hxSmVRYnBzNVBXcUw1RlRYS3I2UkpkRE9oRUo5bUN2YlloNTdxWXRaQVJDODNpNnJVaTh4MlgwbzQ4RHdET0RGMnB6UlhuYlhZYWs?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-09-15T06:39:00+00:00",
-      "summary": "アップル、「Siri AI」をClaudeやGPTに置き換え可能に？ 「iOS 27」のコードが示す新機能 Yahoo!ニュース",
-      "id": "b522165b5804d177",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "20年債入札「無難」 世界的な金利上昇で投資妙味",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95d1dqSXMzLVVqbFJyamVZa1BqaG1sNm01YlZsY2NTNDVzVGdKVDRSMldGN29oV2FHa1NNVGo3SnVTdVNlS1o5bDh2cWl2S2tLeVZ5dHdISGZfZkZNOWhOTkFMVzZncHFUZDIxMg?oc=5",
       "source": "日本経済新聞",
@@ -292,18 +304,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "OpenAIとAnthropicが主導するAI減速論 中国勢ムーンショットとDeepSeekは「蚊帳の外」",
-      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNZUEtMlNYaEdiRUtFYTlBcVUtQ29EcE4yZ2d5RDdqM3RfNGJSZHRlUVgtX1pYeU56ZjBad09xNWY2Zll6VjFCSjFsV0J6U0x0WWhYX0MwM1VzcTR6OW5QdnQzSjRkWkE0bDItd0J4TFRwdG9JREhGU0xNVUh3blpDcnBmdXgtTFpMNklYWDhrTWZ2U21HYUpvN2luRnFaZjJGN2FKelM2T2lvdGgzN1NUQ19CRkZ3M3RnTl9kRWRGQ2pHc0k5bnNXZUxDZzl5YVV3M3BZNENqTkcyQmhEVW01Yk5ibFc0c3k2TkgwWXY0WWdiaEVlWFA1eXdYTzBDWFNWX2ZRVW11bXFuMHJnRUx2d3VIUlBjalBraVgzeGFaRENYdWhGaWg4eXY1WVJ3VTRzZ0FXLXE2aTc2ZFNydTJjS1VNNEc2djEzeVhjaEJzS3otN0dXUFhBemxwMjAyYlY5dTYzNWFRWW0wajVGci1BQmlOQV9lRGdBY1BoX25rdENkZE9qVHRfWXBHYWpKUUhpeHVKOXZEdVd3S2NVOTVlb2JJeDVNNFE?oc=5",
-      "source": "Yellow.com",
-      "published": "2026-09-15T05:46:31+00:00",
-      "summary": "OpenAIとAnthropicが主導するAI減速論 中国勢ムーンショットとDeepSeekは「蚊帳の外」 Yellow.com",
-      "id": "78eda11057858dcd",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -537,9 +537,9 @@
     {
       "title": "デビュー10周年のあいみょん「初めての甲子園のときは設営日から来てました（笑）」父との関係を明かす",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42RjRGUEZ5bTFRb2Z5Z0cwbWd1ellhY2lsVUJOOWR6TUN4R2gzbFhfU0NLVUNtdnhNQ012MTdUdHRYaVpDUzV1VU5kVHI0bUJydlZSc09mbEwza1BjZlQ2a0NodmxIUQ?oc=5",
-      "source": "J-WAVE NEWS",
+      "source": "news.j-wave.co.jp",
       "published": "2026-09-14T08:00:00+00:00",
-      "summary": "デビュー10周年のあいみょん「初めての甲子園のときは設営日から来てました（笑）」父との関係を明かす J-WAVE NEWS",
+      "summary": "デビュー10周年のあいみょん「初めての甲子園のときは設営日から来てました（笑）」父との関係を明かす news.j-wave.co.jp",
       "id": "97f18767d0c14a0e",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -703,6 +703,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "滋賀県内の道の駅、「梨」「ぶどう」の直売などのイベント開催へ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwbndKVHFsZjg5MXNLNmlISkVVcWtSX3phSHFBd0NLTmFoWXlfU2RkMGtod3pQMjFJQWJaSVpfWUpOcWh4TldraGVZc0p3QUNFZ3NLaWlSc0s?oc=5",
+      "source": "kyoto-np.co.jp",
+      "published": "2026-09-12T10:35:00+00:00",
+      "summary": "滋賀県内の道の駅、「梨」「ぶどう」の直売などのイベント開催へ kyoto-np.co.jp",
+      "id": "9b8be5c7c0fd229f",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "あいみょん、眼帯姿を説明「目は結膜下出血！大丈夫！」 新ベストアルバムをアピール",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uV3FKNW1Uc0tieDdZUVdoMURqd0YtelhJYjNpZ0JNVFduQkNBMUczbkNNTGNjSHZ0THVXa0ROV2RFT0xoZ0NHMkVmTldHWUF6dmFhMzlVRlBsMlNiUTJxamlPR1U?oc=5",
       "source": "山形新聞",
@@ -717,9 +729,9 @@
     {
       "title": "【鎌倉市】鎌倉市福祉センターでペット防災セミナー開催！2026年9月27日、参加費無料・先着50名",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZjNjX0JhT2ctb3pBOG1oek11RUpjWjB0ZUpQNlYzQU50ZzlXR09iN0RnMkMzdmpfTWl4NWlzNFpyTnZqMm1iTDBFRUd3NWJyYlplS0FTWTNqSjBsT3ZNbkRCRjZEU2pVUXc?oc=5",
-      "source": "湘南人",
+      "source": "shonanjin.com",
       "published": "2026-09-12T08:55:46+00:00",
-      "summary": "【鎌倉市】鎌倉市福祉センターでペット防災セミナー開催！2026年9月27日、参加費無料・先着50名 湘南人",
+      "summary": "【鎌倉市】鎌倉市福祉センターでペット防災セミナー開催！2026年9月27日、参加費無料・先着50名 shonanjin.com",
       "id": "e6c5dd665477d645",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -753,9 +765,9 @@
     {
       "title": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lZV94eGZTaUlMOTZfUHlGX0pjdW9PNm5udDI4VVVmWmV1YTNyTkx1d1Jab2hyaVQ3RGhYRnpOLURZZWFjTXpKSmdyWExtZFlYSGc?oc=5",
-      "source": "山陽新聞",
+      "source": "sanyonews.jp",
       "published": "2026-09-12T07:00:00+00:00",
-      "summary": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】 山陽新聞",
+      "summary": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】 sanyonews.jp",
       "id": "840b14bd4cfbf68f",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -981,9 +993,9 @@
     {
       "title": "日本武道国際セミナー／１２日 田辺市立武道館で初開催",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xQUswaHpLdDVOVjZPdzV6cE9rN1hkUl8yb0ZnRlEtdnlNWjZpaWRySnNMOFVjLTBrTmEzSzlzUFpGOEhldndoTnlxbHZTUE0?oc=5",
-      "source": "agara.co.jp",
+      "source": "AGARA 紀伊民報",
       "published": "2026-09-03T07:00:00+00:00",
-      "summary": "日本武道国際セミナー／１２日 田辺市立武道館で初開催 agara.co.jp",
+      "summary": "日本武道国際セミナー／１２日 田辺市立武道館で初開催 AGARA 紀伊民報",
       "id": "628635453850abed",
       "category": "武道",
       "topic": "合気道・武道",
@@ -1003,5 +1015,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 78
+  "count": 79
 }
