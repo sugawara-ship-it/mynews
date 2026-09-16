@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-16T00:26:02.087685+00:00",
+  "generated_at": "2026-09-16T01:26:24.034203+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -66,6 +66,42 @@
     }
   ],
   "items": [
+    {
+      "title": "AIスライド生成ツール「イルシル」、添付した資料からグラフ・表・画像を反映できる機能をリリース",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05cTVXVDFYcUlNcm9PcVJYZEZ4WGNfaUdXLVNsa0NFRVh0eXAyd2hBd0ZHdHJtNjZRUUJHN0xnNTVBU19RQVdFQldhV255dU94LTdKYVM1VGZOemJNejQ3M1JhaWVqdHd5M1E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-16T01:00:02+00:00",
+      "summary": "AIスライド生成ツール「イルシル」、添付した資料からグラフ・表・画像を反映できる機能をリリース PR TIMES",
+      "id": "dc908bd2c4d6e84d",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「ChatGPT」や「Claude」などの生成AIに自社のEC業務データをつないで使うための案内所「mcp-dir（エムシーピー・ディレクトリ）」とは？",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSnU5aERaMUxDMDl1SGYxLXJUSmQwb0xkS19MYWRLNnA5Yy1SR3JSa1JRV2VPUXZXWUFfdlBBeExUbUFaaUNWb1NxQ3RIZzhiN0JoYlYtb3V1X0hxYzVwMmJERXhYZ1FjUjJsa1J3TXNCWXRLYndsRUlJZnFFdVpJLU40MjBuX0IwWlJUV0ZkbFVxZU04R01vZ1ZTLUhtVTdzWTdIaFJXdUhkZHVmLTFVeWV6c1ozRjB1U3JkX2psUUNSNXlROF8xWHZfV2U3X1c2Ri1OWjVXZGZTQlp6ZWN5WWdWNnM1TnNGZVhtRVNZaWVsekNSUUMzcTFDRHB2bUFwc1pQX9IBtAFBVV95cUxQb2FyNFZ1TVJHY0VscjRyZ1RjNDNmSXJBWE50RGlzMWZTcENBU2xzYUpxZjRCWnFuaF9wLWpnZXBfVUtpMW9QSlEzeXFqQmJ6eWttaUNmUXA4QUlMMERzZVAtUEJwdDhxczVfdXlCY1RyRmw3LXRTd1FxbUZ2MEJqMnpYN2FicVQyLUtDSDc2OVBLeHRhSzQ1MEVWUlBjQkFLazZZZkpZYTJ6VFpSNnlLMkNicms?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-09-16T01:00:00+00:00",
+      "summary": "「ChatGPT」や「Claude」などの生成AIに自社のEC業務データをつないで使うための案内所「mcp-dir（エムシーピー・ディレクトリ）」とは？ ｄメニューニュース",
+      "id": "98a86d7fc5f97596",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "サムスンSDS、Anthropicの「CPN」セレクトティアパートナーを獲得…韓国内初",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96VlFHeUpNR1FpZlEyM0k3OERhWE43R05yQUp5VmhNczJJdHNFZzZoVjQwY01XUkhBLUYybHR6MGYzd0h5VFhEc2dtNTFvbHlJM2xLekZKQWtiS2FGaEd2SmJjYVVyUmpBamMyam1vVWZTVGJSYlBvMA?oc=5",
+      "source": "korit.jp",
+      "published": "2026-09-16T00:51:16+00:00",
+      "summary": "サムスンSDS、Anthropicの「CPN」セレクトティアパートナーを獲得…韓国内初 korit.jp",
+      "id": "505f4990d31dd94a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "Nvidiaなど米企業がAnthropicモデルの使用制限 データ留存で機密漏洩懸念",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15Q2FaUXZ2RnM0VUZoMEpYeHVRRmhrbTRWRTFmR0M4N3NrZkRuUks1OUtWaU1RbHZvMnRHUXg4bENhdkJIMVl5R09WUUtTTmF0akwzeWkwYUVrWmJjZXJQTm9MRDZfOTBWX2U2NTJHZ0dUR3I0?oc=5",
@@ -177,10 +213,22 @@
     {
       "title": "中国AI・Kimiに聞いたら、答えていたのはClaude？　Anthropicが約30万件の入力転送を報告",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GUEJsWDdTdlQxOGFnSXV5OWFCRy0ydDlzWHo3OE1CRWh0dXpNSjYxdV8wOGt0MGlzbzVaczNrcXRGdl9GMDNXYmpjSmJwODR0Q0x5XzNPWFFaNEVWUDQ0Y9IBZkFVX3lxTE5WNWlXWk43cWhhZGU4V0hrLV92ZkluQVZjbmx2bFJacGxtcUhkcEdDcFhkbEZhM3Z6cnlhS0Vpc1cyZy1wSl90UmJPTERIOEJqdS1lM2FxejItaF9GejdLeVR3TVFPUQ?oc=5",
-      "source": "リアルサウンド",
+      "source": "realsound.jp",
       "published": "2026-09-15T20:00:37+00:00",
-      "summary": "中国AI・Kimiに聞いたら、答えていたのはClaude？ Anthropicが約30万件の入力転送を報告 リアルサウンド",
+      "summary": "中国AI・Kimiに聞いたら、答えていたのはClaude？ Anthropicが約30万件の入力転送を報告 realsound.jp",
       "id": "7b11ab61dcb0ef06",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DYWNIZ01NamF6MFpMYzhQQV9sZFlSd1BQdTg2cW8ya2JtanVNalVwNE5JV2R3QkZmWjFuTkRJemxGUGVrYWp5RkpxY0ZFM3I2ZnRocG53Y1o5dnhTYzVnWjd3X1dzaXJvY1JwUw?oc=5",
+      "source": "日経クロステック",
+      "published": "2026-09-15T20:00:00+00:00",
+      "summary": "Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト 日経クロステック",
+      "id": "3ee19977c3bd699d",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -205,6 +253,18 @@
       "published": "2026-09-15T18:49:38+00:00",
       "summary": "OpenAI、Anthropic、Google DeepMindが人工知能の安全性向上に向けて協力 Informat.ro",
       "id": "3aad55964f90bcdc",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、金融アドバイザー向け「Claude」を発表——ウェルス・マネジメント市場に照準",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03N2ZwVk1FWXl4MGxWcU10NDZSR08wZElTa3YwZHFqSlRmS1ltd21lUTNfYXZNRDV6T2JTR0kyZ0NRQUNyT2phaDdzc01LX3RrQVp0TXlIZ2ZmNllUcFp4cG5RSkRieXRvdjNFSldZY2RpS0sy?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-09-15T18:37:00+00:00",
+      "summary": "Anthropic、金融アドバイザー向け「Claude」を発表——ウェルス・マネジメント市場に照準 BigGo ファイナンス",
+      "id": "002164c9fd971a7e",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -241,30 +301,6 @@
       "published": "2026-09-15T16:51:51+00:00",
       "summary": "Anthropic、クロード開発費を除けば黒字 BeInCrypto",
       "id": "b7621cce98ccb4c2",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、37の営業スキルを搭載した Salesforce in Claude プラグインをリリース",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdllCWWIzemxMMG9RTE1Qd2xNejZqd1pmQVZQOURpLVBSdWZxVjlBZGJIQXFvLVFGQ1hNMFVFV2lzNVNPVEpoeDd4LXhKNVZsenZtUDJVN3N1T2NfaGg1M25TM1Z4NWpVeHpGR09wblUxQ1FNVjZBbFN6TkFtbHNRREp5YUpXTW9XcGNSdTFzS01jYXdGVDd3?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-09-15T16:09:01+00:00",
-      "summary": "Anthropic、37の営業スキルを搭載した Salesforce in Claude プラグインをリリース Unite.AI",
-      "id": "1e34bdd40163b2fd",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "OpenAI、Anthropic・GoogleとAI安全基準で連携調整",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UTlpYNXhfR3NXZGd4d0tZQ0FXbHgzYy1VTnFRU3N4NWx4bXdGZnVoelMyVG1WV0NkRlR0bjFkR3BvNEtRdEF1RzdaTERqejNsbTF5aGxPTDZIcE00b0I0NU5uS2lwY0RDSnlFQXlmVlNjMVRI?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-09-15T15:25:00+00:00",
-      "summary": "OpenAI、Anthropic・GoogleとAI安全基準で連携調整 BigGo ファイナンス",
-      "id": "f97b41d500bb00e2",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -319,18 +355,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【マーケター・広報向け】なぜ炎上する？SNS時代の“法的OKでも危険”な境界線とは？ 10/7（水）・27（火）「著作権×生成AIリスク管理ガイド」（全2回）のアーカイブ映像を無料配信",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42UFBpT2xIbHFGdU5XTDJiWUpqRVhESnA5WGdIb2ZOTGFxZ3ktZDZCZFN3ZllUakxjeXNSZGdESC1ZUkx5WjR0SnRoMkFQdUY5MnRjcllOeS1UWFJzSE5VZVhEQ1pGTV9YQ3c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-15T11:30:02+00:00",
-      "summary": "【マーケター・広報向け】なぜ炎上する？SNS時代の“法的OKでも危険”な境界線とは？ 10/7（水）・27（火）「著作権×生成AIリスク管理ガイド」（全2回）のアーカイブ映像を無料配信 PR TIMES",
-      "id": "6cbfbbc3605c8e90",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【鎌倉市】Zen2.0 10周年「Mindful City Kamakura Week」鎌倉で8日間開催｜2026年11月14日〜21日",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DOE1LYWZ6Wlg2cGlxa2h6M213NmN2Ung0R1Z5MkxMSS1vNHJqR29tTEFLWUhjRXdfR0lZUDlheHdKS3M4M29WN0s5cG9ELTJxb1VnWkZLSUIyNUpzdDJMc0dUajhvNFhnVHJrSndESWgyXzhpN3JZaA?oc=5",
       "source": "湘南人",
@@ -340,18 +364,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnyMind Group、AIライブコマース「AnyLive」でAIアバター生成と配信分析機能を大幅強化",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56VFkwNTdNOXFIQkloNXhKY0g1Q0Y1a3VCUGRmdnlrUmxYRExKWFpZUEREaTh4Z2VuV3FRd2xRUU1NNm5MZ1FHQUc2VENDbFlCMm5HZXFjNA?oc=5",
-      "source": "コマースピック",
-      "published": "2026-09-15T09:50:06+00:00",
-      "summary": "AnyMind Group、AIライブコマース「AnyLive」でAIアバター生成と配信分析機能を大幅強化 コマースピック",
-      "id": "644e0ab9b4ad5a84",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -376,18 +388,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropicは2兆ドル規模のAIブームに乗じて、史上最大のIPOを実現できるか？",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekt3bXFLbVcta25abEJZU0gtN3IxRUtnRE1aenpFMVhNQ2NyZkF4Z1hfNGVIYjZvQmc0VU5XS05NclA3Vnh3OUxSc0ZpYnRFR2xwQ1FEN09leER5TGUyRkRaUWpKaFQzLWJXRXNlTTZaWWpzeUREczdmLWo5alF6VnNwUkFiZlJ1TnpCU0EwX1p3NmlqVC0yTTBDQkY3OGgzb3dhSEtMMkQ?oc=5",
-      "source": "Moomoo",
-      "published": "2026-09-15T09:16:48+00:00",
-      "summary": "Anthropicは2兆ドル規模のAIブームに乗じて、史上最大のIPOを実現できるか？ Moomoo",
-      "id": "d3bf57f63b23c71e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -448,6 +448,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "〈鎌倉紅谷 ドゥミセックコレクション〉イベント",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wd19qNHQ4NFRNaElJb1lhNUNiNDRrbVdMUXNlUFRhcHpNQTFFcmtmMEE4SkZCRkh4bFVVMHRBSHp4MlRweGxFZGVEZHVYVmQ4RFBrVzVB?oc=5",
+      "source": "foods-ch.infomart.co.jp",
+      "published": "2026-09-15T04:52:30+00:00",
+      "summary": "〈鎌倉紅谷 ドゥミセックコレクション〉イベント foods-ch.infomart.co.jp",
+      "id": "8dce85e1bd11f1eb",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -535,30 +547,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "〈鎌倉紅谷 ドゥミセックコレクション〉イベント",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jcXlNVWVUTzFyYXBuR2hHazVLYUw0NnZBN2lNS0tMZ0tmaUpucnc1Zm8tX3A0dGZXWjFLRWJ5REtqeUlRZU1xTWZoWlV0UXZ4ZmxvaE5DNFYyQVRzdU5nVTB3S1RnVG1iZE5uOUF6WEl3aGY5YmtzRXIyYw?oc=5",
-      "source": "sankei.com",
-      "published": "2026-09-15T01:00:00+00:00",
-      "summary": "〈鎌倉紅谷 ドゥミセックコレクション〉イベント sankei.com",
-      "id": "8dce85e1bd11f1eb",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "オクトーバーフェスト鎌倉 2026",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcXE2MTg3LWRfQ2tiU1hGTUduOVgzZjU4Um1RZ0Y0V0ltdmtiTy1yNTlfSU15Z1RWajhqdGFrXzFsZ3dJZ2NWei1IeEJUSWplb3IzYUcwRmVaeVg3UEw0c1BwNnVLcjZ1SnRhaDlhc0N4OXJ3cjU5YWlXVFFGNzNpRm8xc1JpNm1UZGdwdjRwVmpQZFRHZ1ZVR3l4cGtBTWFXWUpoODVEeUcxQURkSjFmWTc3M1Ryb3FZaWMyZUE2dnRFdUxwWXpxR0ZFS3BtdWI1Z2U3VlRR0gGGAUFVX3lxTE43YnJrVDRxZGtOSFBmWmg2MUlhMXp3eFpMY2dDTUJ1bGdkUUd5clhaZGcxSFUzV3E1czFOYVZ0SVh1Nll4WUdwa3RTMGJZSW5DWHlvczhLRVBHNURrZXREVlJxSjgtWXZ6Nkc4TWYwQmhlbWdzeTdIWG9tTVFmeThQUXJ4R193?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-09-15T01:00:00+00:00",
-      "summary": "オクトーバーフェスト鎌倉 2026 ｄメニューニュース",
-      "id": "428382c13bf48a17",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【品川区】名物の猿回しも！「BON DANCEフェスティバル」9/19(土)開催",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GYk1RdjBfQ2NnejJCTnFxbVljM2lqbV9IdHZPUnJMWFZiUnZBNHQ1OWVyNTVMcFNSUzVEb1JiQVZQTlJNdVdHWXpTN0x4RHdzOGh0LXBiYnlCTWJMRXZuM1JtLXFVV3B2RVpLdVdzOA?oc=5",
       "source": "号外NET 品川区",
@@ -597,9 +585,9 @@
     {
       "title": "デビュー10周年のあいみょん「初めての甲子園のときは設営日から来てました（笑）」父との関係を明かす",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42RjRGUEZ5bTFRb2Z5Z0cwbWd1ellhY2lsVUJOOWR6TUN4R2gzbFhfU0NLVUNtdnhNQ012MTdUdHRYaVpDUzV1VU5kVHI0bUJydlZSc09mbEwza1BjZlQ2a0NodmxIUQ?oc=5",
-      "source": "J-WAVE NEWS",
+      "source": "news.j-wave.co.jp",
       "published": "2026-09-14T08:00:00+00:00",
-      "summary": "デビュー10周年のあいみょん「初めての甲子園のときは設営日から来てました（笑）」父との関係を明かす J-WAVE NEWS",
+      "summary": "デビュー10周年のあいみょん「初めての甲子園のときは設営日から来てました（笑）」父との関係を明かす news.j-wave.co.jp",
       "id": "97f18767d0c14a0e",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -633,9 +621,9 @@
     {
       "title": "NHK朝ドラ『おかえりモネ』＆大河『鎌倉殿の13人』、Netflixで配信決定",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GZ0xfUDBZM2xSSFU2dThRbHpTY19xRmVZcVRkcEZ3TWV5ak9SanZLTWZPRUZLdG5WM2hNZkRPeDBVZmZvU0pTOVFVWlllZThsdmNXdnZ3?oc=5",
-      "source": "オリコンニュース",
+      "source": "oricon.co.jp",
       "published": "2026-09-14T04:08:00+00:00",
-      "summary": "NHK朝ドラ『おかえりモネ』＆大河『鎌倉殿の13人』、Netflixで配信決定 オリコンニュース",
+      "summary": "NHK朝ドラ『おかえりモネ』＆大河『鎌倉殿の13人』、Netflixで配信決定 oricon.co.jp",
       "id": "1cf05d7c781f1dd8",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -681,9 +669,9 @@
     {
       "title": "9/12(土)数楽カフェに伺ったあとは、知人からお声掛けいただき、城山総合体育館で開かれた「第...",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaOEsxRWFrdjlHWjh2bzZ3cFRVNGszU2Y3Q29RSDVIQWNyMFVuaEpGZkJCb0ZJZ2cxWTBzbnoxaXlWT3ZMSUp2dVJhcFlOSXAyVll2XzhWZUI3ZjZSV3I4?oc=5",
-      "source": "選挙ドットコム",
+      "source": "go2senkyo.com",
       "published": "2026-09-13T10:57:18+00:00",
-      "summary": "9/12(土)数楽カフェに伺ったあとは、知人からお声掛けいただき、城山総合体育館で開かれた「第... 選挙ドットコム",
+      "summary": "9/12(土)数楽カフェに伺ったあとは、知人からお声掛けいただき、城山総合体育館で開かれた「第... go2senkyo.com",
       "id": "06c1b733dfcc6aed",
       "category": "武道",
       "topic": "合気道・武道",
@@ -717,9 +705,9 @@
     {
       "title": "鎌倉市 イベント紹介 環境にやさしい街 第4回 循環創造学シンポジウム",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0M0lvN0tHWV9kcjRVSzM5anp4aWNxVEZsc1lXSEJXb1BBUi0zMnRWWU9SR3lPU3ptYmtDRXktUEhIYzh5eV9rQ04xNmJ5c04xYzIxNzFmeFdHQ0htejk0?oc=5",
-      "source": "選挙ドットコム",
+      "source": "go2senkyo.com",
       "published": "2026-09-12T21:02:18+00:00",
-      "summary": "鎌倉市 イベント紹介 環境にやさしい街 第4回 循環創造学シンポジウム 選挙ドットコム",
+      "summary": "鎌倉市 イベント紹介 環境にやさしい街 第4回 循環創造学シンポジウム go2senkyo.com",
       "id": "a05271944a28fd72",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -787,6 +775,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【鎌倉市】鎌倉市福祉センターでペット防災セミナー開催！2026年9月27日、参加費無料・先着50名",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZjNjX0JhT2ctb3pBOG1oek11RUpjWjB0ZUpQNlYzQU50ZzlXR09iN0RnMkMzdmpfTWl4NWlzNFpyTnZqMm1iTDBFRUd3NWJyYlplS0FTWTNqSjBsT3ZNbkRCRjZEU2pVUXc?oc=5",
+      "source": "湘南人",
+      "published": "2026-09-12T08:55:46+00:00",
+      "summary": "【鎌倉市】鎌倉市福祉センターでペット防災セミナー開催！2026年9月27日、参加費無料・先着50名 湘南人",
+      "id": "e6c5dd665477d645",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ミスチルチケット2026｜最終抽選・一般発売・定価トレード",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80U1F2U2RhcGxLaVoxMEFLT1l5MWl0Vm5JVjlEaG8yYzFCaVB6QjFHYVVlejV6M3dFMnJvUzZLLV9QZEVTdVJ1ejZpeV9MYU9Z?oc=5",
       "source": "lignea.co.jp",
@@ -825,9 +825,9 @@
     {
       "title": "『AGESTOCK2026 in 横浜アリーナ supported by TGC CAMPUS』オープニングアクトにToi Toi Toiの出演が決定！意気込みコメントが到着！",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MRjNFeWpxcGFDeDE0cHJyZm5RUU5Ea1BENHkycWdCNVBDdUN2MEdubU1mT3VLTHNEU21XWGJnTG5mNExvQTZVeEJlV3BDZGt4aDlNTzRyYlc?oc=5",
-      "source": "オリコンニュース",
+      "source": "oricon.co.jp",
       "published": "2026-09-12T01:16:00+00:00",
-      "summary": "『AGESTOCK2026 in 横浜アリーナ supported by TGC CAMPUS』オープニングアクトにToi Toi Toiの出演が決定！意気込みコメントが到着！ オリコンニュース",
+      "summary": "『AGESTOCK2026 in 横浜アリーナ supported by TGC CAMPUS』オープニングアクトにToi Toi Toiの出演が決定！意気込みコメントが到着！ oricon.co.jp",
       "id": "b92cb13723772de1",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -993,9 +993,9 @@
     {
       "title": "オリコンニュース：細長い土地で開放感を楽しむ… 品川区にある『スゴイ家』 建築費も公開 6日放送",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZRTFFeUVRR1dzUG51dndsSnlQTmdhWXotMTVLNUotcDNKZm5QMGVFU21idThBdnNxakloZ2F2cDRPVXJkX0QzVEdQZi1nalNtdlZoeWI2UEV6eVVCNE5XeXdHUllBa25p?oc=5",
-      "source": "mainichi.jp",
+      "source": "毎日新聞",
       "published": "2026-09-05T07:00:00+00:00",
-      "summary": "オリコンニュース：細長い土地で開放感を楽しむ… 品川区にある『スゴイ家』 建築費も公開 6日放送 mainichi.jp",
+      "summary": "オリコンニュース：細長い土地で開放感を楽しむ… 品川区にある『スゴイ家』 建築費も公開 6日放送 毎日新聞",
       "id": "ddbf99554b166aa8",
       "category": "地域",
       "topic": "地域ニュース 品川",
