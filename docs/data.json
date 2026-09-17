@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-17T20:15:54.665297+00:00",
+  "generated_at": "2026-09-17T22:58:37.349403+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 5
+      "count": 4
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 8
+      "count": 9
     },
     {
       "name": "経済・ビジネス",
@@ -67,6 +67,66 @@
   ],
   "items": [
     {
+      "title": "PCを閉じても仕事は止まらない、Claude Code「Projects」ベータが変える開発現場の中身",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MUEhIWkNpTU1qUmdEOGhvWnFUYVVYeUlCWnRtYVB1emFnb0FwZ2NfRGstMHRHSFVlMnJDVnlScFNzdw?oc=5",
+      "source": "shiritomo",
+      "published": "2026-09-17T22:26:10+00:00",
+      "summary": "PCを閉じても仕事は止まらない、Claude Code「Projects」ベータが変える開発現場の中身 shiritomo",
+      "id": "4a808c8f8cab9814",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "英チャールズ国王、AI大手トップらに「実存的な危険」を警告 NVIDIAやOpenAI、Anthropicが参加（ITmedia NEWS）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Cbi1vZWljN3V4Y244Z090czBfMkNxU0FTdnpSVFRhYlI1OVo1WXg1NGg3QUhuaHZ3Rm5VR243R011Qy1PLUNMQ2NmSXVkRlM1MXB3SFR5WFBlV3ZFR3NHdGR2OWlfZk53WWFqSGJfd0V2T2MtZXZmcU95Tk5pRTA?oc=5",
+      "source": "news.yahoo.co.jp",
+      "published": "2026-09-17T22:24:17+00:00",
+      "summary": "英チャールズ国王、AI大手トップらに「実存的な危険」を警告 NVIDIAやOpenAI、Anthropicが参加（ITmedia NEWS） news.yahoo.co.jp",
+      "id": "6fc177444e8bfffa",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立 Anthropicも参加",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52Q0xPWnByeHh2b0JNcWdyeUQ0bUZwa0I3WWpUTnpURFROVGVDX2hEWFJoRHVWbWllWURuYTJzUUp4SmVwVVdDU1hSUTZON2pVc1o1WXVhY0xVVHhSdVYzREt4bDJyTHUwS1E?oc=5",
+      "source": "ITmedia",
+      "published": "2026-09-17T21:46:04+00:00",
+      "summary": "NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立 Anthropicも参加 ITmedia",
+      "id": "489c9e25b48baaf3",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Codeのプロジェクト機能が刷新、並列クラウドセッションと共有メモリで自律開発を統括",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54am9jX3cyVTVNdG8zOFpPdVRNZ2xXWUZCNkJBWEsxVG1FNkVZbjRPSXFqYUQyeS1jN0I4aFZFYXJQTkJQZ0pkODNPLVFfV3ZpSm9SOFpueGRHVGVuaWtXYlRPVW5BZw?oc=5",
+      "source": "XenoSpectrum",
+      "published": "2026-09-17T20:46:45+00:00",
+      "summary": "Claude Codeのプロジェクト機能が刷新、並列クラウドセッションと共有メモリで自律開発を統括 XenoSpectrum",
+      "id": "73ccdb15af3b3b30",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AnthropicのデータがAI「破滅論」への懸念を浮き彫りにする 執筆",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04cXBzenQzbHNBMlpJMjV0U3JFMGJoV2Zkc0syNF9ZZnlpNC10bGctMHkyb0w4QkhvUE1IUmJneFpocnhNZjlDMXNxUl9VQVhVYmo0RFA4c1o5dm1rRlotaklsNnhTOHg4VHdhMGJYMmI?oc=5",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "published": "2026-09-17T20:34:00+00:00",
+      "summary": "AnthropicのデータがAI「破滅論」への懸念を浮き彫りにする 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "id": "22d8039ea70323e1",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "香川：染織家・鎌倉芳太郎を知る：地域ニュース",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FNlhxbkdJM081ZFh0eGMwNEwxaFFyYVJCMUdvbVJFLTZTWVEyUXdXNTZad25tZmRFR0Zxb1MxN2EtUDlxUHI1U0xkaTVOV3c4RVduUGdMTDdrRFJpdmdCTXRUUmlUREc1U1lJSHdIemxUQQ?oc=5",
       "source": "読売新聞",
@@ -79,11 +139,47 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "GSA、連邦機関向けにAnthropicのClaude OneGovオファーを延長",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTU9CVWxKVzBKSVAxbWJ5T0o4TElZT0lzV0VkVU84Y2pjX1JlZlRza1BXajBndGVZMjVpUjF1dk0wLUdzREg3Vnc4elVYOUNfdVRld05XcUp6ZXNYRUZEc29Rc1dPRGRpbWM5THJlX29VVGpPTGhyX2VpZ3Y0R0JYN05hVFhDTEFZNEJ5VU42djAtQQ?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-09-17T19:59:45+00:00",
+      "summary": "GSA、連邦機関向けにAnthropicのClaude OneGovオファーを延長 Unite.AI",
+      "id": "16a7c9efa68c5840",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、Claudeが30以上のオープンソースバイオモレキュラーモデルを最適化したと報告",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOHRiajVTamJ3UlN1ZTdLcERPcWFaWktMV3MzV0Q0bWI3bFNxZl9rajNUTTMtRWNOdi1ELWJCSi1XYU52ZHp4cTBwbHpwZ2JnbFpaSnlPX2lLcTZsS1VvQ0duQVRiczJTZmhUalBHUVgwZjN6VW9wa2ZLNWVJWmhxd3dHeHlMVGUtVmpieU55YzBKTVNnQzdXUW5FQWlRalBI?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-09-17T19:47:19+00:00",
+      "summary": "Anthropic、Claudeが30以上のオープンソースバイオモレキュラーモデルを最適化したと報告 Unite.AI",
+      "id": "0163dbe3706172f2",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、Claude Code プロジェクトを再設計し、エージェントスレッドを調整",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONU5rQ1ZfX0xLdVRMWk9KU09PYXQtbmdTZjVzWTNrd3V6SGVvclFydHg4ZHFYRlpvcFA5dUdLeTJGWTM1c3FDc191TlFvRk83WWRORDNGVHZYb3NwZ1lIQ2RMc2U4dEpvMHdOYkVZVHJJTS1FRGgtX2ZKcFVYRE9FWV9CQ1NnMGxMNlhpdGsyaUFiYjRqZlJISQ?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-09-17T19:13:53+00:00",
+      "summary": "Anthropic、Claude Code プロジェクトを再設計し、エージェントスレッドを調整 Unite.AI",
+      "id": "be5f074fb5fd8904",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【札幌市】中小企業のITツール利活用を無料支援する新コースを9月開始！｜Infoseekニュース",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tUk5kT1N3dC0xWnV0WjlLUW9xR3NZa3RZRGN1ZUs4cU55cy1lWG15ZXJoWjNsR3ZsbDFNYVJVVmRIa01Tb1l6NlJqMTFyRTRUWEtEUHlzQjdqR211cjRDN3JneW1Pc0RmMVRtV2FXTGZJUQ?oc=5",
-      "source": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "published": "2026-09-17T19:10:02+00:00",
-      "summary": "【札幌市】中小企業のITツール利活用を無料支援する新コースを9月開始！｜Infoseekニュース news.infoseek.co.jp",
+      "summary": "【札幌市】中小企業のITツール利活用を無料支援する新コースを9月開始！｜Infoseekニュース Infoseek",
       "id": "9321e95ce7243451",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -127,54 +223,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【営業・マーケDXPO 福岡'26】シンカワークスが出展｜Claude×キーエンス流データ活用で「資産が残る」営業支援を提案",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42NVllUlcyLXE0WC1XbkNjQktmOTVraGpNUk5fUFBwUV9OeGE3QVczcThsT28ta2ZZRVY4SEpzNTBtSE1GaVpPdl9ESi1UbjNocjZ4emkxbFJaZVNKSG5nSmhLRHhfakltOGNIZWV0NGNXSm8?oc=5",
-      "source": "Excite エキサイト",
-      "published": "2026-09-17T16:10:00+00:00",
-      "summary": "【営業・マーケDXPO 福岡'26】シンカワークスが出展｜Claude×キーエンス流データ活用で「資産が残る」営業支援を提案 Excite エキサイト",
-      "id": "2912ee695d74e669",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "交通安全運動キャンペーン 警察音楽隊が演奏披露 鎌倉海浜公園で９月24日",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ybXRneW1HeTRGYWRXMFQzTHA2M3d3UUIwWnZKdGJIazJkX09lS2Y2YW53SURjbVRmMFdQN3F4YmlRNVdMdlR4bTdMR0xFTkZvdFVVVHI4Y3lHV0M4WkNZUkF4czc?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-09-17T16:01:36+00:00",
-      "summary": "交通安全運動キャンペーン 警察音楽隊が演奏披露 鎌倉海浜公園で９月24日 タウンニュース",
-      "id": "c3d0b7c8ea82e767",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「岩手郷土芸能祭」を11月14日、15日に建長寺で開催 神楽披露 収益は東日本大震災被災地の支援に",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IYURGQTFMaG51eWRsbk1SNXNKcXhONGhqeWZrTzJFSXVTLU0tRTkwNVRNam9NcmFvekpVM2o1bkVpQXhQMjdmV1A1OXRxY1M3MDJVVDhGalQ1SUxkS29rRkdlRHc?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-09-17T16:01:36+00:00",
-      "summary": "「岩手郷土芸能祭」を11月14日、15日に建長寺で開催 神楽披露 収益は東日本大震災被災地の支援に タウンニュース",
-      "id": "cdb9c54b92f44f38",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "〈入場無料〉第10回カマクラ・アカペラ・サミット ９月26日午前11時から浄智寺で開催",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MdHpBc01tb0VUdXRPTmlwbjVTMXBVSFpRLWUtdlRGdC1BZ1czU2MzSURkTmRCb3Y3VlpSYTZUZlBFd09MZVlieDJGUHFYQWZidjBGUmpBOGZnWFV6Mm14OE5ZN0Q?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-09-17T16:01:36+00:00",
-      "summary": "〈入場無料〉第10回カマクラ・アカペラ・サミット ９月26日午前11時から浄智寺で開催 タウンニュース",
-      "id": "9c30c37b5f465dc2",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【脱・チャットするだけ】言葉の指示だけでシステム開発から定型業務まで自律化！『Claudeビジネス活用術』9月17日発売",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IZk9xMHgzcWdiNlhkdEV5RXFDRU5LNDZSXzR1eDhPejZ6WW12aFh0Y1pZRUMxalk3ZjFHTUJqQnhDTEQzbjFCTHZIdzJWYy1XWHhDVXV3VzJycGRKc3Qxbmd1VTJaX1FO?oc=5",
       "source": "ニコニコニュース",
@@ -187,12 +235,48 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "交通安全運動キャンペーン 警察音楽隊が演奏披露 鎌倉海浜公園で９月24日",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ybXRneW1HeTRGYWRXMFQzTHA2M3d3UUIwWnZKdGJIazJkX09lS2Y2YW53SURjbVRmMFdQN3F4YmlRNVdMdlR4bTdMR0xFTkZvdFVVVHI4Y3lHV0M4WkNZUkF4czc?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-09-17T15:00:00+00:00",
+      "summary": "交通安全運動キャンペーン 警察音楽隊が演奏披露 鎌倉海浜公園で９月24日 タウンニュース",
+      "id": "c3d0b7c8ea82e767",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「岩手郷土芸能祭」を11月14日、15日に建長寺で開催 神楽披露 収益は東日本大震災被災地の支援に",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IYURGQTFMaG51eWRsbk1SNXNKcXhONGhqeWZrTzJFSXVTLU0tRTkwNVRNam9NcmFvekpVM2o1bkVpQXhQMjdmV1A1OXRxY1M3MDJVVDhGalQ1SUxkS29rRkdlRHc?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-09-17T15:00:00+00:00",
+      "summary": "「岩手郷土芸能祭」を11月14日、15日に建長寺で開催 神楽披露 収益は東日本大震災被災地の支援に タウンニュース",
+      "id": "cdb9c54b92f44f38",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "KPGJ（鎌倉パブリックゴルフジュニア）神奈川県代表に 予選全勝でPGAジュニアリーグ東日本大会へ",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yRXJ1SUpid0phLXBzeTBJNUdDQ1NlT0pSWTlOd2RSajNZalJZUHpWSFFPdG1kQndJMUxPVGdEbE5Cb2pNSnZvV1dqTTd4N3VySjU0QWI5VVpUeWNqZkNXdVZpV2Q?oc=5",
       "source": "タウンニュース",
       "published": "2026-09-17T15:00:00+00:00",
       "summary": "KPGJ（鎌倉パブリックゴルフジュニア）神奈川県代表に 予選全勝でPGAジュニアリーグ東日本大会へ タウンニュース",
       "id": "d4ca1a909681f744",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "〈入場無料〉第10回カマクラ・アカペラ・サミット ９月26日午前11時から浄智寺で開催",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MdHpBc01tb0VUdXRPTmlwbjVTMXBVSFpRLWUtdlRGdC1BZ1czU2MzSURkTmRCb3Y3VlpSYTZUZlBFd09MZVlieDJGUHFYQWZidjBGUmpBOGZnWFV6Mm14OE5ZN0Q?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-09-17T15:00:00+00:00",
+      "summary": "〈入場無料〉第10回カマクラ・アカペラ・サミット ９月26日午前11時から浄智寺で開催 タウンニュース",
+      "id": "9c30c37b5f465dc2",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -247,30 +331,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Google Homeが自宅をChatGPTやClaudeに操作させられるように",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85cUhpYk96NnRuWUJhU3dDd2psRFJVcG9GdHQ5cEloay1aSTRpRjd0UlZ1MUlsSVhMTDNUYjdkU1VDcVFiREFSS1BHdVo1eVZ3NGRXUnJEUzA4cWxzcHFVdzd2Y2t0RFZ6ZHp3dHlLT1JkQzJpNTJ3Tw?oc=5",
-      "source": "Korben",
-      "published": "2026-09-17T13:26:03+00:00",
-      "summary": "Google Homeが自宅をChatGPTやClaudeに操作させられるように Korben",
-      "id": "f8e59e88ed781625",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AIと挑むDIYの新しい形。Claude Fable 5でつくる「自分専用フィラメントトラッカー」",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ01sZy1qdGM0Q2ZWa0NidTRNUXQzV0R3dTR5SG5VTDhCemRrN19CZ2JIUWIyNlVDbjQwZnhUekZfdzZYVWVOVE5LdEttWGQ4Z0hsSGlCeGFrY0dTNWxQWGJEVDVHSThRaEp2bW0yalpNemg5WDZrOXluemlFOWgzX0ZXMF9CdUpoUUVFeUY5YmhUck0?oc=5",
-      "source": "ライフハッカー",
-      "published": "2026-09-17T12:30:00+00:00",
-      "summary": "AIと挑むDIYの新しい形。Claude Fable 5でつくる「自分専用フィラメントトラッカー」 ライフハッカー",
-      "id": "1dc5b24350ef9684",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "あいみょん、原菜乃華×堤真一が親子を演じるドラマ『もうパパ！』主題歌を担当",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Vd19BUTVqakJXeGdhNjk1M3hEQ3NvcGdibHlwdDlEcXI4ZFpPNE5uWkpqMXBZejRITmdWZjRxc2p3WGlvY3NoZnFuVEl1VmhENVA0dllhT1JyQ3pLWnd1RFZn?oc=5",
       "source": "billboard-japan.com",
@@ -283,75 +343,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "アンソロピック「中国AI企業が国家機密をClaudeに送信」 蒸留攻撃を報告 | ニュース | IT×エンタメの最前線を届ける",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1FaTBkODVjWFdONC11dlFsYnFpcjZLUnU4M2xIUUoxWkduWjNzTXhtVzVwbU9IZDF4TXVySHE0UmxRMkR2NThz?oc=5",
-      "source": "MEDIAMIXI",
-      "published": "2026-09-17T11:16:20+00:00",
-      "summary": "アンソロピック「中国AI企業が国家機密をClaudeに送信」 蒸留攻撃を報告 | ニュース | IT×エンタメの最前線を届ける MEDIAMIXI",
-      "id": "c64cc7cd6e14e437",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「AIを人間扱いするのはやめよ」MicrosoftのAIトップがAnthropicのAI擬人化を批判",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RMHhEczJwWXlLN1ZwdDhnNjV3Y2E5SDNXNHM0VFRRZzdWTHhDVnppYjFzUGxsc241X01mV09FNUlpN2pNa1EzNlJRVDlOU0lTa0dZ?oc=5",
-      "source": "sbbit.jp",
-      "published": "2026-09-17T11:00:00+00:00",
-      "summary": "「AIを人間扱いするのはやめよ」MicrosoftのAIトップがAnthropicのAI擬人化を批判 sbbit.jp",
-      "id": "b94e6f0ce6bb2021",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「AI減速」を唱えつつ算力を確保 Anthropic、豪州で2.16ギガワットのデータセンター賃貸契約を締結",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CcE5mbjdySDc1c1VBOUJyZS1RWnBMMzc3OGFtM0FOdlI2U1dTOEJXaE9WZHVCSGFES0pJSFZYMXpqSi1yN3IySVhieGVLWm1TVW9nSmU0dE8zTWR1c2lncGFaLThmbUJuZWx5bnkyeFI0a2l2?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-09-17T10:35:00+00:00",
-      "summary": "「AI減速」を唱えつつ算力を確保 Anthropic、豪州で2.16ギガワットのデータセンター賃貸契約を締結 BigGo ファイナンス",
-      "id": "a2d6966ba7c63867",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "交通不便地域にタクシー会社が営業所を開業 鎌倉市（tvkニュース（テレビ神奈川））",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwdDN6YUtfMkR1Qm8tVTZhbGRVNXg1Q0NuenRzNTBPZFhhZzJwTWE4Rm90Qi1hR0VYWVhpOVFONHhaa2VSdlI0OW9LdFFyMXlvR1BkQlFuN1NRTkNFblBxSWd1Q25YRUtkSkN0Z2JmcDdzOUJKNWY5UHV6MzZ0dTA?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-09-17T09:44:35+00:00",
-      "summary": "交通不便地域にタクシー会社が営業所を開業 鎌倉市（tvkニュース（テレビ神奈川）） Yahoo!ニュース",
+      "summary": "交通不便地域にタクシー会社が営業所を開業 鎌倉市（tvkニュース（テレビ神奈川）） news.yahoo.co.jp",
       "id": "e3b80343b7e70ce9",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AI新機能を追加した写真編集ソフト「PhotoDirector 2027」",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43dnNSNWxEa1RoQ1NoazFYUXRkcWY2VXRheTk4NVZaX190OEEyT3dfQk94S3R1eHpxclZIbUJnejFUYkNpMHBaWTk4ZXhodDJXbm40QVpVcWxoZ2lJXzhJdDRwMA?oc=5",
-      "source": "デジカメ Watch",
-      "published": "2026-09-17T09:34:18+00:00",
-      "summary": "AI新機能を追加した写真編集ソフト「PhotoDirector 2027」 デジカメ Watch",
-      "id": "ca794c12f37ba377",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「調べて→まとめて→スライドにして」が1つのチャットに？ Claudeが大型アップデート",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kM2ZGLVRrb0tqWWJ5emRiQ2RVNGVWNVF3dUE0d2pBMjY5eHM1cUF0Y2NiWU5fUUM3OXZ0c1NWVTdaZzMwMzFIdUNpbw?oc=5",
-      "source": "DXマガジン",
-      "published": "2026-09-17T09:17:43+00:00",
-      "summary": "「調べて→まとめて→スライドにして」が1つのチャットに？ Claudeが大型アップデート DXマガジン",
-      "id": "04508557ed95c150",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -405,9 +405,9 @@
     {
       "title": "鎌倉紅谷、今年はキーホルダーも登場！「ミスチ クルミッ子」「Mr. CHEESECAKE クルミッ子」を発売（グルメ Watch）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3akpOdVhnZHJqdmJoZF9mRW4telB3d1NiR0ZBcVlFQk1ScjQwRU4xbk41aVRhMW44SEZod3JERkd5ck1wWnBLajdJX1FJb0Vmemx2YmZJMVlpZDdTamEyR2lDQkdYWWZKcVgyZ0dTT2RwbGtVcXB3V2djSGQ5clk?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-09-17T04:05:00+00:00",
-      "summary": "鎌倉紅谷、今年はキーホルダーも登場！「ミスチ クルミッ子」「Mr. CHEESECAKE クルミッ子」を発売（グルメ Watch） Yahoo!ニュース",
+      "summary": "鎌倉紅谷、今年はキーホルダーも登場！「ミスチ クルミッ子」「Mr. CHEESECAKE クルミッ子」を発売（グルメ Watch） news.yahoo.co.jp",
       "id": "004f71fc1b39d0d2",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -441,9 +441,9 @@
     {
       "title": "【ライブレポ】Chevon、『三者山羊』でたどり着いた夢のステージ──Chevon ONE MAN TOUR 2026『三者山羊』",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9KSm9BUDY4Q2xEUkE3T0UzUUg4OTlfdXhsUEZuRXJ3cGF0SDdYWU04SkowRzM2bFZpUS1YamdDRHZDOWc?oc=5",
-      "source": "OTOTOY",
+      "source": "ototoy.jp",
       "published": "2026-09-17T03:00:00+00:00",
-      "summary": "【ライブレポ】Chevon、『三者山羊』でたどり着いた夢のステージ──Chevon ONE MAN TOUR 2026『三者山羊』 OTOTOY",
+      "summary": "【ライブレポ】Chevon、『三者山羊』でたどり着いた夢のステージ──Chevon ONE MAN TOUR 2026『三者山羊』 ototoy.jp",
       "id": "d1b8042c0c7b2cd5",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -465,9 +465,9 @@
     {
       "title": "米中間選挙は民主党が下院を奪還か 日本の「金利」「円安」「経済」に及ぼす影響とは（ABEMA TIMES）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wS3JrWFNaLUZOXzluYW94Q21CSGJRMEItMGxVQ3p3b0d2THZWVHkxNGN2ZlJsR2xXeFFTOFZMbFZmME15aTh5S3d4ZHRrS1U2S2d2ZlFxUElWTWhkLXc4SGpKdm8yaXd0ZWhMYVBIM2JqTWJmUTE5VVd3UDQyc1U?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-09-17T01:18:16+00:00",
-      "summary": "米中間選挙は民主党が下院を奪還か 日本の「金利」「円安」「経済」に及ぼす影響とは（ABEMA TIMES） Yahoo!ニュース",
+      "summary": "米中間選挙は民主党が下院を奪還か 日本の「金利」「円安」「経済」に及ぼす影響とは（ABEMA TIMES） news.yahoo.co.jp",
       "id": "d8b6765151fba85d",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -597,9 +597,9 @@
     {
       "title": "注目アメリカの政策金利「利上げ」踏み切るか 日本への影響は？見えた2つのシナリオ（テレビ朝日系（ANN））",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tLW9neFFzLVp3bUFtVzZqTmJQblVTY0hsNWxOZ0V5QVFwTV9TbFFiRmR0NG94Tmo4U29lZ0dPZXRXdTB2aThwZldTaFYtSTBseF9pSjdZb0l3YTZveXFlTEZRVlJjLW54QXpvUm5mQVRLbVRFNXRONTVfbE9hVVk?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-09-16T11:03:16+00:00",
-      "summary": "注目アメリカの政策金利「利上げ」踏み切るか 日本への影響は？見えた2つのシナリオ（テレビ朝日系（ANN）） Yahoo!ニュース",
+      "summary": "注目アメリカの政策金利「利上げ」踏み切るか 日本への影響は？見えた2つのシナリオ（テレビ朝日系（ANN）） news.yahoo.co.jp",
       "id": "3f7698e2617139be",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -621,9 +621,9 @@
     {
       "title": "timelesz、2度目の全国アリーナツアーBlu-ray＆DVDジャケ写公開 新体制として初のマルチアングル映像も（モデルプレス）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzOVpXYS1BMXJFMTM3czNPWGZkZVBJZ3FXN0FUSTlCY3h6Q2s2Nk84cDhqMktvMllnNTluTXRPYzRpMjBjcEszUzR1R3RGNHAxYVBKU3FHWUxzNTFkZ1VpSXFMSGRmRzV0RDdOZlJGd216YjJ5R29yb0J4S1Z0ZE0?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-09-16T09:00:02+00:00",
-      "summary": "timelesz、2度目の全国アリーナツアーBlu-ray＆DVDジャケ写公開 新体制として初のマルチアングル映像も（モデルプレス） Yahoo!ニュース",
+      "summary": "timelesz、2度目の全国アリーナツアーBlu-ray＆DVDジャケ写公開 新体制として初のマルチアングル映像も（モデルプレス） news.yahoo.co.jp",
       "id": "3bab34e7017c285e",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -715,11 +715,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "韓民族合気道武術協会、「2026年下半期ソ・インソン総裁原形保存会奨学金」伝達式を開催",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQkNUaExtNE9oaWo2YjlZamxuY0J6c0FmeVVqeVQwbU1SZUUwYkNMQ0pNYkVDNFlsRE14enJxSlZnd2E4ZUhySjhtakJPakNZdENFNzE2RnFCWnRCQUJj?oc=5",
+      "source": "justeconomix.com",
+      "published": "2026-09-15T08:17:00+00:00",
+      "summary": "韓民族合気道武術協会、「2026年下半期ソ・インソン総裁原形保存会奨学金」伝達式を開催 justeconomix.com",
+      "id": "de70585840e27e81",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "あいみょん&Mrs.GREEN APPLE表紙！月刊ローチケ9月号発行",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE53YVpMQjVBZG5UXzJqOVpJc2dlckpyQjlGOTJ6QUdrazZYeHltMU1UM3FWU29rTUMyc292aWlnMGpxWV9FM0E?oc=5",
-      "source": "Koubo",
+      "source": "koubo.jp",
       "published": "2026-09-15T03:44:40+00:00",
-      "summary": "あいみょん&Mrs.GREEN APPLE表紙！月刊ローチケ9月号発行 Koubo",
+      "summary": "あいみょん&Mrs.GREEN APPLE表紙！月刊ローチケ9月号発行 koubo.jp",
       "id": "fd0d4164664aa3b9",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -753,9 +765,9 @@
     {
       "title": "【経済情報】「スピッツ」や「あいみょん」２０２７年５月あなぶきアリーナでコンサート【香川】（OHK岡山放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DQmd3NHg5NGdsV3dCN1BYY0pmZmg3ZFk1NU9qUENET05VMFRzdHlQZWFMbHhHTmVvMU1kS05QTFBEZ0VtakJsX3F3Tlc5d01zVzk5dC1lcHNwWklJMkJIcmlCTEV0OXBEQWFRbmpwUHVHVnU3OXdmTTc2c1FNT2M?oc=5",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "published": "2026-09-14T09:33:01+00:00",
-      "summary": "【経済情報】「スピッツ」や「あいみょん」２０２７年５月あなぶきアリーナでコンサート【香川】（OHK岡山放送） Yahoo!ニュース",
+      "summary": "【経済情報】「スピッツ」や「あいみょん」２０２７年５月あなぶきアリーナでコンサート【香川】（OHK岡山放送） news.yahoo.co.jp",
       "id": "22bc302016ee7f34",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -856,18 +868,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "東京・品川区「全世帯に4000円」支給 所得制限なし、いつ受け取れる？",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04c1NzSmFzaEtUYWhQZnhwMDJ4ZDBFMmxROGFncGpaUVVYaTdhVkJHc29fSmt0OHI5TXdMYm5zSjhXbUVEdHZjZmZOV24?oc=5",
-      "source": "DXマガジン",
-      "published": "2026-09-12T00:55:40+00:00",
-      "summary": "東京・品川区「全世帯に4000円」支給 所得制限なし、いつ受け取れる？ DXマガジン",
-      "id": "4ce4ecafdb1e8f51",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
