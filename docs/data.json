@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-17T17:30:11.713598+00:00",
+  "generated_at": "2026-09-17T18:45:35.554235+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 3
+      "count": 5
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,11 +67,23 @@
   ],
   "items": [
     {
+      "title": "Anthropic、ベータ版でLife Sciences Verification Programを開始",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEVWY3JCT1RsVnJKY21VV0FyQl9EbFNzYkZpd0gwREJmYTk4OFExaDJIaURPM2ItX00wRDdRQ25RVzlOSzJCOXpyMWM3TEJQcnlyakJnaXpKMGk5NFZrT194ZjFncUVBeTc3R3ZLYU5zSVRLUWs1OV9aUWhrRVU3a1V1SE50TEU1clNPQ1N4Zw?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-09-17T17:59:44+00:00",
+      "summary": "Anthropic、ベータ版でLife Sciences Verification Programを開始 Unite.AI",
+      "id": "261f402bbc82148b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【営業・マーケDXPO 福岡'26】シンカワークスが出展｜Claude×キーエンス流データ活用で「資産が残る」営業支援を提案",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42NVllUlcyLXE0WC1XbkNjQktmOTVraGpNUk5fUFBwUV9OeGE3QVczcThsT28ta2ZZRVY4SEpzNTBtSE1GaVpPdl9ESi1UbjNocjZ4emkxbFJaZVNKSG5nSmhLRHhfakltOGNIZWV0NGNXSm8?oc=5",
-      "source": "excite.co.jp",
+      "source": "Excite エキサイト",
       "published": "2026-09-17T16:10:00+00:00",
-      "summary": "【営業・マーケDXPO 福岡'26】シンカワークスが出展｜Claude×キーエンス流データ活用で「資産が残る」営業支援を提案 excite.co.jp",
+      "summary": "【営業・マーケDXPO 福岡'26】シンカワークスが出展｜Claude×キーエンス流データ活用で「資産が残る」営業支援を提案 Excite エキサイト",
       "id": "2912ee695d74e669",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -201,9 +213,9 @@
     {
       "title": "AIと挑むDIYの新しい形。Claude Fable 5でつくる「自分専用フィラメントトラッカー」",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ01sZy1qdGM0Q2ZWa0NidTRNUXQzV0R3dTR5SG5VTDhCemRrN19CZ2JIUWIyNlVDbjQwZnhUekZfdzZYVWVOVE5LdEttWGQ4Z0hsSGlCeGFrY0dTNWxQWGJEVDVHSThRaEp2bW0yalpNemg5WDZrOXluemlFOWgzX0ZXMF9CdUpoUUVFeUY5YmhUck0?oc=5",
-      "source": "lifehacker.jp",
+      "source": "ライフハッカー",
       "published": "2026-09-17T12:30:00+00:00",
-      "summary": "AIと挑むDIYの新しい形。Claude Fable 5でつくる「自分専用フィラメントトラッカー」 lifehacker.jp",
+      "summary": "AIと挑むDIYの新しい形。Claude Fable 5でつくる「自分専用フィラメントトラッカー」 ライフハッカー",
       "id": "1dc5b24350ef9684",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -225,9 +237,9 @@
     {
       "title": "あいみょん、原菜乃華×堤真一が親子を演じるドラマ『もうパパ！』主題歌を担当",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Vd19BUTVqakJXeGdhNjk1M3hEQ3NvcGdibHlwdDlEcXI4ZFpPNE5uWkpqMXBZejRITmdWZjRxc2p3WGlvY3NoZnFuVEl1VmhENVA0dllhT1JyQ3pLWnd1RFZn?oc=5",
-      "source": "Billboard JAPAN",
+      "source": "billboard-japan.com",
       "published": "2026-09-17T11:20:00+00:00",
-      "summary": "あいみょん、原菜乃華×堤真一が親子を演じるドラマ『もうパパ！』主題歌を担当 Billboard JAPAN",
+      "summary": "あいみょん、原菜乃華×堤真一が親子を演じるドラマ『もうパパ！』主題歌を担当 billboard-japan.com",
       "id": "a1b9049af34bc71f",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -307,18 +319,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "GPT Image 2.5をHitPaw Edimakorに搭載｜AI画像生成から動画制作まで、より自由なクリエイティブを実現",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSSFVuenFTZUExVXN0THBkQU9BVGpHQ0psSWhXTXAwTktKYWN1RmJjWG5GNjhjT3JYN1R4VTJfUTVuWXJIRFhib1JlR0t6Sk8xWHRScUQzZnJwWXM0R2Q4XzRZVVNWUmN1X1E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-17T08:49:11+00:00",
-      "summary": "GPT Image 2.5をHitPaw Edimakorに搭載｜AI画像生成から動画制作まで、より自由なクリエイティブを実現 PR TIMES",
-      "id": "0b7a6dcca23b07b0",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "英中銀、政策金利3.75%に据え置き 6会合連続",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mM3VlSHZHOWRPTmNvbVBnWnFqekRHdjNvUjk4VmZnVjBPME9kVktCV2xoalZwU2lacHZaXzVCV3JXMzBfUGNKajRZQk9BcnYwRDJHcEhya1V5MVlXNUxtMVozTi1TYnJrd0U3Sw?oc=5",
       "source": "日本経済新聞",
@@ -343,11 +343,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "首都圏新築マンション、8月発売戸数12%減 金利懸念で買い控え",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qRldPVGpWNlJ2cXUtYi0yU01RNTVBRHNjcFZ1Mk5ERm14a1dUdG84MVJpMEJXRUZEc1Mwb0FucDFQMDBMQVF0aS1IN2xHUkprY0l1ZW5TMV8yQXVzSzFTa3E0WXZXQjl1NzFnTg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-09-17T05:53:27+00:00",
+      "summary": "首都圏新築マンション、8月発売戸数12%減 金利懸念で買い控え 日本経済新聞",
+      "id": "1f72f3a07129047c",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "9月14日（月） 青果物（野菜・果実）の卸売価格速報値",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FYURqTGtIVVdVY25WV0FUek8yU2ZNckRRSm5GdWxrckZvWi14aEZ5MWw5RGFVUk9qX25rb04wWnRLbUh6Z3UtOUladlh0UGt3Q1VF?oc=5",
-      "source": "sogyotecho.jp",
+      "source": "創業手帳株式会社",
       "published": "2026-09-17T05:25:10+00:00",
-      "summary": "9月14日（月） 青果物（野菜・果実）の卸売価格速報値 sogyotecho.jp",
+      "summary": "9月14日（月） 青果物（野菜・果実）の卸売価格速報値 創業手帳株式会社",
       "id": "1f70f28104e1414b",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -547,18 +559,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょんのセトリ定番曲10選！初心者向けライブフェス予習ガイド",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FaUY4ZG1mM09KdVpNWG9oWFF3WFd6UnZtMUItS1AyYVpldkhjdzRCVkdiZ1ltX2t3aGkyV19pYUNHMTVXLTBPcg?oc=5",
-      "source": "もとりょこblog -",
-      "published": "2026-09-16T14:12:11+00:00",
-      "summary": "あいみょんのセトリ定番曲10選！初心者向けライブフェス予習ガイド もとりょこblog -",
-      "id": "77c5345df9c85e44",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "あいみょん、初のベストアルバム デジタルランキング1位 全シングル曲とカップリング曲を収録（日テレNEWS NNN）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sWUNXdGlSOERMcURvQklpZ0RXOEVjRGRkdTI2dTQ5enpfRVJETUtNQVJET0pHMGVuWTFGODdqSGlzZm1URDhJTHJLamYwMVNRQWRFV3oyM21UZzFhRzY3RU5TLUUwdHNOREczQU9aOHptZkg0R2p3TXE2VVk0MFE?oc=5",
       "source": "Yahoo!ニュース",
@@ -643,18 +643,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【補助金】変化の時代に対応できるスマートレジの導入支援（事前着手制度）",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5odnhnRjhBUlUyZ0g2VXd5NXVBMWpRallLSktrWWVqNzltUVBEdnhDV3VVVjVyOW5UR2FBUkRBRkVqbEtjU0hva1VFU25ta3ZRNEJKMHpvMU4?oc=5",
-      "source": "中小企業庁 ミラサポplus",
-      "published": "2026-09-16T08:15:29+00:00",
-      "summary": "【補助金】変化の時代に対応できるスマートレジの導入支援（事前着手制度） 中小企業庁 ミラサポplus",
-      "id": "f53f7374e5d2b3db",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "刀ミュ『真剣乱舞祭』45振りの刀剣男士が勢ぞろいのメインビジュアル公開！ - 演劇 - 2.5次元舞台",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NMDRKSW5zWUJEM01BUjJCbVNyZmRPYU1jNGdkakRMeGdKUGF2Y3VCX29yMG9vMlkzTzdST1dfSFByTTZ1ajJQM3VKZ1Q0RkxWU2NOYnV4aw?oc=5",
       "source": "クランクイン！",
@@ -669,9 +657,9 @@
     {
       "title": "米津玄師、『STRAY SHEEP』がオリコン史上初のトリプルミリオン突破【オリコンランキング】",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUOVVjRjh1bmpoNDA3amJTY0xFdVo4R0hwdERZWF94MVJhMjFOQWkyNUJUYkhyajRxRU5YUk80OG5ZWjlITFVnbUtUQXB6VHhaSHRlWllB?oc=5",
-      "source": "oricon.co.jp",
+      "source": "オリコンニュース",
       "published": "2026-09-16T03:55:00+00:00",
-      "summary": "米津玄師、『STRAY SHEEP』がオリコン史上初のトリプルミリオン突破【オリコンランキング】 oricon.co.jp",
+      "summary": "米津玄師、『STRAY SHEEP』がオリコン史上初のトリプルミリオン突破【オリコンランキング】 オリコンニュース",
       "id": "8b701f2c460f2f09",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -811,6 +799,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【品川区】「蛇窪祭 例大祭」が9/19(金)・20(日)に開催されます♪",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1URE55ZVAzLWFNR3lhczJ2aXFfRDFrOG9lc2dQVjhXNm1SU2N3YS1FTHNLRXRTSFJFRFRYVmNmalBKMEM0aWhxaFlMYS1BUFRhQzBtTF9vOG4zU00wencyMW9KWQ?oc=5",
+      "source": "号外NET 品川区",
+      "published": "2026-09-13T22:43:58+00:00",
+      "summary": "【品川区】「蛇窪祭 例大祭」が9/19(金)・20(日)に開催されます♪ 号外NET 品川区",
+      "id": "b547b1d912d75e8a",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "9/12(土)数楽カフェに伺ったあとは、知人からお声掛けいただき、城山総合体育館で開かれた「第...",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaOEsxRWFrdjlHWjh2bzZ3cFRVNGszU2Y3Q29RSDVIQWNyMFVuaEpGZkJCb0ZJZ2cxWTBzbnoxaXlWT3ZMSUp2dVJhcFlOSXAyVll2XzhWZUI3ZjZSV3I4?oc=5",
       "source": "選挙ドットコム",
@@ -820,6 +820,18 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "あいみょんライブチケット2027一般発売いつから？取り方と倍率も！",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HRFhjcnNzWS1XS3ZoM2h1V1NLNlZ4X0J6QS1hYUt2Y1h5ZG5nZDZCVlMtaEMxd3hNWXhINVpNZndoNUN3NXZLRklwOVcyanR4TUVnSExYdUVyOTZuQzJNUTkyb3VmNHN3bzZhN0V0WQ?oc=5",
+      "source": "株式会社マーケットプレイス",
+      "published": "2026-09-13T04:23:56+00:00",
+      "summary": "あいみょんライブチケット2027一般発売いつから？取り方と倍率も！ 株式会社マーケットプレイス",
+      "id": "50c29ef3f3768bf9",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -844,6 +856,18 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "東京・品川区「全世帯に4000円」支給 所得制限なし、いつ受け取れる？",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04c1NzSmFzaEtUYWhQZnhwMDJ4ZDBFMmxROGFncGpaUVVYaTdhVkJHc29fSmt0OHI5TXdMYm5zSjhXbUVEdHZjZmZOV24?oc=5",
+      "source": "DXマガジン",
+      "published": "2026-09-12T00:55:40+00:00",
+      "summary": "東京・品川区「全世帯に4000円」支給 所得制限なし、いつ受け取れる？ DXマガジン",
+      "id": "4ce4ecafdb1e8f51",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -955,5 +979,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 74
+  "count": 76
 }
