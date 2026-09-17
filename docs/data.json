@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-17T07:33:34.148845+00:00",
+  "generated_at": "2026-09-17T12:29:34.898824+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -32,13 +32,13 @@
       "name": "道場物件（鎌倉・湘南）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 2
+      "count": 1
     },
     {
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 4
+      "count": 3
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 9
+      "count": 8
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,90 @@
     }
   ],
   "items": [
+    {
+      "title": "米AnthropicがClaudeのチャットとCoworkを統合、スライドを生成できる機能も",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42UnRIb1lnV1lDVTNDZC1CSUlQaWFUTHFWSVNaNzgtNVpPYUF2WFh2djQ3QUpFTFc3UmlISXUyWGZCYklGVGZjMUV1enc4MEF0MmVv?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-09-17T11:32:34+00:00",
+      "summary": "米AnthropicがClaudeのチャットとCoworkを統合、スライドを生成できる機能も ビジネス+IT",
+      "id": "6e121d24d7d4a458",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "あいみょん、原菜乃華×堤真一が親子を演じるドラマ『もうパパ！』主題歌を担当",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Vd19BUTVqakJXeGdhNjk1M3hEQ3NvcGdibHlwdDlEcXI4ZFpPNE5uWkpqMXBZejRITmdWZjRxc2p3WGlvY3NoZnFuVEl1VmhENVA0dllhT1JyQ3pLWnd1RFZn?oc=5",
+      "source": "Billboard JAPAN",
+      "published": "2026-09-17T11:20:00+00:00",
+      "summary": "あいみょん、原菜乃華×堤真一が親子を演じるドラマ『もうパパ！』主題歌を担当 Billboard JAPAN",
+      "id": "a1b9049af34bc71f",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "交通不便地域にタクシー会社が営業所を開業 鎌倉市（tvkニュース（テレビ神奈川））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwdDN6YUtfMkR1Qm8tVTZhbGRVNXg1Q0NuenRzNTBPZFhhZzJwTWE4Rm90Qi1hR0VYWVhpOVFONHhaa2VSdlI0OW9LdFFyMXlvR1BkQlFuN1NRTkNFblBxSWd1Q25YRUtkSkN0Z2JmcDdzOUJKNWY5UHV6MzZ0dTA?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-09-17T09:44:35+00:00",
+      "summary": "交通不便地域にタクシー会社が営業所を開業 鎌倉市（tvkニュース（テレビ神奈川）） Yahoo!ニュース",
+      "id": "e3b80343b7e70ce9",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AI新機能を追加した写真編集ソフト「PhotoDirector 2027」",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43dnNSNWxEa1RoQ1NoazFYUXRkcWY2VXRheTk4NVZaX190OEEyT3dfQk94S3R1eHpxclZIbUJnejFUYkNpMHBaWTk4ZXhodDJXbm40QVpVcWxoZ2lJXzhJdDRwMA?oc=5",
+      "source": "デジカメ Watch",
+      "published": "2026-09-17T09:34:18+00:00",
+      "summary": "AI新機能を追加した写真編集ソフト「PhotoDirector 2027」 デジカメ Watch",
+      "id": "ca794c12f37ba377",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「調べて→まとめて→スライドにして」が1つのチャットに？ Claudeが大型アップデート",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kM2ZGLVRrb0tqWWJ5emRiQ2RVNGVWNVF3dUE0d2pBMjY5eHM1cUF0Y2NiWU5fUUM3OXZ0c1NWVTdaZzMwMzFIdUNpbw?oc=5",
+      "source": "DXマガジン",
+      "published": "2026-09-17T09:17:43+00:00",
+      "summary": "「調べて→まとめて→スライドにして」が1つのチャットに？ Claudeが大型アップデート DXマガジン",
+      "id": "04508557ed95c150",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GPT Image 2.5をHitPaw Edimakorに搭載｜AI画像生成から動画制作まで、より自由なクリエイティブを実現",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSSFVuenFTZUExVXN0THBkQU9BVGpHQ0psSWhXTXAwTktKYWN1RmJjWG5GNjhjT3JYN1R4VTJfUTVuWXJIRFhib1JlR0t6Sk8xWHRScUQzZnJwWXM0R2Q4XzRZVVNWUmN1X1E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-17T08:49:11+00:00",
+      "summary": "GPT Image 2.5をHitPaw Edimakorに搭載｜AI画像生成から動画制作まで、より自由なクリエイティブを実現 PR TIMES",
+      "id": "0b7a6dcca23b07b0",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ClaudeのCoworkとチャットがひとつに統合された。迷わなくて済む……けどちょっと寂しい",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBFTnlyTlFONXpmUHR4SDh5VGUzY0pnN1pONUJya3JQZ3hXUnZXd1pGRGo1WUpMNVdLdlF6ZUZB?oc=5",
+      "source": "ゴリミー",
+      "published": "2026-09-17T08:23:57+00:00",
+      "summary": "ClaudeのCoworkとチャットがひとつに統合された。迷わなくて済む……けどちょっと寂しい ゴリミー",
+      "id": "356ec8a1fa861033",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "Chevon、横浜アリーナ単独公演でWOWOW・Leminoでの5ヶ月連続特集、新曲「クライネ」リリース、2027年アリーナ含む全国ツアー開催を発表",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrcG5XWnRlQkxYWXV0NTVGOGVRLV8wR0o1dTJRMHVFZGhQLVNUU1ZHd0FxLVlYU3FlSnJIZXREeVlCZ1VtbDN2dHlMcUpxbHBpaGc?oc=5",
@@ -93,10 +177,22 @@
     {
       "title": "Anthropicが全社でClaude活用 IPO前に開発速度調整模索 - CHOSUNBIZ",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GS09sNm84VUNuaDRlYTR0aXlUbVFGbXpydXRXVEp3eUJ5RVBSWTlYNWZoVVh0Z0owbC1SUGpGWU1WZms4QkFPS01PQWNsc1FDZXEtaElacERfWHVZQ3VfaTdHLWRKRng1UWM0WDEySVpvQW5kWWp4NjNn0gGOAUFVX3lxTE5ReklRMnVGZzBpeWNUUWlZU1B5TGJIQWthaXJCQmhHWVpMUmdvM01ZM3hZWFplLVpzOGdtYkZveDgxSVkzNjJmdWktdG9UQnROWW0yWVh5NlhvRi0wV3FoS1RMVC1nNk10V0hSVGtyc0wxVXJWQk5zNzV1em1EcUVMTU94dTJmNGw4cWZuVEE?oc=5",
-      "source": "biz.chosun.com",
+      "source": "Chosunbiz",
       "published": "2026-09-17T06:46:00+00:00",
-      "summary": "Anthropicが全社でClaude活用 IPO前に開発速度調整模索 - CHOSUNBIZ biz.chosun.com",
+      "summary": "Anthropicが全社でClaude活用 IPO前に開発速度調整模索 - CHOSUNBIZ Chosunbiz",
       "id": "b76f11a280b58cab",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「Claude Cowork」と「チャット」を統合、Claudeとして利用可能に 「Claude Docs」「Claude Slides」を新導入",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aYWVVZ3pZSFVUQkY3ZmVrSmREZFZIZVhldHlPR1NXb3pJRnRmM2tjVXlEWVc5c2twdHFQZ1VRQ0NwTzFJanNkMzc5NnhkQ21VVVRsSFVqeXNBZDlvMzNsRE5vaw?oc=5",
+      "source": "株式会社インプレス",
+      "published": "2026-09-17T06:45:28+00:00",
+      "summary": "「Claude Cowork」と「チャット」を統合、Claudeとして利用可能に 「Claude Docs」「Claude Slides」を新導入 株式会社インプレス",
+      "id": "0a6956b5fe7cdf41",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -109,18 +205,6 @@
       "published": "2026-09-17T06:01:03+00:00",
       "summary": "「Claude」も「エージェント型コマース」へ本格参入、Anthropicが提示する「EC事業者＆消費者」向け2つのAI活用モデルとは Yahoo!ニュース",
       "id": "9869f7fae7cfb9d1",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ClaudeのCoworkとチャットがひとつに統合された。迷わなくて済む……けどちょっと寂しい",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBFTnlyTlFONXpmUHR4SDh5VGUzY0pnN1pONUJya3JQZ3hXUnZXd1pGRGo1WUpMNVdLdlF6ZUZB?oc=5",
-      "source": "ゴリミー",
-      "published": "2026-09-17T05:26:13+00:00",
-      "summary": "ClaudeのCoworkとチャットがひとつに統合された。迷わなくて済む……けどちょっと寂しい ゴリミー",
-      "id": "356ec8a1fa861033",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -141,9 +225,9 @@
     {
       "title": "弁護士ドットコムが提供する法務AIエージェント「LegalBrain」がClaudeと連携開始",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmNzkxUlhYbW4xWThyZ0VBVmp2TjU0VGZaWmEtTV95UWxkZUtLeVotOTNJZTNQOHBSdVhDc094SXpiYnRNXzJkc21LREVQbWNRMmRBRjNOc0k2Z05GTUs3LU40b2oyXzc2U3JFNVotNFVxMUhTakNWeQ?oc=5",
-      "source": "voix.jp",
+      "source": "ニュースメディアVOIX",
       "published": "2026-09-17T05:23:43+00:00",
-      "summary": "弁護士ドットコムが提供する法務AIエージェント「LegalBrain」がClaudeと連携開始 voix.jp",
+      "summary": "弁護士ドットコムが提供する法務AIエージェント「LegalBrain」がClaudeと連携開始 ニュースメディアVOIX",
       "id": "3bf0d01e7649c693",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -163,18 +247,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ドライバーズセミナーセーフティドライブコース（東京都品川区：11月8日開催）",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUpxNm8xSW5nMzJPTFZYVHVRRThwbldlRlc5QTFpZWxJRUpuLWl5SWdfWGlKQmplc1hGT1pOT3Z6S0FyMkc1Z0pQcVhHNWZKNUR2RXB4YjFqMzVuS3NtUkphaFg4WDBuR19JYnc1Q1JISjJxYmhUbllWTGF2TXVjdmVNbkRwNS1SaUtB?oc=5",
-      "source": "jaf.or.jp",
-      "published": "2026-09-17T04:21:08+00:00",
-      "summary": "ドライバーズセミナーセーフティドライブコース（東京都品川区：11月8日開催） jaf.or.jp",
-      "id": "cc751c750f838053",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鎌倉紅谷、今年はキーホルダーも登場！「ミスチ クルミッ子」「Mr. CHEESECAKE クルミッ子」を発売（グルメ Watch）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3akpOdVhnZHJqdmJoZF9mRW4telB3d1NiR0ZBcVlFQk1ScjQwRU4xbk41aVRhMW44SEZod3JERkd5ck1wWnBLajdJX1FJb0Vmemx2YmZJMVlpZDdTamEyR2lDQkdYWWZKcVgyZ0dTT2RwbGtVcXB3V2djSGQ5clk?oc=5",
       "source": "Yahoo!ニュース",
@@ -187,6 +259,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "サイオニックエーアイ、OKIの「CTstage AIコンシェルジュ」に「STORM Platform」を提供、生成AI領域の開発に参画",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55SktHZ2pnbmlza2R2Yks0RkxRSk9yMG9WSEFTVWpNZ0tRejE1SVhveHRyNzVFLVpOSGo4WElEc2NWT0s3dl9IT2gwWGRITGdIZUlsN29FWjd3bExLWW9zSWF0dDlwVWZOZmc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-09-17T04:00:26+00:00",
+      "summary": "サイオニックエーアイ、OKIの「CTstage AIコンシェルジュ」に「STORM Platform」を提供、生成AI領域の開発に参画 PR TIMES",
+      "id": "5d3978084794b7c1",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Chevonにとって横浜アリーナは夢であり現実であり“通過点”、アンコールなし25曲の白熱ライブ",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PUnRFNlJTWmo4MVpOYzhzZ1BaVGlUb3pjZ19Ia3hWU3h5QWZjOUppWEl4WGRucWt6eWZjWTZfSGVJa1BIOG1DR1paLU8?oc=5",
       "source": "ナタリー",
@@ -196,42 +280,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AIO（LLMO/GEO）ツール「DolphinX AIO」がプロンプト自動作成の新機能をリリース｜AIが購買要因を分析し検索質問プロンプトを自動生成",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQYUhKVXdacG9XeVpCV0twbVNGLWdFSzJVbkJOTVg4LXJEOVRsRzNOekRYcG1iNVBjaXZCUktKZGNBdGZYWU5DT29VYWFxeC0xYkJ6SVQ2WDBUWHRnN0lkZGlGZGlNSkIxSlE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-17T03:56:33+00:00",
-      "summary": "AIO（LLMO/GEO）ツール「DolphinX AIO」がプロンプト自動作成の新機能をリリース｜AIが購買要因を分析し検索質問プロンプトを自動生成 PR TIMES",
-      "id": "8078889897ad6e4f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、チャットとCoworkを統合 Claudeが最適な作業モードを自動選択",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxONExDS3FhRDR3Snljemp4ejlKd2pReUJpeEVsNS05b1N1NUpDQ2liY05wcXJFWF9qX1NmclBkS1E2LXc1UzZxQTA0dGl0UGVBcUxDNFlFUEh2NFlzOEJUczI0c2tzTDBMSUNQWTRDclhuNHpUaTBpT255amFNcHlJbzZvakFETFY4YlF5dlBWR2ZjTGhQaGhZcjlhSTQ2c1J0SHFfUGphZzN6Q19GVG12TkJ1dmhGS3RRT1Roa1JBZlQ4NnB6WVhVa0wwMlR6LUJldGpiVXF2Vm93c0xabkhrWEl6SXBfUl9zYlR3Q3hPb2QxSlpncUtsUC0zbk1CZmZYS1UwMEdtcGtZWUE4VGF6M1NUalE5UWswLXN2UlprVFVEOEJQMVY0QUtpb2c1c0RGbHZtSVREN0tvV1E4dWhyUEFTUmFQR3VDbUM5STZieXZDYnpEb1duUmdDNGVzT2NMaUxKbXN3VjR0WXJSZkVxNXBB?oc=5",
-      "source": "Yellow.com",
-      "published": "2026-09-17T03:41:05+00:00",
-      "summary": "Anthropic、チャットとCoworkを統合 Claudeが最適な作業モードを自動選択 Yellow.com",
-      "id": "b167a899ff677694",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "コラボツール「Flow」、ChatGPT・Claudeの公式アプリに登録…「AIが業務検索から登録まで」",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTa0lISmlFTWxxZTV5MVZ4RjRsNXRYeTREeGVHd0hHLVI2RV9mTWlnTXY2aDNCNDZJeF82RlUzVVJqNlRmNl9VV0h1cS01SS15ZlBQUHdNY0JlMlJaRHBzM2dZcC1iMDNuTVRBUkVqWkZfeExz?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-09-17T03:26:00+00:00",
-      "summary": "コラボツール「Flow」、ChatGPT・Claudeの公式アプリに登録…「AIが業務検索から登録まで」 BigGo ファイナンス",
-      "id": "2c156a059443e97c",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -283,60 +331,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "スマートエイト、12時間の生成AI研修でClaude Codeの組織活用を実現",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EY0tnOE90OHpfbWxKMjJCOFUtc0pYbmZGTmpvMnA4cHByZEMzblJVd0xpaDBEbHBaNF9EUlp3OTBPUWZXQThMNGs3N1p0dEo1al8zYmhHaw?oc=5",
-      "source": "ICT教育ニュース",
-      "published": "2026-09-17T02:29:34+00:00",
-      "summary": "スマートエイト、12時間の生成AI研修でClaude Codeの組織活用を実現 ICT教育ニュース",
-      "id": "1b01427e6c88277d",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "リブランディング株式会社、東京工科大学と生成AI・AI検索領域におけるAIO対策（LLMO / GEO）の共同研究を開始（PR TIMES）",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVc05FOGdnNDhZZnJGOXd0aHZKSUY1TG1CaW56bWRRZ0cxSHpDTWR4WE1iQXBUZ2t3cnZ6NzlvdVZHRER2dDdXNXY0b1NLVlpORkhjTHNOSUpyeUxKQ1ppcjlTTS1IeEFS?oc=5",
-      "source": "毎日新聞",
-      "published": "2026-09-17T02:22:45+00:00",
-      "summary": "リブランディング株式会社、東京工科大学と生成AI・AI検索領域におけるAIO対策（LLMO / GEO）の共同研究を開始（PR TIMES） 毎日新聞",
-      "id": "69b40b9c36cbac07",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ClaudeのチャットAIとCoworkが統合される",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mWU42Q1FHb01jWUxvc01Zd1RzdDE3V0dKYlNjckhyVnZuT05QdWFpMURBNXl2MTAtLUtKRXpaN1l4NlUwZXhxU0x6ajhfcWhLNnVIZE1TLTJ1SXczU0l2SXJjTk9hNkU?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-09-17T02:17:47+00:00",
-      "summary": "ClaudeのチャットAIとCoworkが統合される GIGAZINE",
-      "id": "1921a229aecebb3a",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "米中間選挙は民主党が下院を奪還か 日本の「金利」「円安」「経済」に及ぼす影響とは（ABEMA TIMES）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wS3JrWFNaLUZOXzluYW94Q21CSGJRMEItMGxVQ3p3b0d2THZWVHkxNGN2ZlJsR2xXeFFTOFZMbFZmME15aTh5S3d4ZHRrS1U2S2d2ZlFxUElWTWhkLXc4SGpKdm8yaXd0ZWhMYVBIM2JqTWJmUTE5VVd3UDQyc1U?oc=5",
       "source": "Yahoo!ニュース",
       "published": "2026-09-17T01:18:16+00:00",
       "summary": "米中間選挙は民主党が下院を奪還か 日本の「金利」「円安」「経済」に及ぼす影響とは（ABEMA TIMES） Yahoo!ニュース",
       "id": "d8b6765151fba85d",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米中間選挙は民主党が下院を奪還か 日本の「金利」「円安」「経済」に及ぼす影響とは",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnaXBFaEc4VDVCSXJ5d3l0Qm5Meno4b0FGSWRGcTRZeXVFY0s0enhLUlhfTmc0THJqaF9LQzdpTTdZRTg3MHppYkRlR1l3ZFlFamtoTw?oc=5",
-      "source": "ABEMA TIMES",
-      "published": "2026-09-17T01:16:00+00:00",
-      "summary": "米中間選挙は民主党が下院を奪還か 日本の「金利」「円安」「経済」に及ぼす影響とは ABEMA TIMES",
-      "id": "9fc836030f600e02",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -367,6 +367,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "鎌倉 鶴岡八幡宮で伝統の「流鏑馬」",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hTDBVenRWb2VxUUZxMVFna1M4TkdOZTA4cEZBb1JjYV9uOEo3YzNTcGp6MjcxbXc5dXBoUkVxMmdGcEFINTRKTVZYSXFLWW9hRWZLSXNzTVlnemFsNFBV?oc=5",
+      "source": "NHKニュース",
+      "published": "2026-09-16T23:44:16+00:00",
+      "summary": "鎌倉 鶴岡八幡宮で伝統の「流鏑馬」 NHKニュース",
+      "id": "1f89afa0467cd07c",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "日銀の政策金利、市場予想は27年7月に2%視野",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90dFl5RnRjcE9IRDc2bGxWd0FRY0xIVk9PNk00MmVJZ2tmQ1FlRVdvb3NZeXN4TXFuVGpac0s2dlRhXzdYZzNwM0FuNDY3amxqN1ZCUm1zdWhjVl9hTkhER01rM005ZFlWSGxkYg?oc=5",
       "source": "日本経済新聞",
@@ -376,18 +388,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "鎌倉 鶴岡八幡宮で伝統の「流鏑馬」",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wbFhuLTJ5RUJueFFFMElsMjdNbFNUQTNYa29oWEVHQzA0dnVBd1pTRjE1azl4Y2VwdjNaM1c1SGJadGlkMzRYYVllblRPbkhLNXd6T21oNEUxaWZmdkM0?oc=5",
-      "source": "NHKニュース",
-      "published": "2026-09-16T22:20:00+00:00",
-      "summary": "鎌倉 鶴岡八幡宮で伝統の「流鏑馬」 NHKニュース",
-      "id": "1f89afa0467cd07c",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -415,18 +415,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "インフレ下の経済を徹底議論 景気討論会",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ybGNEWC1vbDNTTU83a0NTc3lvNVhqSWhtcWNpN0ozZmV2NU03cjFMRmJsTXlXX21uUjFTZXRxVmxpOVpCWkVPWEZ3a201SUppTnNWSWZxUjVHdw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-16T19:58:32+00:00",
-      "summary": "インフレ下の経済を徹底議論 景気討論会 日本経済新聞",
-      "id": "a7a73c03a5f3f660",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "あいみょん、吉田恵里香脚本ドラマ「もうパパ！」主題歌担当",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Oek43UVJhT1JYdFhQNFJScG45aXNCTm9NaFRiOENvTmxtTFJwem9tQ2R1OFdiUVRhd2V5bjQ1a19DMWFfN3FkNTJoY0E?oc=5",
       "source": "ナタリー",
@@ -441,9 +429,9 @@
     {
       "title": "あいみょん、新曲「さながらロンリー」が『もうパパ！』主題歌に決定 主演・原菜乃華よりコメントも到着",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40SHQwTnZMdDBEOE5GRHJQZEFlR1IyOHU2c2dhRXk2a3BwanlRMm9WLWlsQVpkblk2X1FkNWs2OTdhQ0Z6aXk4eF9RVno?oc=5",
-      "source": "クランクイン！",
+      "source": "crank-in.net",
       "published": "2026-09-16T19:30:00+00:00",
-      "summary": "あいみょん、新曲「さながらロンリー」が『もうパパ！』主題歌に決定 主演・原菜乃華よりコメントも到着 クランクイン！",
+      "summary": "あいみょん、新曲「さながらロンリー」が『もうパパ！』主題歌に決定 主演・原菜乃華よりコメントも到着 crank-in.net",
       "id": "e3b3b0005b9463bc",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -487,6 +475,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "あいみょんのセトリ定番曲10選！初心者向けライブフェス予習ガイド",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FaUY4ZG1mM09KdVpNWG9oWFF3WFd6UnZtMUItS1AyYVpldkhjdzRCVkdiZ1ltX2t3aGkyV19pYUNHMTVXLTBPcg?oc=5",
+      "source": "もとりょこblog -",
+      "published": "2026-09-16T14:12:11+00:00",
+      "summary": "あいみょんのセトリ定番曲10選！初心者向けライブフェス予習ガイド もとりょこblog -",
+      "id": "77c5345df9c85e44",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【Chevon】新曲「クライネ」のMusic Videoを公開！ | ニュース | エイベックス・ポータル",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EOUloRV9ycWhTc24wMW1hWjBrMmE4RW9ZcjN0MWkwM0NqbmNyUnFzMU14UFNGamk5bk96LU1NOHotV2xUemc?oc=5",
       "source": "エイベックス・ポータル",
@@ -525,9 +525,9 @@
     {
       "title": "SWEET LOVE SHOWER 2026が大盛況のうちに終幕! あいみょん、Creepy Nuts、レミオロメン、アジカン、Vaundyら96組が集結した3日間",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OcXRGUWFaMGxlM3F3eE03bkhuNHZaVGJ2RktjVXl3cmtaRFFkMEVpSTVXSW04UGNSdWQ4SjAwQXUxZzdBNUxrRDZZeG13WG9KQnc?oc=5",
-      "source": "mikiki.tokyo.jp",
+      "source": "Mikiki by TOWER RECORDS",
       "published": "2026-09-16T09:05:48+00:00",
-      "summary": "SWEET LOVE SHOWER 2026が大盛況のうちに終幕! あいみょん、Creepy Nuts、レミオロメン、アジカン、Vaundyら96組が集結した3日間 mikiki.tokyo.jp",
+      "summary": "SWEET LOVE SHOWER 2026が大盛況のうちに終幕! あいみょん、Creepy Nuts、レミオロメン、アジカン、Vaundyら96組が集結した3日間 Mikiki by TOWER RECORDS",
       "id": "399dd6c6377ad6f0",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -559,11 +559,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【補助金】変化の時代に対応できるスマートレジの導入支援（事前着手制度）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5odnhnRjhBUlUyZ0g2VXd5NXVBMWpRallLSktrWWVqNzltUVBEdnhDV3VVVjVyOW5UR2FBUkRBRkVqbEtjU0hva1VFU25ta3ZRNEJKMHpvMU4?oc=5",
+      "source": "mirasapo-plus.go.jp",
+      "published": "2026-09-16T08:15:29+00:00",
+      "summary": "【補助金】変化の時代に対応できるスマートレジの導入支援（事前着手制度） mirasapo-plus.go.jp",
+      "id": "f53f7374e5d2b3db",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "刀ミュ『真剣乱舞祭』45振りの刀剣男士が勢ぞろいのメインビジュアル公開！ - 演劇 - 2.5次元舞台",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NMDRKSW5zWUJEM01BUjJCbVNyZmRPYU1jNGdkakRMeGdKUGF2Y3VCX29yMG9vMlkzTzdST1dfSFByTTZ1ajJQM3VKZ1Q0RkxWU2NOYnV4aw?oc=5",
-      "source": "クランクイン！",
+      "source": "crank-in.net",
       "published": "2026-09-16T08:00:00+00:00",
-      "summary": "刀ミュ『真剣乱舞祭』45振りの刀剣男士が勢ぞろいのメインビジュアル公開！ - 演劇 - 2.5次元舞台 クランクイン！",
+      "summary": "刀ミュ『真剣乱舞祭』45振りの刀剣男士が勢ぞろいのメインビジュアル公開！ - 演劇 - 2.5次元舞台 crank-in.net",
       "id": "8eb09ff7aa75bc98",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -583,23 +595,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【神奈川県鎌倉市】2027年、養老孟司氏と巡る鎌倉虫散歩「ムシヨロズ展」開催！現在クラファン実施中",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5V3J5MDRxZ2NPMlYxYV9SZVZNYlJVRXFnY3Q1LXhoX2xrVmV6dnB0cTJNV1VRMEVxa2djbG5jT20wb055eHRuRFNIR3JtYnoybGlr?oc=5",
-      "source": "STRAIGHT PRESS",
-      "published": "2026-09-16T04:10:42+00:00",
-      "summary": "【神奈川県鎌倉市】2027年、養老孟司氏と巡る鎌倉虫散歩「ムシヨロズ展」開催！現在クラファン実施中 STRAIGHT PRESS",
-      "id": "becdf2bf6e1c76e6",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
+      "title": "【2026年10月1日から】兵庫県の最低賃金",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBySnJzcUx1Q3VSNmt6M2NVWl83dEhfU05BX3NTQks5aDFQRXljaVprenh5Z0d1SWdBZ1NVLTRtUlMxNTJFR25QclFYU3RDLW9GaThmY1NZQXU0QQ?oc=5",
+      "source": "淡路市商工会",
+      "published": "2026-09-16T05:43:02+00:00",
+      "summary": "【2026年10月1日から】兵庫県の最低賃金 淡路市商工会",
+      "id": "3a967b31c7b287b3",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "title": "米津玄師、『STRAY SHEEP』がオリコン史上初のトリプルミリオン突破【オリコンランキング】",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjV0bGxtTTdYM1RnTkdrbUUtaklHZDd6bHlfQmN1NzJVRW84aVZhc0VYZ0hDTG1tRE9hcldldjY3ZHpDQVhsUXpfSzc1SFA5T1lhZXBBdGRrMkQyc1RCVE5STTRra05KMXZ6VFJaYy1jRVZlbDNRUEZlejBQbHFmbVhMRk5XcExsZUVHbElB?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-09-16T03:55:21+00:00",
-      "summary": "米津玄師、『STRAY SHEEP』がオリコン史上初のトリプルミリオン突破【オリコンランキング】 Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUOVVjRjh1bmpoNDA3amJTY0xFdVo4R0hwdERZWF94MVJhMjFOQWkyNUJUYkhyajRxRU5YUk80OG5ZWjlITFVnbUtUQXB6VHhaSHRlWllB?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-09-16T03:55:00+00:00",
+      "summary": "米津玄師、『STRAY SHEEP』がオリコン史上初のトリプルミリオン突破【オリコンランキング】 オリコンニュース",
       "id": "8b701f2c460f2f09",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -692,10 +704,10 @@
     },
     {
       "title": "全東北合気道 流麗な技披露 二本松",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GX1RrVk1iZVNFMTQ2cDNsczdtbVhQcUd3SnhqZmo2RVo1aGpzVW80eE0xY2d0WVRZa3ZqY0xIVFdpcjRQR2ZEQVUzMG1UbGs?oc=5",
-      "source": "福島民報デジタル",
-      "published": "2026-09-15T02:00:00+00:00",
-      "summary": "全東北合気道 流麗な技披露 二本松 福島民報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44Z1YzcDkwSDRSc2JicXp6WEdDM2c3QV9VMHpkYVZKQWg1QXlZMVROSm1vc2FWX1RJT1d2Y19sN2JzSmRQcHVDR1N1QQ?oc=5",
+      "source": "47NEWS",
+      "published": "2026-09-15T02:16:02+00:00",
+      "summary": "全東北合気道 流麗な技披露 二本松 47NEWS",
       "id": "8520874c1f921e39",
       "category": "武道",
       "topic": "合気道・武道",
@@ -813,9 +825,9 @@
     {
       "title": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lZV94eGZTaUlMOTZfUHlGX0pjdW9PNm5udDI4VVVmWmV1YTNyTkx1d1Jab2hyaVQ3RGhYRnpOLURZZWFjTXpKSmdyWExtZFlYSGc?oc=5",
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "published": "2026-09-12T07:00:00+00:00",
-      "summary": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】 sanyonews.jp",
+      "summary": "米津玄師「Lemon」、史上初の「トリプル5」記録達成 CD50万、デジタル50万DL、ストリーミング5億回【オリコンランキング】 山陽新聞",
       "id": "840b14bd4cfbf68f",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -832,30 +844,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょん、NHKでメジャーデビュー10周年特番 ライブ＆貴重映像、特別トークも「初めて歌った時の映像がやばいです」",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93WlBsQ1RpazhXX1FWdnlpRHl3NmJMNmVVUmFnSWxtSFpSazVXNHdIZ1lfemwwZjVFMHNBUmItdnhDbEdSVExWU0twQmsyU2ljWmpxNU1xcHc4MFhp?oc=5",
-      "source": "sanyonews.jp",
-      "published": "2026-09-11T15:29:13+00:00",
-      "summary": "あいみょん、NHKでメジャーデビュー10周年特番 ライブ＆貴重映像、特別トークも「初めて歌った時の映像がやばいです」 sanyonews.jp",
-      "id": "0193cac5c2c92256",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "450平米超のインパクト！ あいみょん初ベストリリースで渋谷に特大ビジュアル現る（TOKYO FM＋）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nMW93aGtraTZBbURKUXExcjZRUmI5OHpwTjFlZEtvcG9qMkJ3NDhKV2E5YjlXTUNWaXJXLTVqZzVUR2Fpb3NDZ2x4c0Yxb056bmM1R01KSV9kckpZekNtQWIzRXBEUGVSZ281M1Q0SzRiR3JTZ2hfN0pQTld0MWs?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-09-11T11:50:59+00:00",
-      "summary": "450平米超のインパクト！ あいみょん初ベストリリースで渋谷に特大ビジュアル現る（TOKYO FM＋） Yahoo!ニュース",
-      "id": "f52fd167d84957f0",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -965,31 +953,7 @@
       "topic": "道場物件（鎌倉・湘南）",
       "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "神戸・三木の農園が集まる「入場無料」の『ぶどうイベント』が北区で開催。食べ比べ・マルシェなど",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CcWJQVnpEQXpBcG1yWFVBSEpfN3VBUGdmamNNUTZTQU5tLU5zVExHQXktdHdRTzZ6SzZFRkFwT0NBMHpIVFZ1MDh3UFhVYTJoS2tLSnBsR2ZjMVF5RHc?oc=5",
-      "source": "神戸ジャーナル",
-      "published": "2026-09-05T07:00:00+00:00",
-      "summary": "神戸・三木の農園が集まる「入場無料」の『ぶどうイベント』が北区で開催。食べ比べ・マルシェなど 神戸ジャーナル",
-      "id": "641613d9e4c006d6",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【藤沢市】続報！ 菖蒲沢で建設中だった建物に看板を確認！ 「Jネットレンタカー 藤沢店」が10月5日にオープンします",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RRWZjemU3OTg3Ynk5QTQxc21lQlJSUjNJdDcxQ3pYY2E3T0NaWjdkQ1FfYzVuOUl1T0Z6ZDVMamlkdjViUVRNLU1vbXYxbTVqTDhORk0yZWNTTTVVVmxaU2J1YWdYNHlXNjJOZkVGUFpaYWJUcEk1cFdQVQ?oc=5",
-      "source": "号外NET 藤沢市",
-      "published": "2026-09-04T07:00:00+00:00",
-      "summary": "【藤沢市】続報！ 菖蒲沢で建設中だった建物に看板を確認！ 「Jネットレンタカー 藤沢店」が10月5日にオープンします 号外NET 藤沢市",
-      "id": "2f92c1585be3e455",
-      "category": "不動産",
-      "topic": "道場物件（鎌倉・湘南）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 77
+  "count": 74
 }
