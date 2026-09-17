@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-17T12:29:34.898824+00:00",
+  "generated_at": "2026-09-17T14:03:20.572202+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -66,6 +66,42 @@
     }
   ],
   "items": [
+    {
+      "title": "Google Homeが自宅をChatGPTやClaudeに操作させられるように",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85cUhpYk96NnRuWUJhU3dDd2psRFJVcG9GdHQ5cEloay1aSTRpRjd0UlZ1MUlsSVhMTDNUYjdkU1VDcVFiREFSS1BHdVo1eVZ3NGRXUnJEUzA4cWxzcHFVdzd2Y2t0RFZ6ZHp3dHlLT1JkQzJpNTJ3Tw?oc=5",
+      "source": "Korben",
+      "published": "2026-09-17T13:26:03+00:00",
+      "summary": "Google Homeが自宅をChatGPTやClaudeに操作させられるように Korben",
+      "id": "f8e59e88ed781625",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIと挑むDIYの新しい形。Claude Fable 5でつくる「自分専用フィラメントトラッカー」",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ01sZy1qdGM0Q2ZWa0NidTRNUXQzV0R3dTR5SG5VTDhCemRrN19CZ2JIUWIyNlVDbjQwZnhUekZfdzZYVWVOVE5LdEttWGQ4Z0hsSGlCeGFrY0dTNWxQWGJEVDVHSThRaEp2bW0yalpNemg5WDZrOXluemlFOWgzX0ZXMF9CdUpoUUVFeUY5YmhUck0?oc=5",
+      "source": "ライフハッカー",
+      "published": "2026-09-17T12:30:00+00:00",
+      "summary": "AIと挑むDIYの新しい形。Claude Fable 5でつくる「自分専用フィラメントトラッカー」 ライフハッカー",
+      "id": "1dc5b24350ef9684",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "サム・バンクマン=フリード氏の5億ドル投資、Anthropicに影響続く",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUeW5aMDJpNkJUUWxzRmJoRGF2N25zamprLVJUOGdrazAyRUNtdnpZZlVVbEZiY0U0a21RdGlldDlDVVl1eG0wVFljOXJvUVI1RkJRRnAxSDFEVWJoTWVwMVlRNXEySkVQS3NuSmU4QjJkcWM?oc=5",
+      "source": "BeInCrypto",
+      "published": "2026-09-17T12:28:34+00:00",
+      "summary": "サム・バンクマン=フリード氏の5億ドル投資、Anthropicに影響続く BeInCrypto",
+      "id": "50db54e252b2357a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "米AnthropicがClaudeのチャットとCoworkを統合、スライドを生成できる機能も",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42UnRIb1lnV1lDVTNDZC1CSUlQaWFUTHFWSVNaNzgtNVpPYUF2WFh2djQ3QUpFTFc3UmlISXUyWGZCYklGVGZjMUV1enc4MEF0MmVv?oc=5",
@@ -139,15 +175,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ClaudeのCoworkとチャットがひとつに統合された。迷わなくて済む……けどちょっと寂しい",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBFTnlyTlFONXpmUHR4SDh5VGUzY0pnN1pONUJya3JQZ3hXUnZXd1pGRGo1WUpMNVdLdlF6ZUZB?oc=5",
-      "source": "ゴリミー",
-      "published": "2026-09-17T08:23:57+00:00",
-      "summary": "ClaudeのCoworkとチャットがひとつに統合された。迷わなくて済む……けどちょっと寂しい ゴリミー",
-      "id": "356ec8a1fa861033",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
+      "title": "英中銀、政策金利3.75%に据え置き 6会合連続",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mM3VlSHZHOWRPTmNvbVBnWnFqekRHdjNvUjk4VmZnVjBPME9kVktCV2xoalZwU2lacHZaXzVCV3JXMzBfUGNKajRZQk9BcnYwRDJHcEhya1V5MVlXNUxtMVozTi1TYnJrd0U3Sw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-09-17T08:00:00+00:00",
+      "summary": "英中銀、政策金利3.75%に据え置き 6会合連続 日本経済新聞",
+      "id": "6763a6725ea09aa5",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -223,24 +259,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "弁護士ドットコムが提供する法務AIエージェント「LegalBrain」がClaudeと連携開始",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmNzkxUlhYbW4xWThyZ0VBVmp2TjU0VGZaWmEtTV95UWxkZUtLeVotOTNJZTNQOHBSdVhDc094SXpiYnRNXzJkc21LREVQbWNRMmRBRjNOc0k2Z05GTUs3LU40b2oyXzc2U3JFNVotNFVxMUhTakNWeQ?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-09-17T05:23:43+00:00",
-      "summary": "弁護士ドットコムが提供する法務AIエージェント「LegalBrain」がClaudeと連携開始 ニュースメディアVOIX",
-      "id": "3bf0d01e7649c693",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude、Coworkとチャットを1つに統合。DocsとSlidesも直アクセス",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4ycmV0c1E5ZkU5cUVzOWZuQTNYNS1MZHN3UHY3ek1pd0tCeVlfZ3BVenAtZjJmNlFveWhQWGh1VkRybmczcF9CUVRZczBZMjc1SnUzcERZU0FXRVROR2hMNE85MA?oc=5",
-      "source": "PC Watch",
-      "published": "2026-09-17T04:47:35+00:00",
-      "summary": "Claude、Coworkとチャットを1つに統合。DocsとSlidesも直アクセス PC Watch",
-      "id": "1ff6e085a156442e",
+      "title": "法人向け「Notebook AI」、Studio機能をさらに便利に",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93cUtiaHN4aXlXN25XVDZfMGxSMkNFRmZFekszOU1iVnZkbUd5aHFmNjRvYWplemhqQ1U2YThIYjlQTXMwUUZtcEVyZ0YtU2NDNDdsbXF0ZE5XdVhl?oc=5",
+      "source": "愛媛新聞",
+      "published": "2026-09-17T05:03:15+00:00",
+      "summary": "法人向け「Notebook AI」、Studio機能をさらに便利に 愛媛新聞",
+      "id": "de1343a2a5048ae6",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -256,18 +280,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "サイオニックエーアイ、OKIの「CTstage AIコンシェルジュ」に「STORM Platform」を提供、生成AI領域の開発に参画",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55SktHZ2pnbmlza2R2Yks0RkxRSk9yMG9WSEFTVWpNZ0tRejE1SVhveHRyNzVFLVpOSGo4WElEc2NWT0s3dl9IT2gwWGRITGdIZUlsN29FWjd3bExLWW9zSWF0dDlwVWZOZmc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-17T04:00:26+00:00",
-      "summary": "サイオニックエーアイ、OKIの「CTstage AIコンシェルジュ」に「STORM Platform」を提供、生成AI領域の開発に参画 PR TIMES",
-      "id": "5d3978084794b7c1",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -429,9 +441,9 @@
     {
       "title": "あいみょん、新曲「さながらロンリー」が『もうパパ！』主題歌に決定 主演・原菜乃華よりコメントも到着",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40SHQwTnZMdDBEOE5GRHJQZEFlR1IyOHU2c2dhRXk2a3BwanlRMm9WLWlsQVpkblk2X1FkNWs2OTdhQ0Z6aXk4eF9RVno?oc=5",
-      "source": "crank-in.net",
+      "source": "クランクイン！",
       "published": "2026-09-16T19:30:00+00:00",
-      "summary": "あいみょん、新曲「さながらロンリー」が『もうパパ！』主題歌に決定 主演・原菜乃華よりコメントも到着 crank-in.net",
+      "summary": "あいみょん、新曲「さながらロンリー」が『もうパパ！』主題歌に決定 主演・原菜乃華よりコメントも到着 クランクイン！",
       "id": "e3b3b0005b9463bc",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -513,9 +525,9 @@
     {
       "title": "支援制度の周知徹底求める 10月からの石川の最低賃金引き上げ 中小企業と助成金情報の共有を",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTFOb3JCc3hnRFY4eDVFNGdaVjNXSFVYOXdYakRFRWhvOXphektELWRIOXZnT01ELUpicC1TeFpLUVVtbWE3Slp0QVJXOFhxdWo1alRwRUM0RG4ydnRKelUzWWw0TFRLbTVLb3hva1c5ZlNaS1d3amx5UjBnQWo5cTgzSjk4cUE?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "published": "2026-09-16T10:00:00+00:00",
-      "summary": "支援制度の周知徹底求める 10月からの石川の最低賃金引き上げ 中小企業と助成金情報の共有を 日テレNEWS NNN",
+      "summary": "支援制度の周知徹底求める 10月からの石川の最低賃金引き上げ 中小企業と助成金情報の共有を news.ntv.co.jp",
       "id": "59dc3f7dcb69560d",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -573,9 +585,9 @@
     {
       "title": "刀ミュ『真剣乱舞祭』45振りの刀剣男士が勢ぞろいのメインビジュアル公開！ - 演劇 - 2.5次元舞台",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NMDRKSW5zWUJEM01BUjJCbVNyZmRPYU1jNGdkakRMeGdKUGF2Y3VCX29yMG9vMlkzTzdST1dfSFByTTZ1ajJQM3VKZ1Q0RkxWU2NOYnV4aw?oc=5",
-      "source": "crank-in.net",
+      "source": "クランクイン！",
       "published": "2026-09-16T08:00:00+00:00",
-      "summary": "刀ミュ『真剣乱舞祭』45振りの刀剣男士が勢ぞろいのメインビジュアル公開！ - 演劇 - 2.5次元舞台 crank-in.net",
+      "summary": "刀ミュ『真剣乱舞祭』45振りの刀剣男士が勢ぞろいのメインビジュアル公開！ - 演劇 - 2.5次元舞台 クランクイン！",
       "id": "8eb09ff7aa75bc98",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -595,15 +607,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【2026年10月1日から】兵庫県の最低賃金",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBySnJzcUx1Q3VSNmt6M2NVWl83dEhfU05BX3NTQks5aDFQRXljaVprenh5Z0d1SWdBZ1NVLTRtUlMxNTJFR25QclFYU3RDLW9GaThmY1NZQXU0QQ?oc=5",
-      "source": "淡路市商工会",
-      "published": "2026-09-16T05:43:02+00:00",
-      "summary": "【2026年10月1日から】兵庫県の最低賃金 淡路市商工会",
-      "id": "3a967b31c7b287b3",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
+      "title": "【神奈川県鎌倉市】2027年、養老孟司氏と巡る鎌倉虫散歩「ムシヨロズ展」開催！現在クラファン実施中",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5V3J5MDRxZ2NPMlYxYV9SZVZNYlJVRXFnY3Q1LXhoX2xrVmV6dnB0cTJNV1VRMEVxa2djbG5jT20wb055eHRuRFNIR3JtYnoybGlr?oc=5",
+      "source": "STRAIGHT PRESS",
+      "published": "2026-09-16T04:10:42+00:00",
+      "summary": "【神奈川県鎌倉市】2027年、養老孟司氏と巡る鎌倉虫散歩「ムシヨロズ展」開催！現在クラファン実施中 STRAIGHT PRESS",
+      "id": "becdf2bf6e1c76e6",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -669,9 +681,9 @@
     {
       "title": "あいみょん、反響を呼んだ10周年記念NHK特番『NHK ONE LIVE』完全版が地上波にて放送決定",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UalpGR3JvUXRFQk9xZXNPQjdDLTJqM0lDMzdtZEtmVkk3WndQVUZoQnFYNXFwdXFQb2pOY1VGLUctOFFKUjhYMzFPeHJRRFZ4enN3T2g0NHI?oc=5",
-      "source": "THE FIRST TIMES",
+      "source": "thefirsttimes.jp",
       "published": "2026-09-15T12:22:10+00:00",
-      "summary": "あいみょん、反響を呼んだ10周年記念NHK特番『NHK ONE LIVE』完全版が地上波にて放送決定 THE FIRST TIMES",
+      "summary": "あいみょん、反響を呼んだ10周年記念NHK特番『NHK ONE LIVE』完全版が地上波にて放送決定 thefirsttimes.jp",
       "id": "deabe1886d484ffa",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -736,18 +748,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "更に「開かれた議会」へ　日向慎吾議長インタビュー〈鎌倉市〉",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wdTk5MkNpY2NiSGQtOEw0ejVXZklPU0dNeEFrLWU5bWlpcXVBSHFuTThvQUNfSDZ2ZFV2LUQyVDAyemVzSkxzaG5oUjVjOENQODlzMnNmZnU5d0pWZF9PSFNUR01NeXkwWEswV280eGhwVVpGeFZUSWF2MNIBgAFBVV95cUxPUG1GMTl5NG8zQTR3cmxkMUZ0OUo3U1V6MXRTWUxBTVNfZExxQXVub2pFQ0pMc20tVWZvdGcyclA0dzNSUUFxaFliV1NoeVExNXp2MFI0emlKbXVqMHZZdWlPcl94QzBwTktZMWdLak9DZl9OblNNdk1sa216cWs4MQ?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-09-14T06:00:00+00:00",
-      "summary": "更に「開かれた議会」へ 日向慎吾議長インタビュー〈鎌倉市〉 ｄメニューニュース",
-      "id": "bd5eb7e95ff23a2c",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -945,9 +945,9 @@
     {
       "title": "「ブルーボトルコーヒー」や「Boundless Life」日本初拠点など、多彩なテナントが集う「フィル・パーク鎌倉」が、新たなまちの賑わいを創出",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40WmRsY1ZHNDhnanBDZnRwbFAwbHdEZGJqTTlWaW1xLVd0cklXc1F4akh6VXQ3Y2JvZ0doZzVKcUI4Y3l0alc1aEJaUXBQUjFKQkJFMGppdw?oc=5",
-      "source": "CLASSY.[クラッシィ]",
+      "source": "classy-online.jp",
       "published": "2026-09-06T10:32:33+00:00",
-      "summary": "「ブルーボトルコーヒー」や「Boundless Life」日本初拠点など、多彩なテナントが集う「フィル・パーク鎌倉」が、新たなまちの賑わいを創出 CLASSY.[クラッシィ]",
+      "summary": "「ブルーボトルコーヒー」や「Boundless Life」日本初拠点など、多彩なテナントが集う「フィル・パーク鎌倉」が、新たなまちの賑わいを創出 classy-online.jp",
       "id": "282f4f6716386f3d",
       "category": "不動産",
       "topic": "道場物件（鎌倉・湘南）",
