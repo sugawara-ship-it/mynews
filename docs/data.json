@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-25T22:36:33.411945+00:00",
+  "generated_at": "2026-09-25T23:53:18.339347+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 1
+      "count": 0
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -237,9 +237,9 @@
     {
       "title": "ダナン市が国境警備隊第2管区の武道大会で優勝した。",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcVJuSDdwalp1U29QNDJuQTVIaFhWVUNkeDVheEd2NE54TnVUVjQzcno3bXZrZjFYNDE1cHREWk81VTNVVDk1Tl95V1MzNEZ1dGVYXy12bEVyT1BRT1hLaG9HVjJyNjh0VzhNLW9ybVZ6Yl9hUFNhLVlQT1ZNR1NoM0RjS2locHhsaFBtemZKU0pNVnRGNGJwQ0ZR?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-09-25T12:42:01+00:00",
-      "summary": "ダナン市が国境警備隊第2管区の武道大会で優勝した。 vietnam.vn",
+      "summary": "ダナン市が国境警備隊第2管区の武道大会で優勝した。 Vietnam.vn",
       "id": "39a90ad1f3fea4e1",
       "category": "武道",
       "topic": "合気道・武道",
@@ -249,9 +249,9 @@
     {
       "title": "3Dプリンターの始め方ガイド、機種選びからClaude CodeとCodexのスキルまで",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IR1lPNTdZUGljRFVRbVJncFVkWWJpRW5KSzl5R3dMbjFIWHRjRG9fNEZOVEM1Mmw1Ukc5MVl4YUNmUHJYSTF0ZWRDNFhIVU5vY3E0YklGZDJ5a2NLejJGRm8xaE55aDAwVzJxd094X0ZXLXV6ODYyZWZFbw?oc=5",
-      "source": "pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri",
       "published": "2026-09-25T11:19:26+00:00",
-      "summary": "3Dプリンターの始め方ガイド、機種選びからClaude CodeとCodexのスキルまで pasqualepillitteri.it",
+      "summary": "3Dプリンターの始め方ガイド、機種選びからClaude CodeとCodexのスキルまで Pasquale Pillitteri",
       "id": "9bf2b8c046a37f70",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -289,6 +289,18 @@
       "published": "2026-09-25T09:10:21+00:00",
       "summary": "個人マネー「貯蓄から国債」に 国内銀行株、薄れる金利高の恩恵 日本経済新聞",
       "id": "d71994661b65da1d",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米長期金利「5%台」が新常態 景気拡大・トランプ氏ばらまき懸念で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5scDdBM0NnVXFyeEx0RndPYW9vdmdoVERHenBCZ3NWZ0FkWkJMSFZrbEJrM1kwb1cwbm1abkxkUW9oYmNobUJqcnNsYjA0LXZFcWdSeXRRSlVfaGYwNU40ZVFuMjdlUzh6MF9VVA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-09-25T09:00:00+00:00",
+      "summary": "米長期金利「5%台」が新常態 景気拡大・トランプ氏ばらまき懸念で 日本経済新聞",
+      "id": "a316e0ec7af87af4",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -415,6 +427,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "楽天グループの株価が年初来安値 金利上昇で財務負担懸念",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54RHFHZi1mTkJqM3BHd19EWENEaEJQU2thLUVPVXBZNDJpa1FfaHJueHhXM3F6cTZ3c29aeVVpb1hwZkV0THd4Wk43QU1MeHFrZTBtT2Y3c3N1YjlYRWtXdkFWM1NBLXpEOVMxTA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-09-25T02:07:39+00:00",
+      "summary": "楽天グループの株価が年初来安値 金利上昇で財務負担懸念 日本経済新聞",
+      "id": "4eb5f450cdda4dd9",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「ゼルダの伝説 40周年コンサート」チケットにはマスターシート(特典グッズ付き)を用意！ オフィシャル最速先行開始＆出演者情報発表",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fallEbDRVblJWVmFvNWltSmdoZlBjRWJSRTFvUHhGaW90MnRIVVNqYkxKejdDLWw3RXVyMU03SVVsR2VsUmFxR0Z0X0t2b01zTXVVRlJoVEkzdFlmdklMWmxIdzJwdGxVNHV3YQ?oc=5",
       "source": "Excite エキサイト",
@@ -505,30 +529,6 @@
       "published": "2026-09-24T17:45:34+00:00",
       "summary": "MILIZE、「AI-CFO」第一弾サービス「AI補助金・助成金申請支援」の検証をTAMA協会と開始 ニコニコニュース",
       "id": "eaebc09ec7d176ee",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「金利ある世界」に眠る家計資産",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SNGtxbTVKSmNieDk0aUJVeVVJbXhjV3BxZVpUT2ZEQzdEZEo4YXk2alhBc2dBd1NOdjdtMkJYdjZzVWdLeTJsUHIxSklfcURxc1BMM2lJQzhTZV9NT1RUeXZxZkpKdXJXR0tVdg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-24T17:00:00+00:00",
-      "summary": "「金利ある世界」に眠る家計資産 日本経済新聞",
-      "id": "76f8f337e2ff431b",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "円安止まらず一時159円台 ドル全面高、政府・日銀の介入に限界論",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yRng1LTV4VDRIYnBpS2tZUXYyUHNpWkFwcmdZLWhTc2czNW9SUW1mN0xBYkhOZHJFODNObUZUTXlueVloejEwOG5nRmhfTDdKLW9lWmhSX2prODNvaFhDa3o2WGwwTFhCaDVsaA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-24T15:43:32+00:00",
-      "summary": "円安止まらず一時159円台 ドル全面高、政府・日銀の介入に限界論 日本経済新聞",
-      "id": "150aee5ef222e276",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -789,9 +789,9 @@
     {
       "title": "女性警察官がアジア競技大会の武道競技で金メダルを2つ獲得。",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCUGxYWHhyQXVzTXA5YWxZeGU0Qm9SdnhvR2dMcUZNUlJqaEo3c3RsOEdDckh1Y0dKa1dSMmxFZ2I3OThUQ1h6dlJKYzM3Sk9iOUg5dUZGa0hXQmdMYTB3R0JQdlpnbGwzOGJiaU4waWVDTlF4?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-09-22T18:12:04+00:00",
-      "summary": "女性警察官がアジア競技大会の武道競技で金メダルを2つ獲得。 vietnam.vn",
+      "summary": "女性警察官がアジア競技大会の武道競技で金メダルを2つ獲得。 Vietnam.vn",
       "id": "2a7083f791c6524b",
       "category": "武道",
       "topic": "合気道・武道",
@@ -813,9 +813,9 @@
     {
       "title": "藤井 風、あいみょん、ゆず……“アーティストの原点”に近づく、大規模会場での弾き語りライブ",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iMDZ6TzlFbTA4QnJxUTF1SlNhRlIySjVMUjJJME1vQlIzdkhEX2tnelNCeGwzVmkxeTZyTW1WcUw3VzhEdW55ZVZwWGlIMkprVTlhWmVjSjVYUdIBX0FVX3lxTE9rNGQ2RG9rWERHc0tFMVVzQlRtZDc3U3RKMzcxQkJ4UjZxWHptYUo3bnIwWVpsckxPRUdMR29POUROU2l4cVo1dVlyc3VQRWFGX2NfSWh1YS1LNVdVRHRn?oc=5",
-      "source": "リアルサウンド",
+      "source": "Real Sound",
       "published": "2026-09-21T20:50:18+00:00",
-      "summary": "藤井 風、あいみょん、ゆず……“アーティストの原点”に近づく、大規模会場での弾き語りライブ リアルサウンド",
+      "summary": "藤井 風、あいみょん、ゆず……“アーティストの原点”に近づく、大規模会場での弾き語りライブ Real Sound",
       "id": "481288fdad1405fe",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -933,9 +933,9 @@
     {
       "title": "国境警備隊の将校と兵士230人が武道競技で競い合う。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTmpRdWVDOGtINEoyaUlzOGNfVlVpSGxKMGFmMmJxWEt1cmNuNWt3WXN3Q2N6OHhXT0RjRzRCdkN2ZjJCTlY0LTN3dTZqOWxFa0Y0aVNRRnYyRlAxUjFjQjBmOHZKNGRZUnk5dWtCWHRNLXdfNzFJalVlSXRiaVpNeXVMQzZ1cWZFRWc?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "published": "2026-09-21T03:53:17+00:00",
-      "summary": "国境警備隊の将校と兵士230人が武道競技で競い合う。 vietnam.vn",
+      "summary": "国境警備隊の将校と兵士230人が武道競技で競い合う。 Vietnam.vn",
       "id": "5e16a5c407859706",
       "category": "武道",
       "topic": "合気道・武道",
@@ -1005,9 +1005,9 @@
     {
       "title": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026(東京都)の情報",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcWZQOHcxWkRDZFRJY1BzU2VTOFJDVmNtWG11TlM0U0U4RTR3Wk9fU0tJQUI2djE1eWM4ZjI2M1BhakFEWUY1TDg2VFhqRjl0aGdyTy1MQnF2WEU?oc=5",
-      "source": "ウォーカープラス",
+      "source": "walkerplus.com",
       "published": "2026-09-19T09:47:00+00:00",
-      "summary": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026(東京都)の情報 ウォーカープラス",
+      "summary": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026(東京都)の情報 walkerplus.com",
       "id": "25b8b6a2846622d0",
       "category": "武道",
       "topic": "合気道・武道",
@@ -1017,9 +1017,9 @@
     {
       "title": "歌手の小川みすずさん、交通安全呼びかけ 秋の全国交通安全運動を前に 東京・品川区",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BXzdCeU1XeDdyYUQ2aXVRSHpqVkpNcWdaQ0ZoQWhKMTRXMEgtTUN1VzFPUHA4c00zVnAxbzEtSzJGX0s0UEFDQjhGODZfQ183Wkhrenpfc0ptSVRrdm1SdENDRnEyX1ozWkVBVC1mMGxKS2VnZGFYYWlpR2g?oc=5",
-      "source": "日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
       "published": "2026-09-19T07:05:00+00:00",
-      "summary": "歌手の小川みすずさん、交通安全呼びかけ 秋の全国交通安全運動を前に 東京・品川区 日テレNEWS NNN",
+      "summary": "歌手の小川みすずさん、交通安全呼びかけ 秋の全国交通安全運動を前に 東京・品川区 news.ntv.co.jp",
       "id": "635fe294deb079d4",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1063,18 +1063,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "カウンターワークス、情報セキュリティの国際規格「ISO/IEC 27001」認証を取得",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11MzhBc0JlOF9keGFtT1B6Z2I5eGxGeURLVnBHVzlnQkREV2gtbjVNSUo2cldfTzVXUTltbHF4MTZ1Rl9FUVhmVUxBV2VIV1Bqb294bmZjOXN2QXVKdjRzZktsYnVSbDNIUGdz?oc=5",
-      "source": "時事ドットコム",
-      "published": "2026-09-17T02:45:00+00:00",
-      "summary": "カウンターワークス、情報セキュリティの国際規格「ISO/IEC 27001」認証を取得 時事ドットコム",
-      "id": "2b00f4630aa85b46",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "韓民族合気道武術協会、「2026年下半期ソ・インソン総裁原形保存会奨学金」伝達式を開催",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQkNUaExtNE9oaWo2YjlZamxuY0J6c0FmeVVqeVQwbU1SZUUwYkNMQ0pNYkVDNFlsRE14enJxSlZnd2E4ZUhySjhtakJPakNZdENFNzE2RnFCWnRCQUJj?oc=5",
       "source": "저스트 이코노믹스",
@@ -1087,5 +1075,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 85
+  "count": 84
 }
