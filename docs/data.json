@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-25T01:00:43.820780+00:00",
+  "generated_at": "2026-09-25T02:02:04.494656+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 0
+      "count": 1
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,6 +67,30 @@
   ],
   "items": [
     {
+      "title": "株式会社Saix、経営層がClaude Code・Codexで業務自動化を組む内製化支援を開始",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96akNidUFEYS1hS1RWenVYUTFQSWxRd1FGRkVHNXQ5UC1YR1dib2N0ZEZvcTBTdk1PU2RVWDJiT2g0dU02eXNVNEhlU0JYSjhyRHBFZWQ1T1JnWmpWcTQ4Y2FDTXFmakp1aDQw?oc=5",
+      "source": "時事ドットコム",
+      "published": "2026-09-25T01:16:00+00:00",
+      "summary": "株式会社Saix、経営層がClaude Code・Codexで業務自動化を組む内製化支援を開始 時事ドットコム",
+      "id": "b973bb0079058701",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude超入門『世界一やさしいClaude』を3名様にプレゼント（Web担当者Forum）",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPV2szWDYzemZ3Rm82bXZNZXFFd1NFYnpoVVQxcEllMHJ2eDFBcFpzSXdOd1o4ZFhDVmNVNUYwOWNkUWJwV2NWU0diYmdqdFhxdktqUXpBOGtqRFh5Yy1nanktWVIzLWxwSkhxZVNuUld0RW9LVUw4aGhTVTF1X1ctNXVFVkxHWGY4S1diaV9WaDlWSEpkTU5yMUZlT3A3NV9PSW84bXRtZ2ZONWY2c1VmR3o4ZTBCanNHWlJjdFdVcWFjcTJ2dXpfeEtMeXltRWJ6TGhHY2tMY1RMLUhTOXVfVTJ5Sy1WNUVVU2lCQlhLWDFFU09DUHIxWXZRcVFNSkFq?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-09-25T01:00:00+00:00",
+      "summary": "Claude超入門『世界一やさしいClaude』を3名様にプレゼント（Web担当者Forum） ｄメニューニュース",
+      "id": "8f7b5bd5e16ac102",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "中国がDeepSeek・Kimiのを調査か-AI蒸留によるClaudeへの情報漏洩が原因か|セキュリティニュースのセキュリティ対策Lab",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb0dKZVVSekJlZXB2VWFVckY0b0JMaWJ5ZUlWYVNFYjRTN3B2cEhSODZFS1dNdTZzVEFqa3VYNjBxZXFFR0tXZmY5MXFMQjgta2k4aElvbmp6QkpyN1NIZUVfY2QxRlNuSms2NDNiUlZySFdiNjk2V3BlLTg5OWI2YklRX2F6NWl3eGduWg?oc=5",
       "source": "合同会社ロケットボーイズ",
@@ -79,12 +103,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "株式会社Saix、経営層がClaude Code・Codexで業務自動化を組む内製化支援を開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83ZmtuNGZURHJ0N2hpbDZ5VldJWktOSFpfT1BsUTcxNFFLdEQxYmhrUmQ2WXFZRkFEdFVpMnk5R1JVTW94WTYzRnFiNkl0eGw1YjJuTHVrMUZhNldLd1RsS0pSQjc2NTR4NkE?oc=5",
+      "title": "エクサウィザーズグループ、生成AI活用の”活用停滞”を解消する「AX推進支援パッケージ」を提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YRDdoMFpYLUtWd3lub1ptYjlQM0RMNjB6aGtHSDExN0VGS3VrM3hmR3VSZGF0a0xNVHRHWEl5R2J4U1VOSThFQklSUzROSTNCT0t4eDlyZ0dQR3FNU1FpclFfWDFleTRsS3c?oc=5",
       "source": "PR TIMES",
-      "published": "2026-09-24T23:30:01+00:00",
-      "summary": "株式会社Saix、経営層がClaude Code・Codexで業務自動化を組む内製化支援を開始 PR TIMES",
-      "id": "b973bb0079058701",
+      "published": "2026-09-24T23:30:08+00:00",
+      "summary": "エクサウィザーズグループ、生成AI活用の”活用停滞”を解消する「AX推進支援パッケージ」を提供開始 PR TIMES",
+      "id": "f2364969db8a78a0",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -199,18 +223,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ホワイトハウス内部文書、巨額IPO控える米AnthropicのアモデイCEOを「AI終末論パイプライン」の主導者と位置付け",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EZ2RUcnFkSjlVSzZhRDJmSEJIV0dkSENSSGZnZ0hweml2aG1sMHM3YnpXOWFER0dRRm5fLXBHelJqWWtEZ0Ztb01ONnZIYUVaWEp0T1VETGhCdVB4c0h4VHFsbDd5RWZzU3BhQ2hFMFkzZGVw?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-09-24T18:17:00+00:00",
-      "summary": "ホワイトハウス内部文書、巨額IPO控える米AnthropicのアモデイCEOを「AI終末論パイプライン」の主導者と位置付け BigGo ファイナンス",
-      "id": "ed804aac897b5a78",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "MILIZE、「AI-CFO」第一弾サービス「AI補助金・助成金申請支援」の検証をTAMA協会と開始",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzTTRrY1B2bGduQ0kwWmlpQUZSZHlFbzFhZlAxMjNCSi1CVXdmNTBnOEJIc2hqNllWVXA2R2dOaVNRUTNQeDVJR2Rqa2RSb3VfNHVCZmdZRFEzakppdjA3Wm5MTkZRa09rWU9BbXl0UUZ5Q2U3OVpVZlB5RQ?oc=5",
       "source": "ニコニコニュース",
@@ -232,18 +244,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、Claude Opus 5.5 の価格設定を長時間のコーディングセッションに結び付ける",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkVwdlBvYTdDeFVSMzVyaVVoSE84UHVSYjU5ZTJoY3Z1U01kR1U0SF9sM2RtZ1RGQmV4R0o5UnRXLXBZVHBmRTRZUWNyajNSUmhHdUJYd1pWaVZ4NHBURVVSN05sSEhRbDNuZzBuSDBBby1SUUtCZXVhbFllaGFCTk41cFYwdG5tWVItZ1NaQ3gyVmc?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-09-24T16:57:36+00:00",
-      "summary": "Anthropic、Claude Opus 5.5 の価格設定を長時間のコーディングセッションに結び付ける Unite.AI",
-      "id": "1ba53140fff862a6",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -367,24 +367,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ぶらり ご近所商店街 Ｖｏｌ．15 歴史風情漂う、新旧融合の商店会 大蔵頼朝商店会 松永 匠一さん",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtdXdDcWg4cjVSOW00akxIdmxzQWxqOGlGSVEzcmVPT2pTNEZFc25fY0NtZWh2N1hCODdKeXBzVHhrQTc4ZHF2SzRsaGQ5Y2dlWXE3VUFKZEpoZDI5UUJkY25SblI?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-09-24T15:00:00+00:00",
-      "summary": "ぶらり ご近所商店街 Ｖｏｌ．15 歴史風情漂う、新旧融合の商店会 大蔵頼朝商店会 松永 匠一さん タウンニュース",
-      "id": "95778c74e47f1468",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "〈藤沢市〉八部公園しおかぜ号 半世紀の思い乗せ 来月、ＳＬまつりで周年記念",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoMk53V3dzNjh0RjN6SFM4VG9xb2Z2eGlwUTFqSjF5LXdRbGU3TFNWblpMVUp3R25fOC1qUS15c1NmYlFCaWItSnMzYlA3REhlbnRtUlhzQ0tCb2tNbklvVENieEc?oc=5",
       "source": "タウンニュース",
       "published": "2026-09-24T15:00:00+00:00",
       "summary": "〈藤沢市〉八部公園しおかぜ号 半世紀の思い乗せ 来月、ＳＬまつりで周年記念 タウンニュース",
       "id": "ddfbca543db66127",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ぶらり ご近所商店街 Ｖｏｌ．15 歴史風情漂う、新旧融合の商店会 大蔵頼朝商店会 松永 匠一さん",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtdXdDcWg4cjVSOW00akxIdmxzQWxqOGlGSVEzcmVPT2pTNEZFc25fY0NtZWh2N1hCODdKeXBzVHhrQTc4ZHF2SzRsaGQ5Y2dlWXE3VUFKZEpoZDI5UUJkY25SblI?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-09-24T15:00:00+00:00",
+      "summary": "ぶらり ご近所商店街 Ｖｏｌ．15 歴史風情漂う、新旧融合の商店会 大蔵頼朝商店会 松永 匠一さん タウンニュース",
+      "id": "95778c74e47f1468",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -460,18 +460,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "CUTIE STREET、7都市13公演を巡る初アリーナツアーが横浜アリーナで開幕！［ライブレポート］",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDNllHOWhJUVhBNWNhTnRxQk0tYi00cVg3Rmt0UWFvVmlRUjJ3akdYYTVIeVY1aDkzZkcxTFFFS18wMGFDN1Q3b053?oc=5",
-      "source": "popnroll.tv",
-      "published": "2026-09-24T02:31:49+00:00",
-      "summary": "CUTIE STREET、7都市13公演を巡る初アリーナツアーが横浜アリーナで開幕！［ライブレポート］ popnroll.tv",
-      "id": "b573304041b6222a",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -691,27 +679,27 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "Lienel、ONE OR EIGHTら新たに参戦！ バズリズム LIVE 2026全出演者が明らかに",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uQlh3WVVRLVFMNkpyeVRlSTdXdExnOFhGbUhzX0p4ckRNZzhBZ29oWWFwXzlsWklqNFFBMlZydzlYSjhDX3p2MWNrSmh2RWZfMHhxeGNJbUxseFpIbHFRZ2FRbFpKRm5IMllEeWZ5NE9FU1U?oc=5",
+      "source": "推し楽",
+      "published": "2026-09-23T04:42:09+00:00",
+      "summary": "Lienel、ONE OR EIGHTら新たに参戦！ バズリズム LIVE 2026全出演者が明らかに 推し楽",
+      "id": "8fc75ae635c29e2e",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "米津玄師 MV、ライブ映像、パフォーマンス 24時間ノンストップで届けるYouTubeの新体験 「Kenshi Yonezu Station」期間限定オープンは本日9月23日（水祝）23:59まで",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1MzZVlqXzd5N1p5SFlQcnVjamJPWmpObXVKaXl0bUY4ZjRGa1cyUzBzS1B2X3JPdHZWaXYyN09yVE1WcEFBdzRQcUItcmNadnIwUUxsUnpzbVV0NmFSTWE0QzhadktxT1hwcm1QdkFJU1h5aXB3b3g1REo3Slh0cklaRElDb3VkbVE?oc=5",
-      "source": "e.usen.com",
+      "source": "USENの音楽情報サイト",
       "published": "2026-09-23T00:29:59+00:00",
-      "summary": "米津玄師 MV、ライブ映像、パフォーマンス 24時間ノンストップで届けるYouTubeの新体験 「Kenshi Yonezu Station」期間限定オープンは本日9月23日（水祝）23:59まで e.usen.com",
+      "summary": "米津玄師 MV、ライブ映像、パフォーマンス 24時間ノンストップで届けるYouTubeの新体験 「Kenshi Yonezu Station」期間限定オープンは本日9月23日（水祝）23:59まで USENの音楽情報サイト",
       "id": "6788501622bb6322",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ソフトバンクGジャンク債に発行額2倍の需要、10%の金利も 米報道",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhaFBFeUJqcnN2NGhUNkEzSjdJZlZISDhRY2pZbkFZbFNMU3lKRTdKVGgxeGtuTVc4SjR1Xzk4c2xqbmlVWEJleEhETXNXOERJNzBmMzdHemFsMGI5Zy0yZmxkSUROQ2tPcnFyaA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-22T19:55:27+00:00",
-      "summary": "ソフトバンクGジャンク債に発行額2倍の需要、10%の金利も 米報道 日本経済新聞",
-      "id": "99065f81b2b0b5b2",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -739,11 +727,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【日本経済に変化】“超低金利時代”から“金利のある時代”へ！住宅ローンの金利は固定？変動？ 専門家に聞く暮らしへの影響「改めて考える良い機会」",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15RDhpVTd1X2xXNVBUaUNJSTgtWmQxOFJKTmtUWGMtNThBS0ZvTUNQbUQ1VFRzZk9xelk0TXY0SHJteG5qMExJbWNOcWVyQQ?oc=5",
+      "source": "FNNプライムオンライン",
+      "published": "2026-09-21T21:00:00+00:00",
+      "summary": "【日本経済に変化】“超低金利時代”から“金利のある時代”へ！住宅ローンの金利は固定？変動？ 専門家に聞く暮らしへの影響「改めて考える良い機会」 FNNプライムオンライン",
+      "id": "bb8e05aa257bbb8a",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "藤井 風、あいみょん、ゆず……“アーティストの原点”に近づく、大規模会場での弾き語りライブ",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iMDZ6TzlFbTA4QnJxUTF1SlNhRlIySjVMUjJJME1vQlIzdkhEX2tnelNCeGwzVmkxeTZyTW1WcUw3VzhEdW55ZVZwWGlIMkprVTlhWmVjSjVYUdIBX0FVX3lxTE9rNGQ2RG9rWERHc0tFMVVzQlRtZDc3U3RKMzcxQkJ4UjZxWHptYUo3bnIwWVpsckxPRUdMR29POUROU2l4cVo1dVlyc3VQRWFGX2NfSWh1YS1LNVdVRHRn?oc=5",
-      "source": "realsound.jp",
+      "source": "リアルサウンド",
       "published": "2026-09-21T20:50:18+00:00",
-      "summary": "藤井 風、あいみょん、ゆず……“アーティストの原点”に近づく、大規模会場での弾き語りライブ realsound.jp",
+      "summary": "藤井 風、あいみょん、ゆず……“アーティストの原点”に近づく、大規模会場での弾き語りライブ リアルサウンド",
       "id": "481288fdad1405fe",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -757,18 +757,6 @@
       "published": "2026-09-21T20:50:01+00:00",
       "summary": "藤井 風、あいみょん、ゆず……“アーティストの原点”に近づく、大規模会場での弾き語りライブ (リアルサウンド) Yahoo!ニュース",
       "id": "562acf37e7e02644",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "SWEET LOVE SHOWER 2026が大盛況のうちに終幕! あいみょん、Creepy Nuts、レミオロメン、アジカン、Vaundyら96組が集結した3日間",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OcXRGUWFaMGxlM3F3eE03bkhuNHZaVGJ2RktjVXl3cmtaRFFkMEVpSTVXSW04UGNSdWQ4SjAwQXUxZzdBNUxrRDZZeG13WG9KQnc?oc=5",
-      "source": "Mikiki by TOWER RECORDS",
-      "published": "2026-09-21T15:56:07+00:00",
-      "summary": "SWEET LOVE SHOWER 2026が大盛況のうちに終幕! あいみょん、Creepy Nuts、レミオロメン、アジカン、Vaundyら96組が集結した3日間 Mikiki by TOWER RECORDS",
-      "id": "399dd6c6377ad6f0",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -943,6 +931,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "米津玄師2017 TOUR Fogbound全公演セットリストまとめ",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05eEJzYXFlNVd1UjhVY0R0OU9LMFNFQ0dybVYyeVNnYnJ2eDhzUkhxZTRDYXdyVThvSzEwUi1SSUZ3Z0otcm15Z2R3?oc=5",
+      "source": "もとりょこblog -",
+      "published": "2026-09-19T20:10:27+00:00",
+      "summary": "米津玄師2017 TOUR Fogbound全公演セットリストまとめ もとりょこblog -",
+      "id": "db5e76ac61592d4b",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "東京・品川区で交通安全イベント開催 一日署長の演歌歌手・小川みすずさんらが交通安全音頭を披露し会場を盛り上げる 警視庁",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5M2FKUktzSHdNaGVFRVQzUEw2LTdGS19fY2ZMbENwU2dZQ0JVNmJCOUtQLUFJNzB2VThrRUdUQjJRc2xtR29jWkNDNHNRWlZ2UUptY2VLNA?oc=5",
       "source": "TBS NEWS DIG",
@@ -968,10 +968,10 @@
     },
     {
       "title": "歌手の小川みすずさん、交通安全呼びかけ 秋の全国交通安全運動を前に 東京・品川区",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xcWNFbDFvRVU0RXlDTUhaak9fbl9iS2d6MHpCaG1uc1NmV21GSHQ3aXdTcGpzdzQ5ZUwtWlRwbkNBLURvR1pqT2xRcExfMWEtX1h0TU05b25udFhpU1h3WFhuLXdSX0xN?oc=5",
-      "source": "Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BXzdCeU1XeDdyYUQ2aXVRSHpqVkpNcWdaQ0ZoQWhKMTRXMEgtTUN1VzFPUHA4c00zVnAxbzEtSzJGX0s0UEFDQjhGODZfQ183Wkhrenpfc0ptSVRrdm1SdENDRnEyX1ozWkVBVC1mMGxKS2VnZGFYYWlpR2g?oc=5",
+      "source": "日テレNEWS NNN",
       "published": "2026-09-19T07:05:00+00:00",
-      "summary": "歌手の小川みすずさん、交通安全呼びかけ 秋の全国交通安全運動を前に 東京・品川区 Infoseek",
+      "summary": "歌手の小川みすずさん、交通安全呼びかけ 秋の全国交通安全運動を前に 東京・品川区 日テレNEWS NNN",
       "id": "635fe294deb079d4",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1051,6 +1051,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "カウンターワークス、情報セキュリティの国際規格「ISO/IEC 27001」認証を取得",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11MzhBc0JlOF9keGFtT1B6Z2I5eGxGeURLVnBHVzlnQkREV2gtbjVNSUo2cldfTzVXUTltbHF4MTZ1Rl9FUVhmVUxBV2VIV1Bqb294bmZjOXN2QXVKdjRzZktsYnVSbDNIUGdz?oc=5",
+      "source": "時事ドットコム",
+      "published": "2026-09-17T02:45:00+00:00",
+      "summary": "カウンターワークス、情報セキュリティの国際規格「ISO/IEC 27001」認証を取得 時事ドットコム",
+      "id": "2b00f4630aa85b46",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "韓民族合気道武術協会、「2026年下半期ソ・インソン総裁原形保存会奨学金」伝達式を開催",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQkNUaExtNE9oaWo2YjlZamxuY0J6c0FmeVVqeVQwbU1SZUUwYkNMQ0pNYkVDNFlsRE14enJxSlZnd2E4ZUhySjhtakJPakNZdENFNzE2RnFCWnRCQUJj?oc=5",
       "source": "저스트 이코노믹스",
@@ -1075,5 +1087,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 84
+  "count": 85
 }
