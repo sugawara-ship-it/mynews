@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-25T20:40:12.952988+00:00",
+  "generated_at": "2026-09-25T22:36:33.411945+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 0
+      "count": 1
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -67,6 +67,54 @@
   ],
   "items": [
     {
+      "title": "Akamai創業以来最大の契約、Anthropicが払う116億ドルの行き先はGPUではなくCPUだった",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pUTJzRnk0U19CaDZxS0c0YjY0dlR2U2dtc0hLQjhCcERrQVI1VDlleER2TUdPVkFpejdXZjVRY2JsUQ?oc=5",
+      "source": "shiritomo",
+      "published": "2026-09-25T22:21:31+00:00",
+      "summary": "Akamai創業以来最大の契約、Anthropicが払う116億ドルの行き先はGPUではなくCPUだった shiritomo",
+      "id": "d7d71fffdb16a8c7",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Akamai、Anthropicと116億ドル規模の計算資源供給契約",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHhMOGdJcU1sRS03bC1JOXlKRzZRUEFOYkdyYTBTdDRZNEIzQV81eFV6eDFUX3VTMWNoS0hhR1U0alM1anVqV1VqaVp4S2N3VTBPOVRBYmRrZEU3TVk0bHc4eXpkejRkTW13aUpHUlhMZklhR0YxbEM4VVFKNnRULXY0QjJqdXFwVlotcjh1alFUWE1vOEdQZjFEZ2RJdmc3dGtIU3JrWmZKVnZq?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-09-25T22:00:35+00:00",
+      "summary": "Akamai、Anthropicと116億ドル規模の計算資源供給契約 디지털투데이",
+      "id": "2ed2db74549c9f49",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Opus 5.5が作るモーショングラフィックス動画に驚きの声",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SVmVqYzN2LVdCalRiMWMwYWhSYXd0SlBOR1c1Z0Z1YmtGTkFGN3NFY0xvclc1aE04MlJjd2t4QmFjalZIemp0VElrZ0Rtbm5EaE02UGxFdw?oc=5",
+      "source": "x.com",
+      "published": "2026-09-25T21:45:51+00:00",
+      "summary": "Claude Opus 5.5が作るモーショングラフィックス動画に驚きの声 x.com",
+      "id": "16130a1c2ad87a12",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "OpenAIがコスト半減のGPT-6新モデル投入 Claude猛追とOSS包囲網で激化する価格戦：企業AIのコスト再考",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wQXVJaTZhcUtzWGlQVnc1ZmdvRFRQZDZEZ1psMW5WZy1YX0wtOEJ2RUtnR0xkelpjTDljcnpBNjNOdXN6SlNhaTBiRU9CbEFlVHltanRZYkNiRnRlZDhOM2c2bUtzZ2hRd3psNXJpQmQ?oc=5",
+      "source": "TechTargetジャパン",
+      "published": "2026-09-25T20:00:00+00:00",
+      "summary": "OpenAIがコスト半減のGPT-6新モデル投入 Claude猛追とOSS包囲網で激化する価格戦：企業AIのコスト再考 TechTargetジャパン",
+      "id": "7c2062e7c6ab8c9d",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Anthropic、Claudeプラグイン用ディレクトリ提出ポータルを開設",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMktWY0JVZHo3cVlrZlJFNzdxd1JoZ3ZiNFdLcVRGQlNCRUt1elpxUlVMQk1nSUZ5SXZ6SmxVX3B2eXNSM1FldkdZeHV4MW5tX0stQmR3THZ6VFBNblpGTUxSMXJocHpNQzR4Nm9zT1dPOENPSkpsc1BZb2tYWDlvaE8tRWxJRHNuZDlqMm9Pcnc?oc=5",
       "source": "Unite.AI",
@@ -79,12 +127,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米アカマイ、Anthropicと116億ドル・7年契約締結で株価20%急騰",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrWXg4OUs5VmFub0VUbi1hX0x5cDY1UE9kM21ZQ3NwYlhnVzB3bFZEa3VLQUZZLXNVRzRjdXZua0hxSFhmdDNKN3B2MWJibkgwY1U0ZGl0TDh5QldocGZ5ZF9NeHJ4ai1PZElzVlhGZ2VhNjN4?oc=5",
+      "title": "米控訴裁、AI企業Anthropicへの国防総省による安全保障上のブラックリスト指定を支持",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uTlkxZS03VUZxV3FSTDN6SjJWS0NSdmZ1bFJTOVJ3T0wzWFdRdF9lam9xd1BxYXhPb2tqNzlXaWd0cnk5aGFnX3ZRaUJuNUhTMXV6aGprazVOWElWSlZiUksyN3JRNmI1V1l4cmdUNmVROTZy?oc=5",
       "source": "BigGo ファイナンス",
-      "published": "2026-09-25T18:17:00+00:00",
-      "summary": "米アカマイ、Anthropicと116億ドル・7年契約締結で株価20%急騰 BigGo ファイナンス",
-      "id": "aece64d25e53093a",
+      "published": "2026-09-25T18:18:00+00:00",
+      "summary": "米控訴裁、AI企業Anthropicへの国防総省による安全保障上のブラックリスト指定を支持 BigGo ファイナンス",
+      "id": "3693f775c3d75656",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -177,9 +225,9 @@
     {
       "title": "福井県坂井市が大井競馬場「東京メガイルミ2026-2027」に出店、ウララコミュニケーションズが運営業務を支援",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDVl9jNkJTRXM2Q3NwLTVxR25UZE1sOGF3NE1VcHp1OExUZF81WU5HVERWakltcTNydkJBX2NCaG9TcUNaenVXZThDRzEyS01pM3pCUEJ2alY5ZVVVTGVaQnJsd2FXWHVzaTJ6cjl4eWo1VFR6VjNqZ2Fvbw?oc=5",
-      "source": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "published": "2026-09-25T13:00:34+00:00",
-      "summary": "福井県坂井市が大井競馬場「東京メガイルミ2026-2027」に出店、ウララコミュニケーションズが運営業務を支援 news.nicovideo.jp",
+      "summary": "福井県坂井市が大井競馬場「東京メガイルミ2026-2027」に出店、ウララコミュニケーションズが運営業務を支援 ニコニコニュース",
       "id": "19d40bc016f4dae5",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -189,9 +237,9 @@
     {
       "title": "ダナン市が国境警備隊第2管区の武道大会で優勝した。",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcVJuSDdwalp1U29QNDJuQTVIaFhWVUNkeDVheEd2NE54TnVUVjQzcno3bXZrZjFYNDE1cHREWk81VTNVVDk1Tl95V1MzNEZ1dGVYXy12bEVyT1BRT1hLaG9HVjJyNjh0VzhNLW9ybVZ6Yl9hUFNhLVlQT1ZNR1NoM0RjS2locHhsaFBtemZKU0pNVnRGNGJwQ0ZR?oc=5",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "published": "2026-09-25T12:42:01+00:00",
-      "summary": "ダナン市が国境警備隊第2管区の武道大会で優勝した。 Vietnam.vn",
+      "summary": "ダナン市が国境警備隊第2管区の武道大会で優勝した。 vietnam.vn",
       "id": "39a90ad1f3fea4e1",
       "category": "武道",
       "topic": "合気道・武道",
@@ -201,9 +249,9 @@
     {
       "title": "3Dプリンターの始め方ガイド、機種選びからClaude CodeとCodexのスキルまで",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IR1lPNTdZUGljRFVRbVJncFVkWWJpRW5KSzl5R3dMbjFIWHRjRG9fNEZOVEM1Mmw1Ukc5MVl4YUNmUHJYSTF0ZWRDNFhIVU5vY3E0YklGZDJ5a2NLejJGRm8xaE55aDAwVzJxd094X0ZXLXV6ODYyZWZFbw?oc=5",
-      "source": "Pasquale Pillitteri",
+      "source": "pasqualepillitteri.it",
       "published": "2026-09-25T11:19:26+00:00",
-      "summary": "3Dプリンターの始め方ガイド、機種選びからClaude CodeとCodexのスキルまで Pasquale Pillitteri",
+      "summary": "3Dプリンターの始め方ガイド、機種選びからClaude CodeとCodexのスキルまで pasqualepillitteri.it",
       "id": "9bf2b8c046a37f70",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -223,30 +271,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "アドビ、Gemini向けコネクタを提供開始し、Claude向けプラグインにAcrobatのツールと直接編集エディターを追加",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPV1VUN3ZWOXpiVWFwSTZOVklKX2dhTmNyZ1RmVUt0WEk1ZkZ3UHl3dGJsRTB0bm1DSDFrZmN4Wjd1MmxRR2E4b2haMkwzYXFWVHZYdXh6cFNidkItbVJpUEJhM0hkZzh0UDBiWE5wa0YyVDFrMFRlSnJrUEdISC1iWnhubHdNQXR3akNwNjhqVlVXUmFibVh5WnBYUEROS3I5eHAxUVd0WkF0LWxWVkJwTjc5NFEwbTNjMzIzWWxGQ3o1WmxwNnh2SE5NRUZuSUFHYjBkYks3Um1hWlJZd1BsZ0hDVjNIejlNaFFwcnViUGdpR1AtXzZZSnVWeVJITzRla24tRFdzdWxMZzY2LWx5dWxvQTFVQzd5WFlyYjJMdUw5N0FqaENkZnZQTTk5TmFUMWhUc2pMbi1zRUZENEYwMXpHV3NieFBUYm00?oc=5",
-      "source": "CGinterest",
-      "published": "2026-09-25T10:18:00+00:00",
-      "summary": "アドビ、Gemini向けコネクタを提供開始し、Claude向けプラグインにAcrobatのツールと直接編集エディターを追加 CGinterest",
-      "id": "069bbcb5d4fe3529",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "指輪型AIデバイス『Vocci』国内発売 会議や口述をMCP共有、ChatGPTやClaudeのコンテキスト化",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBISmlGMVJpelVPZkVpZ002dll0WXZ0OGJTZ2NMejFsOXJqWkkyTUJKakNYaUdFNWRxNlZBZEZySE1XWHBhbTM5TTk1U05QYzFDM2VzSHJ3c21hUkNmbkhkZzdXcEcxeWJtZmliaS1R?oc=5",
-      "source": "au Webポータル",
-      "published": "2026-09-25T10:04:00+00:00",
-      "summary": "指輪型AIデバイス『Vocci』国内発売 会議や口述をMCP共有、ChatGPTやClaudeのコンテキスト化 au Webポータル",
-      "id": "c029024130f800bd",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ドライバーズセミナー車両感覚向上編（東京都品川区：11月7日開催）",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzRWelFzNWI0Vk5YUFB3TWNrc3N4d2NJdVhuNldJblgwZUhxUExwQ3gzNktnZVhwRUlPa1d2UUhYSFZGdGl5X2w5SUxRS2ZPQTdsbE1aZTNHa1I0Yk5XUHJuVFVuM3djZjdQeDl4NFprZ19Da2gycE1OSnp4NkhqaXY0b0VaTzds?oc=5",
       "source": "JAF（日本自動車連盟）",
@@ -256,18 +280,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、Claudeのフィルターが止めたリクエストを課金対象に",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2lyZHc2eDZ2RlI4WG1rTlhITThzVGstS3dnUVh1S0FaRXpJLTNnRVRoLVdEQnhKVk1EX3dJWWN6UWFRRktSbGJzV1FmVGNHaDhrNkpaT0dpR3RnSl9vUHB5UzNKVmpKY0EtWTJIdndYWlJ6TjBwcG9Ma1RBdy1WOWctb1lRTU9jWEFrTGR1UkczY3Q1d3N6YnZ3OA?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-09-25T09:18:51+00:00",
-      "summary": "Anthropic、Claudeのフィルターが止めたリクエストを課金対象に Pasquale Pillitteri",
-      "id": "19bbe53fb72cf6f1",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -307,18 +319,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic、新モデル「Claude Opus 5.5」提供開始。従来比コスト4割減で高性能なコーディング・知識労働を実現",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SdXNEN2dkaEVNbHAtVVQtd29yU3B4LUMteWJBRm9kQWhONTFacVM3RXhTdjU3N3I1dHVaa2EwQ0RNUEZUME0ybWt0N1hVdWdJYk5Xb2hLYUFRQmZlbWh4RUxjaGVvaV8w?oc=5",
-      "source": "AIsmiley",
-      "published": "2026-09-25T07:35:37+00:00",
-      "summary": "Anthropic、新モデル「Claude Opus 5.5」提供開始。従来比コスト4割減で高性能なコーディング・知識労働を実現 AIsmiley",
-      "id": "3dbf0fd07dc79ba6",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "マクドナルド鎌倉常盤店が開店 国内初「国産木材100％」の店舗 鎌倉市",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vb3NsR1k4UXRZLTYzdzM2cklDVmUxc1lUVDJOSVpzMXBTd0hjSS1mMDVYVnYwVjV4TVJUaFFwejN5UkZxaDRvTWMyUVQwRHF5RFlpRV9TSll6TlMwXzBDT1dSOUw2ekxzUFZsVV9mbXNQd0V6dWtYSA?oc=5",
       "source": "au Webポータル",
@@ -340,18 +340,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "マクドナルド鎌倉常盤店が開店　国内初「国産木材１００％」の店舗〈鎌倉市〉",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaEpvS09NZDZFWTM4Tks4d0ZqWE85bzc2Q3pqMnhpdkxQMGNJUkhJMlJfbXJISlBGaG83UHNWWnFaZTJqb3ZuM0RxdXF6WW9yUTctdng1cHdSZHJnNm9ZNnRwd2gtZFZSajVVZ3Vmbkt6Z1BxamNmUnZXeGRUTHgtb9IBgAFBVV95cUxPaEpvS09NZDZFWTM4Tks4d0ZqWE85bzc2Q3pqMnhpdkxQMGNJUkhJMlJfbXJISlBGaG83UHNWWnFaZTJqb3ZuM0RxdXF6WW9yUTctdng1cHdSZHJnNm9ZNnRwd2gtZFZSajVVZ3Vmbkt6Z1BxamNmUnZXeGRUTHgtbw?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-09-25T07:00:00+00:00",
-      "summary": "マクドナルド鎌倉常盤店が開店 国内初「国産木材１００％」の店舗〈鎌倉市〉 ｄメニューニュース",
-      "id": "b3350c2c89d0524b",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -393,9 +381,9 @@
     {
       "title": "山本耕史 芸歴50周年記念コンサート セットリスト解禁！“ぐっさん”こと山口智充のゲスト出演も決定！チケットは9月26日（土）10:00より一般発売開始",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50UmFhUy1VcDhYZVU4UTFid3FXc1VjWmZUNFZGcHBjSEtsekkyLXlzUHNSQjJMZmxMNmdaSTl1QTNxeHpiUUdXUHQzeTU0dS13elU1MQ?oc=5",
-      "source": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "published": "2026-09-25T04:00:45+00:00",
-      "summary": "山本耕史 芸歴50周年記念コンサート セットリスト解禁！“ぐっさん”こと山口智充のゲスト出演も決定！チケットは9月26日（土）10:00より一般発売開始 news.nicovideo.jp",
+      "summary": "山本耕史 芸歴50周年記念コンサート セットリスト解禁！“ぐっさん”こと山口智充のゲスト出演も決定！チケットは9月26日（土）10:00より一般発売開始 ニコニコニュース",
       "id": "9e8bcb1918503dc1",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -405,9 +393,9 @@
     {
       "title": "湘南とハワイを、ヨガとサーフィン、ウェルネスでつなぐ。10月4日、鎌倉・稲村ヶ崎でハワイ在住講師と楽しむモーニングヨガ",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PcXlWbEtzUnMyaUdrNDA2VEdnMkhKb2Y1ZV9ON2NBLUxmTTZJbDJPemNDbW5RSnhqcExXQ2xBTkVuS1FCc21WNWlDbHk1dll2cFN2MmRWYWhrWTFDdEhzeWdNVXBUZG5WZzNCdE1LSVJxSG1yZVVVLVpRSQ?oc=5",
-      "source": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "published": "2026-09-25T02:45:45+00:00",
-      "summary": "湘南とハワイを、ヨガとサーフィン、ウェルネスでつなぐ。10月4日、鎌倉・稲村ヶ崎でハワイ在住講師と楽しむモーニングヨガ news.nicovideo.jp",
+      "summary": "湘南とハワイを、ヨガとサーフィン、ウェルネスでつなぐ。10月4日、鎌倉・稲村ヶ崎でハワイ在住講師と楽しむモーニングヨガ ニコニコニュース",
       "id": "9742731313949c08",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -513,9 +501,9 @@
     {
       "title": "MILIZE、「AI-CFO」第一弾サービス「AI補助金・助成金申請支援」の検証をTAMA協会と開始",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzTTRrY1B2bGduQ0kwWmlpQUZSZHlFbzFhZlAxMjNCSi1CVXdmNTBnOEJIc2hqNllWVXA2R2dOaVNRUTNQeDVJR2Rqa2RSb3VfNHVCZmdZRFEzakppdjA3Wm5MTkZRa09rWU9BbXl0UUZ5Q2U3OVpVZlB5RQ?oc=5",
-      "source": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "published": "2026-09-24T17:45:34+00:00",
-      "summary": "MILIZE、「AI-CFO」第一弾サービス「AI補助金・助成金申請支援」の検証をTAMA協会と開始 news.nicovideo.jp",
+      "summary": "MILIZE、「AI-CFO」第一弾サービス「AI補助金・助成金申請支援」の検証をTAMA協会と開始 ニコニコニュース",
       "id": "eaebc09ec7d176ee",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -559,12 +547,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉が詩に染まる１カ月 「詩をフェス」 10月に市内各所で",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xMHdMTVZrT3NDNjBDUlZIMHQzRjdMXzdUTUFvdDNCWkQ1emhFTXVnYzAwMzBsN3VYRXpNZ09HX0tFQ0E5cGN0ajVpcUowUmZ5NTZ6bHF2a1ExR2NSVGFmTnF2SFM?oc=5",
+      "title": "鎌倉のとっておき 第202回 「鎌はレン」の危機?!",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xempXcUN2UUdnc3RieElhTlQ3dnNKT29oeVBMTkMwd2VJRzdwbFQ2NlZ3WFJMdWZWTm5kRDlXdWZlbENNSEZVZ2V0VUpOckdQeDRRaFBGalA5X3JIQ3MxcGRBRjE?oc=5",
       "source": "タウンニュース",
       "published": "2026-09-24T15:00:00+00:00",
-      "summary": "鎌倉が詩に染まる１カ月 「詩をフェス」 10月に市内各所で タウンニュース",
-      "id": "5eab29c12de19bb8",
+      "summary": "鎌倉のとっておき 第202回 「鎌はレン」の危機?! タウンニュース",
+      "id": "4126dc8338f5a017",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -577,6 +565,30 @@
       "published": "2026-09-24T15:00:00+00:00",
       "summary": "「オクトーバーフェスト鎌倉」（10月3日・4日、鎌倉市役所）の実行委員長を務める 森園 尊生（たかお）さん 鎌倉市在住 45歳 タウンニュース",
       "id": "11d1e9112cdaf5ca",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "鎌倉が詩に染まる１カ月 「詩をフェス」 10月に市内各所で",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xMHdMTVZrT3NDNjBDUlZIMHQzRjdMXzdUTUFvdDNCWkQ1emhFTXVnYzAwMzBsN3VYRXpNZ09HX0tFQ0E5cGN0ajVpcUowUmZ5NTZ6bHF2a1ExR2NSVGFmTnF2SFM?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-09-24T15:00:00+00:00",
+      "summary": "鎌倉が詩に染まる１カ月 「詩をフェス」 10月に市内各所で タウンニュース",
+      "id": "5eab29c12de19bb8",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "マクドナルド鎌倉常盤店が開店 国内初「国産木材１００％」の店舗",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JTFdKbjc3cHo0cmxrOFB1OUgxd2hWYjhra1JpcmNnUHR6MHNVSnhaT0hhWjVKOWRQbE1FaXVEM09ucDUxWVRXeEFyMnJoYzVFME0yMjRHOFczOXU4NTBSZ1kxNjQ?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-09-24T15:00:00+00:00",
+      "summary": "マクドナルド鎌倉常盤店が開店 国内初「国産木材１００％」の店舗 タウンニュース",
+      "id": "fce14515430952e4",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -607,18 +619,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉のとっておき 第202回 「鎌はレン」の危機?!",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xempXcUN2UUdnc3RieElhTlQ3dnNKT29oeVBMTkMwd2VJRzdwbFQ2NlZ3WFJMdWZWTm5kRDlXdWZlbENNSEZVZ2V0VUpOckdQeDRRaFBGalA5X3JIQ3MxcGRBRjE?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-09-24T15:00:00+00:00",
-      "summary": "鎌倉のとっておき 第202回 「鎌はレン」の危機?! タウンニュース",
-      "id": "4126dc8338f5a017",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "CUTIE STREET、初の全国アリーナツアー開幕！新曲『ご褒美しよっ！』初披露、全25曲で横浜アリーナ沸かす",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMXZ5czRJVDAteHp0ZGRaMlhEMUJFRjBzaUx0VzZDdDlXMktGQkxtcU9BeE5KUkIyUE5jRkZGSS1pWWloNkdnTmx3UnYtQXFocHZQR1J4TUc5Q0E5TUFRazM4X1FXNndfajlzWXN1Q25ybGk5R29FSlJfOE1JZjdWdk5pMlhoZ3JjWFhIMGp0a9IBjwFBVV95cUxQMXZ5czRJVDAteHp0ZGRaMlhEMUJFRjBzaUx0VzZDdDlXMktGQkxtcU9BeE5KUkIyUE5jRkZGSS1pWWloNkdnTmx3UnYtQXFocHZQR1J4TUc5Q0E5TUFRazM4X1FXNndfajlzWXN1Q25ybGk5R29FSlJfOE1JZjdWdk5pMlhoZ3JjWFhIMGp0aw?oc=5",
       "source": "ｄメニューニュース",
@@ -633,9 +633,9 @@
     {
       "title": "あいみょん「マリーゴールド」MVをより忠実に再現した映像公開（動画あり）",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Uc2c3azBIcjIya1FZQWROTzZ0MmYwb3M4RVNQQWxMZnMwYVlRLU1LeFg2bUNvUnNKZTh6cXFFSmRCUU9kVVV6NFM3WDY?oc=5",
-      "source": "natalie.mu",
+      "source": "ナタリー",
       "published": "2026-09-24T11:00:00+00:00",
-      "summary": "あいみょん「マリーゴールド」MVをより忠実に再現した映像公開（動画あり） natalie.mu",
+      "summary": "あいみょん「マリーゴールド」MVをより忠実に再現した映像公開（動画あり） ナタリー",
       "id": "c17111e73ef9b8e7",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -681,9 +681,9 @@
     {
       "title": "新曲「ご褒美しよっ！」を初披露！CUTIE STREET アリーナツアー『CUTIE LAND』",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE56MHlpTzBFc2x4M3pkVm1iVnFpb3UtYWd1dUJ0dkJacFpPVWVyUGtybUFwMjg2MGJwRU1DTzhISUg4RE0zdVE?oc=5",
-      "source": "Dtimes",
+      "source": "dtimes.jp",
       "published": "2026-09-23T23:43:29+00:00",
-      "summary": "新曲「ご褒美しよっ！」を初披露！CUTIE STREET アリーナツアー『CUTIE LAND』 Dtimes",
+      "summary": "新曲「ご褒美しよっ！」を初披露！CUTIE STREET アリーナツアー『CUTIE LAND』 dtimes.jp",
       "id": "819ccf661e134c9a",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -693,9 +693,9 @@
     {
       "title": "【品川区】秋祭り！「雉子神社 例大祭」が10/3日(土)・4日(日)に開催されます",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NS0pnUnJiRHFab1FFUVRaQnJXR3BJSkhFVWFyVE5nbWZOYUZSamhyMVdxVmwxeFVEWTdEZWJyWWR4WVlwdTd6eUw1Q3l2Z19qZHBSSUZBdk1uQ05nYzVYQ1RBbw?oc=5",
-      "source": "号外NET 品川区",
+      "source": "shinagawa.goguynet.jp",
       "published": "2026-09-23T22:43:18+00:00",
-      "summary": "【品川区】秋祭り！「雉子神社 例大祭」が10/3日(土)・4日(日)に開催されます 号外NET 品川区",
+      "summary": "【品川区】秋祭り！「雉子神社 例大祭」が10/3日(土)・4日(日)に開催されます shinagawa.goguynet.jp",
       "id": "bc816a43553c25f9",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -789,9 +789,9 @@
     {
       "title": "女性警察官がアジア競技大会の武道競技で金メダルを2つ獲得。",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCUGxYWHhyQXVzTXA5YWxZeGU0Qm9SdnhvR2dMcUZNUlJqaEo3c3RsOEdDckh1Y0dKa1dSMmxFZ2I3OThUQ1h6dlJKYzM3Sk9iOUg5dUZGa0hXQmdMYTB3R0JQdlpnbGwzOGJiaU4waWVDTlF4?oc=5",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "published": "2026-09-22T18:12:04+00:00",
-      "summary": "女性警察官がアジア競技大会の武道競技で金メダルを2つ獲得。 Vietnam.vn",
+      "summary": "女性警察官がアジア競技大会の武道競技で金メダルを2つ獲得。 vietnam.vn",
       "id": "2a7083f791c6524b",
       "category": "武道",
       "topic": "合気道・武道",
@@ -801,9 +801,9 @@
     {
       "title": "【品川区】模擬店・盆踊り・花火など「荏原第四地区子どもまつり」10/11(日)開催",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rNi1sWG9DYnZEajBXaGNWTnBiMnY3T2dYcUpUZXdMSlJMQWhlT0prZko3bFpSM0JVeU9VM2N4akhjc0hhRXdFZlBLNXhGWEZ5ZVFFdjFpY2hKMHlzT19ZSG5jRQ?oc=5",
-      "source": "号外NET 品川区",
+      "source": "shinagawa.goguynet.jp",
       "published": "2026-09-21T22:43:36+00:00",
-      "summary": "【品川区】模擬店・盆踊り・花火など「荏原第四地区子どもまつり」10/11(日)開催 号外NET 品川区",
+      "summary": "【品川区】模擬店・盆踊り・花火など「荏原第四地区子どもまつり」10/11(日)開催 shinagawa.goguynet.jp",
       "id": "419b39a4cd0a66cc",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -907,6 +907,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "米津玄師 2022 TOUR 変身 全公演セットリストまとめ",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyUEhOaW1Jb0VsNzh6YTh5Sngyd3o3MllpSFVNYkxQSFZNZ1IzLTVVWWlpUnlSbHA5T09IdWZiSGR0R2dlM1N6UU5n?oc=5",
+      "source": "もとりょこblog -",
+      "published": "2026-09-21T04:19:26+00:00",
+      "summary": "米津玄師 2022 TOUR 変身 全公演セットリストまとめ もとりょこblog -",
+      "id": "3d2092a2026cfd2a",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "藤岡弘、捻挫をおして子供４人と映画イベント登壇「武道の稽古中に、かつての古傷が痛んで…」",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZdWpwRVpFUXJPMjFsX3dTQWpnOVFpa1d3YTJHeThacnd3SGszaFppaFdNdXV0aXgyRFo1S1BRVEtoLTQzNE94RDF0c0RkaldoZzlMWGQ4dzI3Tk5JeTNzSDlR?oc=5",
       "source": "スポーツ報知",
@@ -921,9 +933,9 @@
     {
       "title": "国境警備隊の将校と兵士230人が武道競技で競い合う。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTmpRdWVDOGtINEoyaUlzOGNfVlVpSGxKMGFmMmJxWEt1cmNuNWt3WXN3Q2N6OHhXT0RjRzRCdkN2ZjJCTlY0LTN3dTZqOWxFa0Y0aVNRRnYyRlAxUjFjQjBmOHZKNGRZUnk5dWtCWHRNLXdfNzFJalVlSXRiaVpNeXVMQzZ1cWZFRWc?oc=5",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "published": "2026-09-21T03:53:17+00:00",
-      "summary": "国境警備隊の将校と兵士230人が武道競技で競い合う。 Vietnam.vn",
+      "summary": "国境警備隊の将校と兵士230人が武道競技で競い合う。 vietnam.vn",
       "id": "5e16a5c407859706",
       "category": "武道",
       "topic": "合気道・武道",
@@ -973,18 +985,6 @@
       "published": "2026-09-20T16:06:48+00:00",
       "summary": "あいみょん FAN CLUB TOUR 2026 \"PINKY PROMISE YOU vol.2\" 全公演セットリストまとめ もとりょこblog -",
       "id": "fc922deffb0fe7d5",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょん",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaEtaMzJZWE1Jal94bGxXN202VnRVRHlrS3E0bDFwcUJ1RlZZeUEyZEJreUJySUxwcVp1Y0ctQ1VseVotcHd4VWhNcmlrSTR2eFJRS1ExcEgzUVVXMUE?oc=5",
-      "source": "rockinon.com",
-      "published": "2026-09-20T09:45:00+00:00",
-      "summary": "あいみょん rockinon.com",
-      "id": "99aeae22b24283ec",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -1063,6 +1063,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "カウンターワークス、情報セキュリティの国際規格「ISO/IEC 27001」認証を取得",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11MzhBc0JlOF9keGFtT1B6Z2I5eGxGeURLVnBHVzlnQkREV2gtbjVNSUo2cldfTzVXUTltbHF4MTZ1Rl9FUVhmVUxBV2VIV1Bqb294bmZjOXN2QXVKdjRzZktsYnVSbDNIUGdz?oc=5",
+      "source": "時事ドットコム",
+      "published": "2026-09-17T02:45:00+00:00",
+      "summary": "カウンターワークス、情報セキュリティの国際規格「ISO/IEC 27001」認証を取得 時事ドットコム",
+      "id": "2b00f4630aa85b46",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "韓民族合気道武術協会、「2026年下半期ソ・インソン総裁原形保存会奨学金」伝達式を開催",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQkNUaExtNE9oaWo2YjlZamxuY0J6c0FmeVVqeVQwbU1SZUUwYkNMQ0pNYkVDNFlsRE14enJxSlZnd2E4ZUhySjhtakJPakNZdENFNzE2RnFCWnRCQUJj?oc=5",
       "source": "저스트 이코노믹스",
@@ -1075,5 +1087,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 84
+  "count": 85
 }
