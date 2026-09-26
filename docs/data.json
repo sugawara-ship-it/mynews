@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-26T16:05:59.213170+00:00",
+  "generated_at": "2026-09-26T18:14:38.941668+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -69,13 +69,25 @@
     {
       "title": "Claude Opus 5.5に「フロンティアLLM開発」制限か―特定AIアクセラレータを対象",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTRGhjTk9MbGwwdi00NHJXZDhtdVMyRV96cjVkZ296aDBZUGowZERmbGI2SDJwUjRxMlVSNW04WUs3azlOb1cwR0V3dlo0OVUtNDdJR1dhcDhQSGozdzZUUklfQdIBaEFVX3lxTE1hNHJnUXRoSnlHMGVQUWVXY3hBdDNkMEhpbXFCdHoyazllY2Z4QVVpWDhlYVhGcDdOaVZQT0NpV3pydlhYbW8wNndLYlpDdENHc1E3enRWMkpYSDlLaTRHVkJpVnptVlVD?oc=5",
-      "source": "zaikei.co.jp",
+      "source": "財経新聞",
       "published": "2026-09-26T14:50:43+00:00",
-      "summary": "Claude Opus 5.5に「フロンティアLLM開発」制限か―特定AIアクセラレータを対象 zaikei.co.jp",
+      "summary": "Claude Opus 5.5に「フロンティアLLM開発」制限か―特定AIアクセラレータを対象 財経新聞",
       "id": "92653e34c00f497b",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "秋の味覚満喫 約240人が笑顔の交流 鎌倉市",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qZnNneUNpZ25zVnRCSVZYTUEyazBacm03anliZl9XMUl1ZHhEckhMaWtCNjRLUm5tVHVGd3N1SHNFeVBaM2dUREVVd1dvY1lBZlQ2Q1duWV9sbGFRTUFWLUVMOHIxRDczcXd2VGdB?oc=5",
+      "source": "au Webポータル",
+      "published": "2026-09-26T13:07:00+00:00",
+      "summary": "秋の味覚満喫 約240人が笑顔の交流 鎌倉市 au Webポータル",
+      "id": "e24131c636c06361",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -112,6 +124,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ダナン市は、第2地域で開催された国境警備隊武道大会で総合優勝を果たした。",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHJ6bDBaVmtlaXBsd2doY1RBSklJSnRyTnBLM2dPZDlyd0NtTTVDbnV4ME4zVzZzdll6N0VCY0JWa0J2OXJLZEl4SVlNdTNhaGNnWHF0STZCd3k2cUFvZlFJdFQ5aW1oQW8xcFJSdU9laFUxTkxGTDdVdnUtdTc5a2t5Tk9sblE3R2NSdzZJZWRDLUhxV3JKMlpYYXVuWnNQTGg0Rmc0cTA0dw?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-09-26T09:45:16+00:00",
+      "summary": "ダナン市は、第2地域で開催された国境警備隊武道大会で総合優勝を果たした。 Vietnam.vn",
+      "id": "baffd56d6dee4605",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -355,18 +379,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米商業不動産にじむ変調 金利高、信用リスク浮上",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDd0ZHa29mVEFrWXJjRWNQNmVpRXl1TkpKWHJZeGJmMWhWbXlZRHZVNnhzS09sZG9yZVV2UFR1YjZtRWJQRmpzZWNBUEJMMVBwdzZLMXhzcC1ON2J0MUFvR21ORkZ6V0g1OWVydQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-25T17:00:00+00:00",
-      "summary": "米商業不動産にじむ変調 金利高、信用リスク浮上 日本経済新聞",
-      "id": "93acd939456c61fd",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "広島県「中小企業省エネ設備等導入支援補助金」について - ecoひろしま～環境情報サイト",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnQzlLX0RiSU4wZkFOYlV6eXBtZDZQcVJzQUxGSnBzR2JtQ3EzQW4tZHJJVkV3UGZLN1RXVmRXcEFndDB4OUpsOXNBNnZEYW5VUm83VnBaOG51RWN3TXhRNlpfTF91d1BYSGxKR3p0Qk8?oc=5",
       "source": "pref.hiroshima.lg.jp",
@@ -525,13 +537,25 @@
     {
       "title": "【明日10時スタート】『宮本笑里リサイタルツアー2026-2027』東京・大阪公演チケット一般発売",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGaEl5eUhwRHFPbHkyZHM4ZGd2QVdWcW56OHZESVNnOGhOSDV3OG5SeDVsU3czaU9RcF9LS295REhhaTZyQkJhUzdSWHJfak15LXZ2dGZ4QUhsVEQteVlzWDJvTkhUa3VkUjdPWA?oc=5",
-      "source": "ソニーミュージックオフィシャルサイト",
+      "source": "sonymusic.co.jp",
       "published": "2026-09-25T05:34:07+00:00",
-      "summary": "【明日10時スタート】『宮本笑里リサイタルツアー2026-2027』東京・大阪公演チケット一般発売 ソニーミュージックオフィシャルサイト",
+      "summary": "【明日10時スタート】『宮本笑里リサイタルツアー2026-2027』東京・大阪公演チケット一般発売 sonymusic.co.jp",
       "id": "3400ce128e3b8b2c",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "商業不動産が映す崖 米景気のカナリア、銀行株高の陰で告げる異変",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yclpsU0Qwd2hTSXcyN0FUbFZPZ29TTm1iU3NLQ1NNRmlUd2hnMEJmNzAzQTloNkhMdzlGdlFReFY4Q3VicG5yUGhZa3R4S2ZTaHQ3dDNnNnlUT3FSLVpHcW4yQ0d2dmRTd01RSQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-09-25T05:02:35+00:00",
+      "summary": "商業不動産が映す崖 米景気のカナリア、銀行株高の陰で告げる異変 日本経済新聞",
+      "id": "f30bfdc3c66356f6",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -597,9 +621,9 @@
     {
       "title": "クリスプサラダワークス／東京都品川区に「大崎ニューシティ店」10月6日オープン",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zSnZrZ0VZbjJ0bEVLTVZkcDVvejYyRzIxVDlUY3lZVTJnUFE5ZEh5MDVybnhoVXpHc3hOSWRUWXh6d1F2dTdWSDVyOGk4QWJfbE9LTQ?oc=5",
-      "source": "ryutsuu.biz",
+      "source": "流通ニュース",
       "published": "2026-09-25T01:15:00+00:00",
-      "summary": "クリスプサラダワークス／東京都品川区に「大崎ニューシティ店」10月6日オープン ryutsuu.biz",
+      "summary": "クリスプサラダワークス／東京都品川区に「大崎ニューシティ店」10月6日オープン 流通ニュース",
       "id": "ec69e94f365d9bae",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -685,18 +709,6 @@
       "published": "2026-09-24T15:00:00+00:00",
       "summary": "みらいふる鎌倉主催 秋の味覚を満喫！バスツアーで約240人が笑顔の交流 タウンニュース",
       "id": "7668c6310988d357",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "松坡文庫研究会の講演会 参加者募集 10月４日開催",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91N2ExWHVTZGhuUGxzMXJzaHhYOHlRcnFJVUJPcmpFQXZSbkF2X090SmRGTi0yVXFwTi1OU3ZCQ2JPS2o5b1ZrTG90MkRxV0xXQmtkR3BEZUFRbVJNODZjZHRmZHI?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-09-24T15:00:00+00:00",
-      "summary": "松坡文庫研究会の講演会 参加者募集 10月４日開催 タウンニュース",
-      "id": "bef0c22a753338d7",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -861,9 +873,9 @@
     {
       "title": "藤井 風、あいみょん、ゆず……“アーティストの原点”に近づく、大規模会場での弾き語りライブ",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iMDZ6TzlFbTA4QnJxUTF1SlNhRlIySjVMUjJJME1vQlIzdkhEX2tnelNCeGwzVmkxeTZyTW1WcUw3VzhEdW55ZVZwWGlIMkprVTlhWmVjSjVYUdIBX0FVX3lxTE9rNGQ2RG9rWERHc0tFMVVzQlRtZDc3U3RKMzcxQkJ4UjZxWHptYUo3bnIwWVpsckxPRUdMR29POUROU2l4cVo1dVlyc3VQRWFGX2NfSWh1YS1LNVdVRHRn?oc=5",
-      "source": "Real Sound",
+      "source": "realsound.jp",
       "published": "2026-09-21T20:50:18+00:00",
-      "summary": "藤井 風、あいみょん、ゆず……“アーティストの原点”に近づく、大規模会場での弾き語りライブ Real Sound",
+      "summary": "藤井 風、あいみょん、ゆず……“アーティストの原点”に近づく、大規模会場での弾き語りライブ realsound.jp",
       "id": "481288fdad1405fe",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -1072,18 +1084,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "全東北合気道 流麗な技披露 二本松",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GX1RrVk1iZVNFMTQ2cDNsczdtbVhQcUd3SnhqZmo2RVo1aGpzVW80eE0xY2d0WVRZa3ZqY0xIVFdpcjRQR2ZEQVUzMG1UbGs?oc=5",
-      "source": "福島民報デジタル",
-      "published": "2026-09-15T02:00:00+00:00",
-      "summary": "全東北合気道 流麗な技披露 二本松 福島民報デジタル",
-      "id": "8520874c1f921e39",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
