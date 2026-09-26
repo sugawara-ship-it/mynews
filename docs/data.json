@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-26T14:55:22.549949+00:00",
+  "generated_at": "2026-09-26T16:05:59.213170+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 0
+      "count": 1
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -66,6 +66,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Claude Opus 5.5に「フロンティアLLM開発」制限か―特定AIアクセラレータを対象",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTRGhjTk9MbGwwdi00NHJXZDhtdVMyRV96cjVkZ296aDBZUGowZERmbGI2SDJwUjRxMlVSNW04WUs3azlOb1cwR0V3dlo0OVUtNDdJR1dhcDhQSGozdzZUUklfQdIBaEFVX3lxTE1hNHJnUXRoSnlHMGVQUWVXY3hBdDNkMEhpbXFCdHoyazllY2Z4QVVpWDhlYVhGcDdOaVZQT0NpV3pydlhYbW8wNndLYlpDdENHc1E3enRWMkpYSDlLaTRHVkJpVnptVlVD?oc=5",
+      "source": "zaikei.co.jp",
+      "published": "2026-09-26T14:50:43+00:00",
+      "summary": "Claude Opus 5.5に「フロンティアLLM開発」制限か―特定AIアクセラレータを対象 zaikei.co.jp",
+      "id": "92653e34c00f497b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "【鎌倉市】鎌倉市新庁舎整備手法検討会議（第2回）を2026年10月9日開催｜他都市の先行事例を議題に",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XNnd5VHFPSG5KcW5aYXNmSzVqU25iMXVsdXcyek1WX1hSSnE3dnVuNVVPRlRtZXZsdlg0WGZTZ1Y3Y0hwaGZxNU10NXJ2WTFoUnZ3ZVpSOGk4UktaemNuMHhrNVVSZ0VxbFpZazJUMA?oc=5",
@@ -127,18 +139,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Code、/usageで推定費用を確認する方法を解説 ——Opus 5.5の料金とエフォートの使い分け",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ES2JnU1RucVN0aS1QRXFGT2gtV1lLR3J2bXFaMXFGWmtEaVo0a2NwV0hPUGVHMm5YUU1oRXRYUzNnMkFTYzU0UzkwWDFEQWZlSUpBbzRCVWd6ZXNzaDhMR0hkRDJkVWVyZ3Fsa0lB?oc=5",
-      "source": "gihyo.jp",
-      "published": "2026-09-26T09:18:00+00:00",
-      "summary": "Claude Code、/usageで推定費用を確認する方法を解説 ——Opus 5.5の料金とエフォートの使い分け gihyo.jp",
-      "id": "650117b94e6d5ffb",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Anthropicが発表、Claudeが9ループの散乱振幅を計算しDixonの記録を更新",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGRfZXZpUjR2VTRrNHBaS1Z1ZEJRb28yZzI3ck5EeGNQdmZJT2Y0T2Y0d21RTWRrb1lZcEdtYzlWakJ4MzBRNnpDb3RtRWl5LXI2N0FrWlZ2TTVDRUlPZGhoQnhkaW1tcEZQZWlCc3RuWHVNd1dQNGgtSVZfaVNwSEpMcVlJaHpWUzVWbkJyWQ?oc=5",
       "source": "Pasquale Pillitteri",
@@ -148,6 +148,18 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "『U-NEXT 10月独占ライブ配信ランキングTOP10』back numberから長渕剛まで追加料金なし、締切順に観る10月｜見放題内（31日間無料）【9月26日掲載】",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85ejhsVTI3RFVZQURtSUdjUExuekY1RWxuODFwXzdEbTJXanhlc3RMbHktd3hQUEo0YU8zdy1weUlVX0ZhU2tSbVJn?oc=5",
+      "source": "banger.jp",
+      "published": "2026-09-26T08:10:14+00:00",
+      "summary": "『U-NEXT 10月独占ライブ配信ランキングTOP10』back numberから長渕剛まで追加料金なし、締切順に観る10月｜見放題内（31日間無料）【9月26日掲載】 banger.jp",
+      "id": "1fd9e58dc21f0968",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -223,6 +235,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "山陽SC開発が商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iVklibXFORFNnRnRIYkd2NTNmLWI2UXpJZTkwTU9nLXZmOWlkVE1acjRfSGl1ZGdJWS1KaWE2amRTOFY0bXp3T3o1SXcyWWRVclE?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-09-26T04:01:16+00:00",
+      "summary": "山陽SC開発が商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始 山陽新聞",
+      "id": "ac714252adf587bf",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Claude、理論物理の最前線の計算を完走 快挙だがあと一歩",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBydXNBZzh4SXVXSHFUMHJ1dnMzemo4aE5EeUVWOEp6M05SQ051T3ZVRE4ySG1uMmRrYVNCSXhBaUl2UUdobG00MVVXRU1FVXRjbDJ3ZWVDT0ZKYVFOWVN4VXlNVmVPcDJJ?oc=5",
       "source": "株式会社エクサウィザーズ",
@@ -247,6 +271,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "あいみょん「命の恩人」捜索、名乗り出た親子 “食い違い”に探偵は疑いの目…『ナイトスクープ』で新展開（ENCOUNT）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5makZscENqanhSQ3YxNHRQSkpUTXhjdDR6T1d1THljRzh5RmtfU0VkRUVSV1hkLUpZUlhKWmFLTGhZSUNIdlpQTzhQVHduaklWd0ROemwtdm5qNS1VbmlTWVBpWE5iVUtYTzhtTGRBYmdOWTIxRTF3YW1yeXI4Rzg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-09-26T02:40:12+00:00",
+      "summary": "あいみょん「命の恩人」捜索、名乗り出た親子 “食い違い”に探偵は疑いの目…『ナイトスクープ』で新展開（ENCOUNT） Yahoo!ニュース",
+      "id": "b256cb6bb9681588",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "DeepSeekら中国AI、Claude「蒸留」でユーザーデータを国外転送の疑い。電池コストが重荷に、中国自動車「NEV過半数」でも儲からない⋯【中国テック＆ビジネス最前線】 – CONNECTO（コネクト）",
       "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5vTmt1cERRcjQzeERRTmZhTmp6RzhweWxTT2FVZFlnaDlKcThSM0JZLUhOSVZONHpnWjFmVEt3?oc=5",
       "source": "connec2.jp",
@@ -259,6 +295,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "景気の良い・悪いをどう測る？2027年から変わる景気動向指数「CI」と「DI」",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0aEc1MC1iVDJzcFhLeUZXX1hkM1hBMmVIQ04yUjJFbDY3YkZSa2hlYThMd0VtQnpCNzRUZDZnVkdwdHNSdUNoYmo1Tl9WX3Q5ZEVSU3hNa3ZhMk1NdjFxSWJiSlRaeGJUNU1Fb0xvUQ?oc=5",
+      "source": "マネーフォワード",
+      "published": "2026-09-26T01:00:03+00:00",
+      "summary": "景気の良い・悪いをどう測る？2027年から変わる景気動向指数「CI」と「DI」 マネーフォワード",
+      "id": "7fa3c64556f5a73d",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "OpenAI・Anthropic・Google、自主規制機関「SAFA」を設立へ",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRmJqcWR3WXp6N2J6SzB4M25PNEsxME9rLTVicGFpWkRkcGx5b3pXRnBJQmZmT0ctYlpIRGZncktZVUhiaUVEWmhMR1hEV1RVZTI0THc4am9rSno0NGRYbkd3eHpBc2RJ?oc=5",
       "source": "株式会社エクサウィザーズ",
@@ -268,18 +316,6 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "景気の良い・悪いをどう測る？2027年から変わる景気動向指数「CI」と「DI」",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FanU1dmcwZnp3ZkZSWUswdjA3SnV4N2dKWWxsVFc2cC1FUGVZektaVWNCRHhOek9DNUx4Tm9GZEpiQmQ1aWZDazdjNWpPck9QRURTTzFGRkhvaEhNaVBaWWJ3?oc=5",
-      "source": "Infoseek",
-      "published": "2026-09-26T00:45:00+00:00",
-      "summary": "景気の良い・悪いをどう測る？2027年から変わる景気動向指数「CI」と「DI」 Infoseek",
-      "id": "7fa3c64556f5a73d",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -549,13 +585,25 @@
     {
       "title": "「ゼルダの伝説 40周年コンサート」チケットにはマスターシート(特典グッズ付き)を用意！ オフィシャル最速先行開始＆出演者情報発表",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fallEbDRVblJWVmFvNWltSmdoZlBjRWJSRTFvUHhGaW90MnRIVVNqYkxKejdDLWw3RXVyMU03SVVsR2VsUmFxR0Z0X0t2b01zTXVVRlJoVEkzdFlmdklMWmxIdzJwdGxVNHV3YQ?oc=5",
-      "source": "excite.co.jp",
+      "source": "Excite エキサイト",
       "published": "2026-09-25T02:01:13+00:00",
-      "summary": "「ゼルダの伝説 40周年コンサート」チケットにはマスターシート(特典グッズ付き)を用意！ オフィシャル最速先行開始＆出演者情報発表 excite.co.jp",
+      "summary": "「ゼルダの伝説 40周年コンサート」チケットにはマスターシート(特典グッズ付き)を用意！ オフィシャル最速先行開始＆出演者情報発表 Excite エキサイト",
       "id": "83f91263783e6531",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "クリスプサラダワークス／東京都品川区に「大崎ニューシティ店」10月6日オープン",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zSnZrZ0VZbjJ0bEVLTVZkcDVvejYyRzIxVDlUY3lZVTJnUFE5ZEh5MDVybnhoVXpHc3hOSWRUWXh6d1F2dTdWSDVyOGk4QWJfbE9LTQ?oc=5",
+      "source": "ryutsuu.biz",
+      "published": "2026-09-25T01:15:00+00:00",
+      "summary": "クリスプサラダワークス／東京都品川区に「大崎ニューシティ店」10月6日オープン ryutsuu.biz",
+      "id": "ec69e94f365d9bae",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -607,6 +655,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "「オクトーバーフェスト鎌倉」（10月3日・4日、鎌倉市役所）の実行委員長を務める 森園 尊生（たかお）さん 鎌倉市在住 45歳",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JVVRjODVyYTZzbFR0VkUtMFQ3VjMwZ0kzUGF1UGs3QUpVSFBmNnFrdUVvajVsNVRLZmJXTTJPakxmbmpyT1B0eTBMVzVkMXo4Yi10cmp3c1pmNThweUtqb05EYTU?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-09-24T15:00:00+00:00",
+      "summary": "「オクトーバーフェスト鎌倉」（10月3日・4日、鎌倉市役所）の実行委員長を務める 森園 尊生（たかお）さん 鎌倉市在住 45歳 タウンニュース",
+      "id": "11d1e9112cdaf5ca",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "マクドナルド鎌倉常盤店が開店 国内初「国産木材１００％」の店舗",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JTFdKbjc3cHo0cmxrOFB1OUgxd2hWYjhra1JpcmNnUHR6MHNVSnhaT0hhWjVKOWRQbE1FaXVEM09ucDUxWVRXeEFyMnJoYzVFME0yMjRHOFczOXU4NTBSZ1kxNjQ?oc=5",
       "source": "タウンニュース",
@@ -637,18 +697,6 @@
       "published": "2026-09-24T15:00:00+00:00",
       "summary": "松坡文庫研究会の講演会 参加者募集 10月４日開催 タウンニュース",
       "id": "bef0c22a753338d7",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「移動の足不足」解消目指す 手広にタクシー営業所開業 19年ぶり新設",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oYkZBOWVGMkRtVlpkOWFOR2lIbDJ5dVBHalBFdFdMeGx1RXBwUkNEQjlBOTVtbzIyWGtIUnZMTU5RZ0dVSEs3OEdfZTVhVEJlV1pjM1Zrc2YzeG5FLXZwVHFyVUk?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-09-24T15:00:00+00:00",
-      "summary": "「移動の足不足」解消目指す 手広にタクシー営業所開業 19年ぶり新設 タウンニュース",
-      "id": "a3626c358f6c7bf7",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -955,30 +1003,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【あいみょん セトリ】 10th anniversary LIVE 2026「、、、」(てんてんてん)IN 阪神甲子園球場 セットリストまとめ",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LNzUtbjJoTTFLaW9NSno4WXJIQUxOY1JQZHBXdXQ2YzNKZE1HQjdWT2Nqa0FqUERUeWliWXFGQkNoMkxrNDFyajZB?oc=5",
-      "source": "もとりょこblog -",
-      "published": "2026-09-20T16:06:56+00:00",
-      "summary": "【あいみょん セトリ】 10th anniversary LIVE 2026「、、、」(てんてんてん)IN 阪神甲子園球場 セットリストまとめ もとりょこblog -",
-      "id": "b121a5afb8ae196e",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょん vs TOUR 2024 \"ラブ・コール２\" 全公演セットリストまとめ",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5lRzJ6NmtqZDc3eVp4MU1CRllZSGVQNFE3RFd6M3dObXQxS0J0SGhaVUNVcmp2dHFGSmk5Y1U2OEUwbGZpcV9FZEZB?oc=5",
-      "source": "もとりょこblog -",
-      "published": "2026-09-20T16:06:52+00:00",
-      "summary": "あいみょん vs TOUR 2024 \"ラブ・コール２\" 全公演セットリストまとめ もとりょこblog -",
-      "id": "81adc5e8fb5c654b",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "東京・品川区で交通安全イベント開催 一日署長の演歌歌手・小川みすずさんらが交通安全音頭を披露し会場を盛り上げる 警視庁",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5M2FKUktzSHdNaGVFRVQzUEw2LTdGS19fY2ZMbENwU2dZQ0JVNmJCOUtQLUFJNzB2VThrRUdUQjJRc2xtR29jWkNDNHNRWlZ2UUptY2VLNA?oc=5",
       "source": "TBS NEWS DIG",
@@ -1051,18 +1075,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "戸越八幡神社で「一箱古本市」開催へ 10回目記念リーフレットを無料配布",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54QXJ1c2ozLUoxMjhPWEpIQnl6RXdqVGtQdW1tMC1YLXYySkNKOGpHNS1XMnRiekRoZFpuaVA5MlFmamFXMXNYekNCUHR0eDdoejhidHV3?oc=5",
-      "source": "品川経済新聞",
-      "published": "2026-09-17T18:55:02+00:00",
-      "summary": "戸越八幡神社で「一箱古本市」開催へ 10回目記念リーフレットを無料配布 品川経済新聞",
-      "id": "e9750bfff9e43a8b",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "全東北合気道 流麗な技披露 二本松",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GX1RrVk1iZVNFMTQ2cDNsczdtbVhQcUd3SnhqZmo2RVo1aGpzVW80eE0xY2d0WVRZa3ZqY0xIVFdpcjRQR2ZEQVUzMG1UbGs?oc=5",
       "source": "福島民報デジタル",
@@ -1075,5 +1087,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 84
+  "count": 85
 }
