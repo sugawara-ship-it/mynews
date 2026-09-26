@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-26T19:40:39.008158+00:00",
+  "generated_at": "2026-09-26T21:38:48.659658+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -67,6 +67,30 @@
   ],
   "items": [
     {
+      "title": "AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入（ITmedia PC USER）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrVS1Zb1FFSG1mT3l0ZXRNS1JueGtINDRUZV9HT3duNnhONFJ5bGRhOWMtR2o1LXlFYW9sU3pLNDY2d0dIanc2TjA2VXlINW12OWxHWEtrV0doZDRlbDljMnVmN1dJN3JhZS1hcnZrTFBjYWs1WEwxR0hJU0FBQ2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-09-26T21:05:13+00:00",
+      "summary": "AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入（ITmedia PC USER） Yahoo!ニュース",
+      "id": "5c751e7101d639e9",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【AI x バイオ】Anthropic社が発見したCRISPRに似た「反復配列を伴う逆転写酵素ART」に対する専門家からのコメント",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pSzhCZmRBVHp1TVF3b2dfRHU1MGY1UWNRbURCNDFyQjFLVHNoVEdZQmNNX3BfZXJ1NWt1RFJhQk9JdGpxTHRrX2ttODJQM2tCejlKWlZRTmFyRS1L?oc=5",
+      "source": "crisp_bio",
+      "published": "2026-09-26T21:01:56+00:00",
+      "summary": "【AI x バイオ】Anthropic社が発見したCRISPRに似た「反復配列を伴う逆転写酵素ART」に対する専門家からのコメント crisp_bio",
+      "id": "c0916333e09c493e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Claude Opus 5.5に「フロンティアLLM開発」制限か―特定AIアクセラレータを対象",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTRGhjTk9MbGwwdi00NHJXZDhtdVMyRV96cjVkZ296aDBZUGowZERmbGI2SDJwUjRxMlVSNW04WUs3azlOb1cwR0V3dlo0OVUtNDdJR1dhcDhQSGozdzZUUklfQdIBaEFVX3lxTE1hNHJnUXRoSnlHMGVQUWVXY3hBdDNkMEhpbXFCdHoyazllY2Z4QVVpWDhlYVhGcDdOaVZQT0NpV3pydlhYbW8wNndLYlpDdENHc1E3enRWMkpYSDlLaTRHVkJpVnptVlVD?oc=5",
       "source": "財経新聞",
@@ -81,9 +105,9 @@
     {
       "title": "秋の味覚満喫 約240人が笑顔の交流 鎌倉市",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qZnNneUNpZ25zVnRCSVZYTUEyazBacm03anliZl9XMUl1ZHhEckhMaWtCNjRLUm5tVHVGd3N1SHNFeVBaM2dUREVVd1dvY1lBZlQ2Q1duWV9sbGFRTUFWLUVMOHIxRDczcXd2VGdB?oc=5",
-      "source": "au Webポータル",
+      "source": "article.auone.jp",
       "published": "2026-09-26T13:07:00+00:00",
-      "summary": "秋の味覚満喫 約240人が笑顔の交流 鎌倉市 au Webポータル",
+      "summary": "秋の味覚満喫 約240人が笑顔の交流 鎌倉市 article.auone.jp",
       "id": "e24131c636c06361",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -213,9 +237,9 @@
     {
       "title": "AIが理論物理の3年記録を更新：Claudeが単独で9ループ散乱振幅の計算を達成",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BQjhuWURyWDE5bWlZVWoxVFFrQ2xjWEI5T3VEa2FGODRObGs3MFpEMWxBUTV4WGpkMF9kbHk2dVg2TjdMX1BRUHFfcDlwX01MdThtVkZJRzF3Z2NKMkxrQVBNZXZuTlZVQW9Vay00M3ZFQ3Nm?oc=5",
-      "source": "BigGo ファイナンス",
+      "source": "finance.biggo.jp",
       "published": "2026-09-26T07:35:00+00:00",
-      "summary": "AIが理論物理の3年記録を更新：Claudeが単独で9ループ散乱振幅の計算を達成 BigGo ファイナンス",
+      "summary": "AIが理論物理の3年記録を更新：Claudeが単独で9ループ散乱振幅の計算を達成 finance.biggo.jp",
       "id": "6e8409b07614ef68",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -237,9 +261,9 @@
     {
       "title": "鶴岡八幡宮で流鏑馬神事 人馬一体、雨を切り裂く 鎌倉市",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DeTRtZHJIZHBRX1VEXzJPanVueXZod3hSNGJNTWE5dmQ2a1QzZTlubW81eFQtMkRtaWFEaURybEs5T21lREQzZ2dYUFFWUkpJN0szRWVLV1JNakNDenM4LW9fWTlDOXdXUWJwRkFB?oc=5",
-      "source": "au Webポータル",
+      "source": "article.auone.jp",
       "published": "2026-09-26T06:07:00+00:00",
-      "summary": "鶴岡八幡宮で流鏑馬神事 人馬一体、雨を切り裂く 鎌倉市 au Webポータル",
+      "summary": "鶴岡八幡宮で流鏑馬神事 人馬一体、雨を切り裂く 鎌倉市 article.auone.jp",
       "id": "33ae87eb38e52e2b",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -295,18 +319,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "山陽SC開発が商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iVklibXFORFNnRnRIYkd2NTNmLWI2UXpJZTkwTU9nLXZmOWlkVE1acjRfSGl1ZGdJWS1KaWE2amRTOFY0bXp3T3o1SXcyWWRVclE?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-09-26T04:01:16+00:00",
-      "summary": "山陽SC開発が商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始 山陽新聞",
-      "id": "ac714252adf587bf",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Claude、理論物理の最前線の計算を完走 快挙だがあと一歩",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBydXNBZzh4SXVXSHFUMHJ1dnMzemo4aE5EeUVWOEp6M05SQ051T3ZVRE4ySG1uMmRrYVNCSXhBaUl2UUdobG00MVVXRU1FVXRjbDJ3ZWVDT0ZKYVFOWVN4VXlNVmVPcDJJ?oc=5",
       "source": "株式会社エクサウィザーズ",
@@ -343,18 +355,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "DeepSeekら中国AI、Claude「蒸留」でユーザーデータを国外転送の疑い。電池コストが重荷に、中国自動車「NEV過半数」でも儲からない⋯【中国テック＆ビジネス最前線】 – CONNECTO（コネクト）",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5vTmt1cERRcjQzeERRTmZhTmp6RzhweWxTT2FVZFlnaDlKcThSM0JZLUhOSVZONHpnWjFmVEt3?oc=5",
-      "source": "connec2.jp",
-      "published": "2026-09-26T02:00:03+00:00",
-      "summary": "DeepSeekら中国AI、Claude「蒸留」でユーザーデータを国外転送の疑い。電池コストが重荷に、中国自動車「NEV過半数」でも儲からない⋯【中国テック＆ビジネス最前線】 – CONNECTO（コネクト） connec2.jp",
-      "id": "ad1c1c6c77853da6",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "景気の良い・悪いをどう測る？2027年から変わる景気動向指数「CI」と「DI」",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0aEc1MC1iVDJzcFhLeUZXX1hkM1hBMmVIQ04yUjJFbDY3YkZSa2hlYThMd0VtQnpCNzRUZDZnVkdwdHNSdUNoYmo1Tl9WX3Q5ZEVSU3hNa3ZhMk1NdjFxSWJiSlRaeGJUNU1Fb0xvUQ?oc=5",
       "source": "マネーフォワード",
@@ -364,18 +364,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "OpenAI・Anthropic・Google、自主規制機関「SAFA」を設立へ",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRmJqcWR3WXp6N2J6SzB4M25PNEsxME9rLTVicGFpWkRkcGx5b3pXRnBJQmZmT0ctYlpIRGZncktZVUhiaUVEWmhMR1hEV1RVZTI0THc4am9rSno0NGRYbkd3eHpBc2RJ?oc=5",
-      "source": "株式会社エクサウィザーズ",
-      "published": "2026-09-26T00:50:13+00:00",
-      "summary": "OpenAI・Anthropic・Google、自主規制機関「SAFA」を設立へ 株式会社エクサウィザーズ",
-      "id": "d3ceff749b0fcf4e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -537,9 +525,9 @@
     {
       "title": "マクドナルド鎌倉常盤店が開店 国内初「国産木材100％」の店舗 鎌倉市",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vb3NsR1k4UXRZLTYzdzM2cklDVmUxc1lUVDJOSVpzMXBTd0hjSS1mMDVYVnYwVjV4TVJUaFFwejN5UkZxaDRvTWMyUVQwRHF5RFlpRV9TSll6TlMwXzBDT1dSOUw2ekxzUFZsVV9mbXNQd0V6dWtYSA?oc=5",
-      "source": "au Webポータル",
+      "source": "article.auone.jp",
       "published": "2026-09-25T07:07:00+00:00",
-      "summary": "マクドナルド鎌倉常盤店が開店 国内初「国産木材100％」の店舗 鎌倉市 au Webポータル",
+      "summary": "マクドナルド鎌倉常盤店が開店 国内初「国産木材100％」の店舗 鎌倉市 article.auone.jp",
       "id": "17c1f52cfb1e6bec",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -561,9 +549,9 @@
     {
       "title": "【セブンイレブン】鎌倉五郎と「あんバターサンド」を共同開発! 紅はるか100%の蜜芋あん、“とろける生食感”に",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YYnlFcl9NMEY4WVRZZDhINjZUSXRNSldSdlZTVUY3T1phN19nMU9lQU1XR0xybk90aGpSM0ttS2laQVR6VU5IcjdWa2h1WVM5NzJQaXY0bl85NDhXd09wMmdsMmRZbWZjUlR1d1pB?oc=5",
-      "source": "au Webポータル",
+      "source": "article.auone.jp",
       "published": "2026-09-25T06:30:00+00:00",
-      "summary": "【セブンイレブン】鎌倉五郎と「あんバターサンド」を共同開発! 紅はるか100%の蜜芋あん、“とろける生食感”に au Webポータル",
+      "summary": "【セブンイレブン】鎌倉五郎と「あんバターサンド」を共同開発! 紅はるか100%の蜜芋あん、“とろける生食感”に article.auone.jp",
       "id": "217bd54b9e63bd4a",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -571,11 +559,23 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83ckxHX2dwRkFKZzRqamFlX2pZa1otam5wanJoU29Udk9CNWdKWVlWLXRqYXcycE5HNkJkbllyUVZXZDJwZVlteG9VNjJOVUNTSGxCc2p3ak52WEE?oc=5",
+      "source": "朝日新聞",
+      "published": "2026-09-25T06:07:04+00:00",
+      "summary": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始 朝日新聞",
+      "id": "abb3c9017e3bb913",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "鎌倉市 海水浴客65万人強 前年比47％増、令和で最多 鎌倉市",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wTEtQRExrc1VpZDZZN3psQmhpRlpSMFllUmhoak5NTUFqSzZQY1VWNjE2d0UxSDh4NzlfdE1aeXJiMFJZS3BrVWs5Y3BsWUROR2tNb2M1R2ZKVXROREprc2F6aHdrOE5pRnE1UkZ3?oc=5",
-      "source": "au Webポータル",
+      "source": "article.auone.jp",
       "published": "2026-09-25T06:07:00+00:00",
-      "summary": "鎌倉市 海水浴客65万人強 前年比47％増、令和で最多 鎌倉市 au Webポータル",
+      "summary": "鎌倉市 海水浴客65万人強 前年比47％増、令和で最多 鎌倉市 article.auone.jp",
       "id": "57aa271669423888",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -633,9 +633,9 @@
     {
       "title": "大船・鎌倉警察署 命を守る30Km/h 生活道路、法定速度引き下げ 鎌倉市",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hekJSSHh1U2s4ejdmbV9GbHRfc0Z6d0N4MHR1UFY2dmE2Q01XVmdTMG1MVVpfM21FR2JrQVRRdmhDZWM0ZGtfLVNfeW9SUGowQnRJSmlEVTVqbWNoeG1oYzJYcnpUQWpmMThzRzJn?oc=5",
-      "source": "au Webポータル",
+      "source": "article.auone.jp",
       "published": "2026-09-25T02:14:02+00:00",
-      "summary": "大船・鎌倉警察署 命を守る30Km/h 生活道路、法定速度引き下げ 鎌倉市 au Webポータル",
+      "summary": "大船・鎌倉警察署 命を守る30Km/h 生活道路、法定速度引き下げ 鎌倉市 article.auone.jp",
       "id": "503be7510eede4f9",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -727,18 +727,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉のとっておき 第202回 「鎌はレン」の危機?!",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xempXcUN2UUdnc3RieElhTlQ3dnNKT29oeVBMTkMwd2VJRzdwbFQ2NlZ3WFJMdWZWTm5kRDlXdWZlbENNSEZVZ2V0VUpOckdQeDRRaFBGalA5X3JIQ3MxcGRBRjE?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-09-24T15:00:00+00:00",
-      "summary": "鎌倉のとっておき 第202回 「鎌はレン」の危機?! タウンニュース",
-      "id": "4126dc8338f5a017",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鎌倉市 海水浴客65万人強 前年比47％増、令和で最多",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5STUdnMTNTRHR5UC0yc1lpVjYzYzc4VE8yRkNXdEVpaHBYTDJXRjJFOFoySk9xTEpXRTdzbEl3Nnh2d2xDNmVvSmViVEFuMktsX3JUT24xb28zeWUybXVNZG52alA?oc=5",
       "source": "タウンニュース",
@@ -757,6 +745,18 @@
       "published": "2026-09-24T15:00:00+00:00",
       "summary": "「オクトーバーフェスト鎌倉」（10月3日・4日、鎌倉市役所）の実行委員長を務める 森園 尊生（たかお）さん 鎌倉市在住 45歳 タウンニュース",
       "id": "11d1e9112cdaf5ca",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "みらいふる鎌倉主催 秋の味覚を満喫！バスツアーで約240人が笑顔の交流",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MbXdxVWhkY2EtRjNDdUNKVURpOFRtbnd6LVlzcWhMVmNjSmp4dUhSNHd0R2ZDc0ZVTHJIR0RoWDhKQkxMNjV3OEt4UGJ2cWpRdzZOVlQzbkVUMUlDeEtBMmllNGs?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-09-24T15:00:00+00:00",
+      "summary": "みらいふる鎌倉主催 秋の味覚を満喫！バスツアーで約240人が笑顔の交流 タウンニュース",
+      "id": "7668c6310988d357",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -789,9 +789,9 @@
     {
       "title": "ちゃんみな自身初の東京ドーム公演を全国100館規模の映画館でライブビューイング！一般発売1時間完売のプレミア公演",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vNjFrVTZYaldWamh5SjFKV19PNkc1MWJJZTdDaXBBZGpaZW9yU0Q0YlRkQzYtZHNteUVPa2ZGUXEtTVZ1cVc0ci1Yb3FzWk16QUFxd2N30gFbQVVfeXFMT3V6NjFiMkk5b1JvNWptNjgya0xJWDN4X0VfRHpEQ2w5LWR2MTV0QkJMVW1KNlhkTXloLU96V2NxNmNwTDFFbGRTR3VlbGZtcEdudHRPcmhqbENHYw?oc=5",
-      "source": "ウォーカープラス",
+      "source": "walkerplus.com",
       "published": "2026-09-24T07:00:00+00:00",
-      "summary": "ちゃんみな自身初の東京ドーム公演を全国100館規模の映画館でライブビューイング！一般発売1時間完売のプレミア公演 ウォーカープラス",
+      "summary": "ちゃんみな自身初の東京ドーム公演を全国100館規模の映画館でライブビューイング！一般発売1時間完売のプレミア公演 walkerplus.com",
       "id": "04b0f4c7ebcbaba4",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -1017,9 +1017,9 @@
     {
       "title": "合気道覇天会、静岡・沼津で無料護身術講習会開催を報告―合気道家・藤崎天敬師範が指導、フルコンタクト合気道で培った技術を社会へ還元",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LYk42ZGQ4MDh2RFlIQ1d4VWlpSUwwSVQ3Tnh4aElxTWx5YlQ4ZzdjS0V4OC1aVjktUklGaFA4WUJ4QS1yMXkxYnBhaFpCR0xKd051WS02UVFmQkU?oc=5",
-      "source": "value-press.com",
+      "source": "valuepress",
       "published": "2026-09-21T01:00:00+00:00",
-      "summary": "合気道覇天会、静岡・沼津で無料護身術講習会開催を報告―合気道家・藤崎天敬師範が指導、フルコンタクト合気道で培った技術を社会へ還元 value-press.com",
+      "summary": "合気道覇天会、静岡・沼津で無料護身術講習会開催を報告―合気道家・藤崎天敬師範が指導、フルコンタクト合気道で培った技術を社会へ還元 valuepress",
       "id": "5394f14d45209bf0",
       "category": "武道",
       "topic": "合気道・武道",
@@ -1028,10 +1028,10 @@
     },
     {
       "title": "東京・品川区で交通安全イベント開催 一日署長の演歌歌手・小川みすずさんらが交通安全音頭を披露し会場を盛り上げる 警視庁",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xV0hxaC1nM0hUUm53UnZGZ2dUVy11OW5CNlRpanhSeU1iQ2M0ZmpqalRoRU56RUpvVEY0amxXcF9zeVlPaTBnRnhXRjU1M01Nam5qUDZWTDNTZ0tlZkRqN2ZDNHpjUi1qT0ozYzY2RlcwS3haZkkzTlZPR1M0UEk?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-09-19T14:52:07+00:00",
-      "summary": "東京・品川区で交通安全イベント開催 一日署長の演歌歌手・小川みすずさんらが交通安全音頭を披露し会場を盛り上げる 警視庁 Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5M2FKUktzSHdNaGVFRVQzUEw2LTdGS19fY2ZMbENwU2dZQ0JVNmJCOUtQLUFJNzB2VThrRUdUQjJRc2xtR29jWkNDNHNRWlZ2UUptY2VLNA?oc=5",
+      "source": "TBS NEWS DIG",
+      "published": "2026-09-19T14:52:22+00:00",
+      "summary": "東京・品川区で交通安全イベント開催 一日署長の演歌歌手・小川みすずさんらが交通安全音頭を披露し会場を盛り上げる 警視庁 TBS NEWS DIG",
       "id": "7bdb549d7b12b28e",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1041,9 +1041,9 @@
     {
       "title": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026(東京都)の情報",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcWZQOHcxWkRDZFRJY1BzU2VTOFJDVmNtWG11TlM0U0U4RTR3Wk9fU0tJQUI2djE1eWM4ZjI2M1BhakFEWUY1TDg2VFhqRjl0aGdyTy1MQnF2WEU?oc=5",
-      "source": "ウォーカープラス",
+      "source": "walkerplus.com",
       "published": "2026-09-19T09:47:00+00:00",
-      "summary": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026(東京都)の情報 ウォーカープラス",
+      "summary": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026(東京都)の情報 walkerplus.com",
       "id": "25b8b6a2846622d0",
       "category": "武道",
       "topic": "合気道・武道",
