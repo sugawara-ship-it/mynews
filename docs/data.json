@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-09-27T00:20:39.890311+00:00",
+  "generated_at": "2026-09-27T01:40:35.088272+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -67,6 +67,18 @@
   ],
   "items": [
     {
+      "title": "鹿島神宮奉納第17回日本古武道交流演武大会が10/4（日）に開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sa3JybGlFV1Z5TEN3bUd5V2dhVnlfRHp2RGRyVXFyd05aeURZZ1ZRbG5uZlozeU8tOU1pNXdhNXpYY0VfdklHSjIzck5ESEttWHZjWkhhQ2NYU0R1b2FhYVZ1NjBMVXN0cGc?oc=5",
+      "source": "prtimes.jp",
+      "published": "2026-09-27T01:00:01+00:00",
+      "summary": "鹿島神宮奉納第17回日本古武道交流演武大会が10/4（日）に開催 prtimes.jp",
+      "id": "ba1635201a27cf0b",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "｢金利を上げろ､でも下げろ｣アメリカが日本に求めた\"矛盾\"の真意､日本がリフレ政策から明確に脱却すべきこれだけの理由",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBSWtVanByMlFxdXBEdHBNenI4NERLLVRiUjJDdGZaRjJyLU5ncDZSZ2dNSlBhb2Z4WFJNYnV1M1RqSTJwakZ2b0loenNKVVptSkE?oc=5",
       "source": "東洋経済オンライン",
@@ -76,6 +88,30 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "景気の良い・悪いをどう測る？2027年から変わる景気動向指数「CI」と「DI」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sLUNEMFBSaVR2YmhadTB5N054MktNeFQzUlN5aVR6M0lmdXNFVzcxeV92c2p6TENRZGR6clBmYndVWWdzTGRaTG1NeVByYnNLeGJtRzVDOWY?oc=5",
+      "source": "マネーフォワード",
+      "published": "2026-09-26T22:37:51+00:00",
+      "summary": "景気の良い・悪いをどう測る？2027年から変わる景気動向指数「CI」と「DI」 マネーフォワード",
+      "id": "7fa3c64556f5a73d",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入（ITmedia PC USER）",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmNYNGpwaTVGeGpDVGpOY3MtM2RpS21KMEFPek9BaDFmQ0dsaFk3MFFNRHMzSEVNaFkwd2tkNlpiS2w3UFNRb1NldlFva0d4Y1pmRUVEZ243TDNjdjlGSUNYYWRMNlNfWUJwSUhnaHlqRy1pN3I3aW55WE0xZnJvNnJFeW1GeGVk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-09-26T21:05:13+00:00",
+      "summary": "AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入（ITmedia PC USER） Yahoo!ニュース",
+      "id": "5c751e7101d639e9",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -93,9 +129,9 @@
     {
       "title": "AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkeTVOZFZVSUFRUXJMXzNveW1YeElsV0dtdC14V3dyRDNyc3pudnA2b2hhNnBwNFVBSDFkOUZfR3dXLUJ0dFp6YVliSWdRb2xYbms0UElGRXJEZEhOUzFsYzUtdHNaZWdYLXRQU3M2a9IBaEFVX3lxTE1XVmd2TS1VcDROY1lpRUVzeWFaak9VTnV3Sk5oanFiejNVbUo4aGtvaTZPbGt4aDBqcjJlVDFNSFVoRWpySmlpN1RxVlotLXFqZE5jMENkNE01ZmgzLUtrWUM4VTM3eW9t?oc=5",
-      "source": "itmedia.co.jp",
+      "source": "ITmedia",
       "published": "2026-09-26T21:00:00+00:00",
-      "summary": "AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER itmedia.co.jp",
+      "summary": "AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER ITmedia",
       "id": "b752aa92f94e2266",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -109,6 +145,18 @@
       "published": "2026-09-26T14:50:43+00:00",
       "summary": "Claude Opus 5.5に「フロンティアLLM開発」制限か―特定AIアクセラレータを対象 財経新聞",
       "id": "92653e34c00f497b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude、ファージDNAから未知の酵素系「ART」を発見　CRISPRに似た反復構造、機能は未解明",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkVHdVelZaSTNNWGNRNmNCSjBaX0h6QmtjXzhMZldVNE55ZkU1ZzlENElUS20wVnJNUFIzVjQ0QjdDUEZGYkpSazMyQWdGNkRyN0hIZHNYT2Y3VzlMWUxfdEZJb9IBaEFVX3lxTFB2VjZxS2JuVERsMzdWWTl2VTFNTTAzV0N6X0xmeFlkdGwtdjY5a3Fzay1NTk9OT3hkV2EyR1p6c2pwdUs4N2VSRVh3aGZmc183TUJNZVNPYk5CcnAwcWQ3ZHQ4SHVPQ0Zz?oc=5",
+      "source": "財経新聞",
+      "published": "2026-09-26T14:50:40+00:00",
+      "summary": "Claude、ファージDNAから未知の酵素系「ART」を発見 CRISPRに似た反復構造、機能は未解明 財経新聞",
+      "id": "f9087a58b20b9636",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -355,30 +403,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "音楽療法専門生成AIチャットボット「ChAI（チャイ）」が自閉症・不登校に関する回答内容をアップデート",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtWHBZeW1WbG5wbXZDbEkwZVhOVzFCVnZiZFdtTmlrUkdFbVhieHFaRHl3VUltcDJQaUl5WmRVcnl2Y1Rwcndha1UzYXQ5cE1YcGJnUUdKWjlDWV84RTUyTkZqMmtNaGQzd3c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-26T04:10:01+00:00",
-      "summary": "音楽療法専門生成AIチャットボット「ChAI（チャイ）」が自閉症・不登校に関する回答内容をアップデート PR TIMES",
-      "id": "9b39f059d6770b10",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude、理論物理の最前線の計算を完走 快挙だがあと一歩",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBydXNBZzh4SXVXSHFUMHJ1dnMzemo4aE5EeUVWOEp6M05SQ051T3ZVRE4ySG1uMmRrYVNCSXhBaUl2UUdobG00MVVXRU1FVXRjbDJ3ZWVDT0ZKYVFOWVN4VXlNVmVPcDJJ?oc=5",
-      "source": "株式会社エクサウィザーズ",
-      "published": "2026-09-26T02:41:56+00:00",
-      "summary": "Claude、理論物理の最前線の計算を完走 快挙だがあと一歩 株式会社エクサウィザーズ",
-      "id": "8fb7c7bfcff2385a",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "あいみょん「命の恩人」捜索、名乗り出た親子 “食い違い”に探偵は疑いの目…『ナイトスクープ』で新展開（ENCOUNT）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5makZscENqanhSQ3YxNHRQSkpUTXhjdDR6T1d1THljRzh5RmtfU0VkRUVSV1hkLUpZUlhKWmFLTGhZSUNIdlpQTzhQVHduaklWd0ROemwtdm5qNS1VbmlTWVBpWE5iVUtYTzhtTGRBYmdOWTIxRTF3YW1yeXI4Rzg?oc=5",
       "source": "Yahoo!ニュース",
@@ -388,18 +412,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "景気の良い・悪いをどう測る？2027年から変わる景気動向指数「CI」と「DI」",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0aEc1MC1iVDJzcFhLeUZXX1hkM1hBMmVIQ04yUjJFbDY3YkZSa2hlYThMd0VtQnpCNzRUZDZnVkdwdHNSdUNoYmo1Tl9WX3Q5ZEVSU3hNa3ZhMk1NdjFxSWJiSlRaeGJUNU1Fb0xvUQ?oc=5",
-      "source": "マネーフォワード",
-      "published": "2026-09-26T01:00:03+00:00",
-      "summary": "景気の良い・悪いをどう測る？2027年から変わる景気動向指数「CI」と「DI」 マネーフォワード",
-      "id": "7fa3c64556f5a73d",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -537,9 +549,9 @@
     {
       "title": "東京・品川区「全世帯に4000円」支給 所得制限なし、いつ受け取れる？",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKRjNWYmhUUWVWTFd2R3dHZ0JOS3lpclpsLXZveFQ3OHdZNVJQdXJjYm5rdjBkSXNVZ3pTUEtGLUhzWkpsdjM4QjlBeVhqZ1hQLUow?oc=5",
-      "source": "dxmagazine.jp",
+      "source": "DXマガジン",
       "published": "2026-09-25T08:46:23+00:00",
-      "summary": "東京・品川区「全世帯に4000円」支給 所得制限なし、いつ受け取れる？ dxmagazine.jp",
+      "summary": "東京・品川区「全世帯に4000円」支給 所得制限なし、いつ受け取れる？ DXマガジン",
       "id": "4ce4ecafdb1e8f51",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -609,9 +621,9 @@
     {
       "title": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83ckxHX2dwRkFKZzRqamFlX2pZa1otam5wanJoU29Udk9CNWdKWVlWLXRqYXcycE5HNkJkbllyUVZXZDJwZVlteG9VNjJOVUNTSGxCc2p3ak52WEE?oc=5",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "published": "2026-09-25T06:07:04+00:00",
-      "summary": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始 朝日新聞",
+      "summary": "スーパーバリューが商業施設向けリーシングDXシステム「ショップカウンター エンタープライズ」の導入を開始 asahi.com",
       "id": "abb3c9017e3bb913",
       "category": "不動産",
       "topic": "道場物件（品川・大田）",
@@ -705,9 +717,9 @@
     {
       "title": "「ゼルダの伝説 40周年コンサート」チケットにはマスターシート(特典グッズ付き)を用意！ オフィシャル最速先行開始＆出演者情報発表",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fallEbDRVblJWVmFvNWltSmdoZlBjRWJSRTFvUHhGaW90MnRIVVNqYkxKejdDLWw3RXVyMU03SVVsR2VsUmFxR0Z0X0t2b01zTXVVRlJoVEkzdFlmdklMWmxIdzJwdGxVNHV3YQ?oc=5",
-      "source": "excite.co.jp",
+      "source": "Excite エキサイト",
       "published": "2026-09-25T02:01:13+00:00",
-      "summary": "「ゼルダの伝説 40周年コンサート」チケットにはマスターシート(特典グッズ付き)を用意！ オフィシャル最速先行開始＆出演者情報発表 excite.co.jp",
+      "summary": "「ゼルダの伝説 40周年コンサート」チケットにはマスターシート(特典グッズ付き)を用意！ オフィシャル最速先行開始＆出演者情報発表 Excite エキサイト",
       "id": "83f91263783e6531",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -741,9 +753,9 @@
     {
       "title": "鎌倉が詩に染まる１カ月 「詩をフェス」 10月に市内各所で",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xMHdMTVZrT3NDNjBDUlZIMHQzRjdMXzdUTUFvdDNCWkQ1emhFTXVnYzAwMzBsN3VYRXpNZ09HX0tFQ0E5cGN0ajVpcUowUmZ5NTZ6bHF2a1ExR2NSVGFmTnF2SFM?oc=5",
-      "source": "townnews.co.jp",
+      "source": "タウンニュース",
       "published": "2026-09-24T15:00:00+00:00",
-      "summary": "鎌倉が詩に染まる１カ月 「詩をフェス」 10月に市内各所で townnews.co.jp",
+      "summary": "鎌倉が詩に染まる１カ月 「詩をフェス」 10月に市内各所で タウンニュース",
       "id": "5eab29c12de19bb8",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -753,9 +765,9 @@
     {
       "title": "大船・鎌倉警察署 命を守る30Km/h 生活道路の法定速度が引き下げ",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DYmF4eTdvWHotYXM0b09FaERaaExWQk55TUM2OE85SkpLWDYwOWoyWGk4X2UwOUxlQVNMUDFxX1puclZzRUpiZjFKQVZjRk52bURZRmgxRFFBTC1pbjJLUVhTTHQ?oc=5",
-      "source": "townnews.co.jp",
+      "source": "タウンニュース",
       "published": "2026-09-24T15:00:00+00:00",
-      "summary": "大船・鎌倉警察署 命を守る30Km/h 生活道路の法定速度が引き下げ townnews.co.jp",
+      "summary": "大船・鎌倉警察署 命を守る30Km/h 生活道路の法定速度が引き下げ タウンニュース",
       "id": "92fed9143a0440ee",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -765,9 +777,9 @@
     {
       "title": "鎌倉のとっておき 第202回 「鎌はレン」の危機?!",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xempXcUN2UUdnc3RieElhTlQ3dnNKT29oeVBMTkMwd2VJRzdwbFQ2NlZ3WFJMdWZWTm5kRDlXdWZlbENNSEZVZ2V0VUpOckdQeDRRaFBGalA5X3JIQ3MxcGRBRjE?oc=5",
-      "source": "townnews.co.jp",
+      "source": "タウンニュース",
       "published": "2026-09-24T15:00:00+00:00",
-      "summary": "鎌倉のとっておき 第202回 「鎌はレン」の危機?! townnews.co.jp",
+      "summary": "鎌倉のとっておき 第202回 「鎌はレン」の危機?! タウンニュース",
       "id": "4126dc8338f5a017",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -777,9 +789,9 @@
     {
       "title": "鎌倉市 海水浴客65万人強 前年比47％増、令和で最多",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5STUdnMTNTRHR5UC0yc1lpVjYzYzc4VE8yRkNXdEVpaHBYTDJXRjJFOFoySk9xTEpXRTdzbEl3Nnh2d2xDNmVvSmViVEFuMktsX3JUT24xb28zeWUybXVNZG52alA?oc=5",
-      "source": "townnews.co.jp",
+      "source": "タウンニュース",
       "published": "2026-09-24T15:00:00+00:00",
-      "summary": "鎌倉市 海水浴客65万人強 前年比47％増、令和で最多 townnews.co.jp",
+      "summary": "鎌倉市 海水浴客65万人強 前年比47％増、令和で最多 タウンニュース",
       "id": "1bd3bd8026a7b955",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -789,9 +801,9 @@
     {
       "title": "「オクトーバーフェスト鎌倉」（10月3日・4日、鎌倉市役所）の実行委員長を務める 森園 尊生（たかお）さん 鎌倉市在住 45歳",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JVVRjODVyYTZzbFR0VkUtMFQ3VjMwZ0kzUGF1UGs3QUpVSFBmNnFrdUVvajVsNVRLZmJXTTJPakxmbmpyT1B0eTBMVzVkMXo4Yi10cmp3c1pmNThweUtqb05EYTU?oc=5",
-      "source": "townnews.co.jp",
+      "source": "タウンニュース",
       "published": "2026-09-24T15:00:00+00:00",
-      "summary": "「オクトーバーフェスト鎌倉」（10月3日・4日、鎌倉市役所）の実行委員長を務める 森園 尊生（たかお）さん 鎌倉市在住 45歳 townnews.co.jp",
+      "summary": "「オクトーバーフェスト鎌倉」（10月3日・4日、鎌倉市役所）の実行委員長を務める 森園 尊生（たかお）さん 鎌倉市在住 45歳 タウンニュース",
       "id": "11d1e9112cdaf5ca",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -1053,25 +1065,13 @@
     {
       "title": "歌手の小川みすずさん、交通安全呼びかけ 秋の全国交通安全運動を前に 東京・品川区",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BXzdCeU1XeDdyYUQ2aXVRSHpqVkpNcWdaQ0ZoQWhKMTRXMEgtTUN1VzFPUHA4c00zVnAxbzEtSzJGX0s0UEFDQjhGODZfQ183Wkhrenpfc0ptSVRrdm1SdENDRnEyX1ozWkVBVC1mMGxKS2VnZGFYYWlpR2g?oc=5",
-      "source": "news.ntv.co.jp",
+      "source": "日テレNEWS NNN",
       "published": "2026-09-19T07:05:00+00:00",
-      "summary": "歌手の小川みすずさん、交通安全呼びかけ 秋の全国交通安全運動を前に 東京・品川区 news.ntv.co.jp",
+      "summary": "歌手の小川みすずさん、交通安全呼びかけ 秋の全国交通安全運動を前に 東京・品川区 日テレNEWS NNN",
       "id": "635fe294deb079d4",
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "東京2020大会5周年記念事業　武道・スポーツフェスティバル2026",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQamx6ZmdHV09BdVlWeEdSTVhWMXMxNG9lME16ZlIyVERnVDJobm1ual9McGxmSzJKcGFieGdJV0xUZWpTb0ZuRmJLNU5vdjFPS3JadXhXZWxXcEVTc3ZQRnd1dHBycmRWR3Z1VlN3c1JZaGQwTW9QLWpfLWlISHBRT9IBhgFBVV95cUxOWi1yelk5d21ObjNzWS1JSnZDRTF2YjdZeGozRXNNQlBwSmtXbEs5Z3pNQ1JKQW5PdkIyT0xjbk5FTk1vbmR6c2JaUjhyLUJwYVFKcmZNdDhxM3FSbXVrSy15Z0dVdmFGN3hjbFZ4QWpEQ2doZlZFb0hmV1cwc3FTcVBvcmpmQQ?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-09-19T01:00:00+00:00",
-      "summary": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026 ｄメニューニュース",
-      "id": "f0df52290df78587",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
