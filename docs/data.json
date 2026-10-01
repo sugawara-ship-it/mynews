@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-01T18:45:18.838992+00:00",
+  "generated_at": "2026-10-01T20:34:59.667380+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 11
+      "count": 12
     },
     {
       "name": "経済・ビジネス",
@@ -76,6 +76,18 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ロンドン株1日 続落、3カ月半ぶり安値 金利の上昇傾向を警戒",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92WVJWTERHaUVHN0NGWmNhTDhnWnE4UUl1dFd1Mnc4ck1DWnh1Q2pjczFnRmtIRm5qYmtBVG4xQnpnUDZHcDFZb0hPa1J4NFhISnh2Nk03dm90Y19aYTh2eEJpS2xMLWxjUmo0bg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-01T17:40:03+00:00",
+      "summary": "ロンドン株1日 続落、3カ月半ぶり安値 金利の上昇傾向を警戒 日本経済新聞",
+      "id": "00781b77b2e5bfda",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -175,24 +187,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "長男・蹴太さん三男・力翔さん テコンドー世界一 兄弟でつかんだ初の栄冠",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tQ1U0cDdvVEJvVDZkZXRuU3BPeE1VRGxuTVlteTFpTFJCaEo4c09zSm53VW1OX2Y5OE1falR4TnozcEtBRHVUbzczeHNOWnBSb1lYbEdzVF9oOGswZFVtY1JkLUk?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-10-01T15:00:00+00:00",
-      "summary": "長男・蹴太さん三男・力翔さん テコンドー世界一 兄弟でつかんだ初の栄冠 タウンニュース",
-      "id": "47cd5d730eaa373e",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "愛の郷で口笛響き渡る 敬老の日を前に演奏会",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5cEtQV20zckZydlNhcG1KNFB6eU51MUdTdGdjVnBuNWx6U0NVanEtcVhxVHMxSV9DcjR1cUVRdVJmV0dmcTVNQm9oSllGc084c0J5NGl6dm1CMUQzQ2J1anR3WmY?oc=5",
       "source": "タウンニュース",
       "published": "2026-10-01T15:00:00+00:00",
       "summary": "愛の郷で口笛響き渡る 敬老の日を前に演奏会 タウンニュース",
       "id": "e8ea9d4e0042aa37",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "長男・蹴太さん三男・力翔さん テコンドー世界一 兄弟でつかんだ初の栄冠",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tQ1U0cDdvVEJvVDZkZXRuU3BPeE1VRGxuTVlteTFpTFJCaEo4c09zSm53VW1OX2Y5OE1falR4TnozcEtBRHVUbzczeHNOWnBSb1lYbEdzVF9oOGswZFVtY1JkLUk?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-10-01T15:00:00+00:00",
+      "summary": "長男・蹴太さん三男・力翔さん テコンドー世界一 兄弟でつかんだ初の栄冠 タウンニュース",
+      "id": "47cd5d730eaa373e",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -285,9 +297,9 @@
     {
       "title": "名もないサイバーセキュリティ・ベンチャーがClaudeを使ってOpenAIをハッキングし、100万円の報奨金を獲得した",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ3IySVB0Y1dXYWNQQ2RDMjNXZGNVLXlndlRHb3NfWEtSQkl4Yzk0NnZzRGFFLXV0UGw3dG5XdUlseDhoSDlKc253bklVaGVYcmJaeFF0TW4zQUJrQ04ySTJwdDNBTUExcTk4Q1RQNy1ORGFnXzBlSVRQalVFRWx1ZmlaOTg0dmtLZWlpb3pxYWpBT1JHLUMteV94WXRVdjZXc3ZZa0xn?oc=5",
-      "source": "Business Insider Japan",
+      "source": "businessinsider.jp",
       "published": "2026-10-01T10:00:00+00:00",
-      "summary": "名もないサイバーセキュリティ・ベンチャーがClaudeを使ってOpenAIをハッキングし、100万円の報奨金を獲得した Business Insider Japan",
+      "summary": "名もないサイバーセキュリティ・ベンチャーがClaudeを使ってOpenAIをハッキングし、100万円の報奨金を獲得した businessinsider.jp",
       "id": "8db66dd5397254f2",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -333,9 +345,9 @@
     {
       "title": "中小企業における生成AI活用に関する実態調査",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YWDFleTk3c3l6c1JOdHNFVG1JUUw4LWNPdWoxM3ZBaFVvdnV2bEU4UlhZWW1Ua2dhUW1SdWtIUWJ0bHBsb1BudnBGanFnNUNuZmo3U29xXzB6MFhBTk5TLXBNSUIwS25RMGc?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "published": "2026-10-01T08:44:59+00:00",
-      "summary": "中小企業における生成AI活用に関する実態調査 prtimes.jp",
+      "summary": "中小企業における生成AI活用に関する実態調査 PR TIMES",
       "id": "a076658a48841659",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -393,9 +405,9 @@
     {
       "title": "【10/1より】「【未来へつなげ！】第16次 事業承継M＆A補助金 事業承継促進枠 解説セミナー」の無料配信を開始します！【助成金なう】",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PMWpXUjktR3UzWGFvdWFoNXQtZDZSb18xMlhxb1J5SGtxYXlySUgzQjljd0VqSkRzT3RjZDdobEg3dXhSQVExSXpPaG5wLVZvS0Q3akNRU0NNZEtpdUFHRlJDb0VYNnJ5SUE?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "published": "2026-10-01T06:00:02+00:00",
-      "summary": "【10/1より】「【未来へつなげ！】第16次 事業承継M＆A補助金 事業承継促進枠 解説セミナー」の無料配信を開始します！【助成金なう】 prtimes.jp",
+      "summary": "【10/1より】「【未来へつなげ！】第16次 事業承継M＆A補助金 事業承継促進枠 解説セミナー」の無料配信を開始します！【助成金なう】 PR TIMES",
       "id": "fe3b4b908e6a7c34",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -405,9 +417,9 @@
     {
       "title": "【技術指向型中小企業・スタートアップを支援】2026年度第1回研究開発助成金交付プロジェクト5件/1500万円の交付を決定。三菱UFJ技術育成財団",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wQXJLa0tMNlJ2Tkw0UU4zb0ZCQnVjWGVGem1GcjF4VlBKSlpyRDdVRzdOSWwwNU42bHlvTlljakY3RjdFNzNsbDFZMWphR1J6ZDJLNE5DaGdtelplLUdjTVhsY056WUhPQ2c?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "published": "2026-10-01T05:55:33+00:00",
-      "summary": "【技術指向型中小企業・スタートアップを支援】2026年度第1回研究開発助成金交付プロジェクト5件/1500万円の交付を決定。三菱UFJ技術育成財団 prtimes.jp",
+      "summary": "【技術指向型中小企業・スタートアップを支援】2026年度第1回研究開発助成金交付プロジェクト5件/1500万円の交付を決定。三菱UFJ技術育成財団 PR TIMES",
       "id": "9bc048dc82dccdf8",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -429,9 +441,9 @@
     {
       "title": "食を通じて地域と出会う、新しい実験型マーケット「かまくら食の循環市」11月3日（火・祝）北鎌倉台商店街で開催",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXZG1QX3YtOHVhYmxSbjVBNS1ZVVJ6NzM0cDBqa19EVGdhSXpfbXZNSF9pWjRRM0ZjNFdiUW9CSzA1ZlJuLWxuQWpQMTdnaEVYYzNwYUJPdXVCZ1VDeGZreXZqbFBqbmZlS1E?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "published": "2026-10-01T05:16:26+00:00",
-      "summary": "食を通じて地域と出会う、新しい実験型マーケット「かまくら食の循環市」11月3日（火・祝）北鎌倉台商店街で開催 prtimes.jp",
+      "summary": "食を通じて地域と出会う、新しい実験型マーケット「かまくら食の循環市」11月3日（火・祝）北鎌倉台商店街で開催 PR TIMES",
       "id": "b02ac53352db8886",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -499,23 +511,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "世界経済、金利上昇や財政赤字がリスクに 札幌で日経景気討論会",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xV3k4d3hWS1NrRHlWb3BFenJ4bG9JOXBSTzktWE96amVaX1dYNXEyT1pkS1BmVnJqSHRaTnB2Z1ljdVpGejZYbmxycGtiMERuZld3LXdUYUpZWFBQWWFwM3V6dEJlYXNtYU16SA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-30T20:00:00+00:00",
-      "summary": "世界経済、金利上昇や財政赤字がリスクに 札幌で日経景気討論会 日本経済新聞",
-      "id": "b4009be4351a0244",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "画像・写真 ケツメイシ、25周年アリーナツアーより横浜アリーナ公演がFODで独占配信決定 特典映像＆プレゼント企画も(1/2)",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41THhBcm5MX0o0WEFkeEM2R3BoOU14N3YxeWItaEx3aGdFUDg1M1g0Zi1qV2U0VUdJY0pXVjdDaE1XSmY3ZmZvM2RUNGNodjJZdkU1aFE3RFlRZw?oc=5",
-      "source": "thetv.jp",
+      "source": "WEBザテレビジョン",
       "published": "2026-09-30T09:16:50+00:00",
-      "summary": "画像・写真 ケツメイシ、25周年アリーナツアーより横浜アリーナ公演がFODで独占配信決定 特典映像＆プレゼント企画も(1/2) thetv.jp",
+      "summary": "画像・写真 ケツメイシ、25周年アリーナツアーより横浜アリーナ公演がFODで独占配信決定 特典映像＆プレゼント企画も(1/2) WEBザテレビジョン",
       "id": "b0808ce77ad4b113",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -537,9 +537,9 @@
     {
       "title": "ケツメイシ、25周年アリーナツアーより横浜アリーナ公演がFODで独占配信決定 特典映像＆プレゼント企画も",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYUExLUUZVYlJ3amxwQzJXa29FZ0l3a0M5WDdqemY3Wm9WXy1mQUpHT2ZqdktaTF95WWJhLVo2cHY0cUVPVWhlTHFmcUtmQQ?oc=5",
-      "source": "thetv.jp",
+      "source": "WEBザテレビジョン",
       "published": "2026-09-30T09:00:40+00:00",
-      "summary": "ケツメイシ、25周年アリーナツアーより横浜アリーナ公演がFODで独占配信決定 特典映像＆プレゼント企画も thetv.jp",
+      "summary": "ケツメイシ、25周年アリーナツアーより横浜アリーナ公演がFODで独占配信決定 特典映像＆プレゼント企画も WEBザテレビジョン",
       "id": "2cd9cb9471218e2f",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -549,9 +549,9 @@
     {
       "title": "【フジテレビ】『ケツメイシ 25th Anniversary TOUR ケツメンCAMP 2026』FODにて９月30日（水）18時より配信スタート！",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9faVVuOHlscE4tcEF2SzZXV3pwTlY1WkFBTkdsZGsydkszNHFybmlXUXZhTGZZb3NSMkdKZ1RNa1lyRWhJZ0ZyT0RaM2pBOXpMc2tWcU40MTdZbk5tb0gxbmNwMzZuQmVOS1E?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "published": "2026-09-30T09:00:01+00:00",
-      "summary": "【フジテレビ】『ケツメイシ 25th Anniversary TOUR ケツメンCAMP 2026』FODにて９月30日（水）18時より配信スタート！ prtimes.jp",
+      "summary": "【フジテレビ】『ケツメイシ 25th Anniversary TOUR ケツメンCAMP 2026』FODにて９月30日（水）18時より配信スタート！ PR TIMES",
       "id": "38d49e6de93728c5",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -609,9 +609,9 @@
     {
       "title": "Robloxで「しなにゃん」全19体を探そう！品川区が舞台の無料探索ゲームが登場",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BVkpDQXdKcFg1elQyWlc2cXFDYVhvWWxBRjluTFRFaE40eUtfYkllSDEwbjJBbWduWllPQ3BfbHVYQl9fT1N0amZGcEd2d1dncWc?oc=5",
-      "source": "いこーよニュース",
+      "source": "report.iko-yo.net",
       "published": "2026-09-29T09:21:52+00:00",
-      "summary": "Robloxで「しなにゃん」全19体を探そう！品川区が舞台の無料探索ゲームが登場 いこーよニュース",
+      "summary": "Robloxで「しなにゃん」全19体を探そう！品川区が舞台の無料探索ゲームが登場 report.iko-yo.net",
       "id": "8983040f11228311",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -621,9 +621,9 @@
     {
       "title": "Robloxに品川区を舞台にしたゲームが登場！バーチャルとリアルが連動する都市探索ゲーム「しなにゃんを探せ！しながわ大冒険！」10月1日より公開",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5U1VBNHFERmNqN2YxbG5waVdSMTFHV2JkV3d3Q3lmZUl5cTNEVWZKdHhoRTZCZjFCQ0NCclRRRFFnOTE0MzVFWVo1Q25nTk5DeFJvbUQ3QUFBYUJKT0paVFZpQVIyZWZ1eUE?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "published": "2026-09-29T05:00:02+00:00",
-      "summary": "Robloxに品川区を舞台にしたゲームが登場！バーチャルとリアルが連動する都市探索ゲーム「しなにゃんを探せ！しながわ大冒険！」10月1日より公開 prtimes.jp",
+      "summary": "Robloxに品川区を舞台にしたゲームが登場！バーチャルとリアルが連動する都市探索ゲーム「しなにゃんを探せ！しながわ大冒険！」10月1日より公開 PR TIMES",
       "id": "4002e1a3fd906f23",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -645,9 +645,9 @@
     {
       "title": "Kvi Baba Kアリーナ横浜公演即完のKvi Baba、 今度は『早稲田祭』でワンマンライブ開催決定！",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yclg4ZGdteHE2bFdxc2xlVEFwRkgtMWpFdkpGdDBzWDlpN3lXdmVQZjFUOXR6UU9WYXpWSU12UVB1aUtmenloOXBKcktLNUZlVWhnTDJlblR5dl84emNmQ1VqZjh1SFJ6ZXc?oc=5",
-      "source": "e.usen.com",
+      "source": "USENの音楽情報サイト",
       "published": "2026-09-29T01:01:08+00:00",
-      "summary": "Kvi Baba Kアリーナ横浜公演即完のKvi Baba、 今度は『早稲田祭』でワンマンライブ開催決定！ e.usen.com",
+      "summary": "Kvi Baba Kアリーナ横浜公演即完のKvi Baba、 今度は『早稲田祭』でワンマンライブ開催決定！ USENの音楽情報サイト",
       "id": "d040f9ea10fc6385",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -789,9 +789,9 @@
     {
       "title": "鹿島神宮奉納第17回日本古武道交流演武大会が10/4（日）に開催",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sa3JybGlFV1Z5TEN3bUd5V2dhVnlfRHp2RGRyVXFyd05aeURZZ1ZRbG5uZlozeU8tOU1pNXdhNXpYY0VfdklHSjIzck5ESEttWHZjWkhhQ2NYU0R1b2FhYVZ1NjBMVXN0cGc?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "published": "2026-09-27T01:00:01+00:00",
-      "summary": "鹿島神宮奉納第17回日本古武道交流演武大会が10/4（日）に開催 prtimes.jp",
+      "summary": "鹿島神宮奉納第17回日本古武道交流演武大会が10/4（日）に開催 PR TIMES",
       "id": "ba1635201a27cf0b",
       "category": "武道",
       "topic": "合気道・武道",
@@ -885,22 +885,10 @@
     {
       "title": "あいみょん「マリーゴールド」MVをより忠実に再現した映像公開",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Uc2c3azBIcjIya1FZQWROTzZ0MmYwb3M4RVNQQWxMZnMwYVlRLU1LeFg2bUNvUnNKZTh6cXFFSmRCUU9kVVV6NFM3WDY?oc=5",
-      "source": "natalie.mu",
+      "source": "ナタリー",
       "published": "2026-09-24T11:00:00+00:00",
-      "summary": "あいみょん「マリーゴールド」MVをより忠実に再現した映像公開 natalie.mu",
+      "summary": "あいみょん「マリーゴールド」MVをより忠実に再現した映像公開 ナタリー",
       "id": "0c020e0dd444960e",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょん、海外で「めちゃくちゃ買う」ぬいぐるみが壮観！⇨スーツケース満タンの光景に “マキシマリスト”ぶりが伝わる",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTWVrYTc1ZkZXaHVGRk1XazRSd1AxajJhOGt0c24xWmZtZmJEc0ZPbzBIQ1dXSGt4MGdMajVFRGhqLWtZbUxyZk51eHl5YlBWMkVOaTNhWjRuRkdxSUQxcVNOQXlmNEZUNXRXMzRneU41M2ZpN0pCUGRLdUJfQ2dKR1dpQmJ5N2RUYnVLdHdn?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-09-24T09:00:23+00:00",
-      "summary": "あいみょん、海外で「めちゃくちゃ買う」ぬいぐるみが壮観！⇨スーツケース満タンの光景に “マキシマリスト”ぶりが伝わる Yahoo!ニュース",
-      "id": "2ceec49923be58ba",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -981,9 +969,9 @@
     {
       "title": "米津玄師 MV、ライブ映像、パフォーマンス 24時間ノンストップで届けるYouTubeの新体験 「Kenshi Yonezu Station」期間限定オープンは本日9月23日（水祝）23:59まで",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1MzZVlqXzd5N1p5SFlQcnVjamJPWmpObXVKaXl0bUY4ZjRGa1cyUzBzS1B2X3JPdHZWaXYyN09yVE1WcEFBdzRQcUItcmNadnIwUUxsUnpzbVV0NmFSTWE0QzhadktxT1hwcm1QdkFJU1h5aXB3b3g1REo3Slh0cklaRElDb3VkbVE?oc=5",
-      "source": "e.usen.com",
+      "source": "USENの音楽情報サイト",
       "published": "2026-09-23T00:29:59+00:00",
-      "summary": "米津玄師 MV、ライブ映像、パフォーマンス 24時間ノンストップで届けるYouTubeの新体験 「Kenshi Yonezu Station」期間限定オープンは本日9月23日（水祝）23:59まで e.usen.com",
+      "summary": "米津玄師 MV、ライブ映像、パフォーマンス 24時間ノンストップで届けるYouTubeの新体験 「Kenshi Yonezu Station」期間限定オープンは本日9月23日（水祝）23:59まで USENの音楽情報サイト",
       "id": "6788501622bb6322",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -991,12 +979,48 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "藤岡弘、足を痛めながらイベント登壇「武道の稽古中に古傷が…」（テレビ朝日系（ANN））",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nY19wdGc2MXBZRlc0TTA2ZjdmTzFZQ01HcElLZWxIbURxbmN4dVB4NUo1NGZUZkZJbjF1c2F0Vy1vcUFwcERVUWJDM1padGhKVlpORnJCOWtDb2JFV25BOUpPS3VEZXBIaTRmVWNTa0htNUQwUWdFYWRxU2NzbG8?oc=5",
+      "title": "藤井 風、あいみょん、ゆず……“アーティストの原点”に近づく、大規模会場での弾き語りライブ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iMDZ6TzlFbTA4QnJxUTF1SlNhRlIySjVMUjJJME1vQlIzdkhEX2tnelNCeGwzVmkxeTZyTW1WcUw3VzhEdW55ZVZwWGlIMkprVTlhWmVjSjVYUdIBX0FVX3lxTE9rNGQ2RG9rWERHc0tFMVVzQlRtZDc3U3RKMzcxQkJ4UjZxWHptYUo3bnIwWVpsckxPRUdMR29POUROU2l4cVo1dVlyc3VQRWFGX2NfSWh1YS1LNVdVRHRn?oc=5",
+      "source": "Real Sound｜リアルサウンド",
+      "published": "2026-09-22T07:00:00+00:00",
+      "summary": "藤井 風、あいみょん、ゆず……“アーティストの原点”に近づく、大規模会場での弾き語りライブ Real Sound｜リアルサウンド",
+      "id": "481288fdad1405fe",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "藤岡弘、足を痛めながらイベント登壇「武道の稽古中に古傷が…」 (テレビ朝日系（ANN）)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3FQX3BWVUJ1LUlyOHhxOEc2ZTNQanlyTjNCNWFQSWtqNmNocjdaRnZRRUkxdE94UGd5bzVmTzg2VVBMWHR6U3BwcFVzQlA3ODE5Z1BCdEctY3Z1alJsNEtEUURaNHZMNEFPLXhNc0tQMkFycU51el9zT1JjeWpHeHRPSDVaemlrdHIxdnNB?oc=5",
       "source": "Yahoo!ニュース",
       "published": "2026-09-21T07:00:00+00:00",
-      "summary": "藤岡弘、足を痛めながらイベント登壇「武道の稽古中に古傷が…」（テレビ朝日系（ANN）） Yahoo!ニュース",
+      "summary": "藤岡弘、足を痛めながらイベント登壇「武道の稽古中に古傷が…」 (テレビ朝日系（ANN）) Yahoo!ニュース",
       "id": "33dbdd47a1f6fb65",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "藤岡弘、足を痛めながらイベント登壇「武道の稽古中に古傷が…」",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03M3E1RDY0YzBsZEJtUXBqX0Jkem90Y1kyekJLT1J2czk2cjN4b3g5LXZQZXByTWxoMVhvUWxIVHZJZEVadXU2YlIzRWpmRjZzMWlmUWJNZnZCSXdHZ2xhalRTSF9BckZiTUJQZUNQLVg?oc=5",
+      "source": "テレ朝NEWS",
+      "published": "2026-09-21T07:00:00+00:00",
+      "summary": "藤岡弘、足を痛めながらイベント登壇「武道の稽古中に古傷が…」 テレ朝NEWS",
+      "id": "5bd2e6ca5404c11e",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "藤岡弘、捻挫をおして子供４人と映画イベント登壇「武道の稽古中に、かつての古傷が痛んで…」（スポーツ報知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jVkh4ZEdfaUFqYUI4V2c1dDQ2WC1neV8xVFBvdEpSZU5IaGFxSzR2anJpSHFNSzc5Q0ZST1IydDJCVjk3T203NF9NbEpSOVdnM1NkME1vYkF0ODh3clhtdExTZTQyVzVxRVRKM052Y0JaNElLeTd3RnlYbkt5U1E?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-09-21T07:00:00+00:00",
+      "summary": "藤岡弘、捻挫をおして子供４人と映画イベント登壇「武道の稽古中に、かつての古傷が痛んで…」（スポーツ報知） Yahoo!ニュース",
+      "id": "7d92af8545ab0a61",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
@@ -1009,18 +1033,6 @@
       "published": "2026-09-21T07:00:00+00:00",
       "summary": "【画像まとめ】藤岡弘、足を痛めながらイベント登壇「武道の稽古中に古傷が…」 テレ朝NEWS",
       "id": "5b48e11a57300182",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "藤岡弘、捻挫をおして子供４人と映画イベント登壇「武道の稽古中に、かつての古傷が痛んで…」",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZdWpwRVpFUXJPMjFsX3dTQWpnOVFpa1d3YTJHeThacnd3SGszaFppaFdNdXV0aXgyRFo1S1BRVEtoLTQzNE94RDF0c0RkaldoZzlMWGQ4dzI3Tk5JeTNzSDlR?oc=5",
-      "source": "スポーツ報知",
-      "published": "2026-09-21T07:00:00+00:00",
-      "summary": "藤岡弘、捻挫をおして子供４人と映画イベント登壇「武道の稽古中に、かつての古傷が痛んで…」 スポーツ報知",
-      "id": "96e9db9259c91ffe",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
@@ -1075,5 +1087,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 84
+  "count": 85
 }
