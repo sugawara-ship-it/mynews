@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-01T04:25:41.389545+00:00",
+  "generated_at": "2026-10-01T06:19:12.377480+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 12
+      "count": 11
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,90 @@
     }
   ],
   "items": [
+    {
+      "title": "徳島大正銀行、住宅ローン金利0.25%引き上げ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJMEN2eWNlZ3NtWWc5Z3FCNTZJbVluWkl4MnJyVHpGMUtUeVVjcHZlUUI1WW5PQkUtNlNHZjctZ2tmZVltdUk1NVdLWjBBWmJGeldZRjQzdjl4RzNDSDR0LWlpYmZxMm51WTBZMQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-01T06:10:00+00:00",
+      "summary": "徳島大正銀行、住宅ローン金利0.25%引き上げ 日本経済新聞",
+      "id": "77cb274248bdd56d",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【技術指向型中小企業・スタートアップを支援】2026年度第1回研究開発助成金交付プロジェクト5件/1500万円の交付を決定。三菱UFJ技術育成財団",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wQXJLa0tMNlJ2Tkw0UU4zb0ZCQnVjWGVGem1GcjF4VlBKSlpyRDdVRzdOSWwwNU42bHlvTlljakY3RjdFNzNsbDFZMWphR1J6ZDJLNE5DaGdtelplLUdjTVhsY056WUhPQ2c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-10-01T05:55:33+00:00",
+      "summary": "【技術指向型中小企業・スタートアップを支援】2026年度第1回研究開発助成金交付プロジェクト5件/1500万円の交付を決定。三菱UFJ技術育成財団 PR TIMES",
+      "id": "9bc048dc82dccdf8",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "生成AIのハルシネーションや回答精度のお悩みを解決！資料原文との照合で品質を自動点検・修正できる新機能",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82SXJqT2pJZE1hSlM3QTRhTnhKWkQwSzVVXzdORnBfa0FSdWFSbVFFTWQ1ZjU1UHJzWUN3ZGpUWFZOZE1COFQyYllzS19aeWVvbFlZ?oc=5",
+      "source": "DXマガジン",
+      "published": "2026-10-01T05:48:45+00:00",
+      "summary": "生成AIのハルシネーションや回答精度のお悩みを解決！資料原文との照合で品質を自動点検・修正できる新機能 DXマガジン",
+      "id": "a1726ff285da7166",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AI景気、実感できぬ家計",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMFFjU2Q3amJONjJ4bzRJOUk3cDlPVGx4TEZQUS1oMFl0bUxuNVR0VG9lRzBxeXlhc29wbHRKdFhaYU12TnpicUpHbVV5LXdyR0lESjZzRW5saFF6Q3A0Q0FPTFpyM3Jua0o4aA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-01T05:30:00+00:00",
+      "summary": "AI景気、実感できぬ家計 日本経済新聞",
+      "id": "f644482a4c2928c6",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "食を通じて地域と出会う、新しい実験型マーケット「かまくら食の循環市」11月3日（火・祝）北鎌倉台商店街で開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXZG1QX3YtOHVhYmxSbjVBNS1ZVVJ6NzM0cDBqa19EVGdhSXpfbXZNSF9pWjRRM0ZjNFdiUW9CSzA1ZlJuLWxuQWpQMTdnaEVYYzNwYUJPdXVCZ1VDeGZreXZqbFBqbmZlS1E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-10-01T05:16:26+00:00",
+      "summary": "食を通じて地域と出会う、新しい実験型マーケット「かまくら食の循環市」11月3日（火・祝）北鎌倉台商店街で開催 PR TIMES",
+      "id": "b02ac53352db8886",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "補助金クラウド運営のStayway、東北エリア企業の経営支援を強化するため、盛岡市と福島市に拠点開設",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xRVJOTHJDbnBUQVRSamtRbjBYbWNnMVVsdW9TOGZyenFkUExvRTBILXN6eGloU0FQU190UHN6LWFUX29ZNVhSb1NoWFBCdE12c19kT2dZNm9IQTVuSzdCSy15RllHbk00?oc=5",
+      "source": "news.nicovideo.jp",
+      "published": "2026-10-01T05:00:51+00:00",
+      "summary": "補助金クラウド運営のStayway、東北エリア企業の経営支援を強化するため、盛岡市と福島市に拠点開設 news.nicovideo.jp",
+      "id": "6e8d5f2e555b0e37",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "親に生成AIを使ってほしくない子世代は約7割。日常的に使う層では「使ってほしい」が過半数に",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40VWZ0NFN2ZFNKc3J1Qm5CSzdfbjZGQXNsOW9EYTh1NDZaaGVqVHphSGl5RGVpekFrYURkbEdyVlp6YkQ5YmN3UWlEcnZEa0ZtLWp1dVR5dFVJNkQtUTlIT2diY0dTZFFzTGc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-10-01T05:00:02+00:00",
+      "summary": "親に生成AIを使ってほしくない子世代は約7割。日常的に使う層では「使ってほしい」が過半数に PR TIMES",
+      "id": "5194898ceb1ce22e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "【新機能】AI着用画像生成サービス「AIfitte」が着丈調整機能をリリース",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ob0RfSm5CenkzelUxTkVVdktBU25ITnhfMVptY3lFX3JFRTFzbXpWSHVWZUZnajB6NmNydTBXQV8zZEhBQk5URFJILVhkVFozM3FHQ0U4RkszMjNtSUlOLWxzNWRqUWREQ0E?oc=5",
@@ -105,9 +189,9 @@
     {
       "title": "Claude Codeは、コードを書かない人こそ使える。散らかったフォルダもWindowsのエラーも「頼むだけ」で片づいた",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjdfR19mYUNlWmVmWjBXQjY2cHZpc1JNRmh2TTdKWHhUT214OExDbnkxNEVyM2FWUkZmRjVvcnZzZ2o4dVFCb0FVMFhZbTNYa0Yxb0Q4b1J2NkxMc2laY1JERFAzWV9FTEVENEpvaEpIamZGVUFCOGNVS2tPR1o2NXlyUElfNHFVQUlrdVJVOA?oc=5",
-      "source": "ライフハッカー",
+      "source": "lifehacker.jp",
       "published": "2026-10-01T03:50:00+00:00",
-      "summary": "Claude Codeは、コードを書かない人こそ使える。散らかったフォルダもWindowsのエラーも「頼むだけ」で片づいた ライフハッカー",
+      "summary": "Claude Codeは、コードを書かない人こそ使える。散らかったフォルダもWindowsのエラーも「頼むだけ」で片づいた lifehacker.jp",
       "id": "016c7f508358b7b7",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -187,23 +271,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "補助金クラウド運営のStayway、東北エリア企業の経営支援を強化するため、盛岡市と福島市に拠点開設",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IYzhvNF9IZ2s4QWFSZGRjLVF1cElWZ1Y3ajVJbkR6Wkc5MTZLdFFESEpLbjNyeVFnTUJtUFVsbjU4b3VnZXlaMmcteXBXc2w3eHBxcWppUzR2Y1FENkM4c1RVa2NDZw?oc=5",
-      "source": "アットエス",
-      "published": "2026-10-01T02:30:00+00:00",
-      "summary": "補助金クラウド運営のStayway、東北エリア企業の経営支援を強化するため、盛岡市と福島市に拠点開設 アットエス",
-      "id": "6e8d5f2e555b0e37",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "私は監督だけ。Claude と Claude Code に After Effects を任せたら太陽系ができた",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VZzFwTjVGOGstNDJrbHFQNVJWU1hNVklFc0NJSTlxNDItbXlBNmlLQkVNQ1hPcnhBLXYwOXpDdEo3RUpleW9WRmkxeFg3akYyV3NLR080TlpsWElj?oc=5",
-      "source": "youtu.be",
+      "source": "YouTube",
       "published": "2026-10-01T02:18:20+00:00",
-      "summary": "私は監督だけ。Claude と Claude Code に After Effects を任せたら太陽系ができた youtu.be",
+      "summary": "私は監督だけ。Claude と Claude Code に After Effects を任せたら太陽系ができた YouTube",
       "id": "85006ab41fa161fc",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -212,50 +284,14 @@
     },
     {
       "title": "GeminiからPhotoshopの機能を利用可能に、アドビがAI連携をさらに拡大",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vWkQ2eWlvQk15cUp4eDRwRkRXVXVGeDFqUVFfYkRMdDlmNzlFWV9rYS1RQWZkYlJ1Q1IySE93RFVZVTFOWUtSaV81eVV0M3NqbHBnc2JnSFRvbGduLWl4NlNPMnpxQXdYYkNfdE4yaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81U0dUS0Z4WmJEcWFlVDlLSVFxdlRlaGRCTVp0ZG9PNUJvN2pCQ2EtQ25EcVZycldCQkdjSEpTV2I4TmlFUHVxUG1Pd3FPN21KMFdqR1VvUGRXMVVpN3hR?oc=5",
       "source": "株式会社マイナビ",
-      "published": "2026-10-01T02:03:45+00:00",
+      "published": "2026-10-01T02:02:30+00:00",
       "summary": "GeminiからPhotoshopの機能を利用可能に、アドビがAI連携をさらに拡大 株式会社マイナビ",
       "id": "619e4682df56cdd1",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Uravation、最上位モデル「Claude Fable 5.1」をどの業務で使いどこで使わないかを決める「法人導入・安全運用ガイド」を無料公開。公式確認の単価・実画面・運用ルール5点を32ページに",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qaXlJdnJjS3dkcjFnekN0c1B2TGtUeUh0Y21iOGZUcHdfUDQxZ1hFN0F3cTFXM3RjcENUYS1jLUVGeFBaeFdtcElMQkhuWjA1YlhQc0hncS12UlRYVGNhcm1KeGRvbGRVM1E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-01T02:00:02+00:00",
-      "summary": "Uravation、最上位モデル「Claude Fable 5.1」をどの業務で使いどこで使わないかを決める「法人導入・安全運用ガイド」を無料公開。公式確認の単価・実画面・運用ルール5点を32ページに PR TIMES",
-      "id": "3337af235e093364",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Googleが「Gemini 4 Argon」を発表、GPT-6 AstraやClaude Fable 5.1を超える性能でGemini 4シリーズの先駆けモデル",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rcUprNF9OUnJVVXJyV2ZobTJiYVA4UXk1TnpmMXNsamwyOEZYbWhyUUZSRGlTaUhEbnR6U3hIN2JKcDcydS1HQklzbkd4ZFNXeU9COEJ6THl3RV8yZFV4QnF3TTROMXVs?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-10-01T01:58:00+00:00",
-      "summary": "Googleが「Gemini 4 Argon」を発表、GPT-6 AstraやClaude Fable 5.1を超える性能でGemini 4シリーズの先駆けモデル GIGAZINE",
-      "id": "154f8ab992dac41a",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米津玄師、「アイネクライネ」が自身11作目となるミリオンポイントを達成【オリコンランキング】",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uMnhDY1h5cmZ5UHlqd3JNUS1wa0wySHktOXcyM3k3NFNqNnJKblFrTVIzVTFGTnNUby13aEZHYjVtMFQtbHYwMHVxRTQ3Vi1pVHNBUVA1SElWTDgxb2pBUHFmOUtOSXFZbUhyN1lVUG9SZlVFUzRxRWtETQ?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-10-01T01:28:40+00:00",
-      "summary": "米津玄師、「アイネクライネ」が自身11作目となるミリオンポイントを達成【オリコンランキング】 山陽新聞",
-      "id": "f547e6d4363c30b7",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -283,18 +319,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "債券寄り付き 長期金利、3.090%に上昇 米債安で",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LVktUVWtyWnlKWUxqNk82aXduMEt4M0xiTVNjSHdlbzRzRnFjY3hnWjU3NlFGZmVCLWxfV21vM0FBYlZSQVp6V0VmajBQcVNOdUhNTmpBdURJb2p0MkNMY0JDZF9hRGRiMnNnVg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-01T00:21:07+00:00",
-      "summary": "債券寄り付き 長期金利、3.090%に上昇 米債安で 日本経済新聞",
-      "id": "f0033cb1a4507b7e",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "街全体で詩の体験を シンポや朗読 1カ月で126イベント 鎌倉 [神奈川県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10VHFVT2hVM0dtTi1ZVDh3X2lwTlZpM2UtNDZmX01QYlNDYkhNd0dMUEZ2ZXZNVlBLb0NNMXBtRDFpQWRhNEJmeEdYcW4ySkpKSjRfVk1oY2hQWk1JMGJTcWVYMThoX1E?oc=5",
       "source": "朝日新聞",
@@ -307,23 +331,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米国の消費者心理、堅調な実態とずれ AI景気の恩恵を実感できず",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ydnRUaFhUS3JwUHEzUFVMM0pMY2Z0Zm1WeHF0RDBmNWhvd3RIS044aWM1VXBVbkJCdURLZUUzcXRpM3BDYVJGSnlVMlV3U1VpOXZldlRQYTZmRDhYNjFfcmNCbnk5aEN0bWRncg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-30T21:50:05+00:00",
-      "summary": "米国の消費者心理、堅調な実態とずれ AI景気の恩恵を実感できず 日本経済新聞",
-      "id": "35ab73b5607ee7c8",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【U-NEXT】2026年10月の音楽ライブ配信ラインナップを発表！back",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01Vk15M0F6QXBMQVhLOHBKUlA4aUtRNUktWm0ybWpEVFgwejFWM1pmOFVPVENwTlkwVmxDcXE4eURUMEZZdFNJOEFiYnJHZklLdjBwX1VHMTZ3VWFaeHduMUtRQnptYTRpN2VwdWJzTDNJdVhFSHE3LXlzNA?oc=5",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "published": "2026-09-30T21:30:27+00:00",
-      "summary": "【U-NEXT】2026年10月の音楽ライブ配信ラインナップを発表！back ニコニコニュース",
+      "summary": "【U-NEXT】2026年10月の音楽ライブ配信ラインナップを発表！back news.nicovideo.jp",
       "id": "997f285a2d55ae61",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -369,9 +381,9 @@
     {
       "title": "【最大150万円・最大2/3】中小企業デジタル導入促進補助事業の申請サポートを開始します！【助成金なう】",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZbjBxQXdtOXYzQ2JqMlVjaHBDOHVxZnpQRWtLU0gyU04zT2hVbDZwQkk3aWRfNnhGYlR6RjhKaHJvaVMyQ0VsMVFobE5kcDJOWDM0ZEVXVjUtaWhrYkNQaUhqM3BURWZD?oc=5",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "published": "2026-09-30T17:15:25+00:00",
-      "summary": "【最大150万円・最大2/3】中小企業デジタル導入促進補助事業の申請サポートを開始します！【助成金なう】 ニコニコニュース",
+      "summary": "【最大150万円・最大2/3】中小企業デジタル導入促進補助事業の申請サポートを開始します！【助成金なう】 news.nicovideo.jp",
       "id": "1e24b88dc0490253",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -535,18 +547,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "＜中小企業新事業進出促進事業（第4回公募）＞の補助金交付候補者を採択しました",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xTWU3MEdRS0taUHRLb3E0M0hzeWNOMGhUTmpjbldqd0VEVTdzZ3pTWXB6TU9HbVBJUVpScTBDU3NmTVdZakFOSHdtWXpvUnR4cU13ZldxbnZYbUd4cVRQR0Z5MG5WYkhmbVE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-09-30T09:00:01+00:00",
-      "summary": "＜中小企業新事業進出促進事業（第4回公募）＞の補助金交付候補者を採択しました PR TIMES",
-      "id": "ce7b04772d944b07",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ケツメイシ、メジャーデビュー25周年ライブをFOD独占配信 横浜アリーナ公演を全曲ノーカットで",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHbFU5YnJSS1F5U2M1ZWs2RFVyVjNGdE45OWlqT29iOTlYcGdMNTlNRVNyamp1WkZsd29xeU9GX2FFV21SekUwU2lpdWRhWjVOWVNrWUI5WGtCVTVB?oc=5",
       "source": "マイナビニュース",
@@ -561,9 +561,9 @@
     {
       "title": "鎌倉製作所 熱中症対策製品の開発に向け ユーザー座談会を開催",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XRnplaHVrVGw3SjVrd2c1SFROYkdkNEhmSkExZEFwbnBLR3prYWdSRUJZTmNBUlFHLXV1Tk15eF9DOWNEOFY5TTJ6TGQ0ekJIaHhicEhPWUd4M3c?oc=5",
-      "source": "共同通信PRワイヤー",
+      "source": "kyodonewsprwire.jp",
       "published": "2026-09-30T08:30:00+00:00",
-      "summary": "鎌倉製作所 熱中症対策製品の開発に向け ユーザー座談会を開催 共同通信PRワイヤー",
+      "summary": "鎌倉製作所 熱中症対策製品の開発に向け ユーザー座談会を開催 kyodonewsprwire.jp",
       "id": "8a33bb0a8aaf28b5",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -577,18 +577,6 @@
       "published": "2026-09-30T06:00:02+00:00",
       "summary": "紅葉の鎌倉・建長寺で「VIE presents ZEN NIGHT 鎌倉」を10月29日（木）より開催 PR TIMES",
       "id": "e166cc98e14b678f",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "JR鎌倉駅改札内に「駅弁自販機」登場 「湘南鎌倉 大船軒」ブランド展開、モチーフは「鯵の押寿し」パッケージ【JR-Cross】",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55Sks3ZWpfcUgyNGZUekk1bXB2Ny1jYm0ySWlFS0lIZlh1OWh1VUJ2ajJwRzNfSmhnQkZ1NmxfOEJIS29fWVVrcVhJUWRhX2NMUEtIRU5Cbjl3V0RLckZDcm42U0d3aVRYbXpXOTV5b0NaQlh1NDRpOXhIYWNwQVk?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-09-30T04:27:21+00:00",
-      "summary": "JR鎌倉駅改札内に「駅弁自販機」登場 「湘南鎌倉 大船軒」ブランド展開、モチーフは「鯵の押寿し」パッケージ【JR-Cross】 Yahoo!ニュース",
-      "id": "b1d49db2a4cecaf5",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -633,9 +621,9 @@
     {
       "title": "【合気道象水館】 演武 『少年部１０級審査技 演武』 令和８年９月２７日 長野県 松本市",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0NmE4M0l2bV9CT2tkWlhna3ZoZzZScVhlaW1xaUMzQzhEeUZUZXJqTlVaa0lLVHNKM2t3a2h2SEoweXcySmhCSHR5dkt2SDlPX042NmhZekl1cy1f?oc=5",
-      "source": "youtu.be",
+      "source": "YouTube",
       "published": "2026-09-29T09:21:57+00:00",
-      "summary": "【合気道象水館】 演武 『少年部１０級審査技 演武』 令和８年９月２７日 長野県 松本市 youtu.be",
+      "summary": "【合気道象水館】 演武 『少年部１０級審査技 演武』 令和８年９月２７日 長野県 松本市 YouTube",
       "id": "6e8c454d12ccf1d2",
       "category": "武道",
       "topic": "合気道・武道",
@@ -748,6 +736,18 @@
       "category": "不動産",
       "topic": "道場物件（鎌倉・湘南）",
       "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米津玄師、「アイネクライネ」が自身11作目となるミリオンポイントを達成【オリコンランキング】",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZVY1Mk56RlpHQjQ3VEQxTmczbXQxNGt3WWEzS0lJVlVaSkZ4bHBxX0ZzS3hCRHFLN0V5SlhXXzNNcUY3dEVHY0JRZnFEY1BYQURlZkktZGd5R01DVzBna2Judk9xa2lZX3VvRVFwQVhkaERSNmhPd18zalJLZ25Ua2lsWUx0OXNmeWFoQkh3?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-09-28T06:09:10+00:00",
+      "summary": "米津玄師、「アイネクライネ」が自身11作目となるミリオンポイントを達成【オリコンランキング】 Yahoo!ニュース",
+      "id": "f547e6d4363c30b7",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -945,9 +945,9 @@
     {
       "title": "【立正大学】品川区内の学園祭を巡るスタンプラリー「大学さんぽ in 品川」を9月26日より開催",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tQVhjV0xSV0lueUZwZzlycnNUZFphRU9sYlAxQ29iSzdvTWt6QW9pcTJoOHV1WHhabmRpckZHWjlXd0lvbGsyWE9WcUxBRmphQU8zbFB5SzExMmM?oc=5",
-      "source": "共同通信PRワイヤー",
+      "source": "kyodonewsprwire.jp",
       "published": "2026-09-24T01:00:00+00:00",
-      "summary": "【立正大学】品川区内の学園祭を巡るスタンプラリー「大学さんぽ in 品川」を9月26日より開催 共同通信PRワイヤー",
+      "summary": "【立正大学】品川区内の学園祭を巡るスタンプラリー「大学さんぽ in 品川」を9月26日より開催 kyodonewsprwire.jp",
       "id": "044b0781c4b4de5b",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -988,18 +988,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "女性警察官がアジア競技大会の武道競技で金メダルを2つ獲得。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCUGxYWHhyQXVzTXA5YWxZeGU0Qm9SdnhvR2dMcUZNUlJqaEo3c3RsOEdDckh1Y0dKa1dSMmxFZ2I3OThUQ1h6dlJKYzM3Sk9iOUg5dUZGa0hXQmdMYTB3R0JQdlpnbGwzOGJiaU4waWVDTlF4?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-09-22T18:12:04+00:00",
-      "summary": "女性警察官がアジア競技大会の武道競技で金メダルを2つ獲得。 Vietnam.vn",
-      "id": "2a7083f791c6524b",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1065,9 +1053,9 @@
     {
       "title": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026(東京都)の情報",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcWZQOHcxWkRDZFRJY1BzU2VTOFJDVmNtWG11TlM0U0U4RTR3Wk9fU0tJQUI2djE1eWM4ZjI2M1BhakFEWUY1TDg2VFhqRjl0aGdyTy1MQnF2WEU?oc=5",
-      "source": "walkerplus.com",
+      "source": "ウォーカープラス",
       "published": "2026-09-19T09:47:00+00:00",
-      "summary": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026(東京都)の情報 walkerplus.com",
+      "summary": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026(東京都)の情報 ウォーカープラス",
       "id": "25b8b6a2846622d0",
       "category": "武道",
       "topic": "合気道・武道",
@@ -1087,5 +1075,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 85
+  "count": 84
 }
