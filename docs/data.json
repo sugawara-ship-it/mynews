@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-03T12:35:23.649089+00:00",
+  "generated_at": "2026-10-03T13:35:48.044631+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -32,7 +32,7 @@
       "name": "道場物件（鎌倉・湘南）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 1
+      "count": 0
     },
     {
       "name": "地域ニュース 品川",
@@ -66,6 +66,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Claude Opus 5.5がAntigravityに登場、利用できるのはProとUltraの有料会員だけ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVd3RzNBbkh0WmlxdWYwX3d6a1ZSeHNuRjZEVGZpR1ZWVnY4TVBBTUxUZVEtOGtsUFViUTZtTnBIVDBSdWpUM1ExMFNvVUpPMms4bzZRaGE3VWNwcjFHX1dVWGk3WjR3RGN2U2R3cElYdEtteG1QNXdwWnB5QmRmVUpESkNqNlRRTnFLZA?oc=5",
+      "source": "Pasquale Pillitteri",
+      "published": "2026-10-03T13:06:40+00:00",
+      "summary": "Claude Opus 5.5がAntigravityに登場、利用できるのはProとUltraの有料会員だけ Pasquale Pillitteri",
+      "id": "0ee7a1c540b7f4d3",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "Chevon、ツアーファイナルで超満員の横浜アリーナを制圧「ここも通過点です」（Rolling Stone Japan）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3RDB4VEw1R3RoT3V3bUd5TzBISzBTR2t5RjlIWTRsa2N5ZUdydVo5VGlIUk1mRVBLcGNSM29LMk13cG9DVzBuV1Z4WjI4d0JFc2tkdmZLaDlqQmlZRWU0eDgtY0hoVVNXaTQzVkhtaGt2UWpSUTNLQ2paX21DVTA?oc=5",
@@ -117,9 +129,9 @@
     {
       "title": "Anthropic、IPO資料の約80ページをAIリスクに割く - 「人類存亡のリスク」にも言及",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CR0lfbjM0OGtBYllIUzdtSnhOYklYZGNEMGliOG9rN0hZTXVTSGJyaGhUdlU3RGhfcmhRM1BycE5ZZVlCcmI1Z3lGc3p6NF8wSEJLYnVoNVg4bTcybW43cVhpcF83QjB0?oc=5",
-      "source": "news.mynavi.jp",
+      "source": "マイナビニュース",
       "published": "2026-10-03T05:20:06+00:00",
-      "summary": "Anthropic、IPO資料の約80ページをAIリスクに割く - 「人類存亡のリスク」にも言及 news.mynavi.jp",
+      "summary": "Anthropic、IPO資料の約80ページをAIリスクに割く - 「人類存亡のリスク」にも言及 マイナビニュース",
       "id": "e284a0a8284ede02",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -307,18 +319,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropicが1億ドル投じ1万人のAI導入エンジニア育成へ 企業導入の人材ボトルネック解消を狙う",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kWlMzLXNvZ1pmWGk2cTg0dXVoTFk1MG9oMTRiYlNuRGNDSXlqMG1NcHZyVE9VeU5EZ2Jnek02R25HNUNsd0tnTFh4VnQxQnNBOTVPcFNNOHNidGNfZ0tEOHFHcjlEUVc3WmdLVVhmR3U4ZnM2?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-10-02T19:35:00+00:00",
-      "summary": "Anthropicが1億ドル投じ1万人のAI導入エンジニア育成へ 企業導入の人材ボトルネック解消を狙う BigGo ファイナンス",
-      "id": "1b9c952083ca4b42",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "フランス金利上昇、欧州金融株に波及 不安連鎖で｢ユーロ危機を想起｣",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9McldFMkFfamhmZi1YQ2dHRlhNS0FZXzVvNWZvUFN2WG1sSS1tOTVHWFduUHJxVnhDX0ZRQkl6NGNGd19lU0Iyd2xNQUlmWnFMWUtRRzRNdjRzSW1fa3ZUb2pWSUY5ck1TTjV4RQ?oc=5",
       "source": "日本経済新聞",
@@ -385,18 +385,6 @@
       "published": "2026-10-02T12:57:18+00:00",
       "summary": "【鎌倉市】旧大佛次郎茶亭で「鎌倉猫マルシェ」開催！涙活・YOGA・抹茶体験が集う一日限定イベント 10月11日 湘南人",
       "id": "e3e786ba1fca542c",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "鎌倉・建長寺”禅”を体感する夜間アートイベント、雲海を囲む紅葉ライトアップ＆脳波坐禅体験",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ELWpxN2x3TG5iZ25KakhGNnRpZXJiRkRnTEN5eG81YUVrZXZGTm5tOTlJalRMRHUwVzcybDRITWxYdmRCMGg5U0hCMDlJS3p0X2E0?oc=5",
-      "source": "ファッションプレス",
-      "published": "2026-10-02T11:37:48+00:00",
-      "summary": "鎌倉・建長寺”禅”を体感する夜間アートイベント、雲海を囲む紅葉ライトアップ＆脳波坐禅体験 ファッションプレス",
-      "id": "d9453273ad032d79",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -523,18 +511,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【茅ヶ崎市】シニア向け「はじめてのノルディックウォーキング」鎌倉中央公園で開催！参加費700円 12月11日",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vMDhxY0czQmNKeVlWWnRqQlQzakdJTGdVTUE2YUE3eUVNUUV1WTZPQ1l0b3ZYaWxfRXljcjNHVnZjRUNoR0VZYU15cTR5M0tDN3Y5Y2laWTQ2dHg3UUpwbm9sQ1p0b1ZvUzBtaU43WQ?oc=5",
-      "source": "湘南人",
-      "published": "2026-10-02T01:57:52+00:00",
-      "summary": "【茅ヶ崎市】シニア向け「はじめてのノルディックウォーキング」鎌倉中央公園で開催！参加費700円 12月11日 湘南人",
-      "id": "522d134edc9e0dc5",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "合気道覇天会（宗家・藤崎天敬）、ウェブプロモーション累計8,000万インプレッション突破―2006年創設から20年、第30回大会を迎え技術研究を継続",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBac3FHQ25hdllLUGNPb2NsM1N0anlVMC1KeHlWNFZGZjhrcW01ekNHcFgyZ0gwV3lrbnRzMVRIcWtXcjJIYWtyLTB5UE1lcjNYeG00VFV6QWFBckk?oc=5",
       "source": "valuepress",
@@ -643,6 +619,30 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "鎌倉武道館で防災フェスタ 体験で備えの大切さ体感",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrUXloNXFBbFh1dk5yZmduRF84eHYzcVFzREszOG9Wby1hdm9ldnRXdkNqcTdtTFNYcmVrakd6NS1fVERlU0IwYkRLc3ExYWVqbjE4aFhTVVhFd1dDNG1nX0hPc2w?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-10-01T15:00:00+00:00",
+      "summary": "鎌倉武道館で防災フェスタ 体験で備えの大切さ体感 タウンニュース",
+      "id": "49a5e01e1fd74216",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "愛の郷で口笛響き渡る 敬老の日を前に演奏会",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5cEtQV20zckZydlNhcG1KNFB6eU51MUdTdGdjVnBuNWx6U0NVanEtcVhxVHMxSV9DcjR1cUVRdVJmV0dmcTVNQm9oSllGc084c0J5NGl6dm1CMUQzQ2J1anR3WmY?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-10-01T15:00:00+00:00",
+      "summary": "愛の郷で口笛響き渡る 敬老の日を前に演奏会 タウンニュース",
+      "id": "e8ea9d4e0042aa37",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【写真】写真＝米津玄師がツアーファイナルで菅田将暉と共演【4】 (4/7)（2018年1月12日）",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BUUQ0WlZ2YktXTFRvV0k2S24zRnNOZkRWNk1TSDNXVGNGbU12cmVkbzBuSUlBUFJMTWlHeWdfQnJ5UkZXNUNXNHA5WUtEMUJqWUZUdXJzUTRIa2hmQzltZUtn?oc=5",
       "source": "vois ヴォイス",
@@ -693,9 +693,9 @@
     {
       "title": "全曲ノーカット＆特典映像付き！ケツメイシ25周年ライブをFODで独占見放題配信決定",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXLUdtR2JocEEyWGMybmdwbDl3NmUzSC1pM2F1cWtFVWY1N2JjWmFXUzFPbDlKb2tWNzk1V3RZZmZ0eHdSVGhZN1FtUURXZmhPaVFuRXRR?oc=5",
-      "source": "news.fod.fujitv.co.jp",
+      "source": "FOD INFO",
       "published": "2026-09-30T09:00:48+00:00",
-      "summary": "全曲ノーカット＆特典映像付き！ケツメイシ25周年ライブをFODで独占見放題配信決定 news.fod.fujitv.co.jp",
+      "summary": "全曲ノーカット＆特典映像付き！ケツメイシ25周年ライブをFODで独占見放題配信決定 FOD INFO",
       "id": "2095e14d8672e3fc",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -729,9 +729,9 @@
     {
       "title": "ケツメイシ、メジャーデビュー25周年ライブをFOD独占配信 横浜アリーナ公演を全曲ノーカットで",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHbFU5YnJSS1F5U2M1ZWs2RFVyVjNGdE45OWlqT29iOTlYcGdMNTlNRVNyamp1WkZsd29xeU9GX2FFV21SekUwU2lpdWRhWjVOWVNrWUI5WGtCVTVB?oc=5",
-      "source": "news.mynavi.jp",
+      "source": "マイナビニュース",
       "published": "2026-09-30T09:00:00+00:00",
-      "summary": "ケツメイシ、メジャーデビュー25周年ライブをFOD独占配信 横浜アリーナ公演を全曲ノーカットで news.mynavi.jp",
+      "summary": "ケツメイシ、メジャーデビュー25周年ライブをFOD独占配信 横浜アリーナ公演を全曲ノーカットで マイナビニュース",
       "id": "55133f7ceabb183e",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -859,20 +859,20 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【湘南エリア初の駐車場完備店舗】として新規出店！「マシンピラティススタジオRintosullミスターマックス湘南藤沢店」が2026年12月1日(火)にグランドオープン！",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85dzJQWE9KZEdRVVp4SW5vUGNQbU5oekluMHBJdkhycnVmOUozTEoyNG1xRmlmWEliMGZCYWR1cF93VVlYN1BjdEwyTnRSbEtNMzdUcHVlbXNMXzdncF9B?oc=5",
-      "source": "シブヤ経済新聞",
-      "published": "2026-09-28T06:21:57+00:00",
-      "summary": "【湘南エリア初の駐車場完備店舗】として新規出店！「マシンピラティススタジオRintosullミスターマックス湘南藤沢店」が2026年12月1日(火)にグランドオープン！ シブヤ経済新聞",
-      "id": "b24fb78e63088805",
-      "category": "不動産",
-      "topic": "道場物件（鎌倉・湘南）",
-      "emoji": "🏠",
+      "title": "米津玄師、「アイネクライネ」が自身11作目となるミリオンポイントを達成【オリコンランキング】（オリコン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kcVpQN0dGMEhwMEI5Vm43ZjRJY05ObldfYUJ1TVZVcEtTR3FWR2RyWlZhckxEdy1KaDE4TWc5RUNKWk5wLVo0ODhzVUNxNTU1V0hOOEdzb2RCMXQ0QjFzWVZnQzFHNV91MnFDcVBlYzRzTjdQRUJ3VzBLQkl4QVE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-09-28T06:09:10+00:00",
+      "summary": "米津玄師、「アイネクライネ」が自身11作目となるミリオンポイントを達成【オリコンランキング】（オリコン） Yahoo!ニュース",
+      "id": "d16104c928901dd5",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "title": "米津玄師、「アイネクライネ」が自身11作目となるミリオンポイントを達成【オリコンランキング】",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kcVpQN0dGMEhwMEI5Vm43ZjRJY05ObldfYUJ1TVZVcEtTR3FWR2RyWlZhckxEdy1KaDE4TWc5RUNKWk5wLVo0ODhzVUNxNTU1V0hOOEdzb2RCMXQ0QjFzWVZnQzFHNV91MnFDcVBlYzRzTjdQRUJ3VzBLQkl4QVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZVY1Mk56RlpHQjQ3VEQxTmczbXQxNGt3WWEzS0lJVlVaSkZ4bHBxX0ZzS3hCRHFLN0V5SlhXXzNNcUY3dEVHY0JRZnFEY1BYQURlZkktZGd5R01DVzBna2Judk9xa2lZX3VvRVFwQVhkaERSNmhPd18zalJLZ25Ua2lsWUx0OXNmeWFoQkh3?oc=5",
       "source": "Yahoo!ニュース",
       "published": "2026-09-28T06:09:10+00:00",
       "summary": "米津玄師、「アイネクライネ」が自身11作目となるミリオンポイントを達成【オリコンランキング】 Yahoo!ニュース",
@@ -1003,18 +1003,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょん、10周年記念日にバンド編成で武道館ライブ開催♪ 2027年に全国アリーナツアーも決定",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9odkZlanBGT0NrTE1sLWI0N0FUUVB4ZWdGVXJfUGtkNG1HMUJDRkd2M0xYdnRud0Q3RFdYajZwTHZxSy1fbVlnV2FxTld5Q3JEZnpaWGs5ZFhhcmpyZjlTYmhBbnIxNlJMcWdpTlVrRWM2cUE?oc=5",
-      "source": "fan.books.rakuten.co.jp",
-      "published": "2026-09-23T13:33:41+00:00",
-      "summary": "あいみょん、10周年記念日にバンド編成で武道館ライブ開催♪ 2027年に全国アリーナツアーも決定 fan.books.rakuten.co.jp",
-      "id": "7b3f91ea467068da",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "合気道覇天会、静岡・沼津で無料護身術講習会開催を報告―合気道家・藤崎天敬師範が指導、フルコンタクト合気道で培った技術を社会へ還元",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LYk42ZGQ4MDh2RFlIQ1d4VWlpSUwwSVQ3Tnh4aElxTWx5YlQ4ZzdjS0V4OC1aVjktUklGaFA4WUJ4QS1yMXkxYnBhaFpCR0xKd051WS02UVFmQkU?oc=5",
       "source": "valuepress",
@@ -1075,5 +1063,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 84
+  "count": 83
 }
