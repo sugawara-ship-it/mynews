@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-09T20:02:10.872695+00:00",
+  "generated_at": "2026-10-09T21:02:33.521867+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -66,6 +66,30 @@
     }
   ],
   "items": [
+    {
+      "title": "OpenAIがOpenRouterで初めてAnthropicを逆転、価格競争は株式上場へ向かう",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2hxeW1keThPT3RQVjhudzhCVjVNeDR3cmNTMGZQZE9weTk1WEMzQ2Y0a012MTZlblQySHo3WTU4Z19IZTN0bzhBVzM3LXdtaFg1ZGgwX3FCeGFUdWFDNmFDYTFRU2lhWmxveDJPQmN3VFlWSFRjczZOZXdaWmdzOVcwcGNmOFh4SmdEWVA0QzZDUEY2REJvRW4tZ0c4V1FX?oc=5",
+      "source": "Pasquale Pillitteri",
+      "published": "2026-10-09T19:25:51+00:00",
+      "summary": "OpenAIがOpenRouterで初めてAnthropicを逆転、価格競争は株式上場へ向かう Pasquale Pillitteri",
+      "id": "b61e660d2f0c0f9a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、AIモデルへの虐待禁止を利用ポリシーに明文化…来月施行",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FaVJJclFSZWpDbF9XLUh3d2hmRzI1LS1aV1NnY21mLW1GSlNSNEE0Y2VTR1F1d3lZVWoxbmRoSGdpWlpYcXNEN3FfSnYwcVNkRmxUREpSMHFDR2hqbVNNZG5KaXY1dHRJS2YtdllzbUQwU0I0?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-10-09T18:26:00+00:00",
+      "summary": "Anthropic、AIモデルへの虐待禁止を利用ポリシーに明文化…来月施行 BigGo ファイナンス",
+      "id": "658e0d8aed2cf4cf",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "イーサリアムとビットコインのプロジェクト、AnthropicのAI脆弱性スキャナーへの早期アクセスを申請",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kd3RiZUtuLTEzaFJleWxZYlZpd2lKa01FM05iN1Y5NUU4cUdjRjZ1SktXQk5ITGRLZmJGdWxXTnB1ei1vTzZablptOERIeTE2TjZBVFBnQ192ajQwZmZlU2RKRVRjTzhiY3hVUS1oeXJNTTZi?oc=5",
@@ -187,18 +211,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "韓国の銀行狙ったサイバー攻撃、犯人は「中国在住の26歳」か Claudeで作られた“履歴書”から浮上",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9La1hPeFhCQWs2b0pUU0hwcEFvT3hmdEJSNVY1MFVRUlBiak93c3huSnZQbjdsUVFoa0Vha0VrWlhyS2RqWk5fcGVaamJmT1VPazhtaTAtU1VsN1JBUEh3MEVYYWZpZnptc1E?oc=5",
-      "source": "ITmedia",
-      "published": "2026-10-09T10:08:10+00:00",
-      "summary": "韓国の銀行狙ったサイバー攻撃、犯人は「中国在住の26歳」か Claudeで作られた“履歴書”から浮上 ITmedia",
-      "id": "21c3a1d891c14699",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "山中で遭難の16歳少年、登山計画に生成AI「Claude」利用 救助隊は「ルートの妄信」警鐘",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yOWtsa2RCOG9EYjF5VTVxeGdnUWNVUGhDazhKTWVmWWc3amg1LVJ1LXRUYUtFZFE0cmRLdFpENWpKbElGSFc4Y0prZkozRkxONms2V1JGMVpBd2hCSXl4dWFSd0JteWNjc2c?oc=5",
       "source": "ITmedia",
@@ -232,18 +244,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Google Cloud「Geminiエージェント」発表 他社のClaudeも選択可能、モデルを替えても業務の文脈を保持 PCを閉じても業務を継続",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YX0RYbFN4OEFFT3pxSTV1c3Ztd0g2TXNybUZnYjhhdnl4dEhMV3RLb2lVSUI3S3F5aFpzTDYzUm5ZdWpiMlc1UzN4TUlFc19NMWJ2dGZFYU51eTAwa1hNZA?oc=5",
-      "source": "Ledge.ai",
-      "published": "2026-10-09T09:25:06+00:00",
-      "summary": "Google Cloud「Geminiエージェント」発表 他社のClaudeも選択可能、モデルを替えても業務の文脈を保持 PCを閉じても業務を継続 Ledge.ai",
-      "id": "387c2d266903f198",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -475,24 +475,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "開創700年を迎える瑞泉寺の住職を務める 大下 一真（いっしん）さん 二階堂在住 78歳",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lSEhwazF4WHpEbDBtSzRJbFhyYWZYZUhKM1ZPaHVaRUZsd3FLUzl1enhyR2dDaGNneHJpaTFEVzR4alNTMHpBbmRqSHBiTkxORExlNzg2ZTk3M0ZKSldLYlozbEY?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-10-08T15:00:00+00:00",
-      "summary": "開創700年を迎える瑞泉寺の住職を務める 大下 一真（いっしん）さん 二階堂在住 78歳 タウンニュース",
-      "id": "330777bfad7bfc65",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "清泉女学院中高音楽部 ｢Ｎコン｣｢全日本｣Ｗ出場 「清泉サウンド」深め、全国へ",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RTFVZNmJzQ1MzYjVVTHJhZnVfNktTeW5XOTJFZEp4MlVKOFRTaUdPY3NFSGswTHZDSnBqcjhBS04wMEFxdmN3MDNSTzhFLUNYU0hGMHRaXzNPMmtqUUR0aVJmamg?oc=5",
       "source": "タウンニュース",
       "published": "2026-10-08T15:00:00+00:00",
       "summary": "清泉女学院中高音楽部 ｢Ｎコン｣｢全日本｣Ｗ出場 「清泉サウンド」深め、全国へ タウンニュース",
       "id": "bf91830840345424",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "開創700年を迎える瑞泉寺の住職を務める 大下 一真（いっしん）さん 二階堂在住 78歳",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lSEhwazF4WHpEbDBtSzRJbFhyYWZYZUhKM1ZPaHVaRUZsd3FLUzl1enhyR2dDaGNneHJpaTFEVzR4alNTMHpBbmRqSHBiTkxORExlNzg2ZTk3M0ZKSldLYlozbEY?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-10-08T15:00:00+00:00",
+      "summary": "開創700年を迎える瑞泉寺の住職を務める 大下 一真（いっしん）さん 二階堂在住 78歳 タウンニュース",
+      "id": "330777bfad7bfc65",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -508,18 +508,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "NEWSの新三部作が幕開け「また大きい所にみんなを連れて行きたい！」熱狂と大合唱の『KMK』横浜アリーナ公演",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NdzlDNFVRcGRNNEJDb1k1NHpyUjRIZ1RuN0Y2U1VKa3ZUTllOd29lV2ZmU3dPU01VS0V4M2syV1BPY2pIQmtYaXFBNVliZw?oc=5",
-      "source": "WEBザテレビジョン",
-      "published": "2026-10-08T10:58:29+00:00",
-      "summary": "NEWSの新三部作が幕開け「また大きい所にみんなを連れて行きたい！」熱狂と大合唱の『KMK』横浜アリーナ公演 WEBザテレビジョン",
-      "id": "a6b87150096fed03",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -643,18 +631,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "※こちらのイベントは終了しました※【2026宮崎イベント】6月19日(金)‐21日(日)三股町武道体育館にて「みまたモノづくりフェア2026 つくりびとのカタチ」開催！(三股町)",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ic0xDdlZueUVzbjc1VHJERHRMYk5CTFRrYzFJTjh6ZkpzNXc3U3RQMFZVN2xZSUdGTDBUMVgxODU3ODZ0ZnJuV2JqVFlIRnZa?oc=5",
-      "source": "UMKテレビ宮崎",
-      "published": "2026-10-08T01:02:24+00:00",
-      "summary": "※こちらのイベントは終了しました※【2026宮崎イベント】6月19日(金)‐21日(日)三股町武道体育館にて「みまたモノづくりフェア2026 つくりびとのカタチ」開催！(三股町) UMKテレビ宮崎",
-      "id": "41028b50228728dd",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "2026年10月22日【無料ウェビナー│再上映】補助金×生成AIで、新規事業の「勝ち筋」をつくる～生成AIで「売れるか」を確かめ、補助金で事業化へつなげる方法～を開催します",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51eEVOYlJrU3JsQlVUUU1fMjVkZjdXMi1kOEF0SXN3Vzg4cmVuSWhNSDduakR4SndpNjZwQmtsVTAxZGktX18zYjNILWpVUFNRYlhTZDVxUzlsd2dzcFFJUXk4eHQ4S2hxdkE?oc=5",
       "source": "PR TIMES",
@@ -676,6 +652,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "※こちらのイベントは終了しました※【2026宮崎イベント】6月19日(金)‐21日(日)三股町武道体育館にて「みまたモノづくりフェア2026 つくりびとのカタチ」開催！(三股町)",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ic0xDdlZueUVzbjc1VHJERHRMYk5CTFRrYzFJTjh6ZkpzNXc3U3RQMFZVN2xZSUdGTDBUMVgxODU3ODZ0ZnJuV2JqVFlIRnZa?oc=5",
+      "source": "UMKテレビ宮崎",
+      "published": "2026-10-07T23:01:27+00:00",
+      "summary": "※こちらのイベントは終了しました※【2026宮崎イベント】6月19日(金)‐21日(日)三股町武道体育館にて「みまたモノづくりフェア2026 つくりびとのカタチ」開催！(三股町) UMKテレビ宮崎",
+      "id": "41028b50228728dd",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -748,6 +736,18 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "NEWSの新三部作が幕開け「また大きい所にみんなを連れて行きたい！」熱狂と大合唱の『KMK』横浜アリーナ公演",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NdzlDNFVRcGRNNEJDb1k1NHpyUjRIZ1RuN0Y2U1VKa3ZUTllOd29lV2ZmU3dPU01VS0V4M2syV1BPY2pIQmtYaXFBNVliZw?oc=5",
+      "source": "WEBザテレビジョン",
+      "published": "2026-10-07T05:30:16+00:00",
+      "summary": "NEWSの新三部作が幕開け「また大きい所にみんなを連れて行きたい！」熱狂と大合唱の『KMK』横浜アリーナ公演 WEBザテレビジョン",
+      "id": "a6b87150096fed03",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
