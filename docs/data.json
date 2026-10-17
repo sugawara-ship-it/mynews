@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-16T23:47:31.801313+00:00",
+  "generated_at": "2026-10-17T02:50:02.658921+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -32,7 +32,7 @@
       "name": "道場物件（鎌倉・湘南）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 4
+      "count": 3
     },
     {
       "name": "地域ニュース 品川",
@@ -67,24 +67,132 @@
   ],
   "items": [
     {
-      "title": "快手、動画生成AI「Kling 4.0」を正式リリース 30秒生成と15点参照、APIも近く提供",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1azlNTGhuOUZUazctSjBVQ3AwOFFHak9tQ1d6TVVmc0s3bmxfOEhUZlR0VlBwN29mU0pVMkFLek5vM3MtSkM5eGN3OFNYbXg0SGZR?oc=5",
-      "source": "ビジネス+IT",
-      "published": "2026-10-16T21:52:00+00:00",
-      "summary": "快手、動画生成AI「Kling 4.0」を正式リリース 30秒生成と15点参照、APIも近く提供 ビジネス+IT",
-      "id": "ab2d6374d19abc9b",
+      "title": "Anthropicが韓国作家作品無断学習で和解金150億ドル支払う - CHOSUNBIZ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3QmVZRTQ4ekU3TjY2aXpDdk9CMEdxUTdEeUpJalNFcFA0Ym5hTjNnNnYxYkRlOW9WOV9vckFxQWtVdXVLSzJDalJvVkZ2UFJoNjhhQmVIcjJTUzFtUHZVbEJjUmgwUDV5U3ZBdExYT0djblFWSTRGcnNR0gGOAUFVX3lxTFBTeV9oY2w5VHZzUVVlOTZiTjlac01mQ2dqQkpxTnFfalJwUjVTemx3dlg0aUZ1YjBULS1TN1BfT1JRTFRHVEozRktZbHA3N2FraGpXdUI4YVZ2bGdQWG14aENCLXJCVFU5VDBMTXpMaC1ENkhBNV9OWDIwOGZCMDhFRk1wb1JjX21aMndLa1E?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-10-17T01:46:00+00:00",
+      "summary": "Anthropicが韓国作家作品無断学習で和解金150億ドル支払う - CHOSUNBIZ Chosunbiz",
+      "id": "0d8208001dfca27b",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "Claudeが25年来の暗号学の謎を30分で解明 NIST曲線のシードはタイムスタンプと乱数に由来",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNTWdvSU5rQVlJVG9lSHZJalNrd2E3RksyWTVLaFVqanRRV1JxRjNMV1hDdDdiRG1RZVFiSERNRUR4anRGbHNDajZGejgtTWJwT3dfZ3hLMEJVbDlBSDFrTE15bWYwbUNwbE9YbWhWMWhjdzFk?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-10-17T01:25:00+00:00",
+      "summary": "Claudeが25年来の暗号学の謎を30分で解明 NIST曲線のシードはタイムスタンプと乱数に由来 BigGo ファイナンス",
+      "id": "0b582262182db3e3",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米津玄師 自身最大のワールドツアーへ KENSHI YONEZU 2026-2027 WORLD TOUR / GHOST 世界11都市14公演",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOGt0THFwcEp4Z0dlRlhDblZpRWp2d3NDVGtCcGNobDJudmV6N1NWOFpsWDY5a3ZIZTdHY1hVNUxNUGdqVE1MbDZCal9WYjVMZDNsdnZGdFJjMENaQ3hORWdPMXBXLVluaW1KbXFJUkZ5cjZ2bE1HdDN3bTRTcHFBUlBLbHkteloyQ1RXWElMZw?oc=5",
+      "source": "USENの音楽情報サイト",
+      "published": "2026-10-17T01:10:28+00:00",
+      "summary": "米津玄師 自身最大のワールドツアーへ KENSHI YONEZU 2026-2027 WORLD TOUR / GHOST 世界11都市14公演 USENの音楽情報サイト",
+      "id": "236b37c9cce46268",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "求人情報、「AI活用能力」の代わりにClaude・ChatGPTの名前を記載する",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzbXBxdmVkeXcyT3phWEl5Z1R4a3Zqbk4zNDVQSERfUDhhRDN1aENqcjVDVHluQmlyWUhJUjV2YlA5UGxEalhUY2Q5bUxKcHdudmctbE9ZREs5VndCMlFFNS1xbjhDQ2dZSk9LcUkxZEFNd1hyY3ZKcy0xZkt6bmc?oc=5",
+      "source": "KORIT",
+      "published": "2026-10-17T01:02:54+00:00",
+      "summary": "求人情報、「AI活用能力」の代わりにClaude・ChatGPTの名前を記載する KORIT",
+      "id": "2ca200e1a15d8895",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "令和8年熊本地震に伴う「産業雇用安定助成金」の特例が実施",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBeVdSdGF4bHdkSW55TXJ1eXZaX2dvd3ZIQWJ3dUZPWFJNaXRJdHg0QmpheWtqcmtfS3BnSnJKcm5KTWhTdllYazJ3bUdvUy1UYUN1NTJ3?oc=5",
+      "source": "創業手帳株式会社",
+      "published": "2026-10-17T01:00:34+00:00",
+      "summary": "令和8年熊本地震に伴う「産業雇用安定助成金」の特例が実施 創業手帳株式会社",
+      "id": "a04a305dcea3ff6f",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1STWxQaEN3azRubWxVY3lvTm1kcnI1VWRNZGdEUml1TlprUV9ydVBySi0yZVRMQWRpa3JoNG4zdi1sX0VRbk1zUkRHY3VDam1ZRUpvaVRqMTF6RlBaZWl2cmY0VzdzU3hoblZvS09uNA?oc=5",
       "source": "GIGAZINE",
-      "published": "2026-10-16T21:35:52+00:00",
+      "published": "2026-10-17T00:39:16+00:00",
       "summary": "リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中 GIGAZINE",
       "id": "7f006189ccc55e87",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米Anthropic、極端なケースに限定したAIモデル停止権限を政府に付与する法案草案を作成",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QQlhZanFxTmJIY2wyNHlMS1FIUGJxOFZDUTEzNFVyWDl2T3FvRzNKeTdidDNpSmxXQ3FKVTlRNXA0Vm9LYjJtOFhtVVR1dGtveVp2ZmtsUzE2Mm1jdGp6RTVSbEVkLWFtWVcwaEV1d253amo3?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-10-17T00:25:00+00:00",
+      "summary": "米Anthropic、極端なケースに限定したAIモデル停止権限を政府に付与する法案草案を作成 BigGo ファイナンス",
+      "id": "e646b979805a8b66",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米アンソロピックのClaude、NIST楕円曲線の25年来の謎を解明 シードは乱数と時刻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90Qmc4aW0wZWJBT0FyeEJabl8xb3RZY0QyZEJnNmZ5eXF3X2FsbXZQakhCWHpBWFgyUnBGU0ZENTdhQVlCeHFZQUxCZXNIdktHd0FV?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-10-16T23:46:00+00:00",
+      "summary": "米アンソロピックのClaude、NIST楕円曲線の25年来の謎を解明 シードは乱数と時刻 ビジネス+IT",
+      "id": "60eaf2b43f89e937",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ReplitのCEO、Masad氏がAnthropicとの協業終了を明言",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGVTTTROWms1eWR2cGQwbWZ1eEhhdm5xUzlLTjZFdHBPdks1V3IzdXRJYTdyZ2dMY3FrYUVDNDUyZ19xdnZUSUZ5YmVXQkQxeGcyRTdUeWJYdE8wYjBCejF0WHVmUjVIejR4Q0toNEFmbkdRYy10U0FNZWd6THdOZkJDbDFaZUpxZ01QV1lB?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-10-16T23:11:03+00:00",
+      "summary": "ReplitのCEO、Masad氏がAnthropicとの協業終了を明言 Unite.AI",
+      "id": "5b73901bd3a0c8b1",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「NECが全社員にClaude Cowork導入」「AIで人月モデルは崩壊」――AI活用の“壁”を突破する実践知",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCSG50SkhzMW9VYnN6TDdwcUQ3TFAwVVN6eFpOaDkydE9iWTRJYXFFWHg0TjhJSnNfLV9iY1BCcUNjRkczQ3NBQmEzNzBXMC1WQWoybjRsWktaV0hOQVZMUThGdGEzc1FNMC1rU2dQOXlrdw?oc=5",
+      "source": "ITmedia",
+      "published": "2026-10-16T23:00:00+00:00",
+      "summary": "「NECが全社員にClaude Cowork導入」「AIで人月モデルは崩壊」――AI活用の“壁”を突破する実践知 ITmedia",
+      "id": "01f50732e79d3bbe",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "快手、動画生成AI「Kling 4.0」を正式リリース 30秒生成と15点参照、APIも近く提供",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1azlNTGhuOUZUazctSjBVQ3AwOFFHak9tQ1d6TVVmc0s3bmxfOEhUZlR0VlBwN29mU0pVMkFLek5vM3MtSkM5eGN3OFNYbXg0SGZR?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-10-16T21:52:00+00:00",
+      "summary": "快手、動画生成AI「Kling 4.0」を正式リリース 30秒生成と15点参照、APIも近く提供 ビジネス+IT",
+      "id": "ab2d6374d19abc9b",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -100,6 +208,30 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AnthropicのCJ・アビラ氏：単一AIエージェントは怠惰になり、嘘をつき、目的を見失う",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lRnNiUkNPbkRJdWNDcnJWMVprZFBTY29oM2sySEZDSTJwNHlCbXpqeHljckhQcDhma1ZTRXVKa1NERGtMSHBYcGdwYTJFdEFpSjN3VVpPWTlyUQ?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-10-16T21:08:00+00:00",
+      "summary": "AnthropicのCJ・アビラ氏：単一AIエージェントは怠惰になり、嘘をつき、目的を見失う BigGo ファイナンス",
+      "id": "7f0d9cf7c444b0d4",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米長期金利、週間で1年7カ月ぶり低下幅 「安全資産」にマネー回帰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53bzByNVFJY3gwQy1EY2V1bENsYXhyOFZuR1NfdnhkbjNvMDNuTXdqNVBRSFYyMVNyZWlCcGdvTVhTVGhSOElaYVFFMWVLdUtJSDJyelViNVRXLU1PV1QyWGowaFlkYVptTHNaMQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-16T20:51:11+00:00",
+      "summary": "米長期金利、週間で1年7カ月ぶり低下幅 「安全資産」にマネー回帰 日本経済新聞",
+      "id": "3641e9c3852279c2",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -127,18 +259,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic、ClaudeがNISTのECDSA曲線のシードを1990年代の乱数生成器にたどり着いたと発表",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYmtfYVpxUUFJQzZsY05jaV9WcXp5ZlVuc0wxUEx6dDZRZDl1WW5WWFJ0QjVfbUp5RUUtLVNNZXhQVzgwaXMxRHo5dGJ1NDZTTkRDV243S3lKdkF5UldfVlFfUVFjM1dCVGpiUHlidE1oMnZkeU9rUzFNU0w2bW14NTdSUU1KRDdPTXVNU1RncHlqQl9kbUE?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-10-16T19:12:54+00:00",
-      "summary": "Anthropic、ClaudeがNISTのECDSA曲線のシードを1990年代の乱数生成器にたどり着いたと発表 Unite.AI",
-      "id": "65e2944f8937d507",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "長期金利3%超えに思うパラダイムシフト（佐々木明子）",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jdEwycm5zblhuN2dkYm13RFBIZ29GNzlWcDBNd2JqcGdWbklTZ2x0U2QyY0s2ZTdTU2pmNUJpcG41OHVqbUxOWU5nZ0ZMTk80NGNpd2pUQWFHZG13eTZCbnZINV9Eb19vZGt5eg?oc=5",
       "source": "日本経済新聞",
@@ -148,66 +268,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicのClaude、25年来の暗号技術の謎を30分で解明 執筆",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TQkotcW0yTGJLbE40ZnV3ZzRHMVBkQmZUZG1YMS1rbTdyLWZqZEY2aTlFVFlxYlZiNzU3SFlSMUdTdVR6WFZ1M09kNkc5XzFSdUVQQlM4OFRRWTl5SUdsc21hTE9iMGFHN2c?oc=5",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "published": "2026-10-16T18:53:00+00:00",
-      "summary": "AnthropicのClaude、25年来の暗号技術の謎を30分で解明 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "id": "f279ff64da49b950",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、Claudeが公開済みの最高水準の量子回路設計を上回ったと発表",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzZ4WVlVVDJhc3VIY3R1SkF1VDlkSmp1T3A5R3lOWUU0eE14a0dVam5ldmdxOHhuV3ZOM19rbFJNZjliSm9HV1IwdWoyVXZwVHNOYkY3LWFKQm0xcWNBZ0xiaklfbnNMVXVoTHllZFRtWTFEd3FEd3RxZExjMHhUMG1adFlJWi0ydEhOd0htZlNhYWZM?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-10-16T17:59:10+00:00",
-      "summary": "Anthropic、Claudeが公開済みの最高水準の量子回路設計を上回ったと発表 Unite.AI",
-      "id": "0c1aa8f5c4cb9c50",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "DAIJOBU NIGHT vol.3｜Claude Code/Codex活用術共有会 ～使い倒している人の本気ユースケースを見せ合う夜～",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wbDdCUkZPbjlnd0FCZ0FvOW11Y1Rod3BuMDA2cXAwX19EbVNPbi1ib2QxN3Raa1dGQ291UFNkMnozMFI0dmxZbGpuM0hEU3gwUnhZazhvRFltdEttSUFNa2JjODNJS3JJcU1tUzVYQVF0QQ?oc=5",
-      "source": "Infoseek",
-      "published": "2026-10-16T16:10:02+00:00",
-      "summary": "DAIJOBU NIGHT vol.3｜Claude Code/Codex活用術共有会 ～使い倒している人の本気ユースケースを見せ合う夜～ Infoseek",
-      "id": "37662282f6a26063",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claudeアカウントが停止された場合、2026年レポートの数字と異議申し立ての方法",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSUV0ckpRellQekV3bzM1dzk5dFo2VHBLUlYyYkR2cG5Jc2VkbkgxMTJyWU03OU40OUstQ1lTWlhtZmVJWTIzcDNVSU5JZTE5cFJMTzRtaUJPNF9pQ3BWY0U4T3VvSTVXb3ZYZnR2VWVKNjVXRDhMekJNYXJSUzdBcUVMVHJUUGwzVjZjeE5FSVN0UzlzWURMdQ?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-10-16T15:53:46+00:00",
-      "summary": "Claudeアカウントが停止された場合、2026年レポートの数字と異議申し立ての方法 Pasquale Pillitteri",
-      "id": "50129928fd5b4fb8",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropicの信用格付けが初めて明らかに：「BB+」投機的等級の最高位、600億ドル調達が焦点",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uT0VHWXFDbFRzeHRHbjQzTWdCN1Y3WjFhZGVQX19fZWF4U3UyZkhMLVdwWmEzbUt3aHZtN2xoeGtweTlvZjdmTVlRN2duN1kyb3ZFRHJYUUs3OUNBam1SLWRIbF9INzdZZ2gyWFF3dmFIQjBK?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-10-16T15:25:00+00:00",
-      "summary": "Anthropicの信用格付けが初めて明らかに：「BB+」投機的等級の最高位、600億ドル調達が焦点 BigGo ファイナンス",
-      "id": "dcb14fe59e2c113d",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -331,18 +391,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Tofuが提供するAI自動記帳サービス、Claudeとの新連携機能「MCPコネクタ」始動",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aZEZsWFE3SWJ2Q1JwR2RFYTNwYXc1T2Z1UlI1Wkg1UDhVQmtUZVBEdDgwS3Ryd2owSV9GRS1XMWhjNDd5bTVRMmVFU1BzSmdBS241T040dG9LS3FhTEFxTkZEUUJjaUFyVGd5dkRBVkNpbElmaUE?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-10-16T10:54:12+00:00",
-      "summary": "Tofuが提供するAI自動記帳サービス、Claudeとの新連携機能「MCPコネクタ」始動 ニュースメディアVOIX",
-      "id": "e8c0b49b8809aa1c",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "静岡の10月の景気判断、据え置き 日銀概況",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zUUlZY1M1UDFiZmtaNnNTUVYtN2FrdjZ2Y3B2UmdiQXJ4S01jWDdEUXBncmdtWE5IQ2JHNGVZLUZWdEZYWU1Rb1JMTFJ1TWFlalNsTS1QMFFjdGd0cF9ScW5CWm1GbkpIdTVpTw?oc=5",
       "source": "日本経済新聞",
@@ -352,18 +400,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "MAKOTO Prime、宮城県主催「身の丈DXラボ」連携事業の生成AI体験会で講師を担当",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5faExjUVMySHlHaUtrT0hHdnVQb0lLYTJfZHdwRjZ0MWpLQjRxRVJpNUV1MWxkSE82MHpzVVJQLUJMc3Rvck83cXIyT2oyM1ViYzFfbUFlXzBpUGp6aktEZUtJdUxmaGZEN2c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-16T10:00:02+00:00",
-      "summary": "MAKOTO Prime、宮城県主催「身の丈DXラボ」連携事業の生成AI体験会で講師を担当 PR TIMES",
-      "id": "9053ece6f97243e8",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -427,6 +463,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "債券15時 長期金利、2.930%に上昇 株安一服で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtYmJjd2haUkVWU3ZFUTQtcXJfRUd1cTZIVEdQTjdNcndmZ2xWU2ZDMjB5SWxGNDhDTy00LUpXN1psR25jVW1TOExVSGM0b1FEbEI0dFBNZmNwdjFuZDVEcUQ5Nm5wR0kwN01BTw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-16T06:35:56+00:00",
+      "summary": "債券15時 長期金利、2.930%に上昇 株安一服で 日本経済新聞",
+      "id": "4604101869a8ab68",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "米津玄師、世界11都市を巡る自身史上最大規模のワールド・ツアー開催決定（CDJournal）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jQWhDWGJYS09jQjFzVWtkUmxVWHNpLXRPZTktRmpuN0tUOWhxVjdUcW5hYTdGUXdRSXVFVEtsaExDQ19malUtRFc3RFZ4U3dHZXlQb0VNN0dVTF9uaXFkOF83RTFhNk1zWXFjNUxNM0ZHNmszUXhCaXhBdzlySlU?oc=5",
       "source": "Yahoo!ニュース",
@@ -463,6 +511,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "あいみょん TOUR 2025+ \"ヘブンズ・ベーカリー\" 全公演セットリストまとめ",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiQmdiWVNUNUxTOVRGOU4xZkFKTlNqTTB1amZZdU1wREVjVzBwNDZ4OVRpdWYxNDRjbGtRa2FmUlNWdjMzTE92UHlR?oc=5",
+      "source": "もとりょこblog -",
+      "published": "2026-10-16T03:58:56+00:00",
+      "summary": "あいみょん TOUR 2025+ \"ヘブンズ・ベーカリー\" 全公演セットリストまとめ もとりょこblog -",
+      "id": "41abb1848ddc85e9",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "米津玄師、世界11都市を巡る自身史上最大規模のワールド・ツアー開催決定",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16RmI0ckV4YWZxcG16VzRBeTdVUzhHcUVOMzNsZVRXTjBKdWdwVy1rSlB4MFRiemtLYjIyT0dFQzNYelhjTzIyeVp1eVJLZjF6d0k5b0VXeVg1MUIzYTU4?oc=5",
       "source": "千葉テレビ放送株式会社",
@@ -484,18 +544,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米津玄師、自身最大規模のワールドツアー『GHOST』開催　世界11都市のドーム＆アリーナをまわる",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zeTNfOTJvSUNvZmpET3VyX3hMQkpmamZNcjNWa3kxbXY0Rmo5eWU3U3BiLXNORUROZEZZS3hDN0tZdTBCMzlwWUJyYlNONFBmeHpjUHlfSjJ6Z9IBX0FVX3lxTE5BcS0tX2xxVDRhelFpSVplQ3FhUDg4NjdaNVNfYmFEQWREZU5nbW01NFJWbUdUN183aGdmdVlKUjE2dXlOOU16X2psdFFObElEdmZwQ2YwQXBUa2hIU1RZ?oc=5",
-      "source": "リアルサウンド",
-      "published": "2026-10-16T02:04:57+00:00",
-      "summary": "米津玄師、自身最大規模のワールドツアー『GHOST』開催 世界11都市のドーム＆アリーナをまわる リアルサウンド",
-      "id": "a556d14f33f545e1",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -547,6 +595,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "画像・写真 | 鎌倉の山中に建つ個性的な住宅 芝生の屋根から街並みを一望、約21畳のLDKも『渡辺篤史の建もの探訪』 1枚目",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sSmdSZm41Z2cwRWEteHNnODJVRlRwWHI5ekcyUFNVZkNqNTRFeDlzd0JsWGViZm1nTDMyM3o0Q2tSbXhkOGxabmVOcUhFUW93MDlUdHZnMjBCQQ?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-10-16T01:16:34+00:00",
+      "summary": "画像・写真 | 鎌倉の山中に建つ個性的な住宅 芝生の屋根から街並みを一望、約21畳のLDKも『渡辺篤史の建もの探訪』 1枚目 オリコンニュース",
+      "id": "efe094103194e878",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "しながわ水族館が開館35周年！記念セレモニー開催へ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5YmJYZXZDR0pBN29QS2RpUWhVX2JzaUl3ckFac0x2TUFObkxIY196U2l0dFpvLUNxQW4zbmJaMlhpTXBGNWZ0b1AwLWdXZnJkWVAyMlNRVnptLWhCVW9Ua2dFaTFXQ3lVSVE?oc=5",
       "source": "PR TIMES",
@@ -559,15 +619,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米津玄師、自身史上最大規模のワールドツアー開催決定",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YLUw5UTMxZXVDQ2RUSHhPc0c5dHFCMXFUNUlMN2tBN1NwTjBCdWt3NkhuUldvLXRsNkVJb2xIT09ZckJwcXhJbm1qRmdxNDRCd1pad1JQY0hKZWZaa0twS2tn?oc=5",
-      "source": "Billboard JAPAN",
-      "published": "2026-10-16T01:00:00+00:00",
-      "summary": "米津玄師、自身史上最大規模のワールドツアー開催決定 Billboard JAPAN",
-      "id": "aa31c5393adaf003",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
+      "title": "画像・写真 | 鎌倉の山中に建つ個性的な住宅 芝生の屋根から街並みを一望、約21畳のLDKも『渡辺篤史の建もの探訪』 6枚目",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02WE9BTmVqQ0dlYkVMeVlXbkt2NUVVWjNSRUFieHZLMUxXNFNFd0FULXNXXzI2YjktR2YzalJxZ05nNUJsemVkWXpSWS1jdGlha1B6elFhNVNrUQ?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-10-16T00:53:57+00:00",
+      "summary": "画像・写真 | 鎌倉の山中に建つ個性的な住宅 芝生の屋根から街並みを一望、約21畳のLDKも『渡辺篤史の建もの探訪』 6枚目 オリコンニュース",
+      "id": "67fe62aa912553ab",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -679,30 +739,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "日本遺産「いざ、鎌倉」人気ゲーム「ミステリーの歩き方２人魚伝説殺人事件」とコラボ 市内５カ所を周遊",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81ZHIwNnhsWWowMFhwLUFONS03cC1aVWN3ZjZ1UGUzR3dfdm9jbzZZWUw4d1dJZEQ4RFVZTGhOamI5TXVBc1hPbjBEUFJva1Q3c1hKVFlBam92TGRMXzUxbjJ4eGU?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-10-15T15:00:00+00:00",
-      "summary": "日本遺産「いざ、鎌倉」人気ゲーム「ミステリーの歩き方２人魚伝説殺人事件」とコラボ 市内５カ所を周遊 タウンニュース",
-      "id": "48e605da0a416cb9",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「鎌倉はんこ」月野さん 全国印章技術大会で金賞 高難易度「木口密刻」部門で",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJUnVuVXZ4dGdrMHd4S1cycUFKUDVSWTA1SVkzN2RLNEJSSmxnSVh5eEFDUnQ3XzhocG1WcEFNcEFTNTN1TEU4Wkl0UTkxVk1ENjRlMGtEZlBZZlBPQnJFSG91X1M?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-10-15T15:00:00+00:00",
-      "summary": "「鎌倉はんこ」月野さん 全国印章技術大会で金賞 高難易度「木口密刻」部門で タウンニュース",
-      "id": "bddab34e9b8a9f2b",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "「秦 基博 20th Anniversary LIVE」WOWOWで27年1月に放送・配信決定！",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPMERLcVRVRTI1TklBLXVsYUZwRlFSR1N0R2gxWVVjVFV2VTh2UzVHMVI0Vy1MdktTcndPLWdPMi1pbVVKRTl4YVFDc3EtWDJLTHFDQlhHUk4wSFNvelhJVHdVOTNCVzZzRUxYMzMxd0RRbmxhaDBpNWw0Yw?oc=5",
       "source": "ニコニコニュース",
@@ -763,30 +799,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "フランス金利上昇とユーロ安 日本経済への影響は？ 野村證券・岸田英樹",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCLXRwR1dwWUNudkNXMGJzeEtaYzhFZkJuRngwNV9SX2tISXFLY19XNDVBb04zX0pPQTFIaWktTV9fV2x0eWdpaGR6Z1dhTUpwQ3k5M295OUJ6OWRSdE13?oc=5",
-      "source": "野村證券",
-      "published": "2026-10-15T06:00:00+00:00",
-      "summary": "フランス金利上昇とユーロ安 日本経済への影響は？ 野村證券・岸田英樹 野村證券",
-      "id": "efa444fbaee3e08c",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "中小企業が今すぐ使える融資・税制優遇・補助金・助成金の活用法を解説「資金繰り改善セミナー in 熊本」11/9(月) 開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iRW5ObmZSNndfNWVqd2xScVhkTjlCWF9ZMGFwaEVJUmU1bk5MYmQxMV9YRnlSd0UtWUtLYnZpZFFzWVdzaW5WTTJQMGdLVnZXc0ppZTRKUnZFZUJxU3NUTjN0dWxVN1JCcFE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-15T02:41:19+00:00",
-      "summary": "中小企業が今すぐ使える融資・税制優遇・補助金・助成金の活用法を解説「資金繰り改善セミナー in 熊本」11/9(月) 開催 PR TIMES",
-      "id": "42291968e3566fbf",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "エシカル消費イベント in しながわ「shinagawa ETHICAL 2026」",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOamZtVHpPUUtROGNVaHNNS3R0dHhIUWRhSnBta3YtVThSX3BJZVRkN0JFckFzUFZuX0dmUjZmLXFxNXM3V1U2NTduNExlMm1TcGJuQTdpdm5pazlsTVZacXNXYUtoLTFtNEhNMkFJMWF3V2V0eWxJZHREMlVxV0ZyTm1GZU5WYlJtTllSaw?oc=5",
       "source": "品川区",
@@ -796,18 +808,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【東京都】CVCと中小企業・スタートアップとのマッチング支援事業、マッチングを希望する中小企業・スタートアップの募集を開始",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HM2Rodzh3Tkk2ZzJpX0RwM3AxVVo1R29ST2xadTdqZjhWaEljYU5YZ1dGTUVGZ19oZzlXNV9jRHNVa1k1VmVkX0lFa0hhNHBhSUVRTm5pd3R6OVhfUnlWSTh0cHFjdw?oc=5",
-      "source": "創業手帳株式会社",
-      "published": "2026-10-14T05:46:03+00:00",
-      "summary": "【東京都】CVCと中小企業・スタートアップとのマッチング支援事業、マッチングを希望する中小企業・スタートアップの募集を開始 創業手帳株式会社",
-      "id": "a4f5223fa8a8d005",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -895,6 +895,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "RADWIMPS LIVE 2013 春ウララレミドソ セットリストまとめ（横浜アリーナ）",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DSkhrNm1mY3lkNWZEdDJyc3k5REFPa3REYVdpM002UVUxeElZX2VKU3BLM1ExNW1EZHZhVXVveGYtQnRjdTNtTjd3?oc=5",
+      "source": "もとりょこblog -",
+      "published": "2026-10-11T09:36:24+00:00",
+      "summary": "RADWIMPS LIVE 2013 春ウララレミドソ セットリストまとめ（横浜アリーナ） もとりょこblog -",
+      "id": "0067003ecb12cb6a",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "桑田佳祐「夏祭りツアー」追加公演で4年ぶり年越しライブ決定、熊本での振替公演も発表（音楽ナタリー）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KODNnUTY4RmJiZVlhTmlkNEE1TGNQZ1A5UVJJaEprc3pmWXNDYmRfSFdiTjRscjVCV1N1WjR2eERoaGY0RWI5V3VsTE0tbk44LTJ0MmF0Wmd5UUpETDZ6RFZ5VmthQVVKVnd5MUpmOW1WSGZ1bzFhRnMzbFVEb0E?oc=5",
       "source": "Yahoo!ニュース",
@@ -967,18 +979,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Number_iのライブ倍率・当落2026・2027｜「No.III」投票結果・一般発売・チケットの取り方",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PMTR5S1NRc28wV0E0dTUwNGdqVi1ZNDBGckFUTWRQeVBaNG5TVkhPamxwRWpmLWxna3Vfd3AwaldFVmFwMzljTHpWLWw?oc=5",
-      "source": "LIGNEA",
-      "published": "2026-10-10T00:16:53+00:00",
-      "summary": "Number_iのライブ倍率・当落2026・2027｜「No.III」投票結果・一般発売・チケットの取り方 LIGNEA",
-      "id": "e89f9dba349ad73a",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【関東】2026年10月12日「スポーツの日」開催の無料イベント15選 フェス＆グルメ満喫",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mSnoyUXQ2TXZLZEhZWjRuamtzSkF2Rk1HVUpYWUItWi1wMjV2Q2tUTHRaTU4tN0hKZnFESWFlakpMSzFsbnh6QnppeDFyUkV5eVE?oc=5",
       "source": "いこーよニュース",
@@ -988,18 +988,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【藤沢市】10月限定！ 湘南台の「カメラのキタムラ 藤沢・湘南台店」に併設の「北村写真スタジオ by MERCI」で最大480組限定の無料撮影会が開催されます！ 本物のアンティークを取り入れた上質な撮影空間で写真を残せます",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HNm1pTE04b01SR0F1MHFRaWZtRGdKczF2QzVDellQU055Nkk4a3BnNWNEbUFnNWJpUE9LYm05TXY4N0NBMUN1T0NXaTVvOFhXRHdFYm9vYVduNjIxYnVaa0s3VVIyTFhCbmJiT055c0pjMmFfcUd3YkxhNFY?oc=5",
-      "source": "号外NET 藤沢市",
-      "published": "2026-10-09T21:57:13+00:00",
-      "summary": "【藤沢市】10月限定！ 湘南台の「カメラのキタムラ 藤沢・湘南台店」に併設の「北村写真スタジオ by MERCI」で最大480組限定の無料撮影会が開催されます！ 本物のアンティークを取り入れた上質な撮影空間で写真を残せます 号外NET 藤沢市",
-      "id": "6e55941b0e8fd963",
-      "category": "不動産",
-      "topic": "道場物件（鎌倉・湘南）",
-      "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1078,7 +1066,7 @@
       "title": "掘削機に損傷、リニア工事中止 東京都品川区のトンネル（共同通信）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SeDJJUHRMNTFrY3Z5LXFzQ2RxdTBQNllXdEZyM2dVQnNyRVBmaEo3c1lyY0lYbnBlb0FWR3BMOTdfZ29JWXJGaU9oTUp6MUJrWTdCLUJ4bDNYWUFhX21SbWROMV9FVkk5NEphOHg4NkNnaDFObnk2TWNLdVZYaTA?oc=5",
       "source": "Yahoo!ニュース",
-      "published": "2026-10-08T08:09:52+00:00",
+      "published": "2026-10-08T07:00:00+00:00",
       "summary": "掘削機に損傷、リニア工事中止 東京都品川区のトンネル（共同通信） Yahoo!ニュース",
       "id": "6a5353ee59c40e60",
       "category": "地域",
@@ -1123,5 +1111,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 88
+  "count": 87
 }
