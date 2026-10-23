@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-22T22:04:16.512734+00:00",
+  "generated_at": "2026-10-23T00:19:06.127149+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -32,7 +32,7 @@
       "name": "道場物件（鎌倉・湘南）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 1
+      "count": 0
     },
     {
       "name": "地域ニュース 品川",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 12
+      "count": 10
     },
     {
       "name": "経済・ビジネス",
@@ -67,8 +67,44 @@
   ],
   "items": [
     {
+      "title": "ChatGPT、Claude、Gemini。1カ月間の比較でわかった、私がお金を払いたいAI",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONkEycTBrYmFuOTQ2OVhmbDlDSTNXaURreHVIZk5wWmNDRk1kWXZmQUlmT29NbmZ6WGdraTJhMFRXTjNTWU1QdmpTSHZQWFZ6NFJmTGhNbUVsSXJoLXFBN1A2MzU4eElNMGhKd3R2UjJVYlZreVlxYXZ5WEdRNjJzTHdmbWU3R2o5YWNPa2t1TkNzb3hoa0RRdDMyT3RyZw?oc=5",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-23T00:00:00+00:00",
+      "summary": "ChatGPT、Claude、Gemini。1カ月間の比較でわかった、私がお金を払いたいAI ライフハッカー・ジャパン",
+      "id": "c2844f31ef327ba8",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【10/30(金)16:00～17:00】顧客への提案力・満足度を高める補助金活用セミナー",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ha21MNWdjX1E5THBrOVhiMnIzQ1Zzb2dteHVVSnlXY1otSG4yQ09FbTBIX01IdlJ3ZUZxeHZBT0gxaG95alVaQWRJZzlHSngyU2g0X1cwdF9GYkF6RF9uMXdYZWRSVlhLMUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-10-22T23:00:01+00:00",
+      "summary": "【10/30(金)16:00～17:00】顧客への提案力・満足度を高める補助金活用セミナー PR TIMES",
+      "id": "e011076ca162948f",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00SEFGY18xTWNudmVZcUVQQ2JmczJZeDI1QThMMWNPZkRTeFhMMF96MjMwUXMtQ09WVGJiSms3cGxzazFlUHpMVFhPTmlGN0dJWVpycno3Q3hHOHZSOS1rMVNOQ1A5ZDJ4VEJtZnRLTlJ5R0lkVDA0alJfTE0?oc=5",
+      "source": "GIGAZINE",
+      "published": "2026-10-22T22:37:14+00:00",
+      "summary": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある GIGAZINE",
+      "id": "82115bc98b17e938",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Claude Coworkが仕様変更 企業の懸念は減るか増えるか？",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM093SWt3UDVvYWtrZkpZX2ljSFh6QzBjcHpYa3dkb0tHZERlNVh3cV9DVmt5cHN6d0gzdEE4bENHeHNPUXBxYzFlSlFNdTBCcS00MUhoLWlsU2hTaU1Ga3pDWV9MWE5mdm05OElxd3loNXNBMWFpaDk3STNSdG1lVko1LUYwWlZJZ1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wNXZpbUtHU08xMlU1VURuYTRaQW5TeXJfWWNSdVRmNm10ZGQ1WXlFTmw2enN6MGlfQW84QmN6MUw0MktHdjE3MmVSUHo4d3dDYTZzOE5FWmZ4SEQ2TmRUd0tSdEJDNUI2RFc1RnE5QXc3Zw?oc=5",
       "source": "日経クロステック",
       "published": "2026-10-22T22:00:00+00:00",
       "summary": "Claude Coworkが仕様変更 企業の懸念は減るか増えるか？ 日経クロステック",
@@ -115,18 +151,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00SEFGY18xTWNudmVZcUVQQ2JmczJZeDI1QThMMWNPZkRTeFhMMF96MjMwUXMtQ09WVGJiSms3cGxzazFlUHpMVFhPTmlGN0dJWVpycno3Q3hHOHZSOS1rMVNOQ1A5ZDJ4VEJtZnRLTlJ5R0lkVDA0alJfTE0?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-10-22T19:34:05+00:00",
-      "summary": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある GIGAZINE",
-      "id": "82115bc98b17e938",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CVVBFNzZGM1V3eTF3R0xXUm1LYmpyTm81V09nenJwZURCRVpvcEl3NGtBbVJ3WHhhRnJyVTJlWUN0Vmx4QjBXWjlyc0EyNnFiRHNyb0FBanhWUGc?oc=5",
       "source": "GIGAZINE",
@@ -163,24 +187,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉でスペイン音楽",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzTmJQMUZvZ3FEVmNQa2JLTXhTT3VwdzkwQ1NRdFdjQ1dLNGxxbFBKb1JIQzIwNk1kNEJ3QmpJTXFFM091c2V4S3ZsZnlLemdWQWtCTjdZb0Rqdk9hd1plMW56Mkg?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-10-22T15:00:00+00:00",
-      "summary": "鎌倉でスペイン音楽 タウンニュース",
-      "id": "fe00d99d6de1aa2e",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "全国路地サミット 材木座で県内初開催 歴史、暮らしの価値 問い直す",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01Ni1lbVVxVXg0clUzQ2Q1eDgxb3Bwd1pncW4yUEFDX1JybUhLQXRoNEIzUnVIS0xIME9tdVZmZlNId3lxVkszdG5qcVNqODZ6MzBjTlF5Z2lITFd2MGRzaEhLcWw?oc=5",
       "source": "タウンニュース",
       "published": "2026-10-22T15:00:00+00:00",
       "summary": "全国路地サミット 材木座で県内初開催 歴史、暮らしの価値 問い直す タウンニュース",
       "id": "ad908416491b5fb2",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "鎌倉でスペイン音楽",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzTmJQMUZvZ3FEVmNQa2JLTXhTT3VwdzkwQ1NRdFdjQ1dLNGxxbFBKb1JIQzIwNk1kNEJ3QmpJTXFFM091c2V4S3ZsZnlLemdWQWtCTjdZb0Rqdk9hd1plMW56Mkg?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-10-22T15:00:00+00:00",
+      "summary": "鎌倉でスペイン音楽 タウンニュース",
+      "id": "fe00d99d6de1aa2e",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -367,6 +391,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "パーソナルAIアシスタントClaude Duet",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYQmVZUUE4dXZpMG1mT091XzJGaHhxZ0xpVVlCbDlaSjJlU0FMVTNxbmVhT3pBYkU3emlMcEc5U1Y0TWtaNFY3WXQteXVzaVNuU3dlV3NpSQ?oc=5",
+      "source": "gihyo.jp",
+      "published": "2026-10-22T10:59:00+00:00",
+      "summary": "パーソナルAIアシスタントClaude Duet gihyo.jp",
+      "id": "6449354196cec34c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "米津玄師、来韓チケット販売当日に全席完売..韓国ファン心を証明",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NFhPa0p1UE00NUhndTNGQ3I2Y3ZlNlk5Wi1pZGlHNW5iQ2NGaVl4SV8tbzVkVWJSYWQ4a2lxWUxfclRfb0RpNnVPT05TS3V1Z2hEWG14YjEzNC1xUG05eVJxQVRJMl9yOGFCcE5KWWg0TlBFWDNDTA?oc=5",
       "source": "스타뉴스",
@@ -475,30 +511,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Duetを公開、先に連絡をくれるAnthropicのAIエージェント",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVmg0bXFZelE2X3ROQms3aEllTHp6d2hPRG5hb3VxdUc0ak5xTjd0NXYwY05uaVl2MEpjN2d0RU94cXhzdU9zQmk1emJqQlRrSklEN3prNHJOZ00yYzhYZWlkbEs3LWpwLU8yNnZzSzB5dFFobXVrVDdMYzE2STNUQngyUQ?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-10-22T08:46:05+00:00",
-      "summary": "Claude Duetを公開、先に連絡をくれるAnthropicのAIエージェント Pasquale Pillitteri",
-      "id": "9729b44e7921b473",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【新サービス】Ragate株式会社、「生成AIの全社導入支援」を提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xLWhBX0NtUG43NW53aDdxU2NfYXo4MGpKc1RSb1QtaVFRNlp6eE9hRWoySUNYZ3V3Z2o1bnZpYnRXSGpZTVRpbFlodmNNR21XaUxnOWVic2Z2a1pMbENYRlR3QnRYSXFPVnc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-22T08:00:01+00:00",
-      "summary": "【新サービス】Ragate株式会社、「生成AIの全社導入支援」を提供開始 PR TIMES",
-      "id": "30f95d959194f26f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "あいみょん「装苑」表紙にロリータで登場 誌面に増田貴久、あの、井上瑞稀＆中村嶺亜、milet、川尻蓮も",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ObmFpMnZNdzJaWi16VTk4V1BkLTJ4dDhqMXJpbVllbVdDYjRDSnNqTjFSTUQtaWNJRW80MW5PZTRyb24yOGFuaWZaZ0w?oc=5",
       "source": "ナタリー",
@@ -604,18 +616,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "有限会社野田収一事務所、AI導入補助金2026「10月末締切」に向けた【土日も対応】緊急相談窓口～月曜朝の即日申請開始",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1ZVU1UVh1WFJJakVpUlkyZVp3RmdzMWxpQ1NJMENkNW1PSGZQV0JpMjZXOTlpdDhOcS1iNmhnbS1kMlVvWHVjSk9LQlN1ZVpsdWpZRTZ5V0pGUk5EN2pRbGNqbks4NkY1NF9PRlBIaGg5TVFDbzRkY0Fudw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-10-22T01:04:02+00:00",
-      "summary": "有限会社野田収一事務所、AI導入補助金2026「10月末締切」に向けた【土日も対応】緊急相談窓口～月曜朝の即日申請開始 ニコニコニュース",
-      "id": "5df0fe08bfd0e841",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -931,18 +931,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "忍者コスプレで当日参加OK！「くの一武道大会 丹波 福知山の段」",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rLXFlQzVlRVVyZFhfTlBDenk4NlVES0lWWjRjRS0weUFWQUtPQnNISUFwOGI1SUZiejNabWVBQndlUHhwZTlhZHZUNWRGVnJkUUw1ZNIBWkFVX3lxTFBLeHVUVnF6dXJiVzlOaXg0RDZXTkc3WGVacm9QS0pCZ1E2N3Frc0IyRE9qcW9jMEg0V0FnVW53cmRfWFpmVTdOLThNbHhxcnBTVDluNG5CQm40QQ?oc=5",
-      "source": "ウォーカープラス",
-      "published": "2026-10-18T21:41:45+00:00",
-      "summary": "忍者コスプレで当日参加OK！「くの一武道大会 丹波 福知山の段」 ウォーカープラス",
-      "id": "1638e8084470e732",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "UVERworld VS シリーズ2023 BiSH・髭男小笹大輔@横浜アリーナ セットリストまとめ",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QQUNKWFZsdVVQQmNYcnROSWpoLWxhM3Z1WVk3czNRb3NIdEFGTENmSlBmVHVJMm0wMlRKRXdOc2wxM3BxQzJ2NDJ3?oc=5",
       "source": "もとりょこblog -",
@@ -1003,6 +991,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "品川区制80周年記念｜品川区公式ウェブサイト",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIaU1GQ0VKRUk3RHRlalJlRWprc1VMMzNLcmV6VEFVa01zTTliOW1oQVVsN3Jqd0NOSEl0NVoyeEhSU3JMWTV4dG5na21nVGNtVXk1Sm80dC0zSWdPVUVXaFRqN0RaT2NPNzRkclVoTkJtWXYxV1U3OVB3?oc=5",
+      "source": "www.city.shinagawa.tokyo.jp",
+      "published": "2026-10-16T07:00:00+00:00",
+      "summary": "品川区制80周年記念｜品川区公式ウェブサイト www.city.shinagawa.tokyo.jp",
+      "id": "ed32829112d1f4fb",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "第65回 全国郵政武道（剣道）大会",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1scnBEUVdXaldGc0FhN3dNNExYUGpBcU9vYmpUdDVuUHpBRlA1LXVCbWo3SnF3WlIwd2J4VWNEbm5sMGJDTFRkVXM0cDNrQzItc2tr?oc=5",
       "source": "全日本剣道連盟",
@@ -1012,30 +1012,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "しながわ水族館が開館35周年！記念セレモニー開催へ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5YmJYZXZDR0pBN29QS2RpUWhVX2JzaUl3ckFac0x2TUFObkxIY196U2l0dFpvLUNxQW4zbmJaMlhpTXBGNWZ0b1AwLWdXZnJkWVAyMlNRVnptLWhCVW9Ua2dFaTFXQ3lVSVE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-16T01:00:01+00:00",
-      "summary": "しながわ水族館が開館35周年！記念セレモニー開催へ PR TIMES",
-      "id": "43a62aa308803e8a",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "市民と議員がカフェトーク 11月、参加募集",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRVjNjSkhRaFY3WVpPMUl3M0p3MldITXlKNUJYWjdvZjZXbDc1SmdVWXhuaVpwVGxteVgwclpLX1VYOTBwVWdDdldRVUxQTGY3UGlQWVpwaUc4OElKaFRRaU5WejE?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-10-15T15:00:00+00:00",
-      "summary": "市民と議員がカフェトーク 11月、参加募集 タウンニュース",
-      "id": "0bc71f3a97c22590",
-      "category": "不動産",
-      "topic": "道場物件（鎌倉・湘南）",
-      "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1051,41 +1027,29 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDczBUcDZyOWVDSS1DN0ZXUFRUc2swc0RVTmdJdlZkQmNIQ0ZkbEdMcHVXTGFFNFRjejdEemVMWDE1bjdRUUUxRjl5OEpiUVNuUFE?oc=5",
-      "source": "レッツエンジョイ東京",
-      "published": "2026-10-12T07:00:00+00:00",
-      "summary": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026 レッツエンジョイ東京",
-      "id": "f0df52290df78587",
+      "title": "「降りればいいんだろ！」グリーン車に迷惑客 料金未払いで逃走…女性車掌に引き渡したのは合気道の達人（ENCOUNT）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZMW5BcE9uUXRLcVA4dXRiU2xIUUVEdVZxRjlhc0xzcE05LU5uQmRqZXNyeUFQcXJZQXFBNlE1Y2tJSGxGVnhZb0Zta2VBdWxBMWtBR1FPejA5NHIyVmZoZmx5MFF2VlgySm51S1loMFFWeTM2V0dqaGRTSThJaVU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "「降りればいいんだろ！」グリーン車に迷惑客 料金未払いで逃走…女性車掌に引き渡したのは合気道の達人（ENCOUNT） Yahoo!ニュース",
+      "id": "3e799940fb8a2b7a",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【東京】2026年10月12日「スポーツの日」開催の無料イベント9選 フェス＆音楽＆グルメ",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzYlV0LXpmRUgxcHJZcUZtMHQ0UUItd2p1U1laVVlZSlc5R0k1UEtEZ2FnRTBzSGpna2FVUlBjQ0xqaWJwckdZSGZFeXdYSGZDcGc?oc=5",
-      "source": "いこーよニュース",
-      "published": "2026-10-11T07:00:00+00:00",
-      "summary": "【東京】2026年10月12日「スポーツの日」開催の無料イベント9選 フェス＆音楽＆グルメ いこーよニュース",
-      "id": "7ab5409fec11c7c8",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【関東】2026年10月12日「スポーツの日」開催の無料イベント15選 フェス＆グルメ満喫",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mSnoyUXQ2TXZLZEhZWjRuamtzSkF2Rk1HVUpYWUItWi1wMjV2Q2tUTHRaTU4tN0hKZnFESWFlakpMSzFsbnh6QnppeDFyUkV5eVE?oc=5",
-      "source": "いこーよニュース",
-      "published": "2026-10-10T07:00:00+00:00",
-      "summary": "【関東】2026年10月12日「スポーツの日」開催の無料イベント15選 フェス＆グルメ満喫 いこーよニュース",
-      "id": "f388fa2e461c6500",
+      "title": "合気道覇天会創設20年、フルコンタクト合気道選手権大会30回―藤崎天敬師範が追究してきた「立ち関節技による制御」と「自制心を学ぶ合気道」、第30回大会を開催",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uZXRxSERUWWRpODZqWlNHY2hJR1FjRU0tVGd5XzFiaVpNVDJmRHdTUkJpR1FaM0tTZjZUaWhTdUsxVllGN0Z4YjFGSHpqZmxBTHdSMG5jVU04Vk0?oc=5",
+      "source": "valuepress",
+      "published": "2026-10-09T01:00:00+00:00",
+      "summary": "合気道覇天会創設20年、フルコンタクト合気道選手権大会30回―藤崎天敬師範が追究してきた「立ち関節技による制御」と「自制心を学ぶ合気道」、第30回大会を開催 valuepress",
+      "id": "f3fd4b2e93568ec8",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 85
+  "count": 82
 }
