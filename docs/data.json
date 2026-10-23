@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-23T03:05:09.450068+00:00",
+  "generated_at": "2026-10-23T05:05:32.706142+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -67,10 +67,94 @@
   ],
   "items": [
     {
+      "title": "Anthropic、先回りして通知する「Claude Duet」発表 米Pro・Max向けに試験提供",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Nc0lDamhvVGZzN09EN0h3T01yb0FZWUlyV200VlFqMU9OanJtWENaaHlNdjVVWF9vOXE3NVk4ajg4em9JRmZfVmM2SGgyc3RSeFNDazZkMGpZY2ZOdVhWRU0wcUpES05B?oc=5",
+      "source": "NOVAIST",
+      "published": "2026-10-23T04:42:13+00:00",
+      "summary": "Anthropic、先回りして通知する「Claude Duet」発表 米Pro・Max向けに試験提供 NOVAIST",
+      "id": "e70dcfbb98fefa52",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00SEFGY18xTWNudmVZcUVQQ2JmczJZeDI1QThMMWNPZkRTeFhMMF96MjMwUXMtQ09WVGJiSms3cGxzazFlUHpMVFhPTmlGN0dJWVpycno3Q3hHOHZSOS1rMVNOQ1A5ZDJ4VEJtZnRLTlJ5R0lkVDA0alJfTE0?oc=5",
+      "source": "GIGAZINE",
+      "published": "2026-10-23T04:40:00+00:00",
+      "summary": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある GIGAZINE",
+      "id": "82115bc98b17e938",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CVVBFNzZGM1V3eTF3R0xXUm1LYmpyTm81V09nenJwZURCRVpvcEl3NGtBbVJ3WHhhRnJyVTJlWUN0Vmx4QjBXWjlyc0EyNnFiRHNyb0FBanhWUGc?oc=5",
+      "source": "GIGAZINE",
+      "published": "2026-10-23T04:21:56+00:00",
+      "summary": "人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される GIGAZINE",
+      "id": "9f473dbba7493a62",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIによるコード生成急増でGitが限界に？ Anthropicが独自システムを開発",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01Z3hVOEwzYldmblhCWURfM3VJZF9GU1R6ZlpvZzZYbVB5MUgydElFTmw2c2tqUUxIa0s2Tnp2cE53dkZha0JTYy0zVmRiQVl4aUhqZTh1OEFKeEdOai1fLWd5Ty1VczVG?oc=5",
+      "source": "マイナビニュース",
+      "published": "2026-10-23T04:05:47+00:00",
+      "summary": "AIによるコード生成急増でGitが限界に？ Anthropicが独自システムを開発 マイナビニュース",
+      "id": "1e80e923286dce21",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnY0lJRFYySTVvQVdHT0txQ2kweHJvbFZpODJqQnBHbm5jRmJXS2ZHR2RwdUZHQ3RIb1hTUXRQV2lLd3BVNmhtUkhQWmEybExpemlFVmNLUHJGQWJ1TW9nelpMTDV2ZEEtOUNnVnpKdmExNFk?oc=5",
+      "source": "GIGAZINE",
+      "published": "2026-10-23T03:58:00+00:00",
+      "summary": "「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発 GIGAZINE",
+      "id": "9f935a230df76b97",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "KENSHI YONEZU 2026-2027 WORLD TOUR / GHOST",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTmZOWVBJTjFuN1d3YVNkSEItcS1lSU9OOURHT0J1VG96LXBudTYxeElBQW9PXzQwcE12b2QzRWl1SjUxY1M3NmlKRHF4cWNJNmJLd2pOQnZ6TTRFdmR3eTdBWUNsdVRleEVSTDF2c043MDhWdk5MVTVNNDVYdE0yaU9qbkVnUQ?oc=5",
+      "source": "米津玄師 official site「REISSUE RECORDS」",
+      "published": "2026-10-23T03:28:15+00:00",
+      "summary": "KENSHI YONEZU 2026-2027 WORLD TOUR / GHOST 米津玄師 official site「REISSUE RECORDS」",
+      "id": "f16677614af72afe",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【鎌倉市・藤沢市】横浜高島屋で「秋の江ノ電物語」開催！湘南・江ノ電沿線のグルメ・雑貨が集結 10月29日～11月3日",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mcUJpWWl0WGFLY19yMlY4U1pSdVhLaHBoUTVFaElCelVOQm82Vl9hdTZKVS1Bb1BoUzVOT1JvWGpySFFfckJFb2VobEpHVlVIRXJ4bG9RZ1E1NXFaSTFpYk54dkt4aWFn?oc=5",
+      "source": "湘南人",
+      "published": "2026-10-23T02:49:50+00:00",
+      "summary": "【鎌倉市・藤沢市】横浜高島屋で「秋の江ノ電物語」開催！湘南・江ノ電沿線のグルメ・雑貨が集結 10月29日～11月3日 湘南人",
+      "id": "e390fdb8a3aee087",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【ニュース】 寺田倉庫、天王洲エリアでスタートアップ向けワークプレイス事業「Creation Hub TENNOZ」を始動 東京都品川区",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QZzBreG9XcmJGeHdxZFdYMldubHRocFRTUTVZT2lBa3c2X2pkRjdxbFVyNzA1Uy1NZ3ZrdkhiV1JfUkxHQ2p5X282QWNKWk4xM1N0dVhacnIydw?oc=5",
       "source": "遊都総研",
-      "published": "2026-10-23T02:05:02+00:00",
+      "published": "2026-10-23T02:04:45+00:00",
       "summary": "【ニュース】 寺田倉庫、天王洲エリアでスタートアップ向けワークプレイス事業「Creation Hub TENNOZ」を始動 東京都品川区 遊都総研",
       "id": "5b81f9e7f7ed805a",
       "category": "地域",
@@ -91,6 +175,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "ショーケース、株式会社AnchorZと業務提携を開始 生成AI時代のなりすまし対策強化に向けて認証技術を連携",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FRVBPcnQzQUpPWktROFp5RlBoeHhQck1uQ0szdUtIWFJocHRMdE1uWG5CbVNhUUE2aE43SWpsNHZ5OS1WeVlvNTFuZW0tMHFrN3dCaTZFZWJqUGtCamxyb3NJWHk3WEEzcFE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-10-23T02:00:02+00:00",
+      "summary": "ショーケース、株式会社AnchorZと業務提携を開始 生成AI時代のなりすまし対策強化に向けて認証技術を連携 PR TIMES",
+      "id": "f0bde5a00e37dba6",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ADEKA、鎌倉でプラ資源循環プロジェクトをスタート：リサイクルニュース",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYSVlQT2tPeUVBdzNoUTRrU0M3SHpvY0lkN3A4eTlkVDFkTHlVOUw0X25xdGVjY0FmVFJ4MkVfVkM5N3ZwZF9pRWttVkVyU2pOTjdyZndYQXgxdnlmSlRkOU1sVDNLbEY2RzczTzBrSQ?oc=5",
       "source": "MONOist",
@@ -103,39 +199,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00SEFGY18xTWNudmVZcUVQQ2JmczJZeDI1QThMMWNPZkRTeFhMMF96MjMwUXMtQ09WVGJiSms3cGxzazFlUHpMVFhPTmlGN0dJWVpycno3Q3hHOHZSOS1rMVNOQ1A5ZDJ4VEJtZnRLTlJ5R0lkVDA0alJfTE0?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-10-23T01:41:06+00:00",
-      "summary": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある GIGAZINE",
-      "id": "82115bc98b17e938",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【鎌倉市・藤沢市】横浜高島屋で「秋の江ノ電物語」開催！湘南・江ノ電沿線のグルメ・雑貨が集結 10月29日～11月3日",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mcUJpWWl0WGFLY19yMlY4U1pSdVhLaHBoUTVFaElCelVOQm82Vl9hdTZKVS1Bb1BoUzVOT1JvWGpySFFfckJFb2VobEpHVlVIRXJ4bG9RZ1E1NXFaSTFpYk54dkt4aWFn?oc=5",
-      "source": "湘南人",
-      "published": "2026-10-23T01:26:50+00:00",
-      "summary": "【鎌倉市・藤沢市】横浜高島屋で「秋の江ノ電物語」開催！湘南・江ノ電沿線のグルメ・雑貨が集結 10月29日～11月3日 湘南人",
-      "id": "e390fdb8a3aee087",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CVVBFNzZGM1V3eTF3R0xXUm1LYmpyTm81V09nenJwZURCRVpvcEl3NGtBbVJ3WHhhRnJyVTJlWUN0Vmx4QjBXWjlyc0EyNnFiRHNyb0FBanhWUGc?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-10-23T01:16:50+00:00",
-      "summary": "人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される GIGAZINE",
-      "id": "9f473dbba7493a62",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
+      "title": "金利上昇の波ローマへ パリ発、試される高債務国の耐性",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IejV6cmstV29HWmpabXFuTzRnQl9OOFptSUI1ZGxDZHZsaHRsUVBMWkNBVE5KbkdMZDhicDlTNEotbDBKVm5Ic1ZPWE81VTQtR1RVZU1CMTJKb0ZXeVFmOG5FdWFSZjlOaXRZTw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-23T02:00:00+00:00",
+      "summary": "金利上昇の波ローマへ パリ発、試される高債務国の耐性 日本経済新聞",
+      "id": "bf0845bd2d03585e",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -175,15 +247,27 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "KENSHI YONEZU 2026-2027 WORLD TOUR / GHOST",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTmZOWVBJTjFuN1d3YVNkSEItcS1lSU9OOURHT0J1VG96LXBudTYxeElBQW9PXzQwcE12b2QzRWl1SjUxY1M3NmlKRHF4cWNJNmJLd2pOQnZ6TTRFdmR3eTdBWUNsdVRleEVSTDF2c043MDhWdk5MVTVNNDVYdE0yaU9qbkVnUQ?oc=5",
-      "source": "米津玄師 official site「REISSUE RECORDS」",
-      "published": "2026-10-23T00:27:04+00:00",
-      "summary": "KENSHI YONEZU 2026-2027 WORLD TOUR / GHOST 米津玄師 official site「REISSUE RECORDS」",
-      "id": "f16677614af72afe",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
+      "title": "サービス業の裏方業務を３分類、コミクスが生成AI実装ミニ教材を制作",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95V2NFRGxZSE85UU9lOUdNUTNSOG42OTJhTkhWQkhoeEotOXpVdG4xQ1VnaHlaWnNaYnRvVVVIWW1fLWxzUWFKWFN3TlYybk1oSkU0V1plNzFZVVpSQ09qYXBHVHF5dU5wRUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-10-23T00:30:01+00:00",
+      "summary": "サービス業の裏方業務を３分類、コミクスが生成AI実装ミニ教材を制作 PR TIMES",
+      "id": "9df5b227dc85ac84",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ChatGPT、Claude、Gemini。1カ月間の比較でわかった、私がお金を払いたいAI（ライフハッカー・ジャパン）",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOczgwcXJ3V09zRm9VbURvWS1IeTFuOGc0Skx0RklWRzFOY1E2Rm8xaEZJWmtJd2VpNGktTkhhTzdFZExIZVY5SFduX2pKdXhjUFZxNDlnSDBkWHdnUDJOWXJVaFJrbmZzTUNjaFV1S2tZWlY5dW0xRjhHZUx5b01UMjBTRXJXRnJm?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-10-23T00:01:02+00:00",
+      "summary": "ChatGPT、Claude、Gemini。1カ月間の比較でわかった、私がお金を払いたいAI（ライフハッカー・ジャパン） Yahoo!ニュース",
+      "id": "14e61b2e7b370eb3",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -271,6 +355,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SMU1TX2pGYlhIQVFfMWt3UmxxUDVyLThTUkRDNTFMYk4xMkFhSWY0ZENKcFotRnlrSkhRcVVpYjJFVmh4MUhqRTA4VU4zbjRaWWpTanhPTVJCenVN?oc=5",
+      "source": "山陽新聞デジタル｜さんデジ",
+      "published": "2026-10-22T18:14:45+00:00",
+      "summary": "ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走 山陽新聞デジタル｜さんデジ",
+      "id": "e69c4eb398ba010b",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【10/23より】「2027年度の補助金はどう変わる？令和9年度経済産業省",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11WlBPUzJ1OHZtQjlFU2xpM3pBMzBHeHpnQm5uNjZnMHFjTU9ZZC1pZTNUWWF6T05sSG84UW4tTWpqMFFsUlVWcV9rQ05XelRib0I5c05jaWVyQVVyUV90MkM5NjRCUUdSNGZ4M1c1aVd5czBCY3UwX0gtQQ?oc=5",
       "source": "ニコニコニュース",
@@ -331,18 +427,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「第21回全国路地サミット2026in鎌倉材木座」の実行委員長を務める 梅澤 典雄さん 材木座在住 74歳",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03Y2JzRkd4LW5ncnU4XzF5Ni12YTJQV3RETnViUmpRWHhxV2w0bmtJdnUydDNOb3hxb1AyTU1QOWpnTGlwN09BMENOSE5LU0x4Rzl5Z2F1WG1paklnUF96a1d5clE?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-10-22T15:00:00+00:00",
-      "summary": "「第21回全国路地サミット2026in鎌倉材木座」の実行委員長を務める 梅澤 典雄さん 材木座在住 74歳 タウンニュース",
-      "id": "a00cb1df7e1ec1b3",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "インフルエンザに警戒 昨年より１カ月早い注意報基準",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50T21VNE5VaVBOR3kzQ0M1TEZOUHpRMTRVTkVSbG5KU3daUTRnWklwbWNsUUJBcFBibGN4UU9aQ3dsaEhCTlpEdS1xMDlHbVNyZ0dpQ0hvV3hPS0hOQ1JNOWF0eWk?oc=5",
       "source": "タウンニュース",
@@ -355,51 +439,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude、オープンソースプロジェクトで約500件のセキュリティ上の問題を発見 – 21年間見逃されていた欠陥も",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEZQUUVZeE5WajdSZ3J0R0Q0aHNxbG9RMThXZXhiV2lFNjZMQWtZVEdpSkJWamxheUgzUmMxVVlWRDVVVmpGVGJLc2xCUnh4TUU2aVFrT1VMOHhrS1pySm0xNUlQbTEwWUFpTlBtWWNDbXIteE5GaVU3bkNBck1ES09STmhsYTZrTk94VEc0a2pBd2w1bEFiZmRleWJjQQ?oc=5",
-      "source": "Mezha.net",
-      "published": "2026-10-22T12:39:00+00:00",
-      "summary": "Claude、オープンソースプロジェクトで約500件のセキュリティ上の問題を発見 – 21年間見逃されていた欠陥も Mezha.net",
-      "id": "2b287aa67f920000",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AIエージェント競争にアンソロピックが『Claude Duet』で殴り込み OpenAIの提携と買収も【AIニュース3選】（リアルサウンド）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QLW13SnptUTFvbUpqY1dKV1ZFUUR2QXA4eDRpS0RPM1NTZXAwRlM3RFFxVnl2SmxibFhXMXRnTnJnSDJDM3dTNXNObkF3X1VLREU1SUVmUkdSRnpab2c5bXBmMTZQRDNJdXdXNzQyN3BXcFJvTEZOeXJZQTRQd1E?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-22T12:01:39+00:00",
-      "summary": "AIエージェント競争にアンソロピックが『Claude Duet』で殴り込み OpenAIの提携と買収も【AIニュース3選】（リアルサウンド） Yahoo!ニュース",
-      "id": "6d8194d843219cff",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AIエージェント競争にアンソロピックが『Claude Duet』で殴り込み　OpenAIの提携と買収も【AIニュース3選】",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hdFlOYy1nRGVNc0VkQm9WRVpvMmVOYTFYRFZIZEZtSk5wNlZFZC1xdFJKN0VLdDRIVjZkS0NGV1FDRlNtdkFycXdRc0tXQ3BqVWw2bkdZZHVOUUxMTktlWdIBZkFVX3lxTFB0eWJZQ1BPeGZaTGhleHVPSTBFWE9tTDQwQUtpMF95V2lHWDdqNElUUVJ1dHQ2dm1UeWZ1VFRuZGc0WFE2VFp2RmQ4TTVVR2ZGSFltV3BnUGxpMTc4Z2l3b2h4Z3c3dw?oc=5",
-      "source": "Real Sound｜リアルサウンド",
-      "published": "2026-10-22T12:00:25+00:00",
-      "summary": "AIエージェント競争にアンソロピックが『Claude Duet』で殴り込み OpenAIの提携と買収も【AIニュース3選】 Real Sound｜リアルサウンド",
-      "id": "2f005f3fe2e95f35",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Duet登場――自ら仕事を進める個人AIエージェント、Muse・Dotsと競う｜Trans-N",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VRkFHNTA5NUZ0bnp5YmF2aGdRT0ZaTU1UcGtDSlhpc29hTWdaejhPb0xuU04yZ0dkVmFnVVF6RFdaTlBzamVUSjZKU19mQVJEa3BWaWJn?oc=5",
-      "source": "note",
-      "published": "2026-10-22T11:33:32+00:00",
-      "summary": "Claude Duet登場――自ら仕事を進める個人AIエージェント、Muse・Dotsと競う｜Trans-N note",
-      "id": "dafb5e595b7a2cb3",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
+      "title": "「第21回全国路地サミット2026in鎌倉材木座」の実行委員長を務める 梅澤 典雄さん 材木座在住 74歳",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03Y2JzRkd4LW5ncnU4XzF5Ni12YTJQV3RETnViUmpRWHhxV2w0bmtJdnUydDNOb3hxb1AyTU1QOWpnTGlwN09BMENOSE5LU0x4Rzl5Z2F1WG1paklnUF96a1d5clE?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-10-22T15:00:00+00:00",
+      "summary": "「第21回全国路地サミット2026in鎌倉材木座」の実行委員長を務める 梅澤 典雄さん 材木座在住 74歳 タウンニュース",
+      "id": "a00cb1df7e1ec1b3",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -460,30 +508,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Opusは、LG製テレビ上のPlexアプリの動作速度を最大10倍向上させます。",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2k2cEVJSTYtOHRjOXdCbTV1Wkhjc01wV2hfY2o3OHVuc1ZMMS1MUUstVDZNSDlaUjhmek1IZ3c4M3UxUTB5bGNmXzZ4b0E4RUFJakFsS1JpZ25hQzZLRi1uZUthTmY1ZlFVOVdBbUV2eHhpRmgxaFlmeWRISV9aTzVrVEVCWE90Qi1sdFZuQ2Q?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-10-22T11:23:35+00:00",
-      "summary": "Claude Opusは、LG製テレビ上のPlexアプリの動作速度を最大10倍向上させます。 Vietnam.vn",
-      "id": "636a4dde245482e2",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "パーソナルAIアシスタントClaude Duet",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYQmVZUUE4dXZpMG1mT091XzJGaHhxZ0xpVVlCbDlaSjJlU0FMVTNxbmVhT3pBYkU3emlMcEc5U1Y0TWtaNFY3WXQteXVzaVNuU3dlV3NpSQ?oc=5",
-      "source": "gihyo.jp",
-      "published": "2026-10-22T10:59:00+00:00",
-      "summary": "パーソナルAIアシスタントClaude Duet gihyo.jp",
-      "id": "6449354196cec34c",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -595,6 +619,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "米津玄師の新曲“春が灯り”が「劇場版 薬屋のひとりごと 亡妃の秘宝」主題歌に 予告映像と新アー写も公開",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oVEZBWkJBMmxMLTRPZDB0eHhYckFwbm40cVRUVW1NeTFIOVZIV08yMXZEQzd0QlNiYkZoV0ZfS0R2NWlJclBEWlZpZWhMR1Q3Nmc?oc=5",
+      "source": "Mikiki by TOWER RECORDS",
+      "published": "2026-10-22T03:38:49+00:00",
+      "summary": "米津玄師の新曲“春が灯り”が「劇場版 薬屋のひとりごと 亡妃の秘宝」主題歌に 予告映像と新アー写も公開 Mikiki by TOWER RECORDS",
+      "id": "297e306b1e643112",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "STARGLOW、ファンミーティング・ツアー“STAR CRUISE”より横浜アリーナ公演の映像作品をリリース",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xVXY1QTByeUpYX1NZbUk0SDEtbGlvYmpZWlVoSzl6R1oxc2JNUWJZTjFid29CYmtjQW5DR1RRY2Y0aklhZkFPWmJQdEJ2QkR2WUFpcVc3Z1ZlRUxGdDItNQ?oc=5",
       "source": "CDJournal.com",
@@ -667,18 +703,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米津玄師の新曲“春が灯り”が「劇場版 薬屋のひとりごと 亡妃の秘宝」主題歌に 予告映像と新アー写も公開",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oVEZBWkJBMmxMLTRPZDB0eHhYckFwbm40cVRUVW1NeTFIOVZIV08yMXZEQzd0QlNiYkZoV0ZfS0R2NWlJclBEWlZpZWhMR1Q3Nmc?oc=5",
-      "source": "Mikiki by TOWER RECORDS",
-      "published": "2026-10-21T21:38:48+00:00",
-      "summary": "米津玄師の新曲“春が灯り”が「劇場版 薬屋のひとりごと 亡妃の秘宝」主題歌に 予告映像と新アー写も公開 Mikiki by TOWER RECORDS",
-      "id": "297e306b1e643112",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "トランプ氏、中間選前のインフレ対策迷走 住宅金利の上昇招く悪循環",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RWmhkOE1DcFBvLVA5MEsxRzVWWGt5cnhqZXN6QWMtNmIyRFhFazZHNmZDTXJJRzlhNHRSeVVtS2ZGajAyRHEzQVNmUzBRcllxNnZQTzJxbnlpTnpPbmYxZGtUODRZUDVOV0F5WQ?oc=5",
       "source": "日本経済新聞",
@@ -697,18 +721,6 @@
       "published": "2026-10-21T17:45:36+00:00",
       "summary": "株式会社Curentioraを設立、全国訪問型の中小企業向けAI支援ブランド「中小企業AI研究所」を展開 ニコニコニュース",
       "id": "cf7057d99958ea1c",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "フランス長期金利、24年ぶり5%台 予算難航と暴動で国債売り",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tMDVaVTZ3R0xEbGw0NExTUWNrRTRCNDFZLVgzN29TS285VFhTS01kbzQ4V1pXemZUZ1BHcFR6WkU4aC1RenZZclZDZjhkV3RDRjZDWEtOVi16VUJBbVBlYnhpemJ6OGloOTd5eA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-21T11:27:32+00:00",
-      "summary": "フランス長期金利、24年ぶり5%台 予算難航と暴動で国債売り 日本経済新聞",
-      "id": "b2964914b1deb96b",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -979,18 +991,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "マルシィ one man live 2026 \"Because of you\" in 横浜アリーナセットリストまとめ",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RRHg2WFd5ZFNyQkpIenE2aEJlR0FNZnU5bDFlSkxmcEJlOWh0Y2hENmNpd01xMEM3N1owZUgwdk51TUlnWV9ac2hR?oc=5",
-      "source": "もとりょこblog -",
-      "published": "2026-10-18T10:40:37+00:00",
-      "summary": "マルシィ one man live 2026 \"Because of you\" in 横浜アリーナセットリストまとめ もとりょこblog -",
-      "id": "1e97baa5a04a276e",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "合気道覇天会（主宰：藤崎天敬師範）、第30回フルコンタクト合気道選手権大会を機に20年間の技術研究成果を整理―立ち関節技による一本勝ちなどを報告",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fQnZOblczU0tUWDJkLWJDMERkaWxJRzRVTVRQXzI4ZlRfLVFEWHRWeGhTcTQ4QU44ekZVdHUzcFQ3Tml3RGtXbV95R1VYMWdkampwQ3hBTnhNNTA?oc=5",
       "source": "valuepress",
@@ -1039,12 +1039,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026",
+      "title": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026｜レッツエンジョイ東京",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDczBUcDZyOWVDSS1DN0ZXUFRUc2swc0RVTmdJdlZkQmNIQ0ZkbEdMcHVXTGFFNFRjejdEemVMWDE1bjdRUUUxRjl5OEpiUVNuUFE?oc=5",
       "source": "レッツエンジョイ東京",
       "published": "2026-10-12T07:00:00+00:00",
-      "summary": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026 レッツエンジョイ東京",
-      "id": "f0df52290df78587",
+      "summary": "東京2020大会5周年記念事業 武道・スポーツフェスティバル2026｜レッツエンジョイ東京 レッツエンジョイ東京",
+      "id": "6f33637cc4a6375f",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
