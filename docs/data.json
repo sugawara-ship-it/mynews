@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-23T22:31:34.149376+00:00",
+  "generated_at": "2026-10-23T23:51:26.096487+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 12
+      "count": 8
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,30 @@
     }
   ],
   "items": [
+    {
+      "title": "クリプトン、不正アクセス後の状況把握に「Claude Mythos」活用 SONICWIRE会員情報最大42万件漏えいの可能性",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RejA0ckh4MHpaV3NEVmpoMzA2UWlUY09IZ3d5TDByOGdGajIzRC1TNkJOU1paYTB6b01ZdWhsWXVVeWdOMTFab09DSzFRUVE0VUV5QUtXN3R0T2VNcUJWZDZNWkE5ZzJqSkxkMG9IZw?oc=5",
+      "source": "Ledge.ai",
+      "published": "2026-10-23T22:54:28+00:00",
+      "summary": "クリプトン、不正アクセス後の状況把握に「Claude Mythos」活用 SONICWIRE会員情報最大42万件漏えいの可能性 Ledge.ai",
+      "id": "e1859eaedd92003b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aXzBoOEliN2c4UVExd3RZUE00cmk0eGdudVlaTFdoYTNjYmZnTDlVdGZJSGxOZG5KaXNXRzBqT1hNZEZpUkpPQVBCWkxaYWxqVXZyazVRX3dtSkxrV0IwcDkyVFNMYUxDTlE?oc=5",
+      "source": "ITmedia",
+      "published": "2026-10-23T22:28:08+00:00",
+      "summary": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開 ITmedia",
+      "id": "a3d08bd047153249",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "【Meta“ナンバー2”が語る「Muse」日本上陸】GPT・Claudeに挑む「パーソナル超知能」の勝算／ザッカーバーグ氏と二人三脚／“29歳”最高AI責任者アレクサンダー・ワン【1on1 Tech】",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QdV9oQ29qSWZNbVFVSGc1d3lQLVlwWW9FS2NaemlmU0FoMWtRVnJSZG41NWNnaENBRWpDWXdhS01aTFBVeFRXdXdJVW1fcGZoWThUaW1tZ18wTVVBQ3hmN3ZtR2tlV2p6SUhicWwxaXNUbURp?oc=5",
@@ -271,24 +295,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "債券15時 長期金利、2.795%に大幅低下 一時3カ月ぶりの低さ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11dmpXRVNxVzJlUy1UNF9zZDZxUXBNN1dFWERCdkdKczFiTnM4YXY2YkswdDY4ZjM4eDgxNFprQk9xSUdVUkpRZFlTNDhCNHE0eDR1aXNzYzRBWDJXbkdYblJCUjZTQ0xXZUxEUg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-23T06:29:32+00:00",
+      "summary": "債券15時 長期金利、2.795%に大幅低下 一時3カ月ぶりの低さ 日本経済新聞",
+      "id": "3af9e10fa88eeb9d",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Anthropic、ジュニア技術職の採用割合が27％から9％に 社内の雇用変化とAIの将来予測を公開",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yTEJQSFBiRldvS2hOeFZLTktCOXpOQzlScW9vRG54ZkFsMk5RSTIxT3Azb3VRYUJGRFAwSG9aUi1ZSnJTZmxnMTg5X3hXLU5KQXA5Y2xUbEYwRmtGVFVFdkQ3RmxMUGhfeUpISlNUX0xBeU5y?oc=5",
       "source": "Ledge.ai",
       "published": "2026-10-23T06:02:57+00:00",
       "summary": "Anthropic、ジュニア技術職の採用割合が27％から9％に 社内の雇用変化とAIの将来予測を公開 Ledge.ai",
       "id": "f552df67fc2b5642",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Elithとアプライドオンプレミス生成AI GENFLUX Local の販売・導入支援で業務提携",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YZ2tYbkV2ODhESzEyY3ktc0xhYjBwUE1fZWpEWWFOTFMxM0pJa09VM041WHNqZHhkd25CenhIWmVhZ09EeHVGLUVydTlPU1MzSVdMd3dkWHJJUzZ0dktkWXpKUXhzdzhhcGc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-23T06:00:02+00:00",
-      "summary": "Elithとアプライドオンプレミス生成AI GENFLUX Local の販売・導入支援で業務提携 PR TIMES",
-      "id": "7b89f5ef56d9cfb6",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -304,18 +328,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ブレインパッド、生成AIビジネスマッチング支援アプリ「Business Matching Platform」をSnowflakeマーケットプレイスで提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iX3RtNEpyWF9hampET1E1cVV6anoxdV9ITWg3M21sSG5fZEpXamI5SFFOeG92TTM3cGZrN0duOGtTWnd3QTNVa2wzU2lJRVM1LVVSemNZcXhzbE1q?oc=5",
-      "source": "BrainPad",
-      "published": "2026-10-23T05:34:27+00:00",
-      "summary": "ブレインパッド、生成AIビジネスマッチング支援アプリ「Business Matching Platform」をSnowflakeマーケットプレイスで提供開始 BrainPad",
-      "id": "bbb081afcc777a87",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -620,10 +632,10 @@
     },
     {
       "title": "【10/23より】「【必見！】2026年度内に導入を狙える！地域別補助金まとめセミナー」の無料配信を開始します！【助成金なう】",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90Q0NuNzBZV1ZMRGZVNjV6ZFZtek1mbFpCbWNJNkxYcnJmeUY5XzN5eUFVM25CUll2MjFOTFVBUGpBcmRaU2JpZTJ0RHpUWF9fWmI3ZFV3X2dYZ1haQndaNHlJemR2RkZEVkE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-22T09:30:01+00:00",
-      "summary": "【10/23より】「【必見！】2026年度内に導入を狙える！地域別補助金まとめセミナー」の無料配信を開始します！【助成金なう】 PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IalQ3bEFBM182ZS1QUmVOSThzWldTMHF3WnNmcUo3SmVMeEwzXzZONndKaFNmTTRKdDFIbFZGN1RJQ2I2QzNJZTRjaHN6YUxONXFZa3JOWVIzUXJvS2FKbndoMDJobFJ0cEt1cU1hX01wUQ?oc=5",
+      "source": "Infoseek",
+      "published": "2026-10-22T09:30:00+00:00",
+      "summary": "【10/23より】「【必見！】2026年度内に導入を狙える！地域別補助金まとめセミナー」の無料配信を開始します！【助成金なう】 Infoseek",
       "id": "6d99225c14d29722",
       "category": "経済",
       "topic": "経済・ビジネス",
@@ -664,18 +676,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "日銀10月会合、連続利上げ見送りへ 2%物価目標は事実上到達",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oN2VFMlV0eGM0QUhNaDV0LUd3cEZMTVV5akdVVDBST240eU1jaU5UeTFvNS1LMHZxUktZdU93QXF6LTMwejBKTnRTcEMyNlJxa0dnNW80bDNtUkoya3hjMnZXZmNtdGN1Z015ag?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-22T06:47:41+00:00",
-      "summary": "日銀10月会合、連続利上げ見送りへ 2%物価目標は事実上到達 日本経済新聞",
-      "id": "cf28ac1c0f08fa86",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -907,18 +907,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【合気道象水館】 演武 『少年部９級審査技 演武』 令和８年１０月１８日 長野県 松本市",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xMDlIVUFlblkxN29sRV9jTDkweWZYeXhHYy1FTjY2S3N3UmROcGRZVU9zY0xpTzFtNEJYcWZfaGREdFplbzhNaTV3M1ItYzF3ZWFMNFI5aHM4Zmx1?oc=5",
-      "source": "YouTube",
-      "published": "2026-10-19T16:12:37+00:00",
-      "summary": "【合気道象水館】 演武 『少年部９級審査技 演武』 令和８年１０月１８日 長野県 松本市 YouTube",
-      "id": "f472b9c9a5a95d7c",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "10月25日(日) 水戸戦『品川区PRブース』出展のお知らせ",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53MjB0aHRzZGFISjl0dGFYSGdnSnQyX0QtVGxRSkJITzA3MklOTDByLWd1VGJ6THI5YW50YktMdTNKUGZIcmJDNGxhTnMxRlhwQmc2ZmV4aEJxQQ?oc=5",
       "source": "FC東京オフィシャルホームページ",
@@ -991,30 +979,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "合気道覇天会（主宰：藤崎天敬師範）、第30回フルコンタクト合気道選手権大会を機に20年間の技術研究成果を整理―立ち関節技による一本勝ちなどを報告",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fQnZOblczU0tUWDJkLWJDMERkaWxJRzRVTVRQXzI4ZlRfLVFEWHRWeGhTcTQ4QU44ekZVdHUzcFQ3Tml3RGtXbV95R1VYMWdkampwQ3hBTnhNNTA?oc=5",
-      "source": "valuepress",
-      "published": "2026-10-17T09:00:00+00:00",
-      "summary": "合気道覇天会（主宰：藤崎天敬師範）、第30回フルコンタクト合気道選手権大会を機に20年間の技術研究成果を整理―立ち関節技による一本勝ちなどを報告 valuepress",
-      "id": "fe39e870b105b96d",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "合気道覇天会、大阪・新大阪で護身術講習会を開催―藤崎天敬師範が「離脱法・捌き・立ち関節技」を指導",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zcDNDY1MxbUhnTHR4VHEwaHNuYXFFVWxDR0RpaDNVbTNEZno3c1h2dmJGQnRkcXZBUzNWcjBsbTZEOXRyVVN1eDRBUHhHYXdYTGMtSFV0XzBwcnc?oc=5",
-      "source": "valuepress",
-      "published": "2026-10-16T14:00:00+00:00",
-      "summary": "合気道覇天会、大阪・新大阪で護身術講習会を開催―藤崎天敬師範が「離脱法・捌き・立ち関節技」を指導 valuepress",
-      "id": "27f1f458c8f62c7a",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【藤沢市】北村写真スタジオ by MERCI 藤沢・湘南台店で1周年記念無料撮影会を11月に追加開催！",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjM4V1A1T2dvbVVYQ0MxVG04MEpyTy1BMWw3Tm9kbENmek9hYl9jMF95M2tQczgxS0NVWENfTWhEaEIyejlucURDakZTcVZ0c3RKQ0FYaF94VTlQODNmNVlxUzJvZWFvY0NGbUoxMzBlc0ptZjF3ZFdmT2RyR2E3S1BkSEk?oc=5",
       "source": "湘南人",
@@ -1033,18 +997,6 @@
       "published": "2026-10-16T07:00:00+00:00",
       "summary": "第65回 全国郵政武道（剣道）大会 全日本剣道連盟",
       "id": "e46df129f0bdbd28",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "合気道覇天会・藤崎天敬師範、古伝技の研究稽古を実施―「合気崩し」や巻き込み固めを対人稽古でも研究",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fWlNLem1zSTJNbjVhM00zdzByVndhaUo4M2xqNmVzOFotUEF4cE1HNmZxa0RBNDZyZWN6b1JuRlFBc09hNXFMckFLS2R6UHpfa0YxdXIzNkVLLUE?oc=5",
-      "source": "valuepress",
-      "published": "2026-10-15T01:00:00+00:00",
-      "summary": "合気道覇天会・藤崎天敬師範、古伝技の研究稽古を実施―「合気崩し」や巻き込み固めを対人稽古でも研究 valuepress",
-      "id": "63683294f6cce011",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
@@ -1087,5 +1039,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 85
+  "count": 81
 }
