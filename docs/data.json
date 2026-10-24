@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-23T23:51:26.096487+00:00",
+  "generated_at": "2026-10-24T00:54:22.881410+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 8
+      "count": 12
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,18 @@
     }
   ],
   "items": [
+    {
+      "title": "アンソロピック、ClaudeでOSS123本を形式検証 約1億8000万行の証明で数百件のバグ発見",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53T2sydG9uOEJjb2xDc2VTRUQ4MmhnU3R5bENKV2hoRUYyeXd3d3pidlM0d1BEWVB3c0o4WVU5S3UwYlVxM2F4TVRNOEVOVGFRbEZr?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-10-23T23:35:00+00:00",
+      "summary": "アンソロピック、ClaudeでOSS123本を形式検証 約1億8000万行の証明で数百件のバグ発見 ビジネス+IT",
+      "id": "64b670b9735ca42f",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "クリプトン、不正アクセス後の状況把握に「Claude Mythos」活用 SONICWIRE会員情報最大42万件漏えいの可能性",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RejA0ckh4MHpaV3NEVmpoMzA2UWlUY09IZ3d5TDByOGdGajIzRC1TNkJOU1paYTB6b01ZdWhsWXVVeWdOMTFab09DSzFRUVE0VUV5QUtXN3R0T2VNcUJWZDZNWkE5ZzJqSkxkMG9IZw?oc=5",
@@ -124,6 +136,18 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "英AI安全研究所、Anthropicの「Mythos 5」が実在の開発者を標的に攻撃継続 実在すると告げた後も止まらず",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TWFN2LTh4Y1lFd1B5QXZCNll6Z1NzYVpSaHUzRFkyZWM5RWdkak5ZbDlFbkZYQ1ZoWVB6aHpmSllTdGNIbmFDVDJ6VFdCVVZwNGhnZTVxZFEtZmFmOV9Cc2NlY05fZXh4dXdZZV82UU5kdnQ2?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-10-23T18:35:00+00:00",
+      "summary": "英AI安全研究所、Anthropicの「Mythos 5」が実在の開発者を標的に攻撃継続 実在すると告げた後も止まらず BigGo ファイナンス",
+      "id": "0944edbe42a64673",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -283,18 +307,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Stripe と Anthropic、Claude Duet 内でビジネス運営を支援 | ストライプジャパン株式会社のプレスリリース",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZWhoLXNKODZCSExIUVNmdy1LRkQ2TThkVC1fdnAzT3Z0Zjhaa0RBZXFUaWxEb1NJYkxWSHN5bjEyM1hxTXBZallvY0Jwdkd4eHJINzRkU21Pd0c4TUprZVBmdGVIb2J5OXc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-23T06:30:01+00:00",
-      "summary": "Stripe と Anthropic、Claude Duet 内でビジネス運営を支援 | ストライプジャパン株式会社のプレスリリース PR TIMES",
-      "id": "50b4e86065b54d0e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "債券15時 長期金利、2.795%に大幅低下 一時3カ月ぶりの低さ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11dmpXRVNxVzJlUy1UNF9zZDZxUXBNN1dFWERCdkdKczFiTnM4YXY2YkswdDY4ZjM4eDgxNFprQk9xSUdVUkpRZFlTNDhCNHE0eDR1aXNzYzRBWDJXbkdYblJCUjZTQ0xXZUxEUg?oc=5",
       "source": "日本経済新聞",
@@ -307,24 +319,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic、ジュニア技術職の採用割合が27％から9％に 社内の雇用変化とAIの将来予測を公開",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yTEJQSFBiRldvS2hOeFZLTktCOXpOQzlScW9vRG54ZkFsMk5RSTIxT3Azb3VRYUJGRFAwSG9aUi1ZSnJTZmxnMTg5X3hXLU5KQXA5Y2xUbEYwRmtGVFVFdkQ3RmxMUGhfeUpISlNUX0xBeU5y?oc=5",
-      "source": "Ledge.ai",
-      "published": "2026-10-23T06:02:57+00:00",
-      "summary": "Anthropic、ジュニア技術職の採用割合が27％から9％に 社内の雇用変化とAIの将来予測を公開 Ledge.ai",
-      "id": "f552df67fc2b5642",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "三菱UFJFG株価4カ月ぶり安値 金利急低下で利ざや改善期待が剝落",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yZjVMaF9BNHNUNnpoRW1CaFdBeG9wWGNlY01DYl9fN0pjU0N4cnN2ZjNGQTlKVFU5WlYxcGNnTm5FWUFrYlhkbDVRRVFpZ0NYZkVFbGNqZnV0MGVEZ0tGVFBId0RNMlk3Wkx5VA?oc=5",
       "source": "日本経済新聞",
       "published": "2026-10-23T05:40:12+00:00",
       "summary": "三菱UFJFG株価4カ月ぶり安値 金利急低下で利ざや改善期待が剝落 日本経済新聞",
       "id": "d6d6bf4ebd55d0a8",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Ｎｅｗｓモーニングサテライト【フランス金利急騰 日本への教訓は？】(テレ東、2026/10/22 05:45 OA)の番組情報ページ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObTFybkh5ZlBuVW9jNERrN0R0cWEyQ0EzdXUzb2k4REJUUDc4UUR5LVptR284R0tlWjhsZ3RDT2tiXy0xVHRDRTdtYmx6YXh4dFVrVHNUVHVHM05uVTNhMl90dXBmZ0FORHVwMmRTV29vZFV6eVp2NUV5d2NZZEFld2JXZ19GeVFFRlhxMGdyMA?oc=5",
+      "source": "テレビ東京",
+      "published": "2026-10-23T04:42:19+00:00",
+      "summary": "Ｎｅｗｓモーニングサテライト【フランス金利急騰 日本への教訓は？】(テレ東、2026/10/22 05:45 OA)の番組情報ページ テレビ東京",
+      "id": "14097f0c0b2cbdd4",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -404,7 +416,7 @@
     },
     {
       "title": "米津玄師、韓国3公演が発売当日に完売…前回から公演数を拡大",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBdWcyWXRFbzRWQ1FTVkh2LUt2WDRLN2FUeGhKbkMtLXptMWdZUWRmU0ZNXzlZdmlmSmF0QUd3cXFGMGpfYjhUUjR2QTA4amFqNTdTa3dmbkhkR0ZCSW5xZHJfSXnSAWpBVV95cUxNeEpJa09aVm1obi1ZZHFSMXpHR2NUVWVWT0RNLVVLUWlxTlM2Wjgyc3NOTWpQcEtlNklSeV82RTdKMlJuOV9McnRiUmdXNU9xbjlfNm13WTJDdmpjV1dkVWwwRXpiaGR1a3p3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14SklrT1pWbWhuLVlkcVIxekdHY1RVZVZPRE0tVUtRaXFOUzZaODJzc05NalBwS2U2SVJ5XzZFN0oyUm45X0xydGJSZ1c1T3FuOV82bXdZMkN2amNXV2RVbDBFemJoZHVrenfSAWpBVV95cUxNeEpJa09aVm1obi1ZZHFSMXpHR2NUVWVWT0RNLVVLUWlxTlM2Wjgyc3NOTWpQcEtlNklSeV82RTdKMlJuOV9McnRiUmdXNU9xbjlfNm13WTJDdmpjV1dkVWwwRXpiaGR1a3p3?oc=5",
       "source": "Infoseek",
       "published": "2026-10-22T23:51:40+00:00",
       "summary": "米津玄師、韓国3公演が発売当日に完売…前回から公演数を拡大 Infoseek",
@@ -631,18 +643,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【10/23より】「【必見！】2026年度内に導入を狙える！地域別補助金まとめセミナー」の無料配信を開始します！【助成金なう】",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IalQ3bEFBM182ZS1QUmVOSThzWldTMHF3WnNmcUo3SmVMeEwzXzZONndKaFNmTTRKdDFIbFZGN1RJQ2I2QzNJZTRjaHN6YUxONXFZa3JOWVIzUXJvS2FKbndoMDJobFJ0cEt1cU1hX01wUQ?oc=5",
-      "source": "Infoseek",
-      "published": "2026-10-22T09:30:00+00:00",
-      "summary": "【10/23より】「【必見！】2026年度内に導入を狙える！地域別補助金まとめセミナー」の無料配信を開始します！【助成金なう】 Infoseek",
-      "id": "6d99225c14d29722",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "株式会社YUIDEAが品川区エシカル消費普及・啓発事業を受託、11月1日に五反田で大規模イベントを開催、このほか全5回",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FQmJiUzVNMERDcjFoVlZLekxic29FMHJlUXdsUGplaXZmSnZBY1RzMUJwVFdNT2x3bkJraDVpa0dfUmt5V0JqT3ZVdEx0MkcwQ0lZRWh3S1pmRzc5TjNnalZnZmtuS3RFUm9Uamh1NGg5Vk9pR2phX3Bsdw?oc=5",
       "source": "ニコニコニュース",
@@ -751,6 +751,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【2026】緑黄色社会セトリ！ARENA TOUR 2026 “あたまご”のライブセットリストを随時更新",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XYkd0M2p1eDJxUGdxNTd6RzgzUHI0OG81TXFvN2s0Mk82bFhzY3FUa3luS3hNWGpiVXpXeDF3UU0yN0w2S1N3eFo2TV92S2VtZFRNVU5yWGFrWHNRT1JNa0ptUzlhVVNLV0hJRmFpQU1wU1ZDLVZTVk1B?oc=5",
+      "source": "UtaTen",
+      "published": "2026-10-21T12:30:49+00:00",
+      "summary": "【2026】緑黄色社会セトリ！ARENA TOUR 2026 “あたまご”のライブセットリストを随時更新 UtaTen",
+      "id": "74dad8487060790e",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "あいみょん甲子園ライブ配信はU-NEXT独占｜10月31日生配信を観る方法【10月21日掲載】",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lLXRCVmNpdHY3REI1cVZKMkFDVXNUYVUtNkxDRWZrNHRJYXBhWE9yemYxRHl1aFMtU1ZMdGlzRVRLcTV6VXNPZlFB?oc=5",
       "source": "www.banger.jp",
@@ -835,18 +847,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "東品川海上公園に飲食施設・ドッグラン等が10月4日オープン 10月3日開業式典を開催［2026年9月14日］",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObHB1ZklZV0JzSEZLQkY1bU5GRW9lZWl4eUFkelNfSU1UYy1Zejh4bG9zY2lzUjJaVXdOWDFjVi1kMFp2cTZWdVZzcmwtcldBUDhON09KQXROc0FOdGY3T3BNb05renlIRklzbkFnYlNZQ2pFZmt3MzZOYjFpV09rSmVn?oc=5",
-      "source": "www.city.shinagawa.tokyo.jp",
-      "published": "2026-10-20T05:49:12+00:00",
-      "summary": "東品川海上公園に飲食施設・ドッグラン等が10月4日オープン 10月3日開業式典を開催［2026年9月14日］ www.city.shinagawa.tokyo.jp",
-      "id": "f48e99bbe46bdf4b",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "開祖の故郷で講習会 合気道で交流深める、和歌山",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZOElFcmF6aDRHYktZTEQwdmJrLUlVdUhFaWhqOWpHOWM2bEEyM1R6ekJWbUJEUmRsdnZZczlNWVZkMVpHb3E0RGFVRQ?oc=5",
       "source": "47NEWS",
@@ -904,6 +904,18 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【合気道象水館】 演武 『少年部９級審査技 演武』 令和８年１０月１８日 長野県 松本市",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xMDlIVUFlblkxN29sRV9jTDkweWZYeXhHYy1FTjY2S3N3UmROcGRZVU9zY0xpTzFtNEJYcWZfaGREdFplbzhNaTV3M1ItYzF3ZWFMNFI5aHM4Zmx1?oc=5",
+      "source": "YouTube",
+      "published": "2026-10-19T16:12:37+00:00",
+      "summary": "【合気道象水館】 演武 『少年部９級審査技 演武』 令和８年１０月１８日 長野県 松本市 YouTube",
+      "id": "f472b9c9a5a95d7c",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -967,27 +979,39 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Hey! Say! JUMP JUMPdate!横浜アリーナ全公演セットリストまとめ",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE83UEVpQ0NzQVZsSUNsa2VCR0lCWmdPNmhuZ1NoYnlSMmdPQURneS1yQ2cyT19rYkJObGlLMWptZlY0cm94WW44Zmp3?oc=5",
-      "source": "もとりょこblog -",
-      "published": "2026-10-18T09:50:49+00:00",
-      "summary": "Hey! Say! JUMP JUMPdate!横浜アリーナ全公演セットリストまとめ もとりょこblog -",
-      "id": "868554e5882a043b",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
+      "title": "合気道覇天会（主宰：藤崎天敬師範）、第30回フルコンタクト合気道選手権大会を機に20年間の技術研究成果を整理―立ち関節技による一本勝ちなどを報告",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fQnZOblczU0tUWDJkLWJDMERkaWxJRzRVTVRQXzI4ZlRfLVFEWHRWeGhTcTQ4QU44ekZVdHUzcFQ3Tml3RGtXbV95R1VYMWdkampwQ3hBTnhNNTA?oc=5",
+      "source": "valuepress",
+      "published": "2026-10-17T09:00:00+00:00",
+      "summary": "合気道覇天会（主宰：藤崎天敬師範）、第30回フルコンタクト合気道選手権大会を機に20年間の技術研究成果を整理―立ち関節技による一本勝ちなどを報告 valuepress",
+      "id": "fe39e870b105b96d",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【藤沢市】北村写真スタジオ by MERCI 藤沢・湘南台店で1周年記念無料撮影会を11月に追加開催！",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjM4V1A1T2dvbVVYQ0MxVG04MEpyTy1BMWw3Tm9kbENmek9hYl9jMF95M2tQczgxS0NVWENfTWhEaEIyejlucURDakZTcVZ0c3RKQ0FYaF94VTlQODNmNVlxUzJvZWFvY0NGbUoxMzBlc0ptZjF3ZFdmT2RyR2E3S1BkSEk?oc=5",
-      "source": "湘南人",
-      "published": "2026-10-16T09:16:11+00:00",
-      "summary": "【藤沢市】北村写真スタジオ by MERCI 藤沢・湘南台店で1周年記念無料撮影会を11月に追加開催！ 湘南人",
-      "id": "0df91d8969bbadfe",
-      "category": "不動産",
-      "topic": "道場物件（鎌倉・湘南）",
-      "emoji": "🏠",
+      "title": "合気道覇天会、大阪・新大阪で護身術講習会を開催―藤崎天敬師範が「離脱法・捌き・立ち関節技」を指導",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zcDNDY1MxbUhnTHR4VHEwaHNuYXFFVWxDR0RpaDNVbTNEZno3c1h2dmJGQnRkcXZBUzNWcjBsbTZEOXRyVVN1eDRBUHhHYXdYTGMtSFV0XzBwcnc?oc=5",
+      "source": "valuepress",
+      "published": "2026-10-16T14:00:00+00:00",
+      "summary": "合気道覇天会、大阪・新大阪で護身術講習会を開催―藤崎天敬師範が「離脱法・捌き・立ち関節技」を指導 valuepress",
+      "id": "27f1f458c8f62c7a",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【品川区】「鹿嶋神社 大祭」10/17(土)・18日(日)開催",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nUkNDVUJua0pDUUgtZWV0dmRkM1VVRHBMUnUzTXk1VkRNTnNRc1lxWjNUbEJydjl3cVRJYm9JR2IwcktZLWhRV0E5aDd5VDlyZzhRM3o4WFUtRm5iQzd1N0Nubw?oc=5",
+      "source": "号外NET 品川区",
+      "published": "2026-10-16T10:57:15+00:00",
+      "summary": "【品川区】「鹿嶋神社 大祭」10/17(土)・18日(日)開催 号外NET 品川区",
+      "id": "7a95609eaa970703",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -997,6 +1021,30 @@
       "published": "2026-10-16T07:00:00+00:00",
       "summary": "第65回 全国郵政武道（剣道）大会 全日本剣道連盟",
       "id": "e46df129f0bdbd28",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "市民と議員がカフェトーク 11月、参加募集",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRVjNjSkhRaFY3WVpPMUl3M0p3MldITXlKNUJYWjdvZjZXbDc1SmdVWXhuaVpwVGxteVgwclpLX1VYOTBwVWdDdldRVUxQTGY3UGlQWVpwaUc4OElKaFRRaU5WejE?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-10-15T15:00:00+00:00",
+      "summary": "市民と議員がカフェトーク 11月、参加募集 タウンニュース",
+      "id": "0bc71f3a97c22590",
+      "category": "不動産",
+      "topic": "道場物件（鎌倉・湘南）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "合気道覇天会・藤崎天敬師範、古伝技の研究稽古を実施―「合気崩し」や巻き込み固めを対人稽古でも研究",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fWlNLem1zSTJNbjVhM00zdzByVndhaUo4M2xqNmVzOFotUEF4cE1HNmZxa0RBNDZyZWN6b1JuRlFBc09hNXFMckFLS2R6UHpfa0YxdXIzNkVLLUE?oc=5",
+      "source": "valuepress",
+      "published": "2026-10-15T01:00:00+00:00",
+      "summary": "合気道覇天会・藤崎天敬師範、古伝技の研究稽古を実施―「合気崩し」や巻き込み固めを対人稽古でも研究 valuepress",
+      "id": "63683294f6cce011",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
@@ -1039,5 +1087,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 81
+  "count": 85
 }
