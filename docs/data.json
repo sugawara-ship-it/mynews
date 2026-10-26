@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-26T16:17:25.446970+00:00",
+  "generated_at": "2026-10-26T17:34:33.723992+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 10
+      "count": 11
     },
     {
       "name": "経済・ビジネス",
@@ -67,12 +67,48 @@
   ],
   "items": [
     {
+      "title": "Anthropic株、ティッカーANTは確認されたがまだ買えない",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR1NSTlc5N1NNVmpOazNGejlLeF92eFB5dkhYaDJHUXFfczBEYTd3U090OV93RWw4SDhSSjZHWU9lT1d1VHpDSXFwZGlmdkcxb1I4X2RCMjNTZmZ4ZHRtdFpDdnFUY3ZVWERhX1R5Zkd0ekVUdE83MGZNcEU5emNtQkZ6aw?oc=5",
+      "source": "Pasquale Pillitteri",
+      "published": "2026-10-26T17:27:42+00:00",
+      "summary": "Anthropic株、ティッカーANTは確認されたがまだ買えない Pasquale Pillitteri",
+      "id": "269be058ba2da030",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AnthropicがCathedralのAIエージェントに12時間で侵入される、同社がアクセスを確認",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHpwallFX0ZoV1hIb3lCODZ2MHcwNVZaX1U5dVRvX1JRZk5pclNkaUE4WXZOYUc5aG5hTFdZcTdjUkdHVEQwQlQ0TG9ZRVpRWG9QOGJ3VGV4akhRSjJ0NG9xM2hVM2lYMWJkOGlrRUtlQkZaTFNjZ2pfZG5RdWhyNXp2cFRhT09W?oc=5",
+      "source": "Pasquale Pillitteri",
+      "published": "2026-10-26T17:11:39+00:00",
+      "summary": "AnthropicがCathedralのAIエージェントに12時間で侵入される、同社がアクセスを確認 Pasquale Pillitteri",
+      "id": "eeb4aa2035f67890",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "AnthropicのIPO公開申請、クラウド調達に26兆6000億ドルのリスク",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EemxkMktVRHZkVTRPZDJLU1dQMHZWZjlPVlFrZUNBY1JZZXE4bHJFVGVKYzQyV2FKZ3ZpWHRGeEpXOFBHU0ZfdnBodGxRaDNiYlpQdHVrQ0RxT3RFeFdEa2N4M0pFOEhIYXJMeG54YktXMnp2cFdYaHRn?oc=5",
       "source": "BeInCrypto",
       "published": "2026-10-26T16:11:00+00:00",
       "summary": "AnthropicのIPO公開申請、クラウド調達に26兆6000億ドルのリスク BeInCrypto",
       "id": "d98db7b68dad2461",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、SPCXに強気見通し",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWo3ZUVMZXdZWEpDRkNCbHB1U1ZuTVEycXUxd0Z4QWFud1pQVHpGZnRCUENPeTNub3Qyd2JKdzRoTmJ2TzNva0lxRzhnd0M4M1B2WnFwbjZ1Q0dra182S1BLYWVoQ1Q0ZG42NWtfMjJQa1JLaDZ0TEZDN2xaZGxlWGdZMUY4OGotWW1Z?oc=5",
+      "source": "Moomoo",
+      "published": "2026-10-26T16:09:51+00:00",
+      "summary": "Anthropic、SPCXに強気見通し Moomoo",
+      "id": "a349bc9f5ee895c2",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -175,18 +211,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "生成AI、自社のどこに使える？ 中小企業向け診断サービス「AI業務活用ナビ」を提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBENzQxcGdMZnQzYXdoTHVMSFNZd0NyZHZZV3l6NVQ0aUpORkhwbHNnV3I1anlUTEZwemVHa01xOGRfLWdfTm1aM3ZqcHl6OWV2WlZfSWVR?oc=5",
-      "source": "足利経済新聞",
-      "published": "2026-10-26T13:07:00+00:00",
-      "summary": "生成AI、自社のどこに使える？ 中小企業向け診断サービス「AI業務活用ナビ」を提供開始 足利経済新聞",
-      "id": "5f3e3fcf54992278",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "湘南鎌倉総合病院　音楽で未病改善と健康寿命延伸へ　11月７日　建長寺でコンサート〈鎌倉市〉",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS1E5N0lzM2ljcmlSSE9WX1BzN1VxZHVlbWNoSnFQb0U5Ul9PTG9QeGt4ekc0TUJKLWRkV1ZuTVljSUo1eGhtWmhlUEc2aTluSGYyallqRTF0WWlZQW1ncnc1a2NyZ1dFcWd0cEtCVEJ3VGExOVgyLXdDeWNlUGpKcHdZTzdJNk9VQlU5VlJ30gGAAUFVX3lxTE95bXdUeG1TVHV6UHJxQWFsbEVSb3ZJaVhxU3FoSHowRDg1LUgyZHFWeDRtMml6Rmo4NG5BT2tfUkVWZXhqQTY5aDloU1VmdVgzazRHbTJTVFhRZjl0ZEhRNTJhNlFNbF9KbV9NeHZOVjFFSTJtZVRQajVURHRLUmVT?oc=5",
       "source": "ｄメニューニュース",
@@ -196,30 +220,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "エルビスの権利者がAnthropicを提訴、274曲の無断学習を主張",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQejUwMVhGZHB4b3I4a3Rmdkp0aFdtX2NYRjdSbi1CQm5fRkJKc2xUOVMyVHgtbkFlb18tNTRTNmdIWUdfMmN4QnRyU3ZTSTEwMVdDTmFHWDJWVWRoYWl4QVQxUG9CNkRDS00wa25GblF4S1RxNEd2d01ndGZSQWJ0aGtmbzZXNGtqM3kw?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-10-26T11:53:49+00:00",
-      "summary": "エルビスの権利者がAnthropicを提訴、274曲の無断学習を主張 Pasquale Pillitteri",
-      "id": "572fc701c42b95c4",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "FTC、OpenAI、Anthropic、METRを対象にローグエージェント調査を開始",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUExlT1RUTC1uNU51Mzc4MmJ0MWc3SFhfMUFqOU9La0pMVHpSWFRWNW1VV3BsMlhGOS0yQW9selNQSkZ1TWJqcHBTQnNsbjNEU2hubnl2TnhUVE5qWTMwX3VVNExSMUxYM0JJSm5VVzN3NzJzYUFTSWp2WWpXTHNFaVd3?oc=5",
-      "source": "OrcaRouter",
-      "published": "2026-10-26T11:42:39+00:00",
-      "summary": "FTC、OpenAI、Anthropic、METRを対象にローグエージェント調査を開始 OrcaRouter",
-      "id": "b8e74841a6c79091",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -277,18 +277,6 @@
       "published": "2026-10-26T02:09:53+00:00",
       "summary": "『鬼レンチャン』放送直後に“あいみょんリベンジライブ”宣言 HONEBONE、まずはワンマンライブ猛アピール「売り切ったらもう一回出れんのよ」 マイナビニュース",
       "id": "9a4cfd22e6f9a3dc",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "『鬼レンチャン』放送直後に“あいみょんリベンジライブ”宣言 HONEBONE、まずはワンマンライブ猛アピール「売り切ったらもう一回出れんのよ」 (2026年10月26日掲載)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4TzRBUUFkNW5FVEVfYTgtZkVIS0tXaGRxVDd3N3ZYTVNYUG1XUW4zT3RHZ1pLUGdzOGRTTlhwTmRuWkhVcVBnX0dGY0J5U3E1d1RJMzFidDlUN2ZtYWc?oc=5",
-      "source": "ライブドアニュース",
-      "published": "2026-10-26T02:09:53+00:00",
-      "summary": "『鬼レンチャン』放送直後に“あいみょんリベンジライブ”宣言 HONEBONE、まずはワンマンライブ猛アピール「売り切ったらもう一回出れんのよ」 (2026年10月26日掲載) ライブドアニュース",
-      "id": "424495f4b4a55061",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -355,18 +343,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "桑田佳祐、ライブアルバム『九段下フォーク・フェスティバル'25』をいち早く作品を堪能できる試聴トレーラー公開",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jLTdmNjVJRnBhYW1keElKU3lyWEVmQUdjTUVqekZBbWxFWGRfeld1cEt6ei1pYkNJdy1wU3JHaFJCMFdzSFRBVkRUemh0SFJzclVOMThXcHA?oc=5",
-      "source": "THE FIRST TIMES",
-      "published": "2026-10-25T07:00:27+00:00",
-      "summary": "桑田佳祐、ライブアルバム『九段下フォーク・フェスティバル'25』をいち早く作品を堪能できる試聴トレーラー公開 THE FIRST TIMES",
-      "id": "b07da93ab7dbf3f3",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "U-NEXTライブ配信11月まとめ｜独占公演の見逃し期限と見る方法【10月25日掲載】",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vQ1ZUV0dtNldUaFAxQ2ZUUW5OSUdkMWlWZWVvRWNXUVpRQktET2g1aEljT2Z2cmVpRGpuVjFDLVFfUW1YMkt1M1ZB?oc=5",
       "source": "www.banger.jp",
@@ -391,12 +367,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【11月16日(月)18:30～】来年度の事業計画・設備投資に備える！登録者18万人「マキノヤ先生」が2026年度の補",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YUVdVUVloUjItV3k4NVJUV0k0MVk3Yy1QQ3BBaEdIWHlBck9pNHVWdHRYdG5ERFRTN3hIckEzQ0Y2ZWkwd3FGeVRMeFhFRDl2NXk3SDRwYnNMVndPT0Y3MmJaelRseU1o?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-10-25T02:45:22+00:00",
-      "summary": "【11月16日(月)18:30～】来年度の事業計画・設備投資に備える！登録者18万人「マキノヤ先生」が2026年度の補 ニコニコニュース",
-      "id": "99740943b2c8c76c",
+      "title": "【11月16日(月)18:30～】来年度の事業計画・設備投資に備える！登録者18万人「マキノヤ先生」が2026年度の補助金・助成金を解説、渋谷でセミナー交流会を開催！！",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hSkc1ZUE2UTlnaVhhemdEazJfWHpPVnhCczFULWNiZkNiSThTZkRyc3NEVzhBN25ZOXV4d1l4bHRTX1Q3RUJyNWRIR2xycXNJNXpTQjlYUmdjTDFncWtpX0hSbk54X0pZY1A4?oc=5",
+      "source": "時事ドットコム",
+      "published": "2026-10-25T02:46:00+00:00",
+      "summary": "【11月16日(月)18:30～】来年度の事業計画・設備投資に備える！登録者18万人「マキノヤ先生」が2026年度の補助金・助成金を解説、渋谷でセミナー交流会を開催！！ 時事ドットコム",
+      "id": "288a355dcfe314d2",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -691,6 +667,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "忍者コスプレで当日参加OK！「くの一武道大会 丹波 福知山の段」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rLXFlQzVlRVVyZFhfTlBDenk4NlVES0lWWjRjRS0weUFWQUtPQnNISUFwOGI1SUZiejNabWVBQndlUHhwZTlhZHZUNWRGVnJkUUw1ZNIBWkFVX3lxTFBLeHVUVnF6dXJiVzlOaXg0RDZXTkc3WGVacm9QS0pCZ1E2N3Frc0IyRE9qcW9jMEg0V0FnVW53cmRfWFpmVTdOLThNbHhxcnBTVDluNG5CQm40QQ?oc=5",
+      "source": "ウォーカープラス",
+      "published": "2026-10-22T17:42:36+00:00",
+      "summary": "忍者コスプレで当日参加OK！「くの一武道大会 丹波 福知山の段」 ウォーカープラス",
+      "id": "1638e8084470e732",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "米津玄師、新曲「春が灯り」が『劇場版 薬屋のひとりごと 亡妃の秘宝』主題歌に　新アー写公開も",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ROGVjQXh3dkFVcUxCb1BicGg0Zlo2LWdBUC1YamUzVk5ReFlnZUZBNXRRaVlGOW5sM1J3TTh2VWRudWE0dk9pcVEtZHFkVXV0d0dGRkhBeFk1d9IBX0FVX3lxTE1PZ1RtWF9yTE9LdDQ2dEtqYllGTEgtbUpOZFhGeFFpV2gza2d0QUtPVXlNSjFsRnB1VEhqblB6RTJ2RUhOT1Y5c3RMWHZmMk5XSGRibkE1WXFFTHNSd2NF?oc=5",
       "source": "リアルサウンド",
@@ -733,6 +721,30 @@
       "published": "2026-10-22T11:30:00+00:00",
       "summary": "米津玄師「春が灯り」が『劇場版 薬屋のひとりごと 亡妃の秘宝』主題歌に決定！予告映像・コメント・アーティスト写真公開！ POPSCENE - ポップシーン",
       "id": "385331eb087a8b2c",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米津玄師、『劇場版 薬屋のひとりごと』主題歌「春が灯り」を書き下ろし 新予告解禁 - 音楽 - ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2SXdYd0trYXR2LWlnOHZhaHBpMlhPNTctQXNoRFpRdjZ5X0VnVEhkSUZfN3hXMENHME9BdS11Vk1OR3V5M1lkLVZsTlA?oc=5",
+      "source": "クランクイン！",
+      "published": "2026-10-22T11:30:00+00:00",
+      "summary": "米津玄師、『劇場版 薬屋のひとりごと』主題歌「春が灯り」を書き下ろし 新予告解禁 - 音楽 - ニュース クランクイン！",
+      "id": "8722520a19a0057d",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米津玄師、来韓チケット販売当日に全席完売..韓国ファン心を証明",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NFhPa0p1UE00NUhndTNGQ3I2Y3ZlNlk5Wi1pZGlHNW5iQ2NGaVl4SV8tbzVkVWJSYWQ4a2lxWUxfclRfb0RpNnVPT05TS3V1Z2hEWG14YjEzNC1xUG05eVJxQVRJMl9yOGFCcE5KWWg0TlBFWDNDTA?oc=5",
+      "source": "스타뉴스",
+      "published": "2026-10-22T10:14:04+00:00",
+      "summary": "米津玄師、来韓チケット販売当日に全席完売..韓国ファン心を証明 스타뉴스",
+      "id": "9d91eb6932f1f0ab",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -1063,5 +1075,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 83
+  "count": 84
 }
