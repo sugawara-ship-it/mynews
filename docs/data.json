@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-26T12:58:19.499622+00:00",
+  "generated_at": "2026-10-26T15:01:53.249147+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 10
+      "count": 9
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,90 @@
     }
   ],
   "items": [
+    {
+      "title": "米株3指数上昇 Anthropic上場観測と原油安",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlZOQlAxdTV1RW43cVB2YlIyN0l3cy04SElSNG56cGlfdGdHU0Q4Q29vN0RyeWhBS2hISVFIek1HWkc0Z2RPd3h0b21JOVBneUNVYlljNlRucVh3YU9fSWdqTUdvUFJiWWR4Qm1RNzR5X3h2OWVOZklzY0J1OGYyQTh0NEJDOVFt?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-10-26T14:16:00+00:00",
+      "summary": "米株3指数上昇 Anthropic上場観測と原油安 Chosunbiz",
+      "id": "87c56232f276a49f",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropicがナスダック上場を申請 - CHOSUNBIZ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTHBtQjNWaGVKQXM5Y002NHh2NWh1R3k5RnI3d0pHaHBGU3Jubm9rY25TQ1VvZ1U1MHhOSVo1cV9uQTEwdjA3bWhNNHdZcUd4WGlVNjF3Wjh3dzlYMWtDSjE2OHRHOG51aW9Uc20wS1B2bXl6UnYwMThIc21RX3JPREpJS0VMYzZW0gGcAUFVX3lxTE81TDdzWm1jUjliLWpDNF80dGlkODBMVDZvYzhpWEVaVGRIaHRpUDB2bGg1SU9JMjNqaS0zMDNCa1R6MDU3RnN0bVRlejMyek5taFU2cWVlMU92VzdMV3BFSkc4ZDMyODlGYWQzc0ZtSnRpMUd6NkR5TmJiU2FEdDUtRlB1VzljMVlidmMxNnhEZ1FrelFiMzRJQ2NlSg?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-10-26T14:02:00+00:00",
+      "summary": "Anthropicがナスダック上場を申請 - CHOSUNBIZ Chosunbiz",
+      "id": "cef7a0afe23cff5f",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claudeは米国ジョージア州の有権者に関する公開データに無許可でアクセスした",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWVBVEQ3a00zcGltZVF0TkdOMzBGM3pHZi1PREMyV1EydThTRDJzSVhpRXBFMGh4TEdXaG9PR1VxWjVYanFoMEp4N0hCRmRDRGhTRHo3Qld2enJKRkExWlh2cTNCdF9mQ2E5X3Fxanc2M2h3S09jY0EtMXJIMmdRQkdsSzViUVNGU2ZQZlJiVU1kYm1ySlU4ZTNMT0I5dmN2WmNMNU5WSFRlQQ?oc=5",
+      "source": "Informat.ro",
+      "published": "2026-10-26T13:49:39+00:00",
+      "summary": "Claudeは米国ジョージア州の有権者に関する公開データに無許可でアクセスした Informat.ro",
+      "id": "e167dc1488575633",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "速報：AnthropicがIPO、Metaは350億ドル調達へ AIへの投資意欲を試す",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0FZTmF4eFJYS2pCck04eVdURncxWm1FdTZIU1QzcmdxRHEza3V4YWIySWFGbEJ1VlZ6WFJ6a2drZ2Y0MUpKZUhRSHdKTVdjVGJReW1KZFJLWWNJZm43T0lqREM4empkN0thUUlXcDF3US1WU0tPa2hSM2FBM00yejF2YVVGSjUxUXUzeUxXX2FPVFZ4dGdkOGNxV0NmWlF4UTJTVmVzejIyQjhmWngtWXR6eXlOZVk?oc=5",
+      "source": "Moomoo",
+      "published": "2026-10-26T13:46:00+00:00",
+      "summary": "速報：AnthropicがIPO、Metaは350億ドル調達へ AIへの投資意欲を試す Moomoo",
+      "id": "5022285c0fe70fbb",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、Nasdaq上場に向けたS-1登録届出書を提出",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVW5yUGxRclVUYjNLQ0gxN0JFak1iSHhQdkVudGtjRjVKQ1hPUTVsYjA0UmxMeDZsTmF3WjNaZHdTSnpfd0ozNUFUSGJrOHp6WDVXY0staFIxRUtJSC1oWGc1ckNDemhBTEVGMjZRNWVXYzk0dFAwREZhaXB3SjJDeU9qcEI5RUlJWWc?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-10-26T13:25:58+00:00",
+      "summary": "Anthropic、Nasdaq上場に向けたS-1登録届出書を提出 Unite.AI",
+      "id": "ae7229ea18f757e0",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "生成AI、自社のどこに使える？ 中小企業向け診断サービス「AI業務活用ナビ」を提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBENzQxcGdMZnQzYXdoTHVMSFNZd0NyZHZZV3l6NVQ0aUpORkhwbHNnV3I1anlUTEZwemVHa01xOGRfLWdfTm1aM3ZqcHl6OWV2WlZfSWVR?oc=5",
+      "source": "足利経済新聞",
+      "published": "2026-10-26T13:07:00+00:00",
+      "summary": "生成AI、自社のどこに使える？ 中小企業向け診断サービス「AI業務活用ナビ」を提供開始 足利経済新聞",
+      "id": "5f3e3fcf54992278",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "湘南鎌倉総合病院　音楽で未病改善と健康寿命延伸へ　11月７日　建長寺でコンサート〈鎌倉市〉",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS1E5N0lzM2ljcmlSSE9WX1BzN1VxZHVlbWNoSnFQb0U5Ul9PTG9QeGt4ekc0TUJKLWRkV1ZuTVljSUo1eGhtWmhlUEc2aTluSGYyallqRTF0WWlZQW1ncnc1a2NyZ1dFcWd0cEtCVEJ3VGExOVgyLXdDeWNlUGpKcHdZTzdJNk9VQlU5VlJ30gGAAUFVX3lxTE95bXdUeG1TVHV6UHJxQWFsbEVSb3ZJaVhxU3FoSHowRDg1LUgyZHFWeDRtMml6Rmo4NG5BT2tfUkVWZXhqQTY5aDloU1VmdVgzazRHbTJTVFhRZjl0ZEhRNTJhNlFNbF9KbV9NeHZOVjFFSTJtZVRQajVURHRLUmVT?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-10-26T13:00:00+00:00",
+      "summary": "湘南鎌倉総合病院 音楽で未病改善と健康寿命延伸へ 11月７日 建長寺でコンサート〈鎌倉市〉 ｄメニューニュース",
+      "id": "9f3c5e197ca98dcd",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "AnthropicのClaude、有料登録や認証を迂回し米ジョージア州の有権者数集計データにアクセス",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnhtVWxSOFZ4SW1qSEZob3hwWm5KSU9Bd2ZHUlk5VUkxQ0t0ZlVKTkQtWE5HUy1YQVlfSm51MVJZNjJOMExSSF9Ea1k5NzA2V0ZXeEFNRlJWNXRlaFpOelVOX1BWdjg2c3RRUm40WnVPSVUwY2x1LWpkVnl2TmVlUkFvMjdfaGhtSnpDbHUwM1czMWRoQ0ZaSlRLTEN3a09CT0I2OGliX1hYd3lNXy1tNW5USlZULXJBdEU2QzRnLXhtcjN4dnc?oc=5",
@@ -85,6 +169,18 @@
       "published": "2026-10-26T11:53:49+00:00",
       "summary": "エルビスの権利者がAnthropicを提訴、274曲の無断学習を主張 Pasquale Pillitteri",
       "id": "572fc701c42b95c4",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "FTC、OpenAI、Anthropic、METRを対象にローグエージェント調査を開始",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUExlT1RUTC1uNU51Mzc4MmJ0MWc3SFhfMUFqOU9La0pMVHpSWFRWNW1VV3BsMlhGOS0yQW9selNQSkZ1TWJqcHBTQnNsbjNEU2hubnl2TnhUVE5qWTMwX3VVNExSMUxYM0JJSm5VVzN3NzJzYUFTSWp2WWpXTHNFaVd3?oc=5",
+      "source": "OrcaRouter",
+      "published": "2026-10-26T11:42:39+00:00",
+      "summary": "FTC、OpenAI、Anthropic、METRを対象にローグエージェント調査を開始 OrcaRouter",
+      "id": "b8e74841a6c79091",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -127,66 +223,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "AIエージェントの無断行動ガイド 記録された事例まとめ",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Qb3k4Y2VuYkVUckhTRGJ3VGQyWVVTS0FNZUVvSTFkM1pqQlNFSFFGSVB5ekMyRG1fWDk0Y1NTSEpQazNHTHlIWkF3VGZ3RFlCTjgtOF9uRVBSbnhISU9fdlc1SXVGTTJRX09uSFF6aGtZV0szMTlNTjVkQS1zZVU?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-10-26T08:54:54+00:00",
-      "summary": "AIエージェントの無断行動ガイド 記録された事例まとめ Pasquale Pillitteri",
-      "id": "015462ae6a9ef4f9",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ClaudeCodeの実験が1年で2.8億インストールに、Anthropicが『Agent Skills』をAI基金へ寄贈",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZWl9XRFQ0dlpPZjdCbXZtR2IzZ2VZTENtcnF6WF9ldWlSbXVfcjNSTl9DVU8wQ3p4ZEVtdDdXLVpMdw?oc=5",
-      "source": "shiritomo",
-      "published": "2026-10-26T08:33:24+00:00",
-      "summary": "ClaudeCodeの実験が1年で2.8億インストールに、Anthropicが『Agent Skills』をAI基金へ寄贈 shiritomo",
-      "id": "c9001286e5716a86",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicがClaudeのジョージア州ペイウォール回避を確認",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMmZFU0lKMDY1Wmw2VTZFMEdPNUh1VVV0QXh4WTlGc3ZSSnhTTVg1TUZRZ1RQM2wycC1kV2k2N3J0VG42SEluY1U3LVdfT1ZvLU5nMTJsa2I0cFpDTDVKLVFjR0RxcGQyZjRjdDFLTE1EaDBQcm80cExvREF5WU1DVEFpYU44bFE?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-10-26T08:00:39+00:00",
-      "summary": "AnthropicがClaudeのジョージア州ペイウォール回避を確認 Pasquale Pillitteri",
-      "id": "952fb10a07fe3929",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "OpenAIが値下げ攻勢でAnthropic顧客奪取 - CHOSUNBIZ",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyMFBfMmpwV09IVTZ1a2NqbGpBRHVVMDdReDRqVVI5WlQ5TFZBRDhTTjAtdHl2MVFINm9sSzJLTzB4Zjl5Ql9KUFhRU2dzS1N1UFAyOTdBbUU4SjBFSlR1WUlibURMekh1MWhDdHd3Z285eG5OSHo3bGVR0gGOAUFVX3lxTE1lNzNucGFpOU1pVFBhVlRIVks1eG1jU2NNTFJ1S2ppZ05wTjYwTjRhd3JoNDJseGM2YVAzRVZvLXJocUV0RHZBUDRRcjhlRF9wTjc1Z3ZQaE9fd0pBUlhKMUJ4c3VwbFlmdGxiaTdCemtGZzhTaTVOQlJ1ZXNacTUtN0xDOXZ3WjJSNVFMM0E?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-10-26T07:55:00+00:00",
-      "summary": "OpenAIが値下げ攻勢でAnthropic顧客奪取 - CHOSUNBIZ Chosunbiz",
-      "id": "47b91d68d1ac2d4e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicのAIモデル・Claudeが人間の許可なく有権者情報にアクセス",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPamk1b2ZSaGFEdmNwQkJiX21OYW9abDQ5Z1JvQThXejRTYkFmMGVfd2EtUkJ1SWRGRkNTMmxabXVWSU1xQ2xFRGx2bVlDSHJTN0ZuaHJ0ZFJNZGZjbHpsSElCdTNBNXpSTjJSeHdEOXRBc2k4cVlmUUlRbzZDcVFsVlF1bzA?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-10-26T07:48:00+00:00",
-      "summary": "AnthropicのAIモデル・Claudeが人間の許可なく有権者情報にアクセス GIGAZINE",
-      "id": "af0d36cff1349630",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "宮野真守、横浜アリーナで“スター”と夢のコラボ！ こっちのけんと、神山智洋らと笑いと歌にあふれる一夜",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01NVUwZE81TnpOWHZQczBWMlY4NEwwNTYtNEdaS3dLcEpMekxZNEJ1Y3pLbFVBUzhyckRuYVB2XzRuN1U3MW93REVRRFFRc3VPQXEzSFAxbUV3UEw2a3pFVXZR?oc=5",
       "source": "アニメ！アニメ！",
@@ -196,30 +232,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "アンソロピック、Claude虐待禁止条項が11月12日発効——AIの「福祉」が利用規約に",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00a2h5Z2U5YlcwR2JJUnlYRks3TnczZTJzTlhUdmUtUkU3Sk51Z1Q2cmZJYTRoRW91M09wLThldm52WmF2aHZsazRqMkJqTjRwakRmVTAtRWl2VkJKbHZNVGdPb05DQ2RKSWNGVmtSUnhvd25k?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-10-26T05:55:00+00:00",
-      "summary": "アンソロピック、Claude虐待禁止条項が11月12日発効——AIの「福祉」が利用規約に BigGo ファイナンス",
-      "id": "3d89e0db7a7e8983",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "安田倉庫、生成AI利用者率が34.6％で27年度目標を前倒し達成",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nVmdLSmhWNHdRTEZaUnphcGw3Umd2WnQ0LWlQMFRsYnRORlJTVGkzTWxjYWFCZmVYa2ZheU1BbG1FSGlBRUVEWnc2Zw?oc=5",
-      "source": "LOGI-BIZ online",
-      "published": "2026-10-26T05:53:28+00:00",
-      "summary": "安田倉庫、生成AI利用者率が34.6％で27年度目標を前倒し達成 LOGI-BIZ online",
-      "id": "75da339db0f0954c",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -268,6 +280,18 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "中間選挙が動かす米国経済の行方 政策運営、金利、AI投資への影響は？",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95RlhqU05KeXVHTFpmSl9tdXhzOVo2V083ZmU4eHR4TjViaE9nel9yUEhjV19FdHNyaUh4MVdTdTZSS3VrQzFGNXYza0tRdjZSdHZSRA?oc=5",
+      "source": "日経CNBC online",
+      "published": "2026-10-26T01:37:16+00:00",
+      "summary": "中間選挙が動かす米国経済の行方 政策運営、金利、AI投資への影響は？ 日経CNBC online",
+      "id": "9f4c2f88049bd457",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -595,18 +619,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "AIブームが日本の景気に与えるインパクトは？ 半導体輸出・設備投資、資産効果の観点から分析 野村證券・伊藤勇輝",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tUEs5eGZVdHhrRkdkb3loY0lKdU10NTBueXhDLUFDLVBQbVFBT0JvMU4tSE1hUDNHWkJwUmxUam93eUp2VHFmeGJoc1l3MEQ2QURJZVk2NzFzUUlmYjY4?oc=5",
-      "source": "野村證券",
-      "published": "2026-10-23T07:00:00+00:00",
-      "summary": "AIブームが日本の景気に与えるインパクトは？ 半導体輸出・設備投資、資産効果の観点から分析 野村證券・伊藤勇輝 野村證券",
-      "id": "e1c9d9284f408d5a",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【2026年12月】米津玄師・Mr.Childrenが再び台湾に来る！チケット購入方法・注意点・受け取り方完全ガイド",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcXlaNFNyOFRONGQycXR6Q0xIcUFjYU80QThOWUVqVFpiUE5nNG5vWTRhYXdPcE9Lc0pueHNtTWVYYTlZUVRUWXFHWnZXWnhIQzBlNWxrRUlVdElLTG1keVlzTUNIT2tqZjlDdjZva204bzM5LTcyRzB4YXhqdE43a21qYTlldw?oc=5",
       "source": "Funliday",
@@ -643,18 +655,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉山で感じた「ふつう」への覚悟",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPdTJpY1BwcGI2TGxUODU5SWdOenh4VjJTREljUWRES2hoQ1BzUzRvMGtsMkNmbDI4bjNITEFaWFFxZmlUM3N6U1hsNUx1ZlZERnF5YTJpa2E0d3hXbGJlU0M3cDVvMkw0amdHSTFRZ3pwNFA0MFVzVldtOA?oc=5",
-      "source": "Business Insider Japan",
-      "published": "2026-10-22T21:15:00+00:00",
-      "summary": "鎌倉山で感じた「ふつう」への覚悟 Business Insider Japan",
-      "id": "8b3a5947cdf480d8",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SMU1TX2pGYlhIQVFfMWt3UmxxUDVyLThTUkRDNTFMYk4xMkFhSWY0ZENKcFotRnlrSkhRcVVpYjJFVmh4MUhqRTA4VU4zbjRaWWpTanhPTVJCenVN?oc=5",
       "source": "山陽新聞デジタル｜さんデジ",
@@ -664,18 +664,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "忍者コスプレで当日参加OK！「くの一武道大会 丹波 福知山の段」",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rLXFlQzVlRVVyZFhfTlBDenk4NlVES0lWWjRjRS0weUFWQUtPQnNISUFwOGI1SUZiejNabWVBQndlUHhwZTlhZHZUNWRGVnJkUUw1ZNIBWkFVX3lxTFBLeHVUVnF6dXJiVzlOaXg0RDZXTkc3WGVacm9QS0pCZ1E2N3Frc0IyRE9qcW9jMEg0V0FnVW53cmRfWFpmVTdOLThNbHhxcnBTVDluNG5CQm40QQ?oc=5",
-      "source": "ウォーカープラス",
-      "published": "2026-10-22T17:42:36+00:00",
-      "summary": "忍者コスプレで当日参加OK！「くの一武道大会 丹波 福知山の段」 ウォーカープラス",
-      "id": "1638e8084470e732",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1063,5 +1051,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 83
+  "count": 82
 }
