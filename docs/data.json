@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-26T20:32:08.017555+00:00",
+  "generated_at": "2026-10-26T22:03:55.487236+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 11
+      "count": 9
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,66 @@
     }
   ],
   "items": [
+    {
+      "title": "「Claude」のAnthropicが上場申請 売上好調で営業損失縮小 ティッカー「ANT」に",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aLUlVVGZrZWtjX0czUnU2cTVvNGdTcS1URHZnUGFOZFVTSFE1ak1STHFESVZwMjlZeTVaa0pRbHJneG5lZ1RKbDBHcEZtZHYtMGc?oc=5",
+      "source": "CNET Japan",
+      "published": "2026-10-26T21:58:00+00:00",
+      "summary": "「Claude」のAnthropicが上場申請 売上好調で営業損失縮小 ティッカー「ANT」に CNET Japan",
+      "id": "77a940eac3033e46",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AnthropicのIPO申請で米株高に広がり - CHOSUNBIZ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON05oTnRkN0o0MVhzQnFTMVFGQVhXS2FfeWxEN0ZLbVp1MlFDMElqZjVfbnpzMXl3QVpPRXNkbkVGeU96VlZlQmY2WUN0Y1FrUjlGVXFmaTZ0Nk02QUVWRVdTR0tEMGJMWWdPTG9PeG5hRXZtd2tGUFVHRmtNUkl3VmFNdXJYTGZB0gGcAUFVX3lxTE8xSHhlMkRrMjdnUjJjazA2MkhkT3pMalYzT2xQRU53UDJ1UVByZllwZFBCYWl3N2lLdnJ2V1hyc1pEVndiSHVncEYtVFJUQjRpUTFZVTlHSTRzdDd6S1RPTHBlQ29LV2YzR2xsaFY1UU03OGlYVHBocFJhbGczSGtNbVRoU3Z2TzFzYWJINzdpR0Q0Z05feVp3SzMxQg?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-10-26T21:48:00+00:00",
+      "summary": "AnthropicのIPO申請で米株高に広がり - CHOSUNBIZ Chosunbiz",
+      "id": "dfe7263f66ec671a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AnthropicがIPO申請を正式提出、売上高162億ドルに急拡大 純損失は807億ドル",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SOGJDdnJZNno4UVhMTXF6TmpGeGc0V1dmcEtDc3lwZDhpRDdnYVpXNkVva29DTEpKRWRqN2ExY0lKVFRCYjMxczZwcmRjOHI1NHBKTGlhSEg1MXlqT0pyUTgwM0FCX0E?oc=5",
+      "source": "テクノエッジ TechnoEdge",
+      "published": "2026-10-26T21:45:02+00:00",
+      "summary": "AnthropicがIPO申請を正式提出、売上高162億ドルに急拡大 純損失は807億ドル テクノエッジ TechnoEdge",
+      "id": "d3da485ef184d966",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、IPOを正式申請 上半期売上高は約14倍、純損失807億ドル",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yT1ZKLTNyemNUeHBrMFpjb0xGcURwaHZEekhLZVFoVGc5NVhQN3pKbEVwZFJlZmxZa3RQN0d2d21QTVh0X3U2SThtYTZiai1kZHFVQS11RlUxNDUxcVNrQmtyNWFUTUFxbkE?oc=5",
+      "source": "ITmedia",
+      "published": "2026-10-26T21:28:38+00:00",
+      "summary": "Anthropic、IPOを正式申請 上半期売上高は約14倍、純損失807億ドル ITmedia",
+      "id": "4ac3910660066eb7",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米津玄師、Fujii Kaze（藤井 風）、YOASOBI……自身最大規模ツアーで“世界”に届ける日本の音楽",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93XzNNWGR6ZGJwd1VYRGdfb3RwaGhvOVVFUmxVU0JUUlpSMzFtZFVtS2JHSTh6MjJkN0Y2ZTRDQlJLS2c3MUhDbnZ2eF9LQVVNVHEtbnVYS2cyQdIBX0FVX3lxTFBkcVpLbWpycHFkRUY2MDRheGRoTlo4ZzdqLTZuelZsbnRVOTBSRE5ENThQOUNpVWZlZVBVOWwyUFpzc1ZieTR3YUc0YmoyU0VoRzVlV2RFaTA3UE56ZWtN?oc=5",
+      "source": "リアルサウンド",
+      "published": "2026-10-26T20:50:44+00:00",
+      "summary": "米津玄師、Fujii Kaze（藤井 風）、YOASOBI……自身最大規模ツアーで“世界”に届ける日本の音楽 リアルサウンド",
+      "id": "27127819e23d44ff",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "FTC、Anthropic幹部に証言要求…IPO説明会と同じ日に圧力",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QaERSQ2VxaW1fQlhlVl9hVU5qb1hwUFhFV01CengtZWVIa1VTVkJsUzl1T3lHc3hzT3FMc0N3YWYtS1JzZmU5VW5kb3FEbU1oX0I5XzNtWVBDVF83UTRQN0xGbTV0WjRGRU1xMmZjc2c2R3lo?oc=5",
@@ -163,42 +223,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic、SPCXに強気見通し",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWo3ZUVMZXdZWEpDRkNCbHB1U1ZuTVEycXUxd0Z4QWFud1pQVHpGZnRCUENPeTNub3Qyd2JKdzRoTmJ2TzNva0lxRzhnd0M4M1B2WnFwbjZ1Q0dra182S1BLYWVoQ1Q0ZG42NWtfMjJQa1JLaDZ0TEZDN2xaZGxlWGdZMUY4OGotWW1Z?oc=5",
-      "source": "Moomoo",
-      "published": "2026-10-26T16:09:51+00:00",
-      "summary": "Anthropic、SPCXに強気見通し Moomoo",
-      "id": "a349bc9f5ee895c2",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米Anthropic IPO申請書類を公開",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wNHhMMFRlREdRRHQ0c1RZZ3YxN0dpV1EwR2hPeFM0czRMLUpYcHFFMXdXa2x1SlA5X2VjTF9wUEF0M0RYY3J6QVZIV2FaMU9o?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-26T15:04:18+00:00",
-      "summary": "米Anthropic IPO申請書類を公開 Yahoo!ニュース",
-      "id": "6354e7f9403fe337",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicがIPOを申請したことを受け、AI関連株が上昇",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWw0NGJFZlFRZklMeHRWbnNLNmxDVFNoZFB2RzAzYV81enhHeVBZV205czFlRE1XVl9YOGxVMm1yY1doaGtHam9vdi1naWNhdFN2cHEtY2ZyMVlIWi1RNzN5Mi1kQm5lbzJlWEdiU0xxMDVKVDd6aU9hNkJvQldnOW5QRE5lQU9RVFFsZklNTGtBTTJQQTJuUzZfNFozNFEyYkE?oc=5",
-      "source": "Moomoo",
-      "published": "2026-10-26T15:02:14+00:00",
-      "summary": "AnthropicがIPOを申請したことを受け、AI関連株が上昇 Moomoo",
-      "id": "a558c7f6026f7434",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【11月２日申込締切】ディスカバリー×JAXA「スペースラボ２０２６」平塚駅前で宇宙体験 小学生２００人を無料招待",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WQUJSNGYwUVFLVXdLWkE0T0JYVG9DX3E1a0JheWhVQWoya2pDN3JvTGRucGc1U2xIbC1ia19UYWtvTnFWMW5rV0YzenZRVmE5RVdiYVNmdHV5WE1HSVBBRmkyOWw?oc=5",
       "source": "タウンニュース",
@@ -208,18 +232,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "速報 | Anthropic、IPO申請：1.5兆ドルの企業価値は妥当か？",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX245M2haRk9qUndmamdvWDNJaXpWZ0hIbng4R3FNcUszODRtRU9VUlR5LXlVeURNakt3Q0ZFREZGZU8tTDR0bkZqMndlOVpwOVBldHM4Sk5CQWRhZm1raGxOQnMwbHFtcHFIdUJNMWpoaFI1aUJZUFZPRjlOUlVkNjNBZ0NZOVFCTDNEUC1wWUkwVWh1blBIb21zRTgta25v?oc=5",
-      "source": "Moomoo",
-      "published": "2026-10-26T14:59:04+00:00",
-      "summary": "速報 | Anthropic、IPO申請：1.5兆ドルの企業価値は妥当か？ Moomoo",
-      "id": "0aaae9e7afec75f5",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -295,18 +307,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "中間選挙が動かす米国経済の行方 政策運営、金利、AI投資への影響は？",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95RlhqU05KeXVHTFpmSl9tdXhzOVo2V083ZmU4eHR4TjViaE9nel9yUEhjV19FdHNyaUh4MVdTdTZSS3VrQzFGNXYza0tRdjZSdHZSRA?oc=5",
-      "source": "日経CNBC online",
-      "published": "2026-10-26T01:37:16+00:00",
-      "summary": "中間選挙が動かす米国経済の行方 政策運営、金利、AI投資への影響は？ 日経CNBC online",
-      "id": "9f4c2f88049bd457",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "品川区、エシカル消費イベントinしながわ「shinagawa ETHICAL 2026」開催へ",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpUm15a0FjYUJTVnlVRUYzeTZhcUtBTVlwakN2UTBxbUJqQmhYWXZjdlJfYUI4YlU2cFJpbXpUYVdaLXk0WXVXeG05ZXExUl80WFlkWjNLemVYeGRmR1RNYVNld2ZGd1NMcjVlUC1YSHZKdw?oc=5",
       "source": "クレアウェブ",
@@ -352,18 +352,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "U-NEXTライブ配信11月まとめ｜独占公演の見逃し期限と見る方法【10月25日掲載】",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vQ1ZUV0dtNldUaFAxQ2ZUUW5OSUdkMWlWZWVvRWNXUVpRQktET2g1aEljT2Z2cmVpRGpuVjFDLVFfUW1YMkt1M1ZB?oc=5",
-      "source": "www.banger.jp",
-      "published": "2026-10-25T06:45:40+00:00",
-      "summary": "U-NEXTライブ配信11月まとめ｜独占公演の見逃し期限と見る方法【10月25日掲載】 www.banger.jp",
-      "id": "82a613b1abb5ef18",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -547,18 +535,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "未来古代楽団、大阪公演のチケット一般発売がスタート！東京公演はライブ配信が決定｜Infoseekニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zMUJwbDBJcTB1bjdjaEhyd0V1b2gySERZMUlwcnUycGxXd19IOHVaWHhGWjNKOTk4QzNaNm1VZy1lLUs4V2hIQWRDUzY4NFl3RVdfbGs1RWRuc3RfdElFcw?oc=5",
-      "source": "Infoseek",
-      "published": "2026-10-24T01:00:00+00:00",
-      "summary": "未来古代楽団、大阪公演のチケット一般発売がスタート！東京公演はライブ配信が決定｜Infoseekニュース Infoseek",
-      "id": "735794fc12862ea4",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鎌倉市 イベント紹介 かまくら オーガニックマルシェ",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ta1JKZDRITHk2em95MzFMTlJidDZUanJVWEhkNktBUnBnd0tGS2tQaTQ0b28zX0JpYWM0R3dUUTdtOTNhMHl5R2JkdVNtRjhvWExHLWpHU3B3UWdWbkE0?oc=5",
       "source": "選挙ドットコム",
@@ -667,18 +643,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "忍者コスプレで当日参加OK！「くの一武道大会 丹波 福知山の段」",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rLXFlQzVlRVVyZFhfTlBDenk4NlVES0lWWjRjRS0weUFWQUtPQnNISUFwOGI1SUZiejNabWVBQndlUHhwZTlhZHZUNWRGVnJkUUw1ZNIBWkFVX3lxTFBLeHVUVnF6dXJiVzlOaXg0RDZXTkc3WGVacm9QS0pCZ1E2N3Frc0IyRE9qcW9jMEg0V0FnVW53cmRfWFpmVTdOLThNbHhxcnBTVDluNG5CQm40QQ?oc=5",
-      "source": "ウォーカープラス",
-      "published": "2026-10-22T17:42:36+00:00",
-      "summary": "忍者コスプレで当日参加OK！「くの一武道大会 丹波 福知山の段」 ウォーカープラス",
-      "id": "1638e8084470e732",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "米津玄師、新曲「春が灯り」が『劇場版 薬屋のひとりごと 亡妃の秘宝』主題歌に　新アー写公開も",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ROGVjQXh3dkFVcUxCb1BicGg0Zlo2LWdBUC1YamUzVk5ReFlnZUZBNXRRaVlGOW5sM1J3TTh2VWRudWE0dk9pcVEtZHFkVXV0d0dGRkhBeFk1d9IBX0FVX3lxTE1PZ1RtWF9yTE9LdDQ2dEtqYllGTEgtbUpOZFhGeFFpV2gza2d0QUtPVXlNSjFsRnB1VEhqblB6RTJ2RUhOT1Y5c3RMWHZmMk5XSGRibkE1WXFFTHNSd2NF?oc=5",
       "source": "リアルサウンド",
@@ -748,6 +712,18 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Ｎｅｗｓモーニングサテライト【フランス金利急騰 日本への教訓は？】(テレ東、2026/10/22 05:45 OA)の番組情報ページ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObTFybkh5ZlBuVW9jNERrN0R0cWEyQ0EzdXUzb2k4REJUUDc4UUR5LVptR284R0tlWjhsZ3RDT2tiXy0xVHRDRTdtYmx6YXh4dFVrVHNUVHVHM05uVTNhMl90dXBmZ0FORHVwMmRTV29vZFV6eVp2NUV5d2NZZEFld2JXZ19GeVFFRlhxMGdyMA?oc=5",
+      "source": "テレビ東京",
+      "published": "2026-10-22T07:00:00+00:00",
+      "summary": "Ｎｅｗｓモーニングサテライト【フランス金利急騰 日本への教訓は？】(テレ東、2026/10/22 05:45 OA)の番組情報ページ テレビ東京",
+      "id": "14097f0c0b2cbdd4",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1003,6 +979,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "Hey! Say! JUMP JUMPdate!横浜アリーナ全公演セットリストまとめ",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE83UEVpQ0NzQVZsSUNsa2VCR0lCWmdPNmhuZ1NoYnlSMmdPQURneS1yQ2cyT19rYkJObGlLMWptZlY0cm94WW44Zmp3?oc=5",
+      "source": "もとりょこblog -",
+      "published": "2026-10-18T09:50:49+00:00",
+      "summary": "Hey! Say! JUMP JUMPdate!横浜アリーナ全公演セットリストまとめ もとりょこblog -",
+      "id": "868554e5882a043b",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "合気道覇天会（主宰：藤崎天敬師範）、第30回フルコンタクト合気道選手権大会を機に20年間の技術研究成果を整理―立ち関節技による一本勝ちなどを報告",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fQnZOblczU0tUWDJkLWJDMERkaWxJRzRVTVRQXzI4ZlRfLVFEWHRWeGhTcTQ4QU44ekZVdHUzcFQ3Tml3RGtXbV95R1VYMWdkampwQ3hBTnhNNTA?oc=5",
       "source": "valuepress",
@@ -1061,19 +1049,7 @@
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "１０／１８に高知県南国市で「武道祭」 演武や練習体験も",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVd1NKTkNDR2dYZGNlRDBRUnFaR2ZMaTFZUG9XQnQ4U1d4Yk41eGNfbDVXN2RGTGotUk1CWFpXSHhocUxJU1pHVGltaUotUkJqU1diZHFlT0Vya2hSZjZF?oc=5",
-      "source": "高知新聞",
-      "published": "2026-10-14T07:00:00+00:00",
-      "summary": "１０／１８に高知県南国市で「武道祭」 演武や練習体験も 高知新聞",
-      "id": "8926288021d7b89e",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 84
+  "count": 82
 }
