@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-26T22:03:55.487236+00:00",
+  "generated_at": "2026-10-26T23:04:18.506668+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 9
+      "count": 11
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,42 @@
     }
   ],
   "items": [
+    {
+      "title": "鎌倉ウィッチ、屋号刷新1周年でエコバッグプレゼント 4000円以上購入で先着1500人（食品産業新聞社ニュースWEB）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwQVdoZjBWMjhuNkFFRlYyWjlPT2gwejdDcEdFam4wcGJUcDJjMFQtSk4yTnJQQkEwUW9TZkIwMXM3cHRJdFZHWGJRbFk5RmJnWDBhcGVrWG9CODRsN25nZU5mZThlZFhkWkE3SWxCSGh6cHh5X1RxcTJCUjRULUE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-10-26T22:43:50+00:00",
+      "summary": "鎌倉ウィッチ、屋号刷新1周年でエコバッグプレゼント 4000円以上購入で先着1500人（食品産業新聞社ニュースWEB） Yahoo!ニュース",
+      "id": "1cc7e6729dfacf8f",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【鎌倉市】鎌倉市地域公共交通活性化協議会専門部会の傍聴者募集｜2026年10月28日開催",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lVVlpYXZiRzhuT0VjN3YwWGRtWk1kTmJ0NHQwMnM2dmwwNFFhdVgtdE94dGd0WE5jRjRvR1JnYzNqQklabC1kclhCQmhGQUZaRkc0eVNKandNbDFrUDgwaDJjVlRydGR5OVBxRkdtQnFQRlg2VlpXNFZpNA?oc=5",
+      "source": "湘南人",
+      "published": "2026-10-26T22:18:09+00:00",
+      "summary": "【鎌倉市】鎌倉市地域公共交通活性化協議会専門部会の傍聴者募集｜2026年10月28日開催 湘南人",
+      "id": "0f8656353cb962a4",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropicが上場申請書類を公開、4〜6月期は営業黒字：計算資源の稼働で利益率は圧縮されうる",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aOXVLVWJEdW1TWWNYVkxJTnl5anZLMmpSQlNEeWRGcWh2b0FWWW5COV9NMzFva2dMYUhkWUpKOHJiRmhpX0pIZDBUdjNyNDhiNjlQTWctaWlXMElyNFd3bVF6Zw?oc=5",
+      "source": "XenoSpectrum",
+      "published": "2026-10-26T22:08:26+00:00",
+      "summary": "Anthropicが上場申請書類を公開、4〜6月期は営業黒字：計算資源の稼働で利益率は圧縮されうる XenoSpectrum",
+      "id": "0a6c6a550af6449e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "「Claude」のAnthropicが上場申請 売上好調で営業損失縮小 ティッカー「ANT」に",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aLUlVVGZrZWtjX0czUnU2cTVvNGdTcS1URHZnUGFOZFVTSFE1ak1STHFESVZwMjlZeTVaa0pRbHJneG5lZ1RKbDBHcEZtZHYtMGc?oc=5",
@@ -205,18 +241,6 @@
       "published": "2026-10-26T17:11:39+00:00",
       "summary": "AnthropicがCathedralのAIエージェントに12時間で侵入される、同社がアクセスを確認 Pasquale Pillitteri",
       "id": "eeb4aa2035f67890",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicのIPO公開申請、クラウド調達に26兆6000億ドルのリスク",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EemxkMktVRHZkVTRPZDJLU1dQMHZWZjlPVlFrZUNBY1JZZXE4bHJFVGVKYzQyV2FKZ3ZpWHRGeEpXOFBHU0ZfdnBodGxRaDNiYlpQdHVrQ0RxT3RFeFdEa2N4M0pFOEhIYXJMeG54YktXMnp2cFdYaHRn?oc=5",
-      "source": "BeInCrypto",
-      "published": "2026-10-26T16:11:00+00:00",
-      "summary": "AnthropicのIPO公開申請、クラウド調達に26兆6000億ドルのリスク BeInCrypto",
-      "id": "d98db7b68dad2461",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -535,6 +559,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "未来古代楽団、大阪公演のチケット一般発売がスタート！東京公演はライブ配信が決定｜Infoseekニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zMUJwbDBJcTB1bjdjaEhyd0V1b2gySERZMUlwcnUycGxXd19IOHVaWHhGWjNKOTk4QzNaNm1VZy1lLUs4V2hIQWRDUzY4NFl3RVdfbGs1RWRuc3RfdElFcw?oc=5",
+      "source": "Infoseek",
+      "published": "2026-10-24T01:00:00+00:00",
+      "summary": "未来古代楽団、大阪公演のチケット一般発売がスタート！東京公演はライブ配信が決定｜Infoseekニュース Infoseek",
+      "id": "735794fc12862ea4",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "鎌倉市 イベント紹介 かまくら オーガニックマルシェ",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ta1JKZDRITHk2em95MzFMTlJidDZUanJVWEhkNktBUnBnd0tGS2tQaTQ0b28zX0JpYWM0R3dUUTdtOTNhMHl5R2JkdVNtRjhvWExHLWpHU3B3UWdWbkE0?oc=5",
       "source": "選挙ドットコム",
@@ -565,18 +601,6 @@
       "published": "2026-10-23T12:00:00+00:00",
       "summary": "インフルエンザに警戒 昨年より１カ月早い注意報基準〈鎌倉市〉 ｄメニューニュース",
       "id": "e0318c0a58a11609",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ハーモニカ響く無料演奏会　11月19日、鎌倉芸術館で〈藤沢市〉",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvMldBLWRRYTZtRnBRY1JHTG9wNlh6aHk1TlpqbFZQNXJTZUpyOWU0YnFYSWQ1ckZhSmpELU1iQWh3T0t5T2ZROHl4SXlzYldTekdRTlNfMVVoM1J5QXVvdGdGR0VEdGZhZW5sc2VSUV83NUtwMV9LckI1Z9IBgAFBVV95cUxQbS1pZ0lGeWp0S2dXUmZyU1R3T3hVWlp6MUFoOHhvXzcyVDlBcDZLOVN0NjduemQzMlJqMkhvdEN5R1R4cDhYWmlqOE4ybm5IUElHR1U2RlBTY01oMkotdUUzTFhUUGQ5enF3ekRNc0ZOT1ZvRllZZjJScW9haEtqZA?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-10-23T10:00:00+00:00",
-      "summary": "ハーモニカ響く無料演奏会 11月19日、鎌倉芸術館で〈藤沢市〉 ｄメニューニュース",
-      "id": "d998bdeda4a3407c",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -619,18 +643,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ADEKA、鎌倉でプラ資源循環プロジェクトをスタート：リサイクルニュース",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYSVlQT2tPeUVBdzNoUTRrU0M3SHpvY0lkN3A4eTlkVDFkTHlVOUw0X25xdGVjY0FmVFJ4MkVfVkM5N3ZwZF9pRWttVkVyU2pOTjdyZndYQXgxdnlmSlRkOU1sVDNLbEY2RzczTzBrSQ?oc=5",
-      "source": "MONOist",
-      "published": "2026-10-23T02:00:00+00:00",
-      "summary": "ADEKA、鎌倉でプラ資源循環プロジェクトをスタート：リサイクルニュース MONOist",
-      "id": "e1e2f8cad25ef467",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ゆず、横アリ公演回数87回で自身の1位記録を更新＆同会場での“ゆず史上最高動員”も記録 初の弾き語りアリーナツアー全21公演を完走",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SMU1TX2pGYlhIQVFfMWt3UmxxUDVyLThTUkRDNTFMYk4xMkFhSWY0ZENKcFotRnlrSkhRcVVpYjJFVmh4MUhqRTA4VU4zbjRaWWpTanhPTVJCenVN?oc=5",
       "source": "山陽新聞デジタル｜さんデジ",
@@ -640,6 +652,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "忍者コスプレで当日参加OK！「くの一武道大会 丹波 福知山の段」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rLXFlQzVlRVVyZFhfTlBDenk4NlVES0lWWjRjRS0weUFWQUtPQnNISUFwOGI1SUZiejNabWVBQndlUHhwZTlhZHZUNWRGVnJkUUw1ZNIBWkFVX3lxTFBLeHVUVnF6dXJiVzlOaXg0RDZXTkc3WGVacm9QS0pCZ1E2N3Frc0IyRE9qcW9jMEg0V0FnVW53cmRfWFpmVTdOLThNbHhxcnBTVDluNG5CQm40QQ?oc=5",
+      "source": "ウォーカープラス",
+      "published": "2026-10-22T17:42:36+00:00",
+      "summary": "忍者コスプレで当日参加OK！「くの一武道大会 丹波 福知山の段」 ウォーカープラス",
+      "id": "1638e8084470e732",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -979,18 +1003,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Hey! Say! JUMP JUMPdate!横浜アリーナ全公演セットリストまとめ",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE83UEVpQ0NzQVZsSUNsa2VCR0lCWmdPNmhuZ1NoYnlSMmdPQURneS1yQ2cyT19rYkJObGlLMWptZlY0cm94WW44Zmp3?oc=5",
-      "source": "もとりょこblog -",
-      "published": "2026-10-18T09:50:49+00:00",
-      "summary": "Hey! Say! JUMP JUMPdate!横浜アリーナ全公演セットリストまとめ もとりょこblog -",
-      "id": "868554e5882a043b",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "合気道覇天会（主宰：藤崎天敬師範）、第30回フルコンタクト合気道選手権大会を機に20年間の技術研究成果を整理―立ち関節技による一本勝ちなどを報告",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fQnZOblczU0tUWDJkLWJDMERkaWxJRzRVTVRQXzI4ZlRfLVFEWHRWeGhTcTQ4QU44ekZVdHUzcFQ3Tml3RGtXbV95R1VYMWdkampwQ3hBTnhNNTA?oc=5",
       "source": "valuepress",
@@ -1049,7 +1061,19 @@
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "１０／１８に高知県南国市で「武道祭」 演武や練習体験も",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVd1NKTkNDR2dYZGNlRDBRUnFaR2ZMaTFZUG9XQnQ4U1d4Yk41eGNfbDVXN2RGTGotUk1CWFpXSHhocUxJU1pHVGltaUotUkJqU1diZHFlT0Vya2hSZjZF?oc=5",
+      "source": "高知新聞",
+      "published": "2026-10-14T07:00:00+00:00",
+      "summary": "１０／１８に高知県南国市で「武道祭」 演武や練習体験も 高知新聞",
+      "id": "8926288021d7b89e",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 82
+  "count": 84
 }
