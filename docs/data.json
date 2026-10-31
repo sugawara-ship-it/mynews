@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-31T11:02:26.314399+00:00",
+  "generated_at": "2026-10-31T12:38:39.662814+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 5
+      "count": 8
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,30 @@
     }
   ],
   "items": [
+    {
+      "title": "『米津玄師 2026 TOUR / GHOST』グッズビジュアル公開！米津が描き下ろしたGHOSTのキービジュアルを使用",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12SGFfR04taExmODE3OTBqZ1lNUThHYllUbDRDTlFpRG5nZmNBYmVRZDVjSFI1TkNHVnNuQXp0YXBjNHYxM2xXWG96OW5sTnNjYV9wZUJzQ3g?oc=5",
+      "source": "THE FIRST TIMES",
+      "published": "2026-10-31T12:21:39+00:00",
+      "summary": "『米津玄師 2026 TOUR / GHOST』グッズビジュアル公開！米津が描き下ろしたGHOSTのキービジュアルを使用 THE FIRST TIMES",
+      "id": "8e6952bf08c4eebe",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「もうプロンプトは書かない」 Claude Code生みの親が明かす“ループエンジニアリング”の衝撃（ITmedia ビジネスオンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5UXpfeWN3YXpTWXY4YXhWQi1xZUNGYmRoRWdpbHVtUkluci02RG5EWTRWVEhjVkMtR1g2WXNDU3hOUzJobnJzalU1Sm1NVHpSM05MclVwa3VwTWZDRzF4M1RueU9pY2Zpc1pPUXVDaUt2TThadWZLZloya2EzT0E?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-10-31T11:47:38+00:00",
+      "summary": "「もうプロンプトは書かない」 Claude Code生みの親が明かす“ループエンジニアリング”の衝撃（ITmedia ビジネスオンライン） Yahoo!ニュース",
+      "id": "1515d844d9a05f03",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "東急ジルベスターコンサート2026-2027",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FM2pmbW9oMGhYaFduQ3h3dGxKZ1NVSm03SURlb1QxYjVPX19pcTRJSHBBcWt1X1FvZDRhM3dHMjRvN3JiZXVKQzg1V1d3N0cza1BSOUJIMUpheE1GVGw5SmxoNkJVME1iaWVOTg?oc=5",
@@ -139,6 +163,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "OpenCodeでClaudeサブスクが復活、一度は法的措置で締め出されたのに",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qdkp0R05Vd2VUVU52RkcxTGRYeVdhN09qRjZfV0J5aS1MRURCTi1sR0Z3cFAyX2dkVHVlQ1Z2cmVFQQ?oc=5",
+      "source": "shiritomo",
+      "published": "2026-10-31T08:32:36+00:00",
+      "summary": "OpenCodeでClaudeサブスクが復活、一度は法的措置で締め出されたのに shiritomo",
+      "id": "919250438654aef2",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ブラックストーン Anthropicの投機的格付け継続を予想",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fQzhZSVN5RFFFaUNfWTdSVm43UDg5TG1CTnktRUhQLWl4MVlLSWg0UzhwUVhSS0RDMnU3WTIwX1VuYmNjdVJpXzlyM3c4dDFQREROMlU4NGhXdzVTWjdjYl8yTm44MnQ4ZkhVSGlfSkRUSmlZUERNaUVR0gGOAUFVX3lxTE9BelZCVFpCV0VJWHpCYUJWdXZhSXNET3UzRGppTzROQXJDajdadlltZC1QX3ZzZ0tWc0hXWEFtYVZaeTNBN0Q1UVNtNkR3Q09ia0tZUHRqSXJOY05iQWR5XzUwbFd2VzYtZWRwZkMzcV8xanloOTZoMHZOUDh0dHBpTFJUVXd6VnAxWTRYYlE?oc=5",
       "source": "Chosunbiz",
@@ -151,24 +187,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "SWEET LOVE SHOWER 2026が大盛況のうちに終幕! あいみょん、Creepy Nuts、レミオロメン、アジカン、Vaundyら96組が集結した3日間",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OcXRGUWFaMGxlM3F3eE03bkhuNHZaVGJ2RktjVXl3cmtaRFFkMEVpSTVXSW04UGNSdWQ4SjAwQXUxZzdBNUxrRDZZeG13WG9KQnc?oc=5",
-      "source": "Mikiki by TOWER RECORDS",
-      "published": "2026-10-31T07:23:46+00:00",
-      "summary": "SWEET LOVE SHOWER 2026が大盛況のうちに終幕! あいみょん、Creepy Nuts、レミオロメン、アジカン、Vaundyら96組が集結した3日間 Mikiki by TOWER RECORDS",
-      "id": "399dd6c6377ad6f0",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Code改ざん版に「SSHバックドア」…Cursorで11時間配布、「謎の鍵」はないか？（ビジネス＋IT）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KX2FOWVAzMFBXX0ZSU2V3UVJQQ2xmbFdNWEF4aDZlS0s0dlB6aWxuaVg5dHdmYXFRQVIwRmozaUJDalVqTDhpYXphV3ltc0ZLcmplRS1IYlQ3WkNYMkJ4eHZMSEx0bWg0R2FwYVF6YTduSnVYcHhZT2JuLW5UZnM?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-31T05:55:06+00:00",
-      "summary": "Claude Code改ざん版に「SSHバックドア」…Cursorで11時間配布、「謎の鍵」はないか？（ビジネス＋IT） Yahoo!ニュース",
-      "id": "488380f4b051a5b7",
+      "title": "Claude Code改ざん版に「SSHバックドア」…Cursorで11時間配布、「謎の鍵」はないか？",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hSm1UUEs2ZzRjYndEVkZkYklPSGV4djFEU1hMa3ZDLTJSZ2FlSXMzaXdrX1Q1XzQ3dFd3anZjN28yU0V3SG9aS09xXzEtS0NzV0hr?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-10-31T05:44:00+00:00",
+      "summary": "Claude Code改ざん版に「SSHバックドア」…Cursorで11時間配布、「謎の鍵」はないか？ ビジネス+IT",
+      "id": "b73e174e8fec7d0d",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -211,27 +235,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claudeが有料プラン刷新、Max 20xは5時間制限なしの「Ultra」へ 「20xなのに週間10倍？」を改名で払拭",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xY0M2c1E3MmRXVkpOcmNZb3VnLXFSa29fQ1NoRHdxZFRYa29jMG5TNkZGLTlYMXd0NjhLQjlDQ0V5UHpnTkk4bGpxSW9yUlppVk9zUDkwc2c0Y3g5RFZ5SDBwMlRrTzg?oc=5",
-      "source": "テクノエッジ TechnoEdge",
-      "published": "2026-10-31T02:38:56+00:00",
-      "summary": "Claudeが有料プラン刷新、Max 20xは5時間制限なしの「Ultra」へ 「20xなのに週間10倍？」を改名で払拭 テクノエッジ TechnoEdge",
-      "id": "7f2f8aaf1807db7b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、上場後の格付けは「投機的等級」か？BlackstoneがダブルB格を予想",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44d2RaN0hvYVQxWjBfNWx2T1J2UXpNVVpmN0FjeWRVTEJEOEdORklDNlBVU2NGVmZzZGlxSktGcUxiNVdWeW5PVnkzUHR5dHJHd2c4cFZqUEZLOGNIRW1LR0tLamNnWDFrcUF0ODJIWVlSOUZj?oc=5",
-      "source": "XenoSpectrum",
-      "published": "2026-10-31T02:22:55+00:00",
-      "summary": "Anthropic、上場後の格付けは「投機的等級」か？BlackstoneがダブルB格を予想 XenoSpectrum",
-      "id": "e42ce4514f60a9b8",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
+      "title": "写真を手に取り、集める楽しさを。鎌倉で「ポストカード博2026」を11月7日（土）8日（日）に開催！",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kUGlqdElia0MwMWJxNmphSHRSWlpiWC1Tel94X2NaM012b2ROU1VhaWhQU25TUVo3dXVocC13UDB5b0tOS3ZzcWVacXNFSGhtU016V2JhdENDOEFlT1lXWHZaeU5aTWREMmNPNlVmQQ?oc=5",
+      "source": "カメラのキタムラ",
+      "published": "2026-10-31T02:11:18+00:00",
+      "summary": "写真を手に取り、集める楽しさを。鎌倉で「ポストカード博2026」を11月7日（土）8日（日）に開催！ カメラのキタムラ",
+      "id": "20a4623333420bf9",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -271,18 +283,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "あいみょん「君はロックを聴かない」未公開デモ音源がソノシートに ベスト盤購入者に抽選プレゼント",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xZjB1bkg1NFhadXdCSnJxVzhFY0pKelczMVpiVzdtTHVCOFoxTVZ5V1V5a1RzWXQ3aGw3eS1ZZWNKTjZQQXIyVHk1d1pGRFd3YVE?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-10-30T15:18:22+00:00",
-      "summary": "あいみょん「君はロックを聴かない」未公開デモ音源がソノシートに ベスト盤購入者に抽選プレゼント 山陽新聞",
-      "id": "3628c9ebf9407aa7",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鎌倉交響楽団 鎌倉芸術館で11月３日に定期演奏会 当日券あり",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0weWJpZXZIV19pSi1RX2t6SFBJNjhJWV9iNEczTFhveFNLbV9SYk91TkVLMHh3M2tlT1lUVThsUlk2emxmYld0RkRfTGNXNmpoRlVHSFNHUjRPSERtVUhTQWc2djA?oc=5",
       "source": "タウンニュース",
@@ -291,18 +291,6 @@
       "id": "31f4c124e8523ad2",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "品川区の個室インドアゴルフ「GRACE",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xOE9JbjIwM1p1aUtzQmJmRTBrRXpsM0hRcGVHbkxoWUl3V01Dd01PS181cjEzcUUxU1BKbVoxY0FfUGU1Wi1sN3BuRjNBT3hUbXNqTnJOSWFoV2xHaG5EODdEQ1hLVXVKTXllTVpiS1V4Sms1LUNHY2Z1aw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-10-30T11:18:37+00:00",
-      "summary": "品川区の個室インドアゴルフ「GRACE ニコニコニュース",
-      "id": "c8f36fb75284544a",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
@@ -403,15 +391,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "債券15時 長期金利、再び2.765%に低下 株安受けたリスク回避で",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jN3FZTWhuZEhpalN5YlhMMXNqRTdBYVpqcjQ5am5waWs2ZnhEdUF4cGdPclJFVGprRDIxdUx4eDRLc2g4MkpPSXVOenRhem55OHItX3pQcGo4NUR5bFNiTEFxXzkzbW92ZDlBVw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-30T06:32:25+00:00",
-      "summary": "債券15時 長期金利、再び2.765%に低下 株安受けたリスク回避で 日本経済新聞",
-      "id": "30bb8ca2bc383e65",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
+      "title": "＜画像1 / 3＞ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93dmVoMmFxa0RTU0FyS19JZVpiS2RsUFdSYkVzV1pRbUFPdlI3anlBT0oxQjJQRnBKLUFoU0lFV2tIUDh1eWp5a211ZUROempxQlEwU2w5dHZMU2YwYmF1Qm1nbnQtbWtzZWc?oc=5",
+      "source": "ウォーカープラス",
+      "published": "2026-10-30T06:21:31+00:00",
+      "summary": "＜画像1 / 3＞ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催 ウォーカープラス",
+      "id": "373de7d3a5728bcd",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -571,6 +559,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 熊本」11/9(月) 開催",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kOXp5NmI1QUpUQUgwYkp0NExFVG1zcUdkV2tlWkp5ZkhLc2t2TXdYak8tTDZPTzdfM0lGaGctUmpPVzhCVVkyUk1WbWhmWUxaLWVjMkd4M3lmU19zVXQ2dzZXcGdSRGFr?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-10-29T20:15:18+00:00",
+      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 熊本」11/9(月) 開催 ニコニコニュース",
+      "id": "4bf5e0d872f4abd5",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "日銀会合、2%物価目標に到達と表明へ 政策金利は据え置きの公算",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBSU1JTFFNMFVxUWhTZ0VVRGF5aHI3aldFMXh5OHFZbDdJUUt6ZnJEVUY1R0ctaUxXdks1OUtZYmhRNzJCMWJua2duNGFTQkdhbzBuSXF3bGVpRkIxQ2V6NzdOVU1tb1Ixb09xWA?oc=5",
       "source": "日本経済新聞",
@@ -631,18 +631,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "カーライフ支える 神奈川の各種団体を紹介",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lWmdSc2dEWWZla05WYk11QjFCQ0ViUDBlNlROcERlLWROa0dwS3dxYm9ndUxVeWpVZnVLR1libEdPRTh4RUJ3VlNWTFlldjRNb0NIbTBVekZvY3FtSWZqZWJ4b0I?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-10-29T15:00:00+00:00",
-      "summary": "カーライフ支える 神奈川の各種団体を紹介 タウンニュース",
-      "id": "051bb2993ce3f68b",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "aiko、Live Tour『Love Like Pop vol.26』ツアーグッズのラインナップが発表！",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XUVhYOEdCYXEyQUdFOUtmclZzbmZJbXp5V0pZSDFuUWxSbVJPZm1kZkJrd240T19QT1hDa01uQ01fZVFwTzBnczJFRFhZdnRSMERmUHZ5dw?oc=5",
       "source": "PONY CANYON NEWS",
@@ -667,18 +655,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【速報】「東京・春・音楽祭2027」ラインナップ発表！",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqYzRuV25SQUhsZVluWEJDcDNwT3ZFdGVzMHFvY256dmVOMFllM0twaDJFVjFKT3RwOG9MUDduLVFKN05tdWk4ejJGcjVCOWw1Z3ZJYmR3aDg2VVU?oc=5",
-      "source": "東京・春・音楽祭",
-      "published": "2026-10-29T08:01:55+00:00",
-      "summary": "【速報】「東京・春・音楽祭2027」ラインナップ発表！ 東京・春・音楽祭",
-      "id": "fe546a49f3d2c30b",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "P-SPORTS競技専用機「超ディスクアップ2」が品川区ふるさと納税返礼品に 寄付額133万円で20台限定／サミー",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEZjNFc0pQUVBWLW53dGdhN2dKTEd1XzhybzAxTUVSaXJxZjh4Z1VNOGVuM243b0IxZWlxR1Z5dnV5TWRqeEFiemJxSFpmbDB1ZjZRUlV6b2d0bnVUR0E?oc=5",
       "source": "遊技日本",
@@ -697,18 +673,6 @@
       "published": "2026-10-29T07:40:41+00:00",
       "summary": "米津玄師のセトリ定番曲15選！初心者向けライブ予習ガイド もとりょこblog -",
       "id": "3b5e85a5941cc902",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょんのセトリ定番曲10選！初心者向けライブフェス予習ガイド",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FaUY4ZG1mM09KdVpNWG9oWFF3WFd6UnZtMUItS1AyYVpldkhjdzRCVkdiZ1ltX2t3aGkyV19pYUNHMTVXLTBPcg?oc=5",
-      "source": "もとりょこblog -",
-      "published": "2026-10-29T07:20:47+00:00",
-      "summary": "あいみょんのセトリ定番曲10選！初心者向けライブフェス予習ガイド もとりょこblog -",
-      "id": "77c5345df9c85e44",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -811,12 +775,36 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "KATSEYE、横浜アリーナで来日公演決定（音楽ナタリー）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScVpoS0liTjB2VlE1eVRLLTdmRERSQ2pRdTZ1eXVCQThoUEc5TVQ3MDJuclhtUEltbU5ZLUQ1Tk1CWENkNGRfVHdiOFE5S0RJNHM2ZlFBMWJLYV9BQVpQcXBYLXhFaElwLWtFc0RjdTc3elJrc0g0YlhvdVJoTEU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-10-29T03:00:31+00:00",
+      "summary": "KATSEYE、横浜アリーナで来日公演決定（音楽ナタリー） Yahoo!ニュース",
+      "id": "425a558cbca93742",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「調布合気道会」3代目会長西村美佐子さん（左）と事務局長の磯野賀瑞夫さん（右）",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TOWMyV3ctTUhiaTJJZnI1LWtwMVB0TTNLZUl1RU9pUU80RkppTWl5MHlvVEtQWHJuekZzZTdIUVNLektDdkVDYzgzSExhSXItd3Ew?oc=5",
       "source": "調布経済新聞",
       "published": "2026-10-29T01:23:42+00:00",
       "summary": "「調布合気道会」3代目会長西村美佐子さん（左）と事務局長の磯野賀瑞夫さん（右） 調布経済新聞",
       "id": "36145eec6779aa21",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「調布合気道会」大人クラスの練習風景",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KY3JzNW9MS2ZNcnRuTEgwUGtzel9JLUtvTnNaQXVKUEZhamZkQ0lyWHIzeWRRd29qdGs5N3Ria3NvTHNzMXR3LUZQT2hVTVhDSTJV?oc=5",
+      "source": "調布経済新聞",
+      "published": "2026-10-29T01:13:03+00:00",
+      "summary": "「調布合気道会」大人クラスの練習風景 調布経済新聞",
+      "id": "d827a08ef921e619",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
@@ -883,6 +871,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "リヤドのアジア屋内武道大会は2027年3月に延期",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xcHplbXV2V1MxVFlOMUhRdlZ1dWlZaFlIemlRWTc5b21LbjNFX083eG1jZTNZMThIQXhYV3p3RVVZaXM0aEHSAUJBVV95cUxPelRSV1U2UkEtclZWNVFqWlpLb1JKaWxNbGlBZW9vSmRrWVA4angzUzQzQUpkckEzck4yN3A2SVowX1E?oc=5",
+      "source": "VOI.ID",
+      "published": "2026-10-28T05:26:15+00:00",
+      "summary": "リヤドのアジア屋内武道大会は2027年3月に延期 VOI.ID",
+      "id": "c0b16b7724555d78",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【藤沢 体験スポットレポ】男性も通えるマシンピラティス！藤沢駅徒歩5分「STUDIO IVY」で初心者がパーソナルレッスンを体験",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vMlNhVVpHeUhXbkhxQzN4eDVubkIwWGVDeFJWQWYycHFzbHZMWVVxeW9pMVZSTzBWaGJjYS1fdDVRRzlIWG1IUEFwR1JMOExSc2Z3RzBxQ0o?oc=5",
       "source": "湘南人",
@@ -913,6 +913,30 @@
       "published": "2026-10-26T20:50:44+00:00",
       "summary": "米津玄師、Fujii Kaze（藤井 風）、YOASOBI……自身最大規模ツアーで“世界”に届ける日本の音楽 リアルサウンド",
       "id": "27127819e23d44ff",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米津玄師、Fujii Kaze（藤井 風）、YOASOBI……自身最大規模ツアーで“世界”に届ける日本の音楽 (リアルサウンド)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUS0wMFk4RVhOUExfa2VWVHdmbUY1VmNXRjlONlNzMk0tZWpJaTIwNFk3Y3dhdS1zMEt3bVdNMDRDVXdrR2ZZa0syRFYxUXlPUUYtTXU0cnJ5YjUtY1U3dEFwa2VvUk9sWU9LNElsSVBIVDctLXpyN2ZoZjFwcVFrUlgyQjItYmlpY3JyVkN3?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-10-26T20:50:20+00:00",
+      "summary": "米津玄師、Fujii Kaze（藤井 風）、YOASOBI……自身最大規模ツアーで“世界”に届ける日本の音楽 (リアルサウンド) Yahoo!ニュース",
+      "id": "1b8495c667e448c2",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "桑田佳祐、ライブアルバム『九段下フォーク・フェスティバル'25』をいち早く作品を堪能できる試聴トレーラー公開",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jLTdmNjVJRnBhYW1keElKU3lyWEVmQUdjTUVqekZBbWxFWGRfeld1cEt6ei1pYkNJdy1wU3JHaFJCMFdzSFRBVkRUemh0SFJzclVOMThXcHA?oc=5",
+      "source": "THE FIRST TIMES",
+      "published": "2026-10-25T07:00:27+00:00",
+      "summary": "桑田佳祐、ライブアルバム『九段下フォーク・フェスティバル'25』をいち早く作品を堪能できる試聴トレーラー公開 THE FIRST TIMES",
+      "id": "b07da93ab7dbf3f3",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -979,6 +1003,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "きせつ風(品川第二地域ニュース)令和7年3月号 No.237",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQU5xNWgySjR3c2J6NHpoaWlidklGUUhEeFViZHprei1sRnhRZEhoc2ZBOTRRdHVWa0tBNTJybzFzVVU1N0VPTENMY21wQ0pfUWRENHlEWnZuZ2YwaGxlWG9vQ2hyNUdISGhMZXhqNVBGZ2x5eExEVkttSjVKOGhra0NLejBFWDR6Yl9GTXNoWGhEUjBw?oc=5",
+      "source": "www.city.shinagawa.tokyo.jp",
+      "published": "2026-10-20T11:53:07+00:00",
+      "summary": "きせつ風(品川第二地域ニュース)令和7年3月号 No.237 www.city.shinagawa.tokyo.jp",
+      "id": "198e2133b91ea377",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "開祖の故郷で講習会 合気道で交流深める、和歌山（紀伊民報）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTVk9yOFZnZHpzY2xRd2ZPY0tIMjMtLUo1LUhRRWNCcDA3YVMyZ216MGdTQ0VfUWppOUZJM2dubWc5YU14dnUxVmRDcjE5N3FfSnFscTg0RFFpcDdiUjlCekRCZGQ4M3FlT0liTnFzd0xBSHpNM3czVHlNcTk2cnM?oc=5",
       "source": "Yahoo!ニュース",
@@ -1003,5 +1039,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 78
+  "count": 81
 }
