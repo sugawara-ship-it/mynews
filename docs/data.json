@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-10-30T22:51:16.680274+00:00",
+  "generated_at": "2026-10-31T00:10:39.365713+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 8
+      "count": 7
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Anthropicの一部チームがコーディング面接を廃止、Claudeの進化で従来の採用試験が限界に",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6T2RVVkl1eEdQclhjNDh4bXVJc2R5RVhCZ29HbW5TLVgzcmpSY0doZVZpd2RGQW02bXc5MVpQcGZhWEFxdmpmdXp1TkdNa2FsU0dKNVc5RU5GNWY3dGZKcWR4dkRZemVsZWE5SjlNbXdYZw?oc=5",
+      "source": "XenoSpectrum",
+      "published": "2026-10-30T23:02:39+00:00",
+      "summary": "Anthropicの一部チームがコーディング面接を廃止、Claudeの進化で従来の採用試験が限界に XenoSpectrum",
+      "id": "74e4122fb5054501",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "OpenAI、Google、Microsoft、AnthropicがAIクローラー向け共通オプトアウトトークンを支持",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5VV9ETjVyZHpFVGtUZUdtTW1vb0FTTkFlLXZFT2Jvc2J2NldEZ1lKZm81WmZ3YXZPLVlGYy1taE9EZTRpby1IaXoyMzVXVU5pRGpITTF6SmdhLXNjYlprVThybHQ4Rlpwd1Q5RHg1TzNjYVZW?oc=5",
@@ -88,6 +100,30 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "アンソロピック、Claude最上位プランを「Ultra」に改称 月200ドルで5時間制限を撤廃",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2WjFGLThPRXZ3ajdUMHQ1VjBSTVVXTVJGZDdZMjJPWXhURU4wYkZCc1BwTzU4RXFHMnlFelRvUXVTcnRwQ3ZiVkthbGduZEUta2lhR3JhNDBZVG02QlhTSTgzMkI2YmpqNWhHY3p2WGhGZGVo?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-10-30T21:25:00+00:00",
+      "summary": "アンソロピック、Claude最上位プランを「Ultra」に改称 月200ドルで5時間制限を撤廃 BigGo ファイナンス",
+      "id": "ee94d68dc92bede2",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "東急ジルベスターコンサート2026-2027",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FM2pmbW9oMGhYaFduQ3h3dGxKZ1NVSm03SURlb1QxYjVPX19pcTRJSHBBcWt1X1FvZDRhM3dHMjRvN3JiZXVKQzg1V1d3N0cza1BSOUJIMUpheE1GVGw5SmxoNkJVME1iaWVOTg?oc=5",
+      "source": "Bunkamura",
+      "published": "2026-10-30T21:24:14+00:00",
+      "summary": "東急ジルベスターコンサート2026-2027 Bunkamura",
+      "id": "64c6d93067299d3c",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -217,30 +253,6 @@
       "published": "2026-10-30T13:03:35+00:00",
       "summary": "Claude Codeでは専門家が86%の選択でエージェントに従った Pasquale Pillitteri",
       "id": "b5b7ddce1a8feb58",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Android TVが遅い、Claude Codeでrootなしで高速化する方法",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVEVocHNGOGdEUXFpaXFaQ09EWUJycDVWZnFxZGZodElQQ3l6LWF5bTJGNmpYQkY0N0ZZbkFkY0dpMDRHd2ZMUjMtRjdSMjBJNzRlX3FneUF1WXZhSWJDU3pBUVhQUjk1aGVDMWt1dUM0dXFmU0FkVUkxZFNWVHdNS3F4OUVNV2s?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-10-30T12:37:27+00:00",
-      "summary": "Android TVが遅い、Claude Codeでrootなしで高速化する方法 Pasquale Pillitteri",
-      "id": "0406ce2794631bea",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ChatGPT有料プランの利用枠“2倍”！Claudeモバイルアプリも更新とユーザーに嬉しいアプデが続く【AIニュース3選】",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OdURrMmFQd3BRcmMtMG1uTjhkWEl6Tm42WFNWSHkwVVZoYmk0NE9kZHdBNkU2UkVKbVEtTUVyQkJ2cGNETXFsWm9hbS1fXzg0Q0tEc2YxclBGRVg3RGxlZjFDankyUHFVaDNjVUxXOFdtQ2EyWDhjQS14bE9HalU?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-30T12:02:00+00:00",
-      "summary": "ChatGPT有料プランの利用枠“2倍”！Claudeモバイルアプリも更新とユーザーに嬉しいアプデが続く【AIニュース3選】 Yahoo!ニュース",
-      "id": "2d51de354890ff17",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -607,24 +619,36 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【速報】「東京・春・音楽祭2027」ラインナップ発表！",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqYzRuV25SQUhsZVluWEJDcDNwT3ZFdGVzMHFvY256dmVOMFllM0twaDJFVjFKT3RwOG9MUDduLVFKN05tdWk4ejJGcjVCOWw1Z3ZJYmR3aDg2VVU?oc=5",
+      "source": "東京・春・音楽祭",
+      "published": "2026-10-29T08:01:55+00:00",
+      "summary": "【速報】「東京・春・音楽祭2027」ラインナップ発表！ 東京・春・音楽祭",
+      "id": "fe546a49f3d2c30b",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "P-SPORTS競技専用機「超ディスクアップ2」が品川区ふるさと納税返礼品に 寄付額133万円で20台限定／サミー",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEZjNFc0pQUVBWLW53dGdhN2dKTEd1XzhybzAxTUVSaXJxZjh4Z1VNOGVuM243b0IxZWlxR1Z5dnV5TWRqeEFiemJxSFpmbDB1ZjZRUlV6b2d0bnVUR0E?oc=5",
+      "source": "遊技日本",
+      "published": "2026-10-29T07:54:33+00:00",
+      "summary": "P-SPORTS競技専用機「超ディスクアップ2」が品川区ふるさと納税返礼品に 寄付額133万円で20台限定／サミー 遊技日本",
+      "id": "9cb16f9f054800f8",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "米津玄師のセトリ定番曲15選！初心者向けライブ予習ガイド",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBod0VZem9LU3hMcnFkbGhLSHdZYm5oa1Q0dERjcGtxQkxDY0xoOUVVVi1Rd2pucGZhaGVVVzFiZHRqeVJrRDJHQ0l3?oc=5",
       "source": "もとりょこblog -",
       "published": "2026-10-29T07:40:41+00:00",
       "summary": "米津玄師のセトリ定番曲15選！初心者向けライブ予習ガイド もとりょこblog -",
       "id": "3b5e85a5941cc902",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょんのセトリ定番曲10選！初心者向けライブフェス予習ガイド",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FaUY4ZG1mM09KdVpNWG9oWFF3WFd6UnZtMUItS1AyYVpldkhjdzRCVkdiZ1ltX2t3aGkyV19pYUNHMTVXLTBPcg?oc=5",
-      "source": "もとりょこblog -",
-      "published": "2026-10-29T07:20:47+00:00",
-      "summary": "あいみょんのセトリ定番曲10選！初心者向けライブフェス予習ガイド もとりょこblog -",
-      "id": "77c5345df9c85e44",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -644,26 +668,14 @@
     },
     {
       "title": "P-SPORTS競技専用機『超ディスクアップ２』が品川区のふるさと納税返礼品として採用",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vR2QzdGR4NVh2eUNYMGhiUl9lRnBzbHBQZ3dYak5sN0ZWVWlMMmpOUGVJNlhSZmd5RGtpWlhMQlNmY3duVkN0dzJaSFgwaWx5eGJPUGQ1cDZSOFpQZE9lM1NqYjZUX1B2bHFRcUFqTERadw?oc=5",
-      "source": "Infoseek",
-      "published": "2026-10-29T07:00:00+00:00",
-      "summary": "P-SPORTS競技専用機『超ディスクアップ２』が品川区のふるさと納税返礼品として採用 Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBadlBGNUdzdjhxcGdtMXpRNFlCMEFxZ01jejlLcWFZYm1Pcm5fZUhjQmFPZWYyX1k1MUM0M21VT1NMaTc4RDdncHJOWVYzc0N6ZFJTWDA4MnVUTzNUbGhpM3RWX3Q3OXViZ3c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-10-29T07:00:02+00:00",
+      "summary": "P-SPORTS競技専用機『超ディスクアップ２』が品川区のふるさと納税返礼品として採用 PR TIMES",
       "id": "586b93d28febb693",
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "KATSEYE、2027年来日公演が決定！",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN2tydk5XcEZ3ZHFrdjZvS2xERy1IdXZBaGVPV2VJZHZVeHA2QUVLV19uVk93R0dXNmdQNFI2Qm5lTlVhdlpOWmI2V2RVNHdXWUxia3BZTlE4TWpOSEdqR2VFUjY0YnBzSmd1Y0kxRC13QUNyWHVhZ1NCSVdvTjc5OWR5ZWRPT19IRndfX255R2VadV9mbGc?oc=5",
-      "source": "https://djplumadventuretimes.com/",
-      "published": "2026-10-29T06:40:47+00:00",
-      "summary": "KATSEYE、2027年来日公演が決定！ https://djplumadventuretimes.com/",
-      "id": "a694c6865a4a2308",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -811,47 +823,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "SWEET LOVE SHOWER 2026が大盛況のうちに終幕! あいみょん、Creepy Nuts、レミオロメン、アジカン、Vaundyら96組が集結した3日間",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OcXRGUWFaMGxlM3F3eE03bkhuNHZaVGJ2RktjVXl3cmtaRFFkMEVpSTVXSW04UGNSdWQ4SjAwQXUxZzdBNUxrRDZZeG13WG9KQnc?oc=5",
-      "source": "Mikiki by TOWER RECORDS",
-      "published": "2026-10-28T16:41:00+00:00",
-      "summary": "SWEET LOVE SHOWER 2026が大盛況のうちに終幕! あいみょん、Creepy Nuts、レミオロメン、アジカン、Vaundyら96組が集結した3日間 Mikiki by TOWER RECORDS",
-      "id": "399dd6c6377ad6f0",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "#9 新横浜パフォーマンス2026を大冒険！",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yMmxZZ21vX1MxWUJsS3g3bU5UVkUwVG52VHdpa0dXcURiNHNmMUxfc2U1Ym9UcXI3VHBWUWNjWV9QVzZZMXl4SjhJMA?oc=5",
-      "source": "TVer",
-      "published": "2026-10-28T15:17:14+00:00",
-      "summary": "#9 新横浜パフォーマンス2026を大冒険！ TVer",
-      "id": "cf343d1d92f98a15",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "文化の日に注目！「あつまれ！えばら」荏原で開催",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sN091Nl9DbFpELXlOVDZwWUNCbFllWmE2Yi1OaWZRQ0hyMDBReG04QTVRanpEQUxWTXRFeEJoRmJMMW9xX3c?oc=5",
-      "source": "Koubo",
-      "published": "2026-10-28T12:05:01+00:00",
-      "summary": "文化の日に注目！「あつまれ！えばら」荏原で開催 Koubo",
-      "id": "2f093ced3a849f23",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "まちぐるみ文化イベント2026あつまれ！えばら",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPdkhSQ3A5V0NBV0c2Z0pmcHJIYTdDd1czVzg3YjJkWVlHTmRwdFg1Y0oxVmFNYkRtTXBWM0wwMlFYbENERTRncktPQUwxeHVBNW1heGVfaGE5d1lOQ0RhaWh0WGZEYWZMUjdhZnlWbkRCdw?oc=5",
-      "source": "Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QWUZRZ1Bid3hVRFBadDkyampPTEpzV0dRVnBxREttV0wyNEJOLVoxLWtjMzJjcGhna1BtSk90eXMxZEZhbHBXLUJKdHI2V210NmpxczhjeGZpVjNybFNOblJMZXIwWXVsQ3c?oc=5",
+      "source": "PR TIMES",
       "published": "2026-10-28T07:35:06+00:00",
-      "summary": "まちぐるみ文化イベント2026あつまれ！えばら Infoseek",
+      "summary": "まちぐるみ文化イベント2026あつまれ！えばら PR TIMES",
       "id": "6aaad6af04840ad1",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -868,18 +844,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "リヤドのアジア屋内武道大会は2027年3月に延期",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xcHplbXV2V1MxVFlOMUhRdlZ1dWlZaFlIemlRWTc5b21LbjNFX083eG1jZTNZMThIQXhYV3p3RVVZaXM0aEHSAUJBVV95cUxPelRSV1U2UkEtclZWNVFqWlpLb1JKaWxNbGlBZW9vSmRrWVA4angzUzQzQUpkckEzck4yN3A2SVowX1E?oc=5",
-      "source": "VOI.ID",
-      "published": "2026-10-28T05:26:15+00:00",
-      "summary": "リヤドのアジア屋内武道大会は2027年3月に延期 VOI.ID",
-      "id": "c0b16b7724555d78",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -901,18 +865,6 @@
       "published": "2026-10-28T03:00:00+00:00",
       "summary": "【立正大学】オープンアカデミー「『好き』から始まる仕事」をセガと連携し11月12日に開催〜セガのプロモーション・人事担当が登壇！エンタメ業界のリアルと最新AI活用を語る〈品川区後援・参加無料〉〜 沖縄タイムス社",
       "id": "2f2d0a16b09a1b3b",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "広域品川圏の歩き方～5つの駅とあなたに届いた謎の紙片～(東京都)の情報",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GUHphRTFjRHdfQ2VSYXZtdVNmVm9zVXpuNFBXNXA5amJIMHg5Nm0xaV80RE5nX3hQNGRFOUZ6NFVhVjR3c1FEUGtUZWt3aE91RzF5ZXlMWUdpdEk?oc=5",
-      "source": "ウォーカープラス",
-      "published": "2026-10-27T08:54:05+00:00",
-      "summary": "広域品川圏の歩き方～5つの駅とあなたに届いた謎の紙片～(東京都)の情報 ウォーカープラス",
-      "id": "9674f62e9d9c3126",
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
@@ -943,18 +895,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【品川区】「2026大井町ハロウィン」10/31(土)開催",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lY0RTR1hOZEhXYTBzam1PdTJ1bXRDUmlxWlNiYkIxUFJuWFB2UTVFejJMTVZtUkZuVDZCcHhPN0RiWW1GbFlvYkZJRVp3d3hqbzZlekZKd1Y5aFJva1BONUlYd3hwZThBQl9Hbmxn?oc=5",
-      "source": "号外NET 品川区",
-      "published": "2026-10-27T08:22:11+00:00",
-      "summary": "【品川区】「2026大井町ハロウィン」10/31(土)開催 号外NET 品川区",
-      "id": "3f6fbc88676039f6",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "米津玄師、Fujii Kaze（藤井 風）、YOASOBI……自身最大規模ツアーで“世界”に届ける日本の音楽",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93XzNNWGR6ZGJwd1VYRGdfb3RwaGhvOVVFUmxVU0JUUlpSMzFtZFVtS2JHSTh6MjJkN0Y2ZTRDQlJLS2c3MUhDbnZ2eF9LQVVNVHEtbnVYS2cyQdIBX0FVX3lxTFBkcVpLbWpycHFkRUY2MDRheGRoTlo4ZzdqLTZuelZsbnRVOTBSRE5ENThQOUNpVWZlZVBVOWwyUFpzc1ZieTR3YUc0YmoyU0VoRzVlV2RFaTA3UE56ZWtN?oc=5",
       "source": "リアルサウンド",
@@ -979,27 +919,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "品川区、エシカル消費イベントinしながわ「shinagawa ETHICAL 2026」開催へ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUGlYYUJBYXhsa3pRSVhYNEY2Ml9fblp6WVVSa1hqZzRYbWM5aFppd2cweWN2SFVRTlRZbnhzZWw0ZWFIYzVOZXNDNWhzM0NXcUxDUlhXeDVBRnYzVzgxcTBhSmQyRTY0X1E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-25T23:30:01+00:00",
-      "summary": "品川区、エシカル消費イベントinしながわ「shinagawa ETHICAL 2026」開催へ PR TIMES",
-      "id": "da7f5dfa393dada6",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【品川区】「とごしぎんざハロウィン2026」10/25（日）開催",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VVldqNUVpak9GRGVraEdFT0ZvMEFIcGUta2d1LXdpM1l2ZXhlZF9DeFo4YW5wdjNUZGZRYkEwa2RBSUlzQ1g0YkdzaEZSLTY1SHhLUGpYUzRlZXd1THlidWlRcw?oc=5",
-      "source": "号外NET 品川区",
-      "published": "2026-10-24T22:43:34+00:00",
-      "summary": "【品川区】「とごしぎんざハロウィン2026」10/25（日）開催 号外NET 品川区",
-      "id": "c08b7d88273f61b7",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
+      "title": "あいみょんのライブを初めて観る人へ。10周年・2度目の甲子園をU-NEXT無料お試しで【10月25日掲載】",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE02ek82VG9BY1NLUFcwUGZfdXRfR3NldlpEQVdLMW5XVlhCa1R2YVdqRWNBbnlwVDNpZXQ3cHBfZGVvdy1ybmF5Y0x3?oc=5",
+      "source": "www.banger.jp",
+      "published": "2026-10-25T01:40:02+00:00",
+      "summary": "あいみょんのライブを初めて観る人へ。10周年・2度目の甲子園をU-NEXT無料お試しで【10月25日掲載】 www.banger.jp",
+      "id": "449c4fba27f0e831",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1012,6 +940,66 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "U-NEXTがあいみょん10周年の配信パートナーに就任！阪神甲子園球場での凱旋ライブをU-NEXTにて独占ライブ配信！",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GV3hTM09oZzZWeWc2dEZyZl9PX0ZyeGtvNjhTRld2TVNfRW1iTFRoM0JfMjIzempRNEYtQW1NY1Q0QjhQQzlHS3A5VjlDcVB2Y0FERngxYUpqWXNVNVdFTTJmRzY?oc=5",
+      "source": "USENの音楽情報サイト",
+      "published": "2026-10-24T10:02:49+00:00",
+      "summary": "U-NEXTがあいみょん10周年の配信パートナーに就任！阪神甲子園球場での凱旋ライブをU-NEXTにて独占ライブ配信！ USENの音楽情報サイト",
+      "id": "6558248dc7c8514a",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "八潮ジム【開催中】",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UbnIzTGVCX2tDTG9oVFVvdExlVmpfM1B0bzNyZFFFWkh2X2tkbDdEVFpUM0J6NkVvLTNHZk1QdkhkUURkZG5zSVVXby0yV2g5QmZjanJrRlRnbzhJMUlvWGFhOUtFaTVWa3ptOUdMOVVHb1NwSG5NdldUd0YzdTg?oc=5",
+      "source": "www.city.shinagawa.tokyo.jp",
+      "published": "2026-10-23T17:00:41+00:00",
+      "summary": "八潮ジム【開催中】 www.city.shinagawa.tokyo.jp",
+      "id": "f2f377b5de8b466f",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "エシカル消費イベント in しながわ「shinagawa ETHICAL 2026」（令和8年11月1日開催）",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BN2pWN3pFeVZ0ZVYxTkk3VS1Ja2VoSEkxcER1eHgtbDVEMkdHOW5lNnZRb3FlNUNUT25fQ01TdFl1dFN3YXQ4NHpRS3VETkxXZHFmdEJZUGdrVnBoQTgzYkRZVHpUdTFGZjRBOXFKYnk5T0VBSldyUzl3?oc=5",
+      "source": "city.shinagawa.tokyo.jp",
+      "published": "2026-10-22T07:00:00+00:00",
+      "summary": "エシカル消費イベント in しながわ「shinagawa ETHICAL 2026」（令和8年11月1日開催） city.shinagawa.tokyo.jp",
+      "id": "20c0418fc342b2d1",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "令和9年品川区二十歳の集い 品川区制80周年記念｜品川区公式ウェブサイト",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBOGRwc2g0cHVUa1JLV1YybnRQTl83LWx3ZHNJWFh2V3p4MTZtNzN1ZE9xc2RUa2Q5bDhlMnpSNl84TEc4YVpKTFZNVk9nR21HNndzY003UlRPVkZOV08wVkJTUVZhUlI1aDlTTmxQSnpyNTR2Z1g0X0dJcmJEUQ?oc=5",
+      "source": "www.city.shinagawa.tokyo.jp",
+      "published": "2026-10-21T13:55:57+00:00",
+      "summary": "令和9年品川区二十歳の集い 品川区制80周年記念｜品川区公式ウェブサイト www.city.shinagawa.tokyo.jp",
+      "id": "d3b50c5ea42cd69b",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "きせつ風(品川第二地域ニュース)令和6年11月号 No.235",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVBFSnlINmt1MGpWLWZWdmtJT1pBNzNjQ0UzVERkNUluSXBDVC1yRWd3VWdCYkYzclNyOFF3R3c4UmJrVDlKeFlKUmU4aklidVVleVZNcS03UG9LUTgtX3JiVWFJNXU1cXJNRXVMUkg2RllKMHVOcVBESXdkVWhJeWtySS1memtNbERpRWhXN1V5ZEty?oc=5",
+      "source": "www.city.shinagawa.tokyo.jp",
+      "published": "2026-10-20T11:54:02+00:00",
+      "summary": "きせつ風(品川第二地域ニュース)令和6年11月号 No.235 www.city.shinagawa.tokyo.jp",
+      "id": "debfa5b603717c4f",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1039,5 +1027,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 81
+  "count": 80
 }
