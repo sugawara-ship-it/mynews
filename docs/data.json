@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-01T17:47:56.379276+00:00",
+  "generated_at": "2026-11-01T19:45:14.874632+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 10
+      "count": 11
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Claude Opusが拒否した後、AIエージェントが生きたマウスの脳へ針を誘導",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQkI2emJTMzBWbzRjekhDNjVzdDc3ZFZsYjhEM3FPa0hVMHlEZURjWlE1MGRRSThnZEdNYm9DZUlTb2I0aU1wNURqdmxNdFExd2NwbzNSMXRjWVFQTDFod1JlNTNtZU5vaXg1a1JFS2Y0WUxaa2E5X3lvQWszUnBVTkNaU2dhMU9zMjh5YVBJNmV2a2JOZXdzWGVQUndYbjZH?oc=5",
+      "source": "Martin Cid Magazine",
+      "published": "2026-11-01T18:04:29+00:00",
+      "summary": "Claude Opusが拒否した後、AIエージェントが生きたマウスの脳へ針を誘導 Martin Cid Magazine",
+      "id": "6798c2f60079d841",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "【Claude Code / Codexユーザー歓迎】人事の「こんなツールがあったら」を目の前でつくる夜～Ubie×Offersと、持ち寄った\"欲しい\"を形にするモック大会～｜11/16（月）開催",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00elNLdGlrX0ZqYzlLOHVnLXRkY3dLTURPZmNpOFJhY0N2TjFXNWdCRnpfMGdoT2VRazZhRXhaZWltX3hTX2l6VkNaYnZlZ2dwSjNJWTUyUVFMNm8tVVFvemdjeXdZTFZDNjZSZ0xXUE41SFBT?oc=5",
@@ -136,6 +148,18 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "東方神起・ユンホ（U-KNOW）、初のコンサートが横浜アリーナにて開幕 (2026年11月1日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oMWthbExJQ0lsUlRWa1BmdTl3VmxKNV9sekREdHNvWVVhZzZvbW9RdEtkdTRRZF9WLWJRMVVBaFVnUU11ZHNnbEdWOW1XSUo2ZWxwS0hLOEl5c3REV3c?oc=5",
+      "source": "ライブドアニュース",
+      "published": "2026-11-01T13:11:59+00:00",
+      "summary": "東方神起・ユンホ（U-KNOW）、初のコンサートが横浜アリーナにて開幕 (2026年11月1日掲載) ライブドアニュース",
+      "id": "fffa984f93962ec4",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -223,18 +247,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "中国DeepSeekが自律型AIエージェント公開、Claude Codeに対抗 執筆",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tVFB6SDNiU214Y05Zb2t3bDh1MldaUVFFT09keUpwQmVROWxtek9tUFhpYkQyaWlvU3dIbnJBR0dzTEtOSWFnY3Bjd3d5UWgtdTRjQXh4SHV0em5tX3JJTG9RbjFjVERXSXc?oc=5",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "published": "2026-11-01T05:45:00+00:00",
-      "summary": "中国DeepSeekが自律型AIエージェント公開、Claude Codeに対抗 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "id": "d2ddf39ff9268e71",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Google、OpenAI、Anthropic、Microsoftが合意、コード1行でAI学習を拒否しつつ検索露出とSEO流入を維持可能に",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGs4d3gyUE9jQVFpaGdadlVHUXZlNlNQTzNZSnl6UjVJVU91VHB3WEUyNGlpcmdZeFo3eGFtNnd4YWRuQU43S1VqcG4zcnVVWThFbVFSTlJLT05YTFNWckFPc2lISExHQzRtQkE2d21uRi01andTTjh5T3FwX0ZTcElB?oc=5",
       "source": "Mashdigi",
@@ -304,6 +316,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "＜画像1 / 3＞ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93dmVoMmFxa0RTU0FyS19JZVpiS2RsUFdSYkVzV1pRbUFPdlI3anlBT0oxQjJQRnBKLUFoU0lFV2tIUDh1eWp5a211ZUROempxQlEwU2w5dHZMU2YwYmF1Qm1nbnQtbWtzZWc?oc=5",
+      "source": "ウォーカープラス",
+      "published": "2026-10-31T19:11:59+00:00",
+      "summary": "＜画像1 / 3＞ドラゴンボールの世界を体験できる“天下一武道祭”池袋サンシャインシティで開催 ウォーカープラス",
+      "id": "373de7d3a5728bcd",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -427,15 +451,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "写真を手に取り、集める楽しさを。鎌倉で「ポストカード博2026」を11月7日（土）8日（日）に開催！",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kUGlqdElia0MwMWJxNmphSHRSWlpiWC1Tel94X2NaM012b2ROU1VhaWhQU25TUVo3dXVocC13UDB5b0tOS3ZzcWVacXNFSGhtU016V2JhdENDOEFlT1lXWHZaeU5aTWREMmNPNlVmQQ?oc=5",
-      "source": "カメラのキタムラ",
-      "published": "2026-10-31T02:11:18+00:00",
-      "summary": "写真を手に取り、集める楽しさを。鎌倉で「ポストカード博2026」を11月7日（土）8日（日）に開催！ カメラのキタムラ",
-      "id": "20a4623333420bf9",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
+      "title": "SWEET LOVE SHOWER 2026が大盛況のうちに終幕! あいみょん、Creepy Nuts、レミオロメン、アジカン、Vaundyら96組が集結した3日間",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OcXRGUWFaMGxlM3F3eE03bkhuNHZaVGJ2RktjVXl3cmtaRFFkMEVpSTVXSW04UGNSdWQ4SjAwQXUxZzdBNUxrRDZZeG13WG9KQnc?oc=5",
+      "source": "Mikiki by TOWER RECORDS",
+      "published": "2026-10-31T07:23:46+00:00",
+      "summary": "SWEET LOVE SHOWER 2026が大盛況のうちに終幕! あいみょん、Creepy Nuts、レミオロメン、アジカン、Vaundyら96組が集結した3日間 Mikiki by TOWER RECORDS",
+      "id": "399dd6c6377ad6f0",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -481,30 +505,6 @@
       "published": "2026-10-30T23:52:40+00:00",
       "summary": "「とった手を僕らは絶対に離さない」NEWS結成23周年、横浜アリーナ3日間で誓った25周年への道筋 日刊SPA!",
       "id": "cadac5a91ec3b0d7",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【今日19時〜】あいみょん甲子園ライブはU-NEXT独占生配信｜見逃しは11月15日まで、無料で観る【10月31日更新】",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QTlJSYzZNbFNtV1VuWDYzNUllR0g3N3UzZy16VE1fMHFibEdQZW5ucTlKak41ZEQ0SGRMZFJxS1lzd3htTzZWc253?oc=5",
-      "source": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
-      "published": "2026-10-30T22:10:50+00:00",
-      "summary": "【今日19時〜】あいみょん甲子園ライブはU-NEXT独占生配信｜見逃しは11月15日まで、無料で観る【10月31日更新】 BANGER!!!（バンガー!!!）映画評論・情報サイト",
-      "id": "9452a90f0dcdd2b9",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Hey! Say! JUMP JUMPdate!横浜アリーナ全公演セットリストまとめ",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE83UEVpQ0NzQVZsSUNsa2VCR0lCWmdPNmhuZ1NoYnlSMmdPQURneS1yQ2cyT19rYkJObGlLMWptZlY0cm94WW44Zmp3?oc=5",
-      "source": "もとりょこblog -",
-      "published": "2026-10-30T15:18:23+00:00",
-      "summary": "Hey! Say! JUMP JUMPdate!横浜アリーナ全公演セットリストまとめ もとりょこblog -",
-      "id": "868554e5882a043b",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -583,6 +583,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "設備投資に使える補助金まとめ【2026年・目的別】省力化・業務改善助成金など最大1億円の支援を解説",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41Tk91V0hXbzlDZktaTzFPeHd3dS1yZUVpNjVsSHo5aURNd3Y0ZGhPMXZpVEJuOFEyaVNJb0hsWENjSjdVLXUzV1pmd3hjYnJEN05CN2lTQzlwdzNZdFo5SHAwZ1l2dXZzVzJHVHhuejA?oc=5",
+      "source": "補助金ポータル",
+      "published": "2026-10-30T07:00:00+00:00",
+      "summary": "設備投資に使える補助金まとめ【2026年・目的別】省力化・業務改善助成金など最大1億円の支援を解説 補助金ポータル",
+      "id": "0f8637e9e0f86288",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "中小企業省力化投資補助金で最大1500万円！簡単申請の方法を税理士・社労士が解説 | 寺田税理士・社会保険労務士事務所",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPdXZjdExFc2gtWXhXc3RrT2FOeVNDQVB0ZVByelR3TXJoTTZxejZtMWJtVDM4cEdFZnNSd0NOTk05Q3JmSEp4bXlxdEJWMllNZTlVdGxwXzdjdHRSR2lTV1VqZTc?oc=5",
       "source": "寺田税理士・社会保険労務士事務所",
@@ -631,24 +643,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "日銀政策金利据え置き「引き続き金融環境は緩和的」 市場参加者に聞く",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BLWNDT0NDd0EzMmFEdm8wa0xnSkg1emhPbFBDXzRrZG1LYW1uLXllWkZzeHg1TEFjbk5NUEZHMDV1cmlUMWV0WU9JeENJVVhSdGU1YlZqWldCZVZySmRBTV9mWEVYRUJzMXR0NQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-30T04:54:24+00:00",
-      "summary": "日銀政策金利据え置き「引き続き金融環境は緩和的」 市場参加者に聞く 日本経済新聞",
-      "id": "f45deb2213ba5569",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "角松敏生、6時間におよぶ横浜アリーナ公演が映像作品化（音楽ナタリー）",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3RMVERYRmtHT3JuUDVFRjRSdXY0RTJlR1ZqM0drUnd5aFpVSHNEcXRsc2g4MXVkMUdUZHhWU0xPU3VoQ3VDeW11X0R4OE5VZDVPSlRWbmtqREhtUDJ6S3U1cmU3TXVlOHFYYVZwNDdla09UdjUwamdtcWFpY2ZsbkpQVjctR3M3VWZHdllB?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-30T03:01:09+00:00",
-      "summary": "角松敏生、6時間におよぶ横浜アリーナ公演が映像作品化（音楽ナタリー） Yahoo!ニュース",
-      "id": "75029d58cb58a6d4",
+      "title": "角松敏生、6時間におよぶ横浜アリーナ公演が映像作品化",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qRHpFdF9acnZ3NE9wQzY4QnFRN3Z4VkZobTNrRC1MdTRVdWw2OUFOOE9sR1liSVB6alhGMjM0TEl3YXBLSm1fMGU0ZTM?oc=5",
+      "source": "ナタリー",
+      "published": "2026-10-30T03:00:00+00:00",
+      "summary": "角松敏生、6時間におよぶ横浜アリーナ公演が映像作品化 ナタリー",
+      "id": "9cf93b111504c5aa",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -697,18 +697,6 @@
       "published": "2026-10-29T23:00:00+00:00",
       "summary": "【ニュースto】｢高すぎる｣｢芸術に惜しみなく使うべき｣鎌倉市が税金で約4400万円の“高級ピアノ”を買い替え決定で物議…市長｢公共的な意義がある｣（読売テレビ） Yahoo!ニュース",
       "id": "ace7e173c823c42b",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【ニュースto】｢高すぎる｣｢芸術に惜しみなく使うべき｣鎌倉市が税金で約4400万円の“高級ピアノ”を買い替え決定で物議…市長｢公共的な意義がある｣",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUtwQUt5dENqMUYyNzE4NUZkVzljdy01ZkxydjJrRGtIY0cxckhfUnJ0eW9TQlJXMGg1TWl1d3RXYlBFUnhRTjRLdEVZVWZsT2pGS0Fabm5qcTI2eUhYcXFsSjNFb0lKNDhrX0M1a3FYenFfdlFtdEQ1X193NzUwM1VEQTXSAYABQVVfeXFMTlA1ZVFSdzJZR2lkOXZlOUtNZEFNTEZHWDJCRGlTZEJIWXlubWg3NC1PU0ZUWEFVUTI1OHV5WWo0RjktMUhLTGJ5Vm92SXVFbkVHMTBzR1NldDZKUS1xU19ONGViY0ZPRXdRQ0xOZ1NIMC1QZzlYc21yWWdRTzFMYTY?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-10-29T23:00:00+00:00",
-      "summary": "【ニュースto】｢高すぎる｣｢芸術に惜しみなく使うべき｣鎌倉市が税金で約4400万円の“高級ピアノ”を買い替え決定で物議…市長｢公共的な意義がある｣ ｄメニューニュース",
-      "id": "85074ec44dc0260d",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -781,6 +769,30 @@
       "published": "2026-10-29T15:00:00+00:00",
       "summary": "カーライフ支える 神奈川の各種団体を紹介 タウンニュース",
       "id": "051bb2993ce3f68b",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "｢一期一笑｣で紡ぐ安全と笑顔 鎌倉ガーディアンズ・青木幸夫さん（88）",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OdDJ0eEpjWGdPZzNaZzFxLXFIdGJhWWtLUlZIeXN3Mm1qSENkYTlRTV9OZXJRRXRpTXQzMm9pZ0lNYVl4OXpvc3RsR211aFkxY01pT3lmczNZMDRQYnFZT2JVWUc?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-10-29T15:00:00+00:00",
+      "summary": "｢一期一笑｣で紡ぐ安全と笑顔 鎌倉ガーディアンズ・青木幸夫さん（88） タウンニュース",
+      "id": "a05fb100b7744a30",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "湘南鎌倉医療大学の学園祭「第５回湘翼祭」の実行委員長を務める 直江 優花さん 湘南鎌倉医療大学看護学部2年 20歳",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0LS1Ga1RNYzVoajhMV1lScEc2MGNGM01hM09rRDhrQmVzVEJic3NHUGY3YVBEeUNtR2pyZHo2RjR5MWlPTjFLeDBZeU1yQjUzeDY0bVJTNHZuLXRPeko0TmVGZmg?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-10-29T15:00:00+00:00",
+      "summary": "湘南鎌倉医療大学の学園祭「第５回湘翼祭」の実行委員長を務める 直江 優花さん 湘南鎌倉医療大学看護学部2年 20歳 タウンニュース",
+      "id": "f2e3425c032e78ee",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -1051,5 +1063,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 82
+  "count": 83
 }
