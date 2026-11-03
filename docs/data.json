@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-03T19:50:22.248924+00:00",
+  "generated_at": "2026-11-03T21:07:02.321983+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 10
+      "count": 9
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 5
+      "count": 6
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,42 @@
     }
   ],
   "items": [
+    {
+      "title": "Ｎｅｗｓモーニングサテライト(テレ東、2026/11/11 05:45 OA)の番組情報ページ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeU1QNmJaT2dMNlUxbUVlQ1p5MFVUUDFkM2FOR3V6a1JyZzRnd0x5MXZ2dVVmYTdGR0R2d0lhaVFPSEN6d1hDREhKeUJLT0c5eTVrMlRSYTlzWmhwYXE5empZMnZTYl95Y3E0YjlhdUpIajU2NFBhZElmZ0gyeWVrU2dkWWVoTFFDRTFVd0dRdw?oc=5",
+      "source": "tv-tokyo.co.jp",
+      "published": "2026-11-03T20:16:56+00:00",
+      "summary": "Ｎｅｗｓモーニングサテライト(テレ東、2026/11/11 05:45 OA)の番組情報ページ tv-tokyo.co.jp",
+      "id": "340dca9785d7710e",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "NECとAnthropic協業の裏に「7人の侍」、全員AIの新組織で自己変革",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNREEzUGEzMWRpSFB0YUlCRmZmTDFaYzc2OWpmd3ltSzRlSEota2U4REptSzZPODZTNHp6V1J4NWhZc1VYd2wzNE9hMFMzTHNDWXNicUYwdURpUi0zaFh4RWRCM0ZZUzhuSzJRN21nTi1XOVlHM2tNQ2VBZUE2ZkRpM0xodm42TXM3eW5QeQ?oc=5",
+      "source": "日経クロステック Active",
+      "published": "2026-11-03T20:00:00+00:00",
+      "summary": "NECとAnthropic協業の裏に「7人の侍」、全員AIの新組織で自己変革 日経クロステック Active",
+      "id": "0438734a4b0b37da",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "高市政権1年で「長期金利1.5％」上昇…日銀けん制の“逆効果”と、アベノミクス時代の終わりの認識を",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VR1hXZTh0alpzTFJiMld4bEVmbHphUkJJcG55OTlYLUY0TEhzUFB3TjhEdUo2N3YtdnJLMDNpdU1hZURXOU5TcFhVZETSAU9BVV95cUxNbDFydF8tSTlfNkJHX3lFUGtwd1J1YnlFcVVwX0kwN1hWaThNaUx4V2YwXzdTSndkYUZWcjB1NW1jNzl6eFJZRXo4UDV2aHJn?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-03T19:25:00+00:00",
+      "summary": "高市政権1年で「長期金利1.5％」上昇…日銀けん制の“逆効果”と、アベノミクス時代の終わりの認識を ダイヤモンド・オンライン",
+      "id": "0ac54de4781396b9",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "Snowflake、OpenAI・Anthropicのモデルを自社基盤に取り込み企業データの関門を狙う",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBibkEtSlZGWFVMSnl5N3FBcTlqQWZ3ZDhFZmtLVHNvbGhpa3RLMWFPWWk5TFZtYVh0Q2p3azhOZlBQVnBBUnFYSmowTVpMREQxWXBNMnZsQkd3NVhKU3dyendXMnF4X3hxelc5WWJCX25HRzVa?oc=5",
@@ -247,15 +283,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropicの人件費は、従業員一人あたり月平均で$107,000を超えた",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTE5cjhQYUpLUG1xWURBQlcwVVVqNzcwUV81R1F1dWstdTNIb1pWNUUxQy0wVktBbFZjX2RQOENrTE1mcF9ObFBoOXNXQUhhbC1BVENwSjh4b0dpLUtQdnBaUW9VR0lxMUI1dUg2TEtTczlLbGNKRzFKR3JHUmRxWklGQUw2MVVubmdjS0lxcjRDU0xTWFVhX0dIVjNfUmhE?oc=5",
-      "source": "Mezha.net",
-      "published": "2026-11-03T09:31:00+00:00",
-      "summary": "Anthropicの人件費は、従業員一人あたり月平均で$107,000を超えた Mezha.net",
-      "id": "2f68372baef2afbe",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
+      "title": "かつしかトリオ、来年3月にビルボードライブ3都市ツアー開催 緻密なプレイと圧倒的なサウンドを披露",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BYnVJMnhjTmFNWW9qWlZncjJOeElEZkRUTk5EYnZheTZIdThvZ0lNZlFJeE1qV2RPN2xSSDQ1R25NQjgyOHlRa1BRYXFYcUhub0dpaVdFZHhma0ZBaEtJ?oc=5",
+      "source": "ライブドアニュース",
+      "published": "2026-11-03T08:00:55+00:00",
+      "summary": "かつしかトリオ、来年3月にビルボードライブ3都市ツアー開催 緻密なプレイと圧倒的なサウンドを披露 ライブドアニュース",
+      "id": "8550a73b5b33693d",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -464,10 +500,10 @@
     },
     {
       "title": "品川・羽田・横浜へ自在な「蒲田」エリアに、新築投資用マンション「RELUXIA蒲田西」販売開始",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DQ18zdThudk5YMTNJVTdWZ2R1NkRyaVJfZ01CUlNMWHpIRDdwdkVRbU1yMmZUMjdoQzZWYjRzTnJUdXY5cGdyTkRLWkY4VnZHa0V3VFg2WUtnOXpSSkpDZnBWcDZZS0FL?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-02T14:45:22+00:00",
-      "summary": "品川・羽田・横浜へ自在な「蒲田」エリアに、新築投資用マンション「RELUXIA蒲田西」販売開始 ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1US19rd0hSTWJwdk1yVE5Nc0tVX2JHQTZoNUR6eWNPZDBBdW9QQTRsR0Y3YUFiTHppN3M5d3BucGJReU91Z29MS2ZDSXFkWEdBZHItREFieXctZmx3NWlCUlc2OUVHWC1ETGRFQ2VNNVdidw?oc=5",
+      "source": "Infoseek",
+      "published": "2026-11-02T16:10:00+00:00",
+      "summary": "品川・羽田・横浜へ自在な「蒲田」エリアに、新築投資用マンション「RELUXIA蒲田西」販売開始 Infoseek",
       "id": "8566cfb4fd81ae5a",
       "category": "不動産",
       "topic": "道場物件（品川・大田）",
@@ -499,36 +535,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米津玄師、自身最大規模のワールドツアー開催決定 世界11都市14公演で約20万人動員へ",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55eGgwNjhzaVBBczBkcGtvd0RmcElncHBVVGhPNlNaYTRobEZFZG5PZWVGbUp2Rml6ZE1FLW93SmFXLW5YRE9oNzJ0Wkp1OHRPWXF4bkdnZkRDZFdKNHI4eWxIU3p1enc?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-11-02T10:06:08+00:00",
-      "summary": "米津玄師、自身最大規模のワールドツアー開催決定 世界11都市14公演で約20万人動員へ 山陽新聞",
-      "id": "c16dfcf938cb980e",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鎌倉市 公共ライドシェア実証運行見送り バス路線維持に注力（tvkニュース（テレビ神奈川））",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0teFQwOFhBSkUzMHNONk5KVGdwRGRuSF91ZE12ZllDVmpyQzl0NHZTMXZnWkthckVSenVFOFc2Tm40SVhBblRLcDNYVTJxWHRhbE1HcXpWRFdqZW5Mdl9mNTV4UVRYdzlnTmpWaU14UFEyU2I1eGtTVFhrTWFET0E?oc=5",
       "source": "Yahoo!ニュース",
       "published": "2026-11-02T09:33:33+00:00",
       "summary": "鎌倉市 公共ライドシェア実証運行見送り バス路線維持に注力（tvkニュース（テレビ神奈川）） Yahoo!ニュース",
       "id": "1d9d8a23907a907f",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "鎌倉市 公共ライドシェア実証運行見送り バス路線維持に注力",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xbDFIV21xTmxPcV83c0JxcXctTVNEVlYzOFpINmRlTUZMX21lRXZkODJoZGU5RzVrS1VNUnp1MHhJVUVtNFdfdWRxZUl0WndIVU80eUM3dzdtSWF0aEc5ZTdFY1ExMHkzZGRlNExn?oc=5",
-      "source": "au Webポータル",
-      "published": "2026-11-02T09:31:19+00:00",
-      "summary": "鎌倉市 公共ライドシェア実証運行見送り バス路線維持に注力 au Webポータル",
-      "id": "cd1f444f57c17f18",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -544,18 +556,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米津玄師、劇場版『虎に翼』主題歌に新曲「こんにちはごきげんよう！」決定 (Billboard JAPAN)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzA0SHRDTzZZdkNtUm5KamFJSDRUS1FJWEpoOG9GRDRMQ3lCdHFFYkFKR2x0Nm9Zb19Lb093ekxxZHJVckRnaWhTSkYyNHBwYVZFYXRrY29UNGd3VnFDWjBzQm1hTmo3WTdMZ0dzcGR2RlhVZFNHMnlTVXF1eTU3ZHJnb2FHTWZYdU1kTHhR?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-02T09:05:02+00:00",
-      "summary": "米津玄師、劇場版『虎に翼』主題歌に新曲「こんにちはごきげんよう！」決定 (Billboard JAPAN) Yahoo!ニュース",
-      "id": "6e3f4f465aef2960",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -595,18 +595,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "しながわ学びの杜 しなカレント講座第5回「幕末の江戸幕府と小栗忠順-開明的な保守派」（12月21日開催）",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTW1iNld0Z1pPOE5LUllRMzE1YV9WZEhkaXd5WktlQ3ppb0U1MF9iMUp0d3VUd1ZlTHpWOXlVSl8zOFEwcm5JeENiZFJFNFlnQUdYMGdCZnVHSkI5V1ZNM281X283VE85Mkd3bU12Ql9rellBS2JtdlV4N1JyeU5ReFV5REppTHBQY2FvQQ?oc=5",
-      "source": "city.shinagawa.tokyo.jp",
-      "published": "2026-11-02T07:09:24+00:00",
-      "summary": "しながわ学びの杜 しなカレント講座第5回「幕末の江戸幕府と小栗忠順-開明的な保守派」（12月21日開催） city.shinagawa.tokyo.jp",
-      "id": "7deab7d1a28ea5dc",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【補助金】新事業進出・ものづくり商業サービス補助金の第２回公募要領を公開しました【申請受付期間：11/30～12/25】",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sTkE3M0Fjc2pzdVl1bTU1UFVCYWwyY0E2RURodE8tRTZ1OU1LSmQzM3JyaUsxYllwZ1ptWGlMeGV5UHg2bmdmY0xLTDIxMlU0emhTaHdJcng?oc=5",
       "source": "中小企業庁 ミラサポplus",
@@ -625,18 +613,6 @@
       "published": "2026-11-02T06:45:31+00:00",
       "summary": "【10/30より】「【今年ラスト！】第9回省力化投資補助金 事前準備セミナー」の無料配信を開始します！【助成金なう】 Infoseek",
       "id": "c280b9255eb54fb4",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「GX地域共創補助金」第1次公募採択者が発表",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zRlcycVhlVG9LSTNTc1BGcHNQWmtCVzByMkxNNGJGaU5rdVFGeGFSRV9jc01ISVlBejFTWGNlb1VOZUgtc3o5b3ltSXd0MWs?oc=5",
-      "source": "創業手帳株式会社",
-      "published": "2026-11-02T06:19:11+00:00",
-      "summary": "「GX地域共創補助金」第1次公募採択者が発表 創業手帳株式会社",
-      "id": "a2e3cc5cc29b8914",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -703,6 +679,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "日本の「AI一本足経済度」を考える ～需要国でも供給国でもある日本～ | 星野 卓也 | 第一ライフ資産運用経済研究所",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5MUR2T1BZTkdXVkdaZlJRdlN6d043bUVuVDVZTmpfTzVwUGRPcEs5VkNOZ1NIQTFXT2xuRkhUMDdHR05sR0liNml4dXVTYXFYNlpwN3B3TmtMR2s?oc=5",
+      "source": "第一ライフ資産運用経済研究所",
+      "published": "2026-11-02T05:16:56+00:00",
+      "summary": "日本の「AI一本足経済度」を考える ～需要国でも供給国でもある日本～ | 星野 卓也 | 第一ライフ資産運用経済研究所 第一ライフ資産運用経済研究所",
+      "id": "9edbad4476676b94",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "アストロデザイン、本社を品川区大森へ移転。新本社のお披露目を兼ねたプライベートショーも開催",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XWWJkeVptNzNoZWJqOEhnbjJ5UUZ1N1VtdDgydTJ2bVFZekJ1aUtzTHdNM1liVHdLVzhMVmdCM09aVkdRSWdwM1RNdDE3b2tiNW1aWFZlUnVRZlUybDhJNQ?oc=5",
       "source": "PRONEWS",
@@ -721,30 +709,6 @@
       "published": "2026-11-02T04:35:00+00:00",
       "summary": "コラム：2027年は円高に転じるか、日銀の利上げ継続と円相場の行方＝内田稔氏 Reuters",
       "id": "ed1fae8835907fcf",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "フラット35の11月金利、3.81% 4カ月ぶり下落",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2VXliMTlHS2NDeFBQTE1NVVFaR2V0X0U1WENCTFhBWkR3NC1URUdjNl9wWHJ5SF90Vk1OLW9HVXpNc1pEeWJPdFRqcFE3MkplaXRoSUZPN3JuQ001SWlRRkxKeHhMcDI3WWR0OQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-02T04:07:23+00:00",
-      "summary": "フラット35の11月金利、3.81% 4カ月ぶり下落 日本経済新聞",
-      "id": "40041d83b338582f",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 岐阜」11/18(水) 開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0RlNhWENKdWszazd2LUlCWUw3eXQ0X3dUUDVRLXVrb193b0FCVlY0RTBFWFlXeTg2SldGdDJQcVAzZ0ZJNlN6cTRoTUY3TWF2NVg2YkM1SUtXcWhmYW81Q0hUcV9CMXJTMGc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-02T03:41:59+00:00",
-      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 岐阜」11/18(水) 開催 PR TIMES",
-      "id": "1ef330836c0b7834",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -772,6 +736,30 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米津玄師 「こんにちはごきげんよう！」 劇場版「虎に翼」主題歌に決定 予告映像・コメント・新アーティスト写真も一挙公開",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92bHloMHVaRVhSN3oyNTM2SHV1Y0NWeGlJcGUzQnlUaG1GLTVzdVM4YkxCTVZOdUJEdjZkQnNWOVJXNXhlZTRUUDlxM1Rjanc1UUlCQzFrS0t1SkNhTWVHMA?oc=5",
+      "source": "USENの音楽情報サイト",
+      "published": "2026-11-02T01:05:19+00:00",
+      "summary": "米津玄師 「こんにちはごきげんよう！」 劇場版「虎に翼」主題歌に決定 予告映像・コメント・新アーティスト写真も一挙公開 USENの音楽情報サイト",
+      "id": "e4a90dd4bd4ee785",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【福利厚生】本年2度目！いーふらんBBQ大会を鎌倉で開催！二本同時のマグロ解体ショーなど独自の社内イベントを楽しむ｜おたからや鑑定士の愛用時計も大公開！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oUDZWN1VXVGxBZHpBU2FRNEZfMTVRMjZVUG5mSE9nUEVKMFpYSDY1VTV3NTlsdjRETnRjT3g5ZS1nSXNrVDhoU182NkxXMlNhYWM2UVM5cVNjems2YmxPMFFGQjQwZmduMGc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-02T00:10:02+00:00",
+      "summary": "【福利厚生】本年2度目！いーふらんBBQ大会を鎌倉で開催！二本同時のマグロ解体ショーなど独自の社内イベントを楽しむ｜おたからや鑑定士の愛用時計も大公開！ PR TIMES",
+      "id": "8ef45268f121b377",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -871,18 +859,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "HANAがついにアリーナツアー開催、全国15カ所巡る",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80UzRMSHpURWVUcjRfRWRPQWlfZ2RUQjNDSUxYQ3o4S0lFWmN5Qk5haEt1STJFOWdEeFlSRkQyS3VUaXgzX1IzdWhhOVk?oc=5",
-      "source": "ナタリー",
-      "published": "2026-10-31T10:58:00+00:00",
-      "summary": "HANAがついにアリーナツアー開催、全国15カ所巡る ナタリー",
-      "id": "f80c4e83b3562f49",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Hey! Say! JUMP JUMPdate!横浜アリーナ全公演セットリストまとめ",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE83UEVpQ0NzQVZsSUNsa2VCR0lCWmdPNmhuZ1NoYnlSMmdPQURneS1yQ2cyT19rYkJObGlLMWptZlY0cm94WW44Zmp3?oc=5",
       "source": "もとりょこblog -",
@@ -940,6 +916,30 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Travis Japan、2027年全国ツアー「Jewelry Basket」開催！ 横浜アリーナを皮切りに8都市へ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wdHBXd2RWMU5HZlJBTGp6ekdmVzdrTWlHeXozdzBpZWtNX3I3U0xpU3hCSmVXWW5PLWJ1MVBxNnVseXJTQnRjTXJjbGplMnBsdVNFUHU2ZWNSWHdiZURnbWVlTkxoSFp1UmtHSUdYZHgyUEU?oc=5",
+      "source": "推し楽",
+      "published": "2026-10-29T03:49:54+00:00",
+      "summary": "Travis Japan、2027年全国ツアー「Jewelry Basket」開催！ 横浜アリーナを皮切りに8都市へ 推し楽",
+      "id": "b3d4c8d5e8229d9c",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "リヤドのアジア屋内武道大会は2027年3月に延期",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xcHplbXV2V1MxVFlOMUhRdlZ1dWlZaFlIemlRWTc5b21LbjNFX083eG1jZTNZMThIQXhYV3p3RVVZaXM0aEHSAUJBVV95cUxPelRSV1U2UkEtclZWNVFqWlpLb1JKaWxNbGlBZW9vSmRrWVA4angzUzQzQUpkckEzck4yN3A2SVowX1E?oc=5",
+      "source": "VOI.ID",
+      "published": "2026-10-28T05:26:15+00:00",
+      "summary": "リヤドのアジア屋内武道大会は2027年3月に延期 VOI.ID",
+      "id": "c0b16b7724555d78",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
