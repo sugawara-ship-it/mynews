@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-03T14:34:15.066272+00:00",
+  "generated_at": "2026-11-03T15:34:50.705623+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 2
+      "count": 3
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 6
+      "count": 10
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,42 @@
     }
   ],
   "items": [
+    {
+      "title": "AnthropicがIPO前にClaudeのチップ設計能力を投資家にアピール 執筆",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03dUtSekJyQUdGM195ZDVQaW9meloyUll6MUhVNDJDVkNHV2RXdFo4X2s0NHRWOVFhNkVLQXhZMU14MHhEdWFmX3hNNVJuQjVhZWY2UHhhQ3BRcHQxR016U25IZVdFMXJBaDVFT3BZcEw?oc=5",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "published": "2026-11-03T15:05:00+00:00",
+      "summary": "AnthropicがIPO前にClaudeのチップ設計能力を投資家にアピール 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "id": "430c8696b5fc911c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Supermetrics、承認機能を備えたClaudeのマーケティングワークフローを拡充",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQmhYMFRVTktubWlDYXNuTXk3OV8wSk1kdF9WZndRcks2TUJHOVpobW1ETm9SUF8wTzh5aEw5YVI2M3ExMFFKaE9tNnRLMmVmVVJkRDgwSHZRWWt2bUdOSld0MU9TWnJpV2ZKMFRIUDFRY3M0MWw4Nnp0ellLakJZOERUcnFpal81ZXQ4NFNqMmtULTJqamFHZTdB?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-03T13:59:04+00:00",
+      "summary": "Supermetrics、承認機能を備えたClaudeのマーケティングワークフローを拡充 Unite.AI",
+      "id": "7397a6c2f4534553",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "東急ジルベスターコンサート2026-2027",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FM2pmbW9oMGhYaFduQ3h3dGxKZ1NVSm03SURlb1QxYjVPX19pcTRJSHBBcWt1X1FvZDRhM3dHMjRvN3JiZXVKQzg1V1d3N0cza1BSOUJIMUpheE1GVGw5SmxoNkJVME1iaWVOTg?oc=5",
+      "source": "Bunkamura",
+      "published": "2026-11-03T13:51:49+00:00",
+      "summary": "東急ジルベスターコンサート2026-2027 Bunkamura",
+      "id": "64c6d93067299d3c",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "字節跳動、ClaudeとCodexのアクセスを禁止 L4級コードリポジトリとFeishu文書を立入禁止に",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iVUJtWGo0MU11MzZ4bWkwdVpRTTk5cVRMRUd3WldUSWxRdk5hN3Jsd1VvcnV0cVdCQXhzdUVhYlFKa1JaTXp4TXV5YXhub29yTTdraGs5ek1nTkp6MkpPRDFjUGFCbzlEa0toOXBWc3RzanBu?oc=5",
@@ -103,18 +139,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "東急ジルベスターコンサート2026-2027",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FM2pmbW9oMGhYaFduQ3h3dGxKZ1NVSm03SURlb1QxYjVPX19pcTRJSHBBcWt1X1FvZDRhM3dHMjRvN3JiZXVKQzg1V1d3N0cza1BSOUJIMUpheE1GVGw5SmxoNkJVME1iaWVOTg?oc=5",
-      "source": "Bunkamura",
-      "published": "2026-11-03T10:46:30+00:00",
-      "summary": "東急ジルベスターコンサート2026-2027 Bunkamura",
-      "id": "64c6d93067299d3c",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Anthropicがmessage threadsを公開、Claude Codeの応答が35%早く",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTVyMTY2V29kdG92aE1VeHpnOVpDVXd6V1JlRkNyTl96andzYjhlVk5tMlc2dE5DUjg0R1QtdjJ3anNUcldjUUVod01jNGdNOEd6d1N0c056R2MzZW5ub2libWZ4Q2Y4MnZ5Z2pZOU9QS19odVhkVzhmTWNoNFMwMldiWTkyb3JTaE1Oa1NzNmxQbzJpQV9MRUNn?oc=5",
       "source": "Pasquale Pillitteri",
@@ -137,6 +161,18 @@
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
       "image": ""
+    },
+    {
+      "title": "Anthropic、1,200兆ウォン規模のコンピューティング契約を公開…Broadcomが最大の受益者に",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Sak9xWG4xZW1pSVZPWTRRSlNIa0pJWl8zeDFveHBFVWd4bC0wR0dFdFhfNFI1d1h2d0ZLM3l3TUtwZ1BFQkNYYldPdDlxck1feGlLclZ6b1AzeXAyMFJTSV8yNk1fT0JYVjg3bWI4NEtZV3B0?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-03T09:05:00+00:00",
+      "summary": "Anthropic、1,200兆ウォン規模のコンピューティング契約を公開…Broadcomが最大の受益者に BigGo ファイナンス",
+      "id": "e7a0ad0db6b6c5ef",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "title": "Claudeによる金価格のテクニカル予想（2026年11月3日～12月31日）",
@@ -235,42 +271,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kRmkyRXliSnlEblFuR3JXVnU3aG9oS0hLN2JLLXdjZDdsU0ExZzk0TTBuci1mMVdBb0ZVUFlraFhUQk9nckxGRTJQd2ZUejdfYnpIeUJXdjBtX2k0YndXcUtFZFdBUW1qR0E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-03T05:55:36+00:00",
-      "summary": "世界のAIデータセンター向けシリコンフォトニクス市場、2034年に146億米ドルへ拡大予測 ― 年平均18.0％成長、生成AIと高速光通信需要が市場を牽引 PR TIMES",
-      "id": "51bde2cc1fdb531b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicがIPOを計画、CommSecがオーストラリアの個人投資家向け主幹事に",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWhvbHJIR1Z4ZGdLR2NyOGNYbm5pOTFtck4teUV0SDQ1VVZFQkdHMUVsbFBzOGE0dzJ6WGFEblMyQ3RTYm9yNTFlZVp6Sl9YTFhtLWN5MnVMMzJVX1c4RDB4ZkFQRFJYbTNxeEhPaGF1YkVIV2NDLUM5THlZNEtzZDc2cWVXa3lfQVpLZGd1MG5jcnducjU4YnBn?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-03T05:32:03+00:00",
-      "summary": "AnthropicがIPOを計画、CommSecがオーストラリアの個人投資家向け主幹事に Unite.AI",
-      "id": "caa034d143bd4a69",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、暗号学的なAI推論証明に向けたFlashProveを公開",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVN2VnYtT255ZC02TGVVMmxkMllXdktYX3RXbWN4ZHhVNDJqUkFiczY5Vm9wanpKYUJKMU90UjI5NVRmVThRaU9EWG9XRTZrTXBmV1pDdFJ2WTdkZmJsUE8wNzNOYi12QnhQSHRETzdPNWVCMGZZUGdiYVVYQkpSSk0tZjlVUWYyUUg4XzVTc1Rlc3p4RF80?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-03T04:44:05+00:00",
-      "summary": "Anthropic、暗号学的なAI推論証明に向けたFlashProveを公開 Unite.AI",
-      "id": "a726775fc3a929bd",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "品川区にお住まいの方へ。主婦こそ書ける地域ニュース「号外NET」の地域担当記者募集中！【本氣メディア】",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iZ1ZfUTk0a3hZSXJMMjBBUkRFNGUtMXpJSnlYcEdrRVNnOXJwa1hpS0N6eGROY1RScjM1RjVBTkQtN1drS19YdkpBUmp4YmtNZnFjN2NQd3B2WVpDMHh3SUtzcw?oc=5",
       "source": "号外NET 品川区",
@@ -343,24 +343,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "桑田佳祐、豪華アーティストとの共演ライブ映像5本を一挙公開 あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉が登場",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CMDU3NmdGV0tqUXJMM0l4OGFuZ0FyQ182T2piRkJzVjdaQnAzRFQxd1lsMVZJYUc4ZmtfNUlzV2hzRmhQZVRjT0c0SV9pcGpOcTQ2dW93?oc=5",
-      "source": "オリコンニュース",
-      "published": "2026-11-03T03:00:00+00:00",
-      "summary": "桑田佳祐、豪華アーティストとの共演ライブ映像5本を一挙公開 あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉が登場 オリコンニュース",
-      "id": "c5c36ec1138f4d5c",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "桑田佳祐〈九段下フォーク・フェスティバル’25〉よりライブ映像5本を一挙公開! あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉と名曲披露",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40dGNPZk85dW0zT3JXV2ZWTndhcnIxQVRnTklsVG5wenI0bzlZVlBzbC1UYjV3SXRpYmVLVHhrRXhzdHBnYndFVnFjWFlFc2ZZMFE?oc=5",
       "source": "Mikiki by TOWER RECORDS",
       "published": "2026-11-03T03:00:00+00:00",
       "summary": "桑田佳祐〈九段下フォーク・フェスティバル’25〉よりライブ映像5本を一挙公開! あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉と名曲披露 Mikiki by TOWER RECORDS",
       "id": "e659945e2ee2781e",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "桑田佳祐、豪華アーティストとの共演ライブ映像5本を一挙公開 あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉が登場",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CMDU3NmdGV0tqUXJMM0l4OGFuZ0FyQ182T2piRkJzVjdaQnAzRFQxd1lsMVZJYUc4ZmtfNUlzV2hzRmhQZVRjT0c0SV9pcGpOcTQ2dW93?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-11-03T03:00:00+00:00",
+      "summary": "桑田佳祐、豪華アーティストとの共演ライブ映像5本を一挙公開 あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉が登場 オリコンニュース",
+      "id": "c5c36ec1138f4d5c",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -619,6 +619,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "矢野顕子50周年コンサート開催！ スペシャルゲストに角野隼斗、 そして、パット・メセニーが出演！",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PSHJLcmxWd2wzbTRCUjRwV2Zjb0NZMVFLajc2Z2dacXBIS0dlQkpRVDFLWHAteVFFbTZWeGdFeEVCY3hoRnR5b3lwdjNKZUl4S0o2aE9SSi1lX1dwRUE?oc=5",
+      "source": "J-WAVE",
+      "published": "2026-11-02T06:02:04+00:00",
+      "summary": "矢野顕子50周年コンサート開催！ スペシャルゲストに角野隼斗、 そして、パット・メセニーが出演！ J-WAVE",
+      "id": "3ce1ed33c6d304d0",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「デジタル化・AI導入補助金2026」交付申請最終締切日は2027年1月7日",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vUUhlcHF6bXF5Y1NJT19Ydkhqc25PdkZTTnl4UERrMXpzZ2pvWWRodDc0alBISTBObFh1VzdYOC1CZ3pzVFBFd3BpZWVLVHBEdVpVWnplQ2R3dw?oc=5",
       "source": "創業手帳株式会社",
@@ -691,12 +703,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "UBS証券、国内法人向けに金利商品を拡充",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92YmNXeGMzVm9jZXphTVl4R0hBT1A3S2tiOWJTTzhZQWItWmVsSGNiX1hyTURRYkZiNjhSV0pfMUZJVTQ0bF8xUV9rMnU2S3Y5eklwOEtuSWdLRTlNTzFHNFJhZS11emlBZE8tQw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-02T04:43:09+00:00",
-      "summary": "UBS証券、国内法人向けに金利商品を拡充 日本経済新聞",
-      "id": "6d5c6c1be3099604",
+      "title": "コラム：2027年は円高に転じるか、日銀の利上げ継続と円相場の行方＝内田稔氏",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWmJvUEFNRHZMOHNKX2N2MGR0SWRRM3ZoeVFBR3Nkc2M3bXh5NUhRYjlHRzhZVGtBRzh2dkJ0TXFkeU1PcWdpeWxWZDNxWVhTOUYwZi1xLW1FVnZpaUZjZ3kxVFhGWDJVM1cweEJGMXc2X3VxcHVCTEpOMlFpYjB0WHBMVTVUQzlIa2dteGN3?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-02T04:35:00+00:00",
+      "summary": "コラム：2027年は円高に転じるか、日銀の利上げ継続と円相場の行方＝内田稔氏 Reuters",
+      "id": "ed1fae8835907fcf",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -931,6 +943,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "怒鳴りキレる夫に実父が合気道で一本! 証拠動画の矛盾が決定的に露呈【瞬間湯沸かし器夫 Vol.69】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10VVItd2xoNFZmc0x6Y2lTeTd6WWZHWVdNZVcwMWI5SVBCM2dWZjl1VVVoaUJnUUVnMU9GRm9ZeDh5SEI2ckdnZEQ0QmhSQWxaZnFKZkVXMEZrZw?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-10-30T08:00:00+00:00",
+      "summary": "怒鳴りキレる夫に実父が合気道で一本! 証拠動画の矛盾が決定的に露呈【瞬間湯沸かし器夫 Vol.69】 オリコンニュース",
+      "id": "c60d96431100c88c",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "角松敏生、6時間におよぶ横浜アリーナ公演が映像作品化",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qRHpFdF9acnZ3NE9wQzY4QnFRN3Z4VkZobTNrRC1MdTRVdWw2OUFOOE9sR1liSVB6alhGMjM0TEl3YXBLSm1fMGU0ZTM?oc=5",
       "source": "ナタリー",
@@ -943,15 +967,39 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "調布・京王アリーナで調布合気道会演武大会 設立50周年記念し（みんなの経済新聞ネットワーク）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZVmVjUEJoVVp3UDdxTXAybU13ZnV5TEpJeUVaU3gtNlBIMU5tMUJWLVlyNlRvT3djLVBYd09jYUJNWUVMMFFDcDV0djhBY3FQVHhwZXdMSkUzVzczblhaMkVCR2N4WXNuTFBWdE0tVzNsajJCNG1RdmUyRzIwdlU?oc=5",
+      "title": "調布・京王アリーナで調布合気道会演武大会 設立50周年記念し (みんなの経済新聞ネットワーク)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRnlhWXNKVm1DMlBHdVBmTVNvX3hia08xRTBzZGtYT0VCeWUzV2FpT3haY1pxM041T3BYdDBrN3IwWnlTYnBPeV9uX1B0M0N3eER2LVVkblo4SlpBSUdTcGdvMUhIbDlYMW1WWmJsTkcyMWpLRTdSVFdXcFNqTWdJbGpYMTRycERlYk10NjBB?oc=5",
       "source": "Yahoo!ニュース",
-      "published": "2026-10-30T00:10:00+00:00",
-      "summary": "調布・京王アリーナで調布合気道会演武大会 設立50周年記念し（みんなの経済新聞ネットワーク） Yahoo!ニュース",
+      "published": "2026-10-30T00:10:42+00:00",
+      "summary": "調布・京王アリーナで調布合気道会演武大会 設立50周年記念し (みんなの経済新聞ネットワーク) Yahoo!ニュース",
       "id": "fb6e400a7d2bbeb0",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "調布・京王アリーナで調布合気道会演武大会 設立50周年記念し",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wU3R5ZnRnNmQ3NVZqRVZNOW1YN3RIaDgzaVh0cXdzbmtDamd5Sm5xdl84XzE5SUNrcTVlTXBOaTFJNjB6ektCX1lnVnVFTmox?oc=5",
+      "source": "調布経済新聞",
+      "published": "2026-10-29T08:22:35+00:00",
+      "summary": "調布・京王アリーナで調布合気道会演武大会 設立50周年記念し 調布経済新聞",
+      "id": "357f8c3e6801ea69",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【速報】「東京・春・音楽祭2027」ラインナップ発表！",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqYzRuV25SQUhsZVluWEJDcDNwT3ZFdGVzMHFvY256dmVOMFllM0twaDJFVjFKT3RwOG9MUDduLVFKN05tdWk4ejJGcjVCOWw1Z3ZJYmR3aDg2VVU?oc=5",
+      "source": "東京・春・音楽祭",
+      "published": "2026-10-29T08:01:55+00:00",
+      "summary": "【速報】「東京・春・音楽祭2027」ラインナップ発表！ 東京・春・音楽祭",
+      "id": "fe546a49f3d2c30b",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -979,27 +1027,27 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "待望のアリーナ来日公演が決定！最新ツアー「THE WILDWORLD TOUR」来日公演が2027年1月27日に横浜アリーナにて開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ga0NVamlYV2VHbk1uTWtxaXVHaEtKRkZaazIxUzFhRU5RMjRHUFpSN20wMFZGeVVjQmVROVF1UkxyZjFjUGNEOGZNUXJoNml0UHJsRlp0Q3lMb2xQanUtM1JSY2VHbVgtMHc?oc=5",
-      "source": "UNIVERSAL MUSIC JAPAN",
-      "published": "2026-10-29T03:34:41+00:00",
-      "summary": "待望のアリーナ来日公演が決定！最新ツアー「THE WILDWORLD TOUR」来日公演が2027年1月27日に横浜アリーナにて開催 UNIVERSAL MUSIC JAPAN",
-      "id": "b45ae0eac592c226",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
+      "title": "「調布合気道会」3代目会長西村美佐子さん（左）と事務局長の磯野賀瑞夫さん（右）",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TOWMyV3ctTUhiaTJJZnI1LWtwMVB0TTNLZUl1RU9pUU80RkppTWl5MHlvVEtQWHJuekZzZTdIUVNLektDdkVDYzgzSExhSXItd3Ew?oc=5",
+      "source": "調布経済新聞",
+      "published": "2026-10-29T01:23:42+00:00",
+      "summary": "「調布合気道会」3代目会長西村美佐子さん（左）と事務局長の磯野賀瑞夫さん（右） 調布経済新聞",
+      "id": "36145eec6779aa21",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "KATSEYE、横浜アリーナで来日公演決定（音楽ナタリー）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScVpoS0liTjB2VlE1eVRLLTdmRERSQ2pRdTZ1eXVCQThoUEc5TVQ3MDJuclhtUEltbU5ZLUQ1Tk1CWENkNGRfVHdiOFE5S0RJNHM2ZlFBMWJLYV9BQVpQcXBYLXhFaElwLWtFc0RjdTc3elJrc0g0YlhvdVJoTEU?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-29T03:00:31+00:00",
-      "summary": "KATSEYE、横浜アリーナで来日公演決定（音楽ナタリー） Yahoo!ニュース",
-      "id": "425a558cbca93742",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
+      "title": "「調布合気道会」大人クラスの練習風景",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KY3JzNW9MS2ZNcnRuTEgwUGtzel9JLUtvTnNaQXVKUEZhamZkQ0lyWHIzeWRRd29qdGs5N3Ria3NvTHNzMXR3LUZQT2hVTVhDSTJV?oc=5",
+      "source": "調布経済新聞",
+      "published": "2026-10-29T01:13:03+00:00",
+      "summary": "「調布合気道会」大人クラスの練習風景 調布経済新聞",
+      "id": "d827a08ef921e619",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1015,18 +1063,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "リヤドのアジア屋内武道大会は2027年3月に延期",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xcHplbXV2V1MxVFlOMUhRdlZ1dWlZaFlIemlRWTc5b21LbjNFX083eG1jZTNZMThIQXhYV3p3RVVZaXM0aEHSAUJBVV95cUxPelRSV1U2UkEtclZWNVFqWlpLb1JKaWxNbGlBZW9vSmRrWVA4angzUzQzQUpkckEzck4yN3A2SVowX1E?oc=5",
-      "source": "VOI.ID",
-      "published": "2026-10-28T05:26:15+00:00",
-      "summary": "リヤドのアジア屋内武道大会は2027年3月に延期 VOI.ID",
-      "id": "c0b16b7724555d78",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【藤沢 体験スポットレポ】男性も通えるマシンピラティス！藤沢駅徒歩5分「STUDIO IVY」で初心者がパーソナルレッスンを体験",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vMlNhVVpHeUhXbkhxQzN4eDVubkIwWGVDeFJWQWYycHFzbHZMWVVxeW9pMVZSTzBWaGJjYS1fdDVRRzlIWG1IUEFwR1JMOExSc2Z3RzBxQ0o?oc=5",
       "source": "湘南人",
@@ -1036,6 +1072,18 @@
       "category": "不動産",
       "topic": "道場物件（鎌倉・湘南）",
       "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "合気道の技術磨く｜スポーツ｜石川のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEQ0t6amJrdWNaN3d2d1gyLVhacFNRMFkyY1NFWG1mcTZibkQ3aTVUNldPXzJ0NDRwcDNBXzROcmRtd2lieDFoSDl3WEtEQWxnalRHOHR1NA?oc=5",
+      "source": "北國新聞",
+      "published": "2026-10-25T07:00:00+00:00",
+      "summary": "合気道の技術磨く｜スポーツ｜石川のニュース 北國新聞",
+      "id": "e20dcc80fb55f32f",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1049,7 +1097,19 @@
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "マチノマ平野 2027年春開業！テナントは？ライフやヤマダ出店！最新情報も！",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uTW9nS0VSYy1WeDQwa2tPYktlTWN1M1UtNGhvdWJ0ZDVETmdsUGxTMTVZbG1keElxLWNfR2V0WklLQ1I5TXNlQ3dRWFMwRlU?oc=5",
+      "source": "出店ウォッチ",
+      "published": "2026-10-21T07:00:00+00:00",
+      "summary": "マチノマ平野 2027年春開業！テナントは？ライフやヤマダ出店！最新情報も！ 出店ウォッチ",
+      "id": "00cb99ff49d32830",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 82
+  "count": 87
 }
