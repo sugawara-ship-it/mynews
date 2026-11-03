@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-03T22:36:48.881845+00:00",
+  "generated_at": "2026-11-03T23:37:11.643476+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -32,7 +32,7 @@
       "name": "道場物件（鎌倉・湘南）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 2
+      "count": 3
     },
     {
       "name": "地域ニュース 品川",
@@ -67,6 +67,102 @@
   ],
   "items": [
     {
+      "title": "藤沢駅南口でイルミネーション点灯式 レディオ湘南が公開生放送も",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBleGNNdVAwbjk3TmZuUG5vMklnTGNuZ1JIN0ZleUc1N1hHNVBGV1V3VlkxblBLU21pOE9iTFU3djRaWWJ5Y0xBQzAwbVpvaU56cFE?oc=5",
+      "source": "湘南経済新聞",
+      "published": "2026-11-03T23:34:41+00:00",
+      "summary": "藤沢駅南口でイルミネーション点灯式 レディオ湘南が公開生放送も 湘南経済新聞",
+      "id": "08fcb77fdcb3d508",
+      "category": "不動産",
+      "topic": "道場物件（鎌倉・湘南）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIマーケティングパートナー「SENRI-GAN」、ブログ記事の作成をAIで支援する新機能を提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsOGRJSHF3RTl2U2tINUREckcwTldLYTJlY0NjeHp4cENoX2tBZDNNWmZKZm1JYU9jSm1pb3ppdGg4eldLWWhzT2tDTHZOQ2sxZG04bmJsTkp5RFBDaGM4aFgxVkRKTHBmUXc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-03T23:30:01+00:00",
+      "summary": "AIマーケティングパートナー「SENRI-GAN」、ブログ記事の作成をAIで支援する新機能を提供開始 PR TIMES",
+      "id": "dc869411b01f90b3",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIがAIを作る速度、まもなく急加速か Anthropicが上場申請書で明かす",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDQnUzRlBoM0NYaGRGRjJBRHUyWkFaVDR5dThyY0pFRTR5cENVVUNZWTRYaEViaG9ZbWt3X1lRTEN2U0V2b1JmeHpNdUY0VncxRjBHV1NCNWZtcWRzb2w4Ulh6UjFmSTJa?oc=5",
+      "source": "株式会社エクサウィザーズ",
+      "published": "2026-11-03T23:29:24+00:00",
+      "summary": "AIがAIを作る速度、まもなく急加速か Anthropicが上場申請書で明かす 株式会社エクサウィザーズ",
+      "id": "17a6bb2beda998cf",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「Lemon」MV 10億再生突破",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QcG01MVFCWGd1TDkyVWp4TnNFNHFISlRiWWU5R1dMa0JRa01tdTh5czk2Wk1UQ2R5YlNfdnNPejZMd3JPNkFTMS1POC1QRDJWYkcxRTZTbzhkenlZMjRNU1Y4Qk1zTFFvQlRaOFMzUDZMVk96SExwaURpLWlRUlk?oc=5",
+      "source": "米津玄師 official site「REISSUE RECORDS」",
+      "published": "2026-11-03T23:02:36+00:00",
+      "summary": "「Lemon」MV 10億再生突破 米津玄師 official site「REISSUE RECORDS」",
+      "id": "5ca16f958b4831ef",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【開催レポート】議員秘書と政治を学ぶ学生向けに、Claude Code勉強会を開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82dElMWkpOTDNFZkVoekpUaUk0MEhweExlZFVQMWtIU3ZiM2NaYkEtSzJCdlpzR2JvdUxHbnBOS3RVOUtUei0ycE1NZXNadjV5d1RyazA3XzNKOUVzRzhmUFRVaHU5MVRWQXc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-03T23:00:01+00:00",
+      "summary": "【開催レポート】議員秘書と政治を学ぶ学生向けに、Claude Code勉強会を開催 PR TIMES",
+      "id": "05828132e9b83ba1",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米津玄師「Lemon」日本語楽曲として初のMV10億回再生突破、米津がコメント発表＆「アンナチュラル」チームが祝福",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Nd0wtaFZnWUJnelpHNTdIcnhwM3I0MjNCeklGMGRuNGJ6UmVDV09wRDZvUDg4cDFRTUVIS2ZlYXJ6cXlwM3c3c3V1ZlY?oc=5",
+      "source": "ナタリー",
+      "published": "2026-11-03T23:00:00+00:00",
+      "summary": "米津玄師「Lemon」日本語楽曲として初のMV10億回再生突破、米津がコメント発表＆「アンナチュラル」チームが祝福 ナタリー",
+      "id": "54feae6062f58270",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "四季折々の風景を空撮　北鎌倉の里山・六国見山　地元市民団体、写真集を発行",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yR0k3aGlyVG81OGZEY2VUM2RFenM1RW9ISlRIS2tfWS0zNkhGY2QtQ3RfY3Y0QXBRN3pfTzN2R1l6Z1pHSEZxWlhDeWpmUjJtZ0xXQ09IM1RiVnlwTFlzSHRsTnVrb3g3RlppM2hQS2I1SDDSAXhBVV95cUxPUXdjV1BkZk1VTmJOZnVhSWdja1Z5RWZObGhpU2JGNjdmbXFFWXBndVpiYURMd1VuU3hhMnA5VTVnNjBTY1FkUEkxOHRsdUZWbHU5QWUyQUtNaXBwOUZzWV9vZUFaZDVYRTJ0amNZOU1OazIyQTV4TjU?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-03T22:40:30+00:00",
+      "summary": "四季折々の風景を空撮 北鎌倉の里山・六国見山 地元市民団体、写真集を発行 ｄメニューニュース",
+      "id": "ec2c16ed5141f993",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfa3RGWXBCYndiMVZReFoxWHIzU2VlQkowNllNVWphdVp4bGNJTEhLaFNYaW51SUk5UG45WGczcC1ZWERueVFVRFo1MF9KcFlWVFQxZE5RTG05S0pNSHNYRWRRMDZKZw?oc=5",
+      "source": "キーマンズネット",
+      "published": "2026-11-03T22:00:00+00:00",
+      "summary": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ キーマンズネット",
+      "id": "1860fc6ea6d70281",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「Claude」の「Max 20x」プランが「Ultra」に改称、5時間ごとの制限を撤廃／「Max 5x」は「Max」へ。月額料金は据え置き",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vcTZQMUM1OTZhVndVaG9BZnFmbW1VNENoMUd6bF95SW5UV2huaThUVkM3QzZ3Y1hoSGx2RmF0NEl0Q3BmRkFST0lMUlpiRWdjZjZxdDRPelVFUWo3SGR1R3FCUVNOUjF6?oc=5",
       "source": "窓の杜",
@@ -76,6 +172,18 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Ｎｅｗｓモーニングサテライト(テレ東、2026/11/11 05:45 OA)の番組情報ページ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeU1QNmJaT2dMNlUxbUVlQ1p5MFVUUDFkM2FOR3V6a1JyZzRnd0x5MXZ2dVVmYTdGR0R2d0lhaVFPSEN6d1hDREhKeUJLT0c5eTVrMlRSYTlzWmhwYXE5empZMnZTYl95Y3E0YjlhdUpIajU2NFBhZElmZ0gyeWVrU2dkWWVoTFFDRTFVd0dRdw?oc=5",
+      "source": "tv-tokyo.co.jp",
+      "published": "2026-11-03T20:16:56+00:00",
+      "summary": "Ｎｅｗｓモーニングサテライト(テレ東、2026/11/11 05:45 OA)の番組情報ページ tv-tokyo.co.jp",
+      "id": "340dca9785d7710e",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -133,18 +241,6 @@
       "published": "2026-11-03T18:11:15+00:00",
       "summary": "“Simply Absurd”: Why Anthropic Can’t Sell Investment-Grade Debt, as the IPO Countdown Continues TIKR.com",
       "id": "2f0db731affe818b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Brad Gerstner Says Anthropic Is “Stomping on the Gas.” Amazon and Google Sell the Fuel",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWmtfTDFRWVd2OTJSNGNUYk9FcEtWWUU5ZlVBOEh5STNFVWxmWjhBQ2pDUFhQSUtQXzJaQTZhTHBBZ2tDTEs0bzJVaUJtQ0pNM3FueE91RkMzTEdQcEZSaElnNTVwQUhra044T0xYT2E3MURMbFFUemVpS2FDXzBwaFQ5WFUxanNJbV9LMWktTXhhNURkYVVuaGUxUlpxeUJBSXF2M1p2dXVUMXBvbEdnam9NVQ?oc=5",
-      "source": "TIKR.com",
-      "published": "2026-11-03T17:20:50+00:00",
-      "summary": "Brad Gerstner Says Anthropic Is “Stomping on the Gas.” Amazon and Google Sell the Fuel TIKR.com",
-      "id": "fa1c7b743e4984bb",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -211,18 +307,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Bitget、AnthropicのIPO前投資機会を提供 手数料は最大12%",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BYkYxVkxkUFh3MHhnTTRub0dfZVA4Z0hLZ3Q2WkotY2J6aEF0U3R4X2NZYU9ZcUVOYjB5OGF6ell1OWN4Tmg0SGM5S0x5bFdXdHlaVlpnSkhTUy1rNTQtc3RMSWZ4bnplOWxTSVl5ZTRfWlUw?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-03T13:06:00+00:00",
-      "summary": "Bitget、AnthropicのIPO前投資機会を提供 手数料は最大12% BigGo ファイナンス",
-      "id": "e241a74f69efbbb3",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "国際ロータリー第２７８０地区　鎌倉で地区大会 友情の輪拡大〈鎌倉市〉",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHhtQ2ZlTVhlMmNOdVQzRG92WExVcTZIWDFEemVLN2lCd05rX1Vxc01CWk9SZ3lJbWVoRE9DcVRuWnVrcHlNQ3p3MzkxVlZFMDRkQkpyeFctb2ExbTM3bW9VbjVvOWwzUU8taGZhZkJWWEp6OWtqMmZhemNaVlk4TGxKamg4MXZVYW1GNzFB0gGAAUFVX3lxTE14d09GN1pnbkd0dFNpOXRTbmtlaFplREhGVnd0c2xpMGxaQ21BYmc3VWVUWU5RT2c3SFN6OUJaWVlWQXJwY3hGdE5OZ2NJYUMzdGtobGdWeUw1LXBPcHBtd2U0Q2t0cG5OMHJBS2ZXQWJ0NDU5eC0tUlRuaEVvRGth?oc=5",
       "source": "ｄメニューニュース",
@@ -235,18 +319,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Bitget、AnthropicのIPO案件を「IPO Prime」に追加 上場前投資機会を拡充",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPVjU1UGhNLWJZUk44bFQzaTBpY0tZaHJNYzVxcGNyRHZLU2RmMVZENHFpejlUS1JxVUFCZWhiTjAybHRJeDc4MW9nNjJMOTBTREJtcXB3MlcwckdCR0pUUDRLUzVXNmY2ZF9TcFpyR1dUUkZIcUFkNVhOc0FiVThYWUUxeVpvekhOakVZNHlEYUlnNFZScEFzQ2x2UzJnWEJLblljcUxIMlZxeFN2M2I0VXFSRnRlekNxZHQzYXJTczMyQUljMVY4QW9UdjEzZThobkNDb3ZyYnQwdVg1dWllQVdYTHB3VjBYSjFWdWl1SmFOOEY5b2tfMjF4V2I5YlNwNmQtZFp5TFdpY3RRNjdyb2VPR25keTdQLTdCeVhTODc4dWxScFFnV251cFNQeDkwdUVCcGs5OEpzS0M2VjBVTEhRMUlldWdieDZmZmxfMjVRcnBqVkE?oc=5",
-      "source": "Yellow.com",
-      "published": "2026-11-03T11:30:06+00:00",
-      "summary": "Bitget、AnthropicのIPO案件を「IPO Prime」に追加 上場前投資機会を拡充 Yellow.com",
-      "id": "d2e3bb275be53a06",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "📎 【ライブレポ】YouTuberアイドル初！リアルピース、11,000人規模のワンマンライブが満員御礼で大成功！2027年は初の全国47都道府県ツアー＆Kアリーナ横浜で史上最大規模のワンマンライブ開催決定！",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwTWhEUWJqczdKYXJLbEJBN1VVZmxaSHFlZnJTaV8xMDFLQ3ZqRmdHbUhRVXdxWlU2ZTBIUllmLWFKMjAyUE1PMU9tOA?oc=5",
       "source": "日刊エンタメクリップ",
@@ -256,30 +328,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropicがmessage threadsを公開、Claude Codeの応答が35%早く",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTVyMTY2V29kdG92aE1VeHpnOVpDVXd6V1JlRkNyTl96andzYjhlVk5tMlc2dE5DUjg0R1QtdjJ3anNUcldjUUVod01jNGdNOEd6d1N0c056R2MzZW5ub2libWZ4Q2Y4MnZ5Z2pZOU9QS19odVhkVzhmTWNoNFMwMldiWTkyb3JTaE1Oa1NzNmxQbzJpQV9MRUNn?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-11-03T10:30:51+00:00",
-      "summary": "Anthropicがmessage threadsを公開、Claude Codeの応答が35%早く Pasquale Pillitteri",
-      "id": "5efef6369abbac30",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "かつしかトリオ、来年3月にビルボードライブ3都市ツアー開催 緻密なプレイと圧倒的なサウンドを披露",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BYnVJMnhjTmFNWW9qWlZncjJOeElEZkRUTk5EYnZheTZIdThvZ0lNZlFJeE1qV2RPN2xSSDQ1R25NQjgyOHlRa1BRYXFYcUhub0dpaVdFZHhma0ZBaEtJ?oc=5",
-      "source": "ライブドアニュース",
-      "published": "2026-11-03T08:00:55+00:00",
-      "summary": "かつしかトリオ、来年3月にビルボードライブ3都市ツアー開催 緻密なプレイと圧倒的なサウンドを披露 ライブドアニュース",
-      "id": "8550a73b5b33693d",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -427,6 +475,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "VA『九段下フォーク・フェスティバル’25』桑田佳祐があいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉とフォークソングへの愛と敬意を歌う",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WRGoybVVvdjFKVGthRkJHNDdYRV9NZ3pJcDZKd1g5MXZFamFMcjJKS295Q2xDc0lFOFlkSlc3V3ZOZ3NULWk1UTV5Tk1GYVIyTFE?oc=5",
+      "source": "Mikiki by TOWER RECORDS",
+      "published": "2026-11-02T22:36:59+00:00",
+      "summary": "VA『九段下フォーク・フェスティバル’25』桑田佳祐があいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉とフォークソングへの愛と敬意を歌う Mikiki by TOWER RECORDS",
+      "id": "5a66a76f615b4e81",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "空手ゆかりの地として鎌倉を語り直す 由比ヶ浜で初の「沖縄鎌倉交流祭」",
       "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFA2MXR5RjBOZ1hXczRLTXlyWTlIa1NOYW1ta05vYW5tU1dKQW5JOXh1aUM0UVZtOVZ6Xy03NVR3?oc=5",
       "source": "PR EDGE",
@@ -511,6 +571,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "米津玄師、自身最大規模のワールドツアー開催決定 世界11都市14公演で約20万人動員へ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55eGgwNjhzaVBBczBkcGtvd0RmcElncHBVVGhPNlNaYTRobEZFZG5PZWVGbUp2Rml6ZE1FLW93SmFXLW5YRE9oNzJ0Wkp1OHRPWXF4bkdnZkRDZFdKNHI4eWxIU3p1enc?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-11-02T10:06:08+00:00",
+      "summary": "米津玄師、自身最大規模のワールドツアー開催決定 世界11都市14公演で約20万人動員へ 山陽新聞",
+      "id": "c16dfcf938cb980e",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "鎌倉市 公共ライドシェア実証運行見送り バス路線維持に注力（tvkニュース（テレビ神奈川））",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0teFQwOFhBSkUzMHNONk5KVGdwRGRuSF91ZE12ZllDVmpyQzl0NHZTMXZnWkthckVSenVFOFc2Tm40SVhBblRLcDNYVTJxWHRhbE1HcXpWRFdqZW5Mdl9mNTV4UVRYdzlnTmpWaU14UFEyU2I1eGtTVFhrTWFET0E?oc=5",
       "source": "Yahoo!ニュース",
@@ -544,18 +616,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米津玄師、劇場版『虎に翼』主題歌に新曲「こんにちはごきげんよう！」決定",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GMmp2ZGZNdUVDcVBxazkxXzd2TTNSejgzWkIzV0M4OEFnMEh5bVpNLVBIUUJGeWVrU1hHcVRRWUJRb1dRb0pxblgxbk1yVC0tcC1xU0Y1eHJLekZkMDBQWFp3?oc=5",
-      "source": "Billboard JAPAN",
-      "published": "2026-11-02T09:00:00+00:00",
-      "summary": "米津玄師、劇場版『虎に翼』主題歌に新曲「こんにちはごきげんよう！」決定 Billboard JAPAN",
-      "id": "25ef8e2dddcf079b",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -643,18 +703,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "神奈川・鎌倉市長、職員に録音推奨 市議のハラスメント対策で（毎日新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTWhmNW91cFlSejVkQUU5ei1RanRqNGVONzhMYjVOdVcycUF5VGYzWkRWNE1Yc2ZvRy1qc1pscXpUempsTWJMd01Mb1l2N3VLSkkyMzdTbWdKT1VldXVlWk1naHN2dVN2VENFdmZyTmgwYlFRbzdaSWhyWnhKd0E?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-02T05:36:39+00:00",
-      "summary": "神奈川・鎌倉市長、職員に録音推奨 市議のハラスメント対策で（毎日新聞） Yahoo!ニュース",
-      "id": "d156db9da48a42cd",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【JR鎌倉駅西口徒歩3分】の好立地！LAVA鎌倉店が1月4日(月)拡大リニューアルOPEN！マシンピラティス「Rintosull」を新導入し、ホットヨガ×マシンピラティスが両方楽しめる複合店へ",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HOXNnenJPN2FCY3JGRzdjaVZiV1YxLUhnREsxRm1BTklPSzJGcVRvRGJub1dsZ3pSYzhOTXRjRVdzZFhVN212bGRhMGk5YS0wREQ1MGNTaS1aeVE?oc=5",
       "source": "逗子葉山経済新聞",
@@ -715,18 +763,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 静岡」11/17(火) 開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2ellSRWZRYWlsZWZicVA2Vm81X1pyWnBTRjltcmlCVlBjV1dSQWduWElubi1YVGhrQ1Z3TGVXUmx2dXktMVIwWEEwLWxlNVFzVzAwc1FZYzN5SXA4OHVNUnNoTExMNXBtUXc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-02T03:33:30+00:00",
-      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 静岡」11/17(火) 開催 PR TIMES",
-      "id": "102157a4a8fd9ed1",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ハイフォンで開催された全国大衆スポーツ大会には、約600人の選手が出場した。",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSGlZNmtLUEppOTBENFBNVlA2eXRVQU1na0pqODBxRjhobnlXNGFQSTBvaEpDV3ZBYmhJdEx1LTd6bml0VzRyaWpsQUpSSHNPcElWX3c4djJGXzA5UGZJQ09CaS05XzZuV1pRY0ZhUEtPc2NDUU5SY2pUeWVyeVdmZ1JZbXpxdm1ITlpRRHhHMF9DUldDSzRFRWUyNm9mN1V5bE9BX2x3U2NhTjQ?oc=5",
       "source": "Vietnam.vn",
@@ -736,30 +772,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【米津玄師 セトリ】2026 TOUR GHOST 全公演セットリストまとめ",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RRkRBaVhUWElpQVEtRXRwYkxUM28zdEYxbWxMV2JyY29ZVVcxRlRuTXFpOV81RnBSVE9wUTNocjdHbU9CUlBOdEd3?oc=5",
-      "source": "もとりょこblog -",
-      "published": "2026-11-02T01:22:51+00:00",
-      "summary": "【米津玄師 セトリ】2026 TOUR GHOST 全公演セットリストまとめ もとりょこblog -",
-      "id": "9d4154d6f40ccc80",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米津玄師 「こんにちはごきげんよう！」 劇場版「虎に翼」主題歌に決定 予告映像・コメント・新アーティスト写真も一挙公開",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92bHloMHVaRVhSN3oyNTM2SHV1Y0NWeGlJcGUzQnlUaG1GLTVzdVM4YkxCTVZOdUJEdjZkQnNWOVJXNXhlZTRUUDlxM1Rjanc1UUlCQzFrS0t1SkNhTWVHMA?oc=5",
-      "source": "USENの音楽情報サイト",
-      "published": "2026-11-02T01:05:19+00:00",
-      "summary": "米津玄師 「こんにちはごきげんよう！」 劇場版「虎に翼」主題歌に決定 予告映像・コメント・新アーティスト写真も一挙公開 USENの音楽情報サイト",
-      "id": "e4a90dd4bd4ee785",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -969,9 +981,9 @@
     {
       "title": "エシカル消費イベント in しながわ「shinagawa ETHICAL 2026」（令和8年11月1日開催）",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BN2pWN3pFeVZ0ZVYxTkk3VS1Ja2VoSEkxcER1eHgtbDVEMkdHOW5lNnZRb3FlNUNUT25fQ01TdFl1dFN3YXQ4NHpRS3VETkxXZHFmdEJZUGdrVnBoQTgzYkRZVHpUdTFGZjRBOXFKYnk5T0VBSldyUzl3?oc=5",
-      "source": "www.city.shinagawa.tokyo.jp",
+      "source": "city.shinagawa.tokyo.jp",
       "published": "2026-10-22T07:00:00+00:00",
-      "summary": "エシカル消費イベント in しながわ「shinagawa ETHICAL 2026」（令和8年11月1日開催） www.city.shinagawa.tokyo.jp",
+      "summary": "エシカル消費イベント in しながわ「shinagawa ETHICAL 2026」（令和8年11月1日開催） city.shinagawa.tokyo.jp",
       "id": "20c0418fc342b2d1",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1003,5 +1015,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 78
+  "count": 79
 }
