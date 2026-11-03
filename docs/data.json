@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-03T13:17:30.042454+00:00",
+  "generated_at": "2026-11-03T14:34:15.066272+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 1
+      "count": 2
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -66,6 +66,30 @@
     }
   ],
   "items": [
+    {
+      "title": "字節跳動、ClaudeとCodexのアクセスを禁止 L4級コードリポジトリとFeishu文書を立入禁止に",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iVUJtWGo0MU11MzZ4bWkwdVpRTTk5cVRMRUd3WldUSWxRdk5hN3Jsd1VvcnV0cVdCQXhzdUVhYlFKa1JaTXp4TXV5YXhub29yTTdraGs5ek1nTkp6MkpPRDFjUGFCbzlEa0toOXBWc3RzanBu?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-03T13:25:00+00:00",
+      "summary": "字節跳動、ClaudeとCodexのアクセスを禁止 L4級コードリポジトリとFeishu文書を立入禁止に BigGo ファイナンス",
+      "id": "12e9609218f63f19",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "国際ロータリー第２７８０地区　鎌倉で地区大会 友情の輪拡大〈鎌倉市〉",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHhtQ2ZlTVhlMmNOdVQzRG92WExVcTZIWDFEemVLN2lCd05rX1Vxc01CWk9SZ3lJbWVoRE9DcVRuWnVrcHlNQ3p3MzkxVlZFMDRkQkpyeFctb2ExbTM3bW9VbjVvOWwzUU8taGZhZkJWWEp6OWtqMmZhemNaVlk4TGxKamg4MXZVYW1GNzFB0gGAAUFVX3lxTE14d09GN1pnbkd0dFNpOXRTbmtlaFplREhGVnd0c2xpMGxaQ21BYmc3VWVUWU5RT2c3SFN6OUJaWVlWQXJwY3hGdE5OZ2NJYUMzdGtobGdWeUw1LXBPcHBtd2U0Q2t0cG5OMHJBS2ZXQWJ0NDU5eC0tUlRuaEVvRGth?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-03T13:00:00+00:00",
+      "summary": "国際ロータリー第２７８０地区 鎌倉で地区大会 友情の輪拡大〈鎌倉市〉 ｄメニューニュース",
+      "id": "5abb8183c986b463",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "Bitget、AnthropicのIPO案件を「IPO Prime」に追加 上場前投資機会を拡充",
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPVjU1UGhNLWJZUk44bFQzaTBpY0tZaHJNYzVxcGNyRHZLU2RmMVZENHFpejlUS1JxVUFCZWhiTjAybHRJeDc4MW9nNjJMOTBTREJtcXB3MlcwckdCR0pUUDRLUzVXNmY2ZF9TcFpyR1dUUkZIcUFkNVhOc0FiVThYWUUxeVpvekhOakVZNHlEYUlnNFZScEFzQ2x2UzJnWEJLblljcUxIMlZxeFN2M2I0VXFSRnRlekNxZHQzYXJTczMyQUljMVY4QW9UdjEzZThobkNDb3ZyYnQwdVg1dWllQVdYTHB3VjBYSjFWdWl1SmFOOEY5b2tfMjF4V2I5YlNwNmQtZFp5TFdpY3RRNjdyb2VPR25keTdQLTdCeVhTODc4dWxScFFnV251cFNQeDkwdUVCcGs5OEpzS0M2VjBVTEhRMUlldWdieDZmZmxfMjVRcnBqVkE?oc=5",
@@ -247,18 +271,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ゴールドマン・サックス、Claude CodeなどのAI開発ツールを大半の社員に禁止。利用はエンジニアに限定",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYzlXLTBCeXFvT0RXMjJUeldfQVBITElET0pQLTF1WkxiMGt4a3BMeTlyQVREVVgxZTkydlRWb3UwZVZYd1N2ZHpXeENQVGh6LTh6UUJKazI1b2I0N21oM0otWDVzb21OVXc?oc=5",
-      "source": "XenoSpectrum",
-      "published": "2026-11-03T04:30:41+00:00",
-      "summary": "ゴールドマン・サックス、Claude CodeなどのAI開発ツールを大半の社員に禁止。利用はエンジニアに限定 XenoSpectrum",
-      "id": "6c4793babb4d1c72",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "品川区にお住まいの方へ。主婦こそ書ける地域ニュース「号外NET」の地域担当記者募集中！【本氣メディア】",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iZ1ZfUTk0a3hZSXJMMjBBUkRFNGUtMXpJSnlYcEdrRVNnOXJwa1hpS0N6eGROY1RScjM1RjVBTkQtN1drS19YdkpBUmp4YmtNZnFjN2NQd3B2WVpDMHh3SUtzcw?oc=5",
       "source": "号外NET 品川区",
@@ -368,7 +380,7 @@
     },
     {
       "title": "鎌倉駅前で秋の夜市　11月６日　若宮小路で開催〈鎌倉市〉",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcVViLUZLNXk4X3ItRnl4ZGZTQTN3bFpLdFkydkxzNkRnUmFCNE0zMHh6RzdUbmtOYk5uUkZUMmtkXzRRRV93RHBaU0RMZUh3d3BUYzlnbkdIemJLeUMzbUpubnkwSFFBc1VyYjB3dVB4US1kVGRQRnNQdWRaaGNTaTNxSE0xYjY0RDJIYi1vT0gxNGdwc3k5S0c5Yi1oUFBfREY1U3RtYWlabnBxb1BZN0ZNNHJSdGNJNFVybGlWbXhtYXMtdGtaa0ZRdVZ6VmFD0gGAAUFVX3lxTFBCSlZlSTMtT0NpZmxMdGpvX3BfVzIxRVFOYm90M3VOZEJfeFIxZENCX3UzQlJqR2FkLWw0dnBKc05PU2FQX3pkb1cwck1qUkxPNndQZHZ1eVQzWXAydWUzMGlJVkIzZTBaVzRiZWMwYk1OM1NLSUdQcFZ0aDdabWpn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQkpWZUkzLU9DaWZsTHRqb19wX1cyMUVRTmJvdDN1TmRCX3hSMWRDQl91M0JSakdhZC1sNHZwSnNOT1NhUF96ZG9XMHJNalJMTzZ3UGR2dXlUM1lwMnVlMzBpSVZCM2UwWlc0YmVjMGJNTjNTS0lHUHBWdGg3Wm1qZ9IBgAFBVV95cUxQQkpWZUkzLU9DaWZsTHRqb19wX1cyMUVRTmJvdDN1TmRCX3hSMWRDQl91M0JSakdhZC1sNHZwSnNOT1NhUF96ZG9XMHJNalJMTzZ3UGR2dXlUM1lwMnVlMzBpSVZCM2UwWlc0YmVjMGJNTjNTS0lHUHBWdGg3Wm1qZw?oc=5",
       "source": "ｄメニューニュース",
       "published": "2026-11-03T00:00:00+00:00",
       "summary": "鎌倉駅前で秋の夜市 11月６日 若宮小路で開催〈鎌倉市〉 ｄメニューニュース",
@@ -607,18 +619,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "矢野顕子50周年コンサート開催！ スペシャルゲストに角野隼斗、 そして、パット・メセニーが出演！",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PSHJLcmxWd2wzbTRCUjRwV2Zjb0NZMVFLajc2Z2dacXBIS0dlQkpRVDFLWHAteVFFbTZWeGdFeEVCY3hoRnR5b3lwdjNKZUl4S0o2aE9SSi1lX1dwRUE?oc=5",
-      "source": "J-WAVE",
-      "published": "2026-11-02T06:02:04+00:00",
-      "summary": "矢野顕子50周年コンサート開催！ スペシャルゲストに角野隼斗、 そして、パット・メセニーが出演！ J-WAVE",
-      "id": "3ce1ed33c6d304d0",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "「デジタル化・AI導入補助金2026」交付申請最終締切日は2027年1月7日",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vUUhlcHF6bXF5Y1NJT19Ydkhqc25PdkZTTnl4UERrMXpzZ2pvWWRodDc0alBISTBObFh1VzdYOC1CZ3pzVFBFd3BpZWVLVHBEdVpVWnplQ2R3dw?oc=5",
       "source": "創業手帳株式会社",
@@ -763,18 +763,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【福利厚生】本年2度目！いーふらんBBQ大会を鎌倉で開催！二本同時のマグロ解体ショーなど独自の社内イベントを楽しむ｜おたからや鑑定士の愛用時計も大公開！",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oUDZWN1VXVGxBZHpBU2FRNEZfMTVRMjZVUG5mSE9nUEVKMFpYSDY1VTV3NTlsdjRETnRjT3g5ZS1nSXNrVDhoU182NkxXMlNhYWM2UVM5cVNjems2YmxPMFFGQjQwZmduMGc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-02T00:10:02+00:00",
-      "summary": "【福利厚生】本年2度目！いーふらんBBQ大会を鎌倉で開催！二本同時のマグロ解体ショーなど独自の社内イベントを楽しむ｜おたからや鑑定士の愛用時計も大公開！ PR TIMES",
-      "id": "8ef45268f121b377",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "第10回全国スポーツ大会（2026年）を楽しみにしています。武道家ディウ・リーの輝かしい活躍を期待しています。",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGpWUEw1Ymt3MTdLQW5fNjZkc0NaVi1oTzItemFwbTVtb0pFS2R1cmk0SkhNczBreG9HYWJjTTNtbkRmUzFnYTB6VUVPQ09LNWJib25TMjFvM2RZc3c2NVdvdVFFRjdOZEQ1YTdXYXhMelpNZWJzQWxheDNiSFNTM2pXd1hydFhTREh2TDczUHlFWk5xZFNYelVQemdNZ2lWeFBtU2NCZw?oc=5",
       "source": "Vietnam.vn",
@@ -883,6 +871,30 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "スーパーマーケットバロー本羽田店 2026年11月6日(金)開業！どのような施設に？最新情報も！",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjZDZPQlNfRVExa3RGSk8xeGZZTDUzdUZLWDEzNWpuTlU2WkJQbHRabkV3aEZzaFkzUEw5RG1EcW9qdk92WVJzWU1fbmc1bHM?oc=5",
+      "source": "出店ウォッチ",
+      "published": "2026-10-31T15:10:04+00:00",
+      "summary": "スーパーマーケットバロー本羽田店 2026年11月6日(金)開業！どのような施設に？最新情報も！ 出店ウォッチ",
+      "id": "ec80027e91beea44",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "藤井風チケット倍率・当落2026｜ワールドツアー追加受付・ピアノリサイタルのリセール情報",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PenpHU292aURxX3psR29DMGRfVUg1X3JUY19iZWlRZ2Q1VFhDcFhLaTBKdDQ0bndyRkVaRDNDdXBBa2VtLVd3X0EtV29jaU0?oc=5",
+      "source": "LIGNEA",
+      "published": "2026-10-31T10:59:18+00:00",
+      "summary": "藤井風チケット倍率・当落2026｜ワールドツアー追加受付・ピアノリサイタルのリセール情報 LIGNEA",
+      "id": "937339bcb3f62be2",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "HANAがついにアリーナツアー開催、全国15カ所巡る",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80UzRMSHpURWVUcjRfRWRPQWlfZ2RUQjNDSUxYQ3o4S0lFWmN5Qk5haEt1STJFOWdEeFlSRkQyS3VUaXgzX1IzdWhhOVk?oc=5",
       "source": "ナタリー",
@@ -943,18 +955,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【速報】「東京・春・音楽祭2027」ラインナップ発表！",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqYzRuV25SQUhsZVluWEJDcDNwT3ZFdGVzMHFvY256dmVOMFllM0twaDJFVjFKT3RwOG9MUDduLVFKN05tdWk4ejJGcjVCOWw1Z3ZJYmR3aDg2VVU?oc=5",
-      "source": "東京・春・音楽祭",
-      "published": "2026-10-29T08:01:55+00:00",
-      "summary": "【速報】「東京・春・音楽祭2027」ラインナップ発表！ 東京・春・音楽祭",
-      "id": "fe546a49f3d2c30b",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "なにわ男子、初のドーム年越しライブ決定 京セラドーム大阪＆東京ドームで追加公演開催（モデルプレス）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MWkd3TEhOX0xqRzBmRzhpUHAtQ2xlRWRaNkJmWmJhYlMwWk9RYW00SFFnempabnFIV1RnUEd2eEZsR2lqOVctS1VGd0xEYk5LaWtaVjltX0IycWMyUzlMQi1YdHUwd0xMRm5VdUNEZVUtSExzSWlIZm5ERXFRcmc?oc=5",
       "source": "Yahoo!ニュース",
@@ -985,6 +985,18 @@
       "published": "2026-10-29T03:34:41+00:00",
       "summary": "待望のアリーナ来日公演が決定！最新ツアー「THE WILDWORLD TOUR」来日公演が2027年1月27日に横浜アリーナにて開催 UNIVERSAL MUSIC JAPAN",
       "id": "b45ae0eac592c226",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "KATSEYE、横浜アリーナで来日公演決定（音楽ナタリー）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScVpoS0liTjB2VlE1eVRLLTdmRERSQ2pRdTZ1eXVCQThoUEc5TVQ3MDJuclhtUEltbU5ZLUQ1Tk1CWENkNGRfVHdiOFE5S0RJNHM2ZlFBMWJLYV9BQVpQcXBYLXhFaElwLWtFc0RjdTc3elJrc0g0YlhvdVJoTEU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-10-29T03:00:31+00:00",
+      "summary": "KATSEYE、横浜アリーナで来日公演決定（音楽ナタリー） Yahoo!ニュース",
+      "id": "425a558cbca93742",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -1039,5 +1051,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 81
+  "count": 82
 }
