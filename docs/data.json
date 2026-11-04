@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-03T23:37:11.643476+00:00",
+  "generated_at": "2026-11-04T00:49:24.263967+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -20,7 +20,7 @@
       "name": "ライブ・コンサート全般",
       "category": "音楽",
       "emoji": "🎤",
-      "count": 11
+      "count": 12
     },
     {
       "name": "道場物件（品川・大田）",
@@ -32,7 +32,7 @@
       "name": "道場物件（鎌倉・湘南）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 3
+      "count": 2
     },
     {
       "name": "地域ニュース 品川",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 6
+      "count": 9
     },
     {
       "name": "経済・ビジネス",
@@ -70,7 +70,7 @@
       "title": "藤沢駅南口でイルミネーション点灯式 レディオ湘南が公開生放送も",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBleGNNdVAwbjk3TmZuUG5vMklnTGNuZ1JIN0ZleUc1N1hHNVBGV1V3VlkxblBLU21pOE9iTFU3djRaWWJ5Y0xBQzAwbVpvaU56cFE?oc=5",
       "source": "湘南経済新聞",
-      "published": "2026-11-03T23:34:41+00:00",
+      "published": "2026-11-03T23:37:26+00:00",
       "summary": "藤沢駅南口でイルミネーション点灯式 レディオ湘南が公開生放送も 湘南経済新聞",
       "id": "08fcb77fdcb3d508",
       "category": "不動産",
@@ -136,6 +136,18 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「フックではもう物足りない」 Claude Codeの動作を自分で変える「mod」でどこまでできる？：機能追加を待たなくていい",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBURG9NeldlaHliRmJQcTlZbXg5dkJqWGlxdjQ1Y0xUSlJhSUdqYjBESmVxREpoeWxuU3V1dmpZSFd5alM1STM5UzRhdmZiWXJPUnFabkNBM0puZGN4SFNfMHNlanFLcEtadmRaWUR6SzFHUQ?oc=5",
+      "source": "ITmedia",
+      "published": "2026-11-03T22:45:00+00:00",
+      "summary": "「フックではもう物足りない」 Claude Codeの動作を自分で変える「mod」でどこまでできる？：機能追加を待たなくていい ITmedia",
+      "id": "e575f6fd144e5cdd",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -295,18 +307,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "字節跳動、ClaudeとCodexのアクセスを禁止 L4級コードリポジトリとFeishu文書を立入禁止に",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iVUJtWGo0MU11MzZ4bWkwdVpRTTk5cVRMRUd3WldUSWxRdk5hN3Jsd1VvcnV0cVdCQXhzdUVhYlFKa1JaTXp4TXV5YXhub29yTTdraGs5ek1nTkp6MkpPRDFjUGFCbzlEa0toOXBWc3RzanBu?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-03T13:25:00+00:00",
-      "summary": "字節跳動、ClaudeとCodexのアクセスを禁止 L4級コードリポジトリとFeishu文書を立入禁止に BigGo ファイナンス",
-      "id": "12e9609218f63f19",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "国際ロータリー第２７８０地区　鎌倉で地区大会 友情の輪拡大〈鎌倉市〉",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHhtQ2ZlTVhlMmNOdVQzRG92WExVcTZIWDFEemVLN2lCd05rX1Vxc01CWk9SZ3lJbWVoRE9DcVRuWnVrcHlNQ3p3MzkxVlZFMDRkQkpyeFctb2ExbTM3bW9VbjVvOWwzUU8taGZhZkJWWEp6OWtqMmZhemNaVlk4TGxKamg4MXZVYW1GNzFB0gGAAUFVX3lxTE14d09GN1pnbkd0dFNpOXRTbmtlaFplREhGVnd0c2xpMGxaQ21BYmc3VWVUWU5RT2c3SFN6OUJaWVlWQXJwY3hGdE5OZ2NJYUMzdGtobGdWeUw1LXBPcHBtd2U0Q2t0cG5OMHJBS2ZXQWJ0NDU5eC0tUlRuaEVvRGth?oc=5",
       "source": "ｄメニューニュース",
@@ -328,6 +328,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "代表商品「クルミッ子」で知られる「鎌倉紅谷」も東海地区初出店",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55UTJlbmNmN3FMMVdEdkg2M3ZSa19mLTBxY0JFTHdYUlpyU0lQZTVmMjljV2t1dnpVT1ZfQ2p2WjVNMnoxUk1zN09rbXFZdlVUNDZ3cQ?oc=5",
+      "source": "名駅経済新聞",
+      "published": "2026-11-03T11:02:01+00:00",
+      "summary": "代表商品「クルミッ子」で知られる「鎌倉紅谷」も東海地区初出店 名駅経済新聞",
+      "id": "8cca73a2103f2d0c",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -463,18 +475,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉駅前で秋の夜市　11月６日　若宮小路で開催〈鎌倉市〉",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQkpWZUkzLU9DaWZsTHRqb19wX1cyMUVRTmJvdDN1TmRCX3hSMWRDQl91M0JSakdhZC1sNHZwSnNOT1NhUF96ZG9XMHJNalJMTzZ3UGR2dXlUM1lwMnVlMzBpSVZCM2UwWlc0YmVjMGJNTjNTS0lHUHBWdGg3Wm1qZ9IBgAFBVV95cUxQQkpWZUkzLU9DaWZsTHRqb19wX1cyMUVRTmJvdDN1TmRCX3hSMWRDQl91M0JSakdhZC1sNHZwSnNOT1NhUF96ZG9XMHJNalJMTzZ3UGR2dXlUM1lwMnVlMzBpSVZCM2UwWlc0YmVjMGJNTjNTS0lHUHBWdGg3Wm1qZw?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": "鎌倉駅前で秋の夜市 11月６日 若宮小路で開催〈鎌倉市〉 ｄメニューニュース",
-      "id": "6699a74d29ee24a0",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "VA『九段下フォーク・フェスティバル’25』桑田佳祐があいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉とフォークソングへの愛と敬意を歌う",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WRGoybVVvdjFKVGthRkJHNDdYRV9NZ3pJcDZKd1g5MXZFamFMcjJKS295Q2xDc0lFOFlkSlc3V3ZOZ3NULWk1UTV5Tk1GYVIyTFE?oc=5",
       "source": "Mikiki by TOWER RECORDS",
@@ -520,18 +520,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "東ジャワ初の「武道祭2026」スラバヤで開催 ７つの武道が一堂に",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2cFpGcXIxdDZieHNUVmhfMExQYlIta0VWd3R5bkJLYWVtV3FTNHJzSHRSYkQwZm11cHpVQjJ6ZUh6bGt2WG5QZmsydnB4T0V2YmJXeXFrYy1EdkJVaFFyZ05fbw?oc=5",
-      "source": "じゃかるた新聞",
-      "published": "2026-11-02T19:30:35+00:00",
-      "summary": "東ジャワ初の「武道祭2026」スラバヤで開催 ７つの武道が一堂に じゃかるた新聞",
-      "id": "0affc5713697b186",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -589,18 +577,6 @@
       "published": "2026-11-02T09:33:33+00:00",
       "summary": "鎌倉市 公共ライドシェア実証運行見送り バス路線維持に注力（tvkニュース（テレビ神奈川）） Yahoo!ニュース",
       "id": "1d9d8a23907a907f",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "鎌倉市 公共ライドシェア実証運行見送り バス路線維持に注力",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xbDFIV21xTmxPcV83c0JxcXctTVNEVlYzOFpINmRlTUZMX21lRXZkODJoZGU5RzVrS1VNUnp1MHhJVUVtNFdfdWRxZUl0WndIVU80eUM3dzdtSWF0aEc5ZTdFY1ExMHkzZGRlNExn?oc=5",
-      "source": "au Webポータル",
-      "published": "2026-11-02T09:31:00+00:00",
-      "summary": "鎌倉市 公共ライドシェア実証運行見送り バス路線維持に注力 au Webポータル",
-      "id": "cd1f444f57c17f18",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -699,6 +675,18 @@
       "id": "39000be5884c215d",
       "category": "地域",
       "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "神奈川・鎌倉市長、職員に録音推奨 市議のハラスメント対策で（毎日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTWhmNW91cFlSejVkQUU5ei1RanRqNGVONzhMYjVOdVcycUF5VGYzWkRWNE1Yc2ZvRy1qc1pscXpUempsTWJMd01Mb1l2N3VLSkkyMzdTbWdKT1VldXVlWk1naHN2dVN2VENFdmZyTmgwYlFRbzdaSWhyWnhKd0E?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-02T05:36:39+00:00",
+      "summary": "神奈川・鎌倉市長、職員に録音推奨 市議のハラスメント対策で（毎日新聞） Yahoo!ニュース",
+      "id": "d156db9da48a42cd",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
@@ -895,12 +883,48 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "調布・京王アリーナで調布合気道会演武大会 設立50周年記念し（みんなの経済新聞ネットワーク）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZVmVjUEJoVVp3UDdxTXAybU13ZnV5TEpJeUVaU3gtNlBIMU5tMUJWLVlyNlRvT3djLVBYd09jYUJNWUVMMFFDcDV0djhBY3FQVHhwZXdMSkUzVzczblhaMkVCR2N4WXNuTFBWdE0tVzNsajJCNG1RdmUyRzIwdlU?oc=5",
+      "title": "HANAがついにアリーナツアー開催、全国15カ所巡る",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80UzRMSHpURWVUcjRfRWRPQWlfZ2RUQjNDSUxYQ3o4S0lFWmN5Qk5haEt1STJFOWdEeFlSRkQyS3VUaXgzX1IzdWhhOVk?oc=5",
+      "source": "ナタリー",
+      "published": "2026-10-31T10:58:00+00:00",
+      "summary": "HANAがついにアリーナツアー開催、全国15カ所巡る ナタリー",
+      "id": "f80c4e83b3562f49",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "怒鳴りキレる夫に実父が合気道で一本! 証拠動画の矛盾が決定的に露呈【瞬間湯沸かし器夫 Vol.69】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10VVItd2xoNFZmc0x6Y2lTeTd6WWZHWVdNZVcwMWI5SVBCM2dWZjl1VVVoaUJnUUVnMU9GRm9ZeDh5SEI2ckdnZEQ0QmhSQWxaZnFKZkVXMEZrZw?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-10-30T08:00:00+00:00",
+      "summary": "怒鳴りキレる夫に実父が合気道で一本! 証拠動画の矛盾が決定的に露呈【瞬間湯沸かし器夫 Vol.69】 オリコンニュース",
+      "id": "c60d96431100c88c",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "調布・京王アリーナで調布合気道会演武大会 設立50周年記念し (みんなの経済新聞ネットワーク)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRnlhWXNKVm1DMlBHdVBmTVNvX3hia08xRTBzZGtYT0VCeWUzV2FpT3haY1pxM041T3BYdDBrN3IwWnlTYnBPeV9uX1B0M0N3eER2LVVkblo4SlpBSUdTcGdvMUhIbDlYMW1WWmJsTkcyMWpLRTdSVFdXcFNqTWdJbGpYMTRycERlYk10NjBB?oc=5",
       "source": "Yahoo!ニュース",
-      "published": "2026-10-30T00:10:00+00:00",
-      "summary": "調布・京王アリーナで調布合気道会演武大会 設立50周年記念し（みんなの経済新聞ネットワーク） Yahoo!ニュース",
+      "published": "2026-10-30T00:10:42+00:00",
+      "summary": "調布・京王アリーナで調布合気道会演武大会 設立50周年記念し (みんなの経済新聞ネットワーク) Yahoo!ニュース",
       "id": "fb6e400a7d2bbeb0",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "調布・京王アリーナで調布合気道会演武大会 設立50周年記念し",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wU3R5ZnRnNmQ3NVZqRVZNOW1YN3RIaDgzaVh0cXdzbmtDamd5Sm5xdl84XzE5SUNrcTVlTXBOaTFJNjB6ektCX1lnVnVFTmox?oc=5",
+      "source": "調布経済新聞",
+      "published": "2026-10-29T08:22:35+00:00",
+      "summary": "調布・京王アリーナで調布合気道会演武大会 設立50周年記念し 調布経済新聞",
+      "id": "357f8c3e6801ea69",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
@@ -919,27 +943,27 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "リヤドのアジア屋内武道大会は2027年3月に延期",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xcHplbXV2V1MxVFlOMUhRdlZ1dWlZaFlIemlRWTc5b21LbjNFX083eG1jZTNZMThIQXhYV3p3RVVZaXM0aEHSAUJBVV95cUxPelRSV1U2UkEtclZWNVFqWlpLb1JKaWxNbGlBZW9vSmRrWVA4angzUzQzQUpkckEzck4yN3A2SVowX1E?oc=5",
-      "source": "VOI.ID",
-      "published": "2026-10-28T05:26:15+00:00",
-      "summary": "リヤドのアジア屋内武道大会は2027年3月に延期 VOI.ID",
-      "id": "c0b16b7724555d78",
+      "title": "「調布合気道会」3代目会長西村美佐子さん（左）と事務局長の磯野賀瑞夫さん（右）",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TOWMyV3ctTUhiaTJJZnI1LWtwMVB0TTNLZUl1RU9pUU80RkppTWl5MHlvVEtQWHJuekZzZTdIUVNLektDdkVDYzgzSExhSXItd3Ew?oc=5",
+      "source": "調布経済新聞",
+      "published": "2026-10-29T01:23:42+00:00",
+      "summary": "「調布合気道会」3代目会長西村美佐子さん（左）と事務局長の磯野賀瑞夫さん（右） 調布経済新聞",
+      "id": "36145eec6779aa21",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【藤沢 体験スポットレポ】男性も通えるマシンピラティス！藤沢駅徒歩5分「STUDIO IVY」で初心者がパーソナルレッスンを体験",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vMlNhVVpHeUhXbkhxQzN4eDVubkIwWGVDeFJWQWYycHFzbHZMWVVxeW9pMVZSTzBWaGJjYS1fdDVRRzlIWG1IUEFwR1JMOExSc2Z3RzBxQ0o?oc=5",
-      "source": "湘南人",
-      "published": "2026-10-28T04:18:03+00:00",
-      "summary": "【藤沢 体験スポットレポ】男性も通えるマシンピラティス！藤沢駅徒歩5分「STUDIO IVY」で初心者がパーソナルレッスンを体験 湘南人",
-      "id": "45ff756bd67b6be6",
-      "category": "不動産",
-      "topic": "道場物件（鎌倉・湘南）",
-      "emoji": "🏠",
+      "title": "「調布合気道会」大人クラスの練習風景",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KY3JzNW9MS2ZNcnRuTEgwUGtzel9JLUtvTnNaQXVKUEZhamZkQ0lyWHIzeWRRd29qdGs5N3Ria3NvTHNzMXR3LUZQT2hVTVhDSTJV?oc=5",
+      "source": "調布経済新聞",
+      "published": "2026-10-29T01:13:03+00:00",
+      "summary": "「調布合気道会」大人クラスの練習風景 調布経済新聞",
+      "id": "d827a08ef921e619",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -952,6 +976,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "合気道の技術磨く｜スポーツ｜石川のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEQ0t6amJrdWNaN3d2d1gyLVhacFNRMFkyY1NFWG1mcTZibkQ3aTVUNldPXzJ0NDRwcDNBXzROcmRtd2lieDFoSDl3WEtEQWxnalRHOHR1NA?oc=5",
+      "source": "北國新聞",
+      "published": "2026-10-25T07:00:00+00:00",
+      "summary": "合気道の技術磨く｜スポーツ｜石川のニュース 北國新聞",
+      "id": "e20dcc80fb55f32f",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -981,9 +1017,9 @@
     {
       "title": "エシカル消費イベント in しながわ「shinagawa ETHICAL 2026」（令和8年11月1日開催）",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BN2pWN3pFeVZ0ZVYxTkk3VS1Ja2VoSEkxcER1eHgtbDVEMkdHOW5lNnZRb3FlNUNUT25fQ01TdFl1dFN3YXQ4NHpRS3VETkxXZHFmdEJZUGdrVnBoQTgzYkRZVHpUdTFGZjRBOXFKYnk5T0VBSldyUzl3?oc=5",
-      "source": "city.shinagawa.tokyo.jp",
+      "source": "www.city.shinagawa.tokyo.jp",
       "published": "2026-10-22T07:00:00+00:00",
-      "summary": "エシカル消費イベント in しながわ「shinagawa ETHICAL 2026」（令和8年11月1日開催） city.shinagawa.tokyo.jp",
+      "summary": "エシカル消費イベント in しながわ「shinagawa ETHICAL 2026」（令和8年11月1日開催） www.city.shinagawa.tokyo.jp",
       "id": "20c0418fc342b2d1",
       "category": "地域",
       "topic": "地域ニュース 品川",
@@ -1015,5 +1051,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 79
+  "count": 82
 }
