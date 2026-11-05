@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-05T04:18:34.830474+00:00",
+  "generated_at": "2026-11-05T05:55:47.104683+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -20,7 +20,7 @@
       "name": "ライブ・コンサート全般",
       "category": "音楽",
       "emoji": "🎤",
-      "count": 8
+      "count": 9
     },
     {
       "name": "道場物件（品川・大田）",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 12
+      "count": 11
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,12 +67,48 @@
   ],
   "items": [
     {
+      "title": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15UG5HcjFGd05uV1o1TDV0SGc1SU9DQ09uTzV4Sld3b2JtOTdOckh6OFJ6aUF2ZXdQTFprdF9HbUhSakVJYWJ6aFNrdkdlM2haSXg0bnJxcERoVm9VUmowblZn?oc=5",
+      "source": "GIGAZINE",
+      "published": "2026-11-05T04:48:00+00:00",
+      "summary": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能 GIGAZINE",
+      "id": "442d5d76222940c7",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "DomoAI、CodexやClaude CodeからAI動画を生成できる『DomoAI MCP & CLI』を提供開始！",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sZ2RsZTFhM19IeWYyNlY3bTNqTkVxTG5pdTk3TG1RUnVQWG9lYklQWDQ5aXZYVnl4OE9FeUp6b19Lc2pDYjdKTU53aWoxUUJCNXVrM09RRG11NW96cC1hOEFJMkx3clN5bUE?oc=5",
       "source": "AppBank",
       "published": "2026-11-05T04:08:23+00:00",
       "summary": "DomoAI、CodexやClaude CodeからAI動画を生成できる『DomoAI MCP & CLI』を提供開始！ AppBank",
       "id": "cfb46dfa9441471b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "アユダンテ、広告計測基盤「MATSUBA」にChatGPT・Claude等対応のMCP機能を追加",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EN3lmRE16NmcxUzQ0ekJvaERaNjlsRm0wYmloa0RIbERfNnRYQ2tyRHVXMG5DM1NEOG5JWE9feDlHM1l2X2x4R1M0QlQ1WDk5TXVwcWdZcGNuT2dubFRoUTNwODdLYWoyNzJabE9KdzRMM2c?oc=5",
+      "source": "Excite エキサイト",
+      "published": "2026-11-05T03:45:00+00:00",
+      "summary": "アユダンテ、広告計測基盤「MATSUBA」にChatGPT・Claude等対応のMCP機能を追加 Excite エキサイト",
+      "id": "5e4b54127bef65e1",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、AI研究開発の一部判断に人間の審査・承認を検討―IPO修正書類で開示",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWOTF5Q25DbTBQSDFrZFhSZW5LV3J2b1lXS1poQkwxWk4zaFVLaWhkcG9BVWpfclVFb0ctb3R6RjBsZkpfY2NkcWE0OC1GUUNaQW9qWllDYXRoRUN3WVd4cU5tVdIBaEFVX3lxTE5LOGNEdVQ5QlVESGdMOTJsdjlwcWlfYjNVZXR0RzlDZm5sWGlEel9rYnpsQ2NNWndtbmFrWUhQTkEyLXV4U3R6SlNYUnJybFA3TGNGNzcyRzduUjJXWGhHaUZOY1Q5TTly?oc=5",
+      "source": "財経新聞",
+      "published": "2026-11-05T03:36:50+00:00",
+      "summary": "Anthropic、AI研究開発の一部判断に人間の審査・承認を検討―IPO修正書類で開示 財経新聞",
+      "id": "62a7dfaa1e0ab980",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -121,18 +157,6 @@
       "published": "2026-11-05T02:00:02+00:00",
       "summary": "スレッドワーク、ChatGPT・ClaudeからChatworkの会話を検索・要約できる「AI連携（MCP）」を提供開始 PR TIMES",
       "id": "9566c315fe9e7ae0",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "アユダンテ、広告計測基盤「MATSUBA」にChatGPT・Claude等対応のMCP機能を追加",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FS2dEVGlTR04zR3N4UmdTMWk5Ri1JNW9saDYyYU9XUXBFN005dEhNb0N2VlpKZWZzOHM3T0czYUhXMEF4SWJnN2M2dGNWeVpoN0stR3h0ekZGU2R2X3NYcGlzb2xkc2s3aGc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-05T02:00:02+00:00",
-      "summary": "アユダンテ、広告計測基盤「MATSUBA」にChatGPT・Claude等対応のMCP機能を追加 PR TIMES",
-      "id": "5e4b54127bef65e1",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -220,30 +244,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "PowerPointアプリ内で、スライド生成が可能に。AIアドインをリリース予定",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NcWxwTU9aeHp0RXd5RDlDQUp2bm1KY2ZoZmpWUHFDSHN5RXljeUYzd0JfeTM2bXJEcE5nR3V4eFN5VmpUeU5fV3RMNE5QMkFCaERQMk80dWtDR2N4SzA1U3N1d2NLN0pFSkE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-05T01:00:03+00:00",
-      "summary": "PowerPointアプリ内で、スライド生成が可能に。AIアドインをリリース予定 PR TIMES",
-      "id": "6b5953b1d27ffccf",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "プレスリリース：生成AIで業務効率化しても「仕事のやりがい」が高まった人は半数未満（共同通信PRワイヤー）",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OWUZXcEhjZFdSUjlycWc1cldNRnNzczYta2ZNMVpYT1FaU3lSVmVmQ3dNNVJRd0FMaUF4QkNvdE9CNVBZel8tMFhRdTNBQXJwQzY3UHdWczVzNndiQlhLY2JzaG44QzY3?oc=5",
-      "source": "毎日新聞",
-      "published": "2026-11-05T01:00:00+00:00",
-      "summary": "プレスリリース：生成AIで業務効率化しても「仕事のやりがい」が高まった人は半数未満（共同通信PRワイヤー） 毎日新聞",
-      "id": "c40976ec627b1cf7",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -376,18 +376,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【速報】「1階の厨房から火が」東京・品川区の戸越銀座商店街の飲食店で火事（テレビ朝日系（ANN））",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TM2xXeVNuYlBfajFDbVFESldGeWMxNGVBeVZxRkRWSzI4TVMxYU1xa1Y4WGZPa1lIMDNmaEFCbURybS1XOVNObFRMQjNDZzRKY1VvLUQzLTlHU2ZNdXBWc3ItdDRJOWU1UVktRWpQSF9XbTRnbzduZmR3aXYtSVE?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-04T08:04:50+00:00",
-      "summary": "【速報】「1階の厨房から火が」東京・品川区の戸越銀座商店街の飲食店で火事（テレビ朝日系（ANN）） Yahoo!ニュース",
-      "id": "cd21a93b6afb2d72",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -808,6 +796,18 @@
       "category": "不動産",
       "topic": "道場物件（品川・大田）",
       "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "矢野顕子50周年コンサート開催！ スペシャルゲストに角野隼斗、 そして、パット・メセニーが出演！",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PSHJLcmxWd2wzbTRCUjRwV2Zjb0NZMVFLajc2Z2dacXBIS0dlQkpRVDFLWHAteVFFbTZWeGdFeEVCY3hoRnR5b3lwdjNKZUl4S0o2aE9SSi1lX1dwRUE?oc=5",
+      "source": "J-WAVE",
+      "published": "2026-11-02T06:02:04+00:00",
+      "summary": "矢野顕子50周年コンサート開催！ スペシャルゲストに角野隼斗、 そして、パット・メセニーが出演！ J-WAVE",
+      "id": "3ce1ed33c6d304d0",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
