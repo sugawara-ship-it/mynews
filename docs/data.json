@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-05T22:21:59.658303+00:00",
+  "generated_at": "2026-11-05T23:22:24.198225+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 9
+      "count": 8
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 6
+      "count": 5
     },
     {
       "name": "経済・ビジネス",
@@ -67,6 +67,30 @@
   ],
   "items": [
     {
+      "title": "V-Ray 7 Update 5 がリリース！AI Assistant、ClaudeなどのAIエージェントとつなぐMCPサーバー、Cylinder Lightなど",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QZ3JZZWQzVzhvRTFvNkRicHpOclRLQjJmN05uWGM2THRscEI5MjVqcWhvNkVESVV0UDNjNTlzbUE0ZnFKTkpoZHFEVnoya053Y29VdEtWbEhma1pZMEVoRQ?oc=5",
+      "source": "CGinterest",
+      "published": "2026-11-05T23:18:00+00:00",
+      "summary": "V-Ray 7 Update 5 がリリース！AI Assistant、ClaudeなどのAIエージェントとつなぐMCPサーバー、Cylinder Lightなど CGinterest",
+      "id": "153d35ea0ec98139",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude、マネフォのような新機能--銀行口座やクレカと繋がり家計分析 米国でベータ提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BQmNfbXlsVHNVWGVNNWl3Rm9md0owRkFBR2xCSXhQMU9YemttMmhxc3lhZ2k1OGRkSExEaWRiSm94VjlSdDMwRzJWUlZ1MFpkb0E?oc=5",
+      "source": "CNET Japan",
+      "published": "2026-11-05T22:48:00+00:00",
+      "summary": "Claude、マネフォのような新機能--銀行口座やクレカと繋がり家計分析 米国でベータ提供開始 CNET Japan",
+      "id": "6c1a93ba02df5035",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "米Anthropic社の医薬品研究開発責任者が語るM＆Aとパイプライン",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LdWttNmVqb2RaVXRWOTNLdUJCSXkxUUFvOGNwOG5pTFcteGZVZTdhMzdQY3B2Snh6a3NTR2F0ZlJJWHp4Sk1nN2liR0t6TjBMYXJnbzcyOEx6NFA5YkNLeWthRUxMNkhubzM3RW5QUQ?oc=5",
       "source": "日経バイオテクONLINE",
@@ -76,6 +100,18 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【ウェビナー】12月1日（火）15:00～「長期金利の見通しと財政、政治」",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03ZW5WNVNKNFU2emhUaVIxSFNUNGxlN3Q4UDBNV01RRHBzR2pfU3Z2TGllTXlOZ1dPSlhubUlvTFVlVW1OQk1GSURYRHJoOUVnczYzT1lRWVpuYVc1czlwamxXOWpTMkZR?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-05T21:51:32+00:00",
+      "summary": "【ウェビナー】12月1日（火）15:00～「長期金利の見通しと財政、政治」 ニコニコニュース",
+      "id": "7c8306d7b6ea7c40",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -112,18 +148,6 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Ｎｅｗｓモーニングサテライト(テレ東、2026/11/13 05:45 OA)の番組情報ページ",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaE1pY2FWbXVidElCRExtc2hTN0VDLWFzdVdwODZGbDNoWUszME40M3BIYUZ2SVBIYmFPSHVfX0lSVVZLZEhmV1gwSndWV3lRV1dhcE0xa1hvVkVUQm9INUp3OFMzdlJFVE5adWVLX0V5THR6UnBEVlQ3VzJvbWNCYmUtQ2tNTnhBVGlVM0g0RQ?oc=5",
-      "source": "tv-tokyo.co.jp",
-      "published": "2026-11-05T20:12:14+00:00",
-      "summary": "Ｎｅｗｓモーニングサテライト(テレ東、2026/11/13 05:45 OA)の番組情報ページ tv-tokyo.co.jp",
-      "id": "d5fe47e277804f6f",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -223,30 +247,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Googleの信用補完、条件付きでTeraWulfのAnthropicプロジェクトを支援",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVzZxa1NVamVaRVlyMTlsLU5pdE9YV1pjSnd4N2t6VTlsSHdGWjRnT1ptWEEtX2MtNlBtb2Y5bW9uNjJfbjdyUTBGX2JDYjAwT2FaR1duNENwLVJsVHd2RUVKQ3hoWWRTN1c4ZXFZZWl3YXhRRFFUV05uWTFoUWp6MG5jWF9ocE5fSDRCaGFiXzkxcHJVLUVWWVhSTkEzek01aG1BNFpNU3pwU1k?oc=5",
-      "source": "remio",
-      "published": "2026-11-05T16:29:38+00:00",
-      "summary": "Googleの信用補完、条件付きでTeraWulfのAnthropicプロジェクトを支援 remio",
-      "id": "363c87e415d3741a",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ウォール街急落の背景：AI株売りがAnthropicの超大型IPOを脅かす",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQVDZmMVhaSmpsc1NVQ0Z5NFlFeEdMTlRuWjI5c1d5ZDYzTEEzN1FVWjY3bldkTGdPRnF2bUh6dHNNYzJYelMwRUFCTTFFQ0JfYTRyVXl1NDJsQ2NnaEpEdWlGUlpLaUZUeEE4UWxSaW8?oc=5",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "published": "2026-11-05T16:28:00+00:00",
-      "summary": "ウォール街急落の背景：AI株売りがAnthropicの超大型IPOを脅かす Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "id": "222aa2b45c5f15a4",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鶴岡八幡宮に新杉戸絵 桜・蓮・牡丹の３部作",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hY2R4SWpSMXpRRThzOF85YXdybWVyXzN3WU80T0Q3SjNfTXB6YXFxRmFZdUJqS09UZjh4UURvcEpYT2duTXFGVU9wV3kwcnd0dFRuQktGWXRPLVloVkM2WGJ6c0M?oc=5",
       "source": "タウンニュース",
@@ -328,6 +328,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "日本中小企業経営者協会、助成金や補助金の活用セミナーを甲府で11月24日開催へ",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5UVjh4WF9aTzE5RHFianJ3MXBTT1JycENpV3U3bmRzRHFaTkNPd1BKTGdvSUdMbEVGdndDTHp2cGR4ZHhKbi1z?oc=5",
+      "source": "Dellows News",
+      "published": "2026-11-05T13:22:30+00:00",
+      "summary": "日本中小企業経営者協会、助成金や補助金の活用セミナーを甲府で11月24日開催へ Dellows News",
+      "id": "771cf09ad4065fbd",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -679,18 +691,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「中小企業省力化投資補助金（一般型）」第9回公募、11月4日公募開始！12月上旬から申請受付予定",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UaXh5bnB0V1FuT1JkVTk3OGNmdGVWRmhTU3lMcXRzSDhyU1hYcXo4WnVmVmU0Tmsxb0tIZm9yUUM4WFBQY1ZuR1UtRkFEZy1pQ0FVanEyb1ZWZw?oc=5",
-      "source": "創業手帳株式会社",
-      "published": "2026-11-04T03:06:28+00:00",
-      "summary": "「中小企業省力化投資補助金（一般型）」第9回公募、11月4日公募開始！12月上旬から申請受付予定 創業手帳株式会社",
-      "id": "a2d8c91758d2606d",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "画像・写真 | 米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福 5枚目",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQWRvTnI1U09HUm9HU1F3dk4zcFhHdU1Sem1iTjVBUFJudzEwTEVXOGVuU0dmZlE1RVFaZjBLd0tqb0VpSzVNYVR6VnFNcnJJZnZuMGxwSkd6QQ?oc=5",
       "source": "オリコンニュース",
@@ -871,18 +871,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ハイフォンで開催された全国大衆スポーツ大会には、約600人の選手が出場した。",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSGlZNmtLUEppOTBENFBNVlA2eXRVQU1na0pqODBxRjhobnlXNGFQSTBvaEpDV3ZBYmhJdEx1LTd6bml0VzRyaWpsQUpSSHNPcElWX3c4djJGXzA5UGZJQ09CaS05XzZuV1pRY0ZhUEtPc2NDUU5SY2pUeWVyeVdmZ1JZbXpxdm1ITlpRRHhHMF9DUldDSzRFRWUyNm9mN1V5bE9BX2x3U2NhTjQ?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-02T01:40:35+00:00",
-      "summary": "ハイフォンで開催された全国大衆スポーツ大会には、約600人の選手が出場した。 Vietnam.vn",
-      "id": "0b4c79ebd956da42",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "第10回全国スポーツ大会（2026年）を楽しみにしています。武道家ディウ・リーの輝かしい活躍を期待しています。",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGpWUEw1Ymt3MTdLQW5fNjZkc0NaVi1oTzItemFwbTVtb0pFS2R1cmk0SkhNczBreG9HYWJjTTNtbkRmUzFnYTB6VUVPQ09LNWJib25TMjFvM2RZc3c2NVdvdVFFRjdOZEQ1YTdXYXhMelpNZWJzQWxheDNiSFNTM2pXd1hydFhTREh2TDczUHlFWk5xZFNYelVQemdNZ2lWeFBtU2NCZw?oc=5",
       "source": "Vietnam.vn",
@@ -913,18 +901,6 @@
       "published": "2026-11-01T08:57:14+00:00",
       "summary": "「やさしい日本語講座」開催 www.city.shinagawa.tokyo.jp",
       "id": "f433139a8966a152",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "品川区障害者週間 記念のつどい｜品川区公式ウェブサイト",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NZTFydkliS25TMTl5TU9NQzJqdG1RRHh5MmtzeWhPQng0V0xfZ2ZYZXhpX295clJsLS00OEE2UDlYVlVqM05ZWWVsZWRiaVdyODFHZkxTTFpnbGtla3J1UC1zZDBRWmFNbllqVjJJWWtXS1YtYkVoMA?oc=5",
-      "source": "www.city.shinagawa.tokyo.jp",
-      "published": "2026-10-31T20:39:17+00:00",
-      "summary": "品川区障害者週間 記念のつどい｜品川区公式ウェブサイト www.city.shinagawa.tokyo.jp",
-      "id": "f7d7c31a16638533",
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
@@ -1027,5 +1003,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 80
+  "count": 78
 }
