@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-05T05:55:47.104683+00:00",
+  "generated_at": "2026-11-05T06:56:07.775530+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 11
+      "count": 10
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,12 +67,60 @@
   ],
   "items": [
     {
+      "title": "Bitget、AnthropicのIPO関連商品を追加し最低100ドルからの投資機会を提供",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1SQlk5QnBpRFJEODVWQ0NTWVRXb1NfZjBEMzBQMW9hTmktVVdXdEx2NjFfc3l5UUc1a2ZRZnNFOW1OUUE?oc=5",
+      "source": "nextmoney.jp",
+      "published": "2026-11-05T05:59:42+00:00",
+      "summary": "Bitget、AnthropicのIPO関連商品を追加し最低100ドルからの投資機会を提供 nextmoney.jp",
+      "id": "68594ab119955a32",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "東京都、観光地のAI導入に最大4,000万円を補助！追加募集を開始",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wdWIzc1JWUUZwNVNJbUdCci0tUzByXzA0TWJJbXg5eXVQOTVDZWxwWkptQ3FIZ0Y1S3hoc0VreUpzNG9YeGZXOFlDRVpaZkRmMy1Dd094NA?oc=5",
+      "source": "創業手帳株式会社",
+      "published": "2026-11-05T05:58:46+00:00",
+      "summary": "東京都、観光地のAI導入に最大4,000万円を補助！追加募集を開始 創業手帳株式会社",
+      "id": "4270d6535991b4cc",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIデータ社、生成AIの次は“価格・稼働最適化AI”— AI孔明 on IDXが切り拓くホテル経営の未来 ～観光・ホテル業界の“収益構造課題”を解決する“価格・稼働最適化AIモデル”をリリース～ | AIデータ株式会社のプレスリリース",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TTEpMVmduelVhRTdXNFFtczY0NFV1X2JJeXdkcjk3Z3lVV0hpcFR1UC1pck04UjhkYUxtcHZMeHBMUEk5YXlCMlhnUFRzNm5mNF9KaDhvR2VQTHBfTGZBNmRLcTVBWGpWQXc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-05T05:50:01+00:00",
+      "summary": "AIデータ社、生成AIの次は“価格・稼働最適化AI”— AI孔明 on IDXが切り拓くホテル経営の未来 ～観光・ホテル業界の“収益構造課題”を解決する“価格・稼働最適化AIモデル”をリリース～ | AIデータ株式会社のプレスリリース PR TIMES",
+      "id": "66310f6b694b7f88",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15UG5HcjFGd05uV1o1TDV0SGc1SU9DQ09uTzV4Sld3b2JtOTdOckh6OFJ6aUF2ZXdQTFprdF9HbUhSakVJYWJ6aFNrdkdlM2haSXg0bnJxcERoVm9VUmowblZn?oc=5",
       "source": "GIGAZINE",
       "published": "2026-11-05T04:48:00+00:00",
       "summary": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能 GIGAZINE",
       "id": "442d5d76222940c7",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能 (2026年11月5日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yZWpSRXhDT0paeHdrakVESzBYcGRpanlDMS1qb09rWi03bEUzWklaNzM4Vk56WFV3N0lld3BwMU9WeTRmTG96dTBBdm55aG5pdjVzbmMyR091S2pXUXc?oc=5",
+      "source": "ライブドアニュース",
+      "published": "2026-11-05T04:48:00+00:00",
+      "summary": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能 (2026年11月5日掲載) ライブドアニュース",
+      "id": "1ec102027fc91f4f",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -193,42 +241,6 @@
       "published": "2026-11-05T01:25:52+00:00",
       "summary": "DAIJOBU、議員秘書と政治を学ぶ学生向けにClaude Code勉強会を開催 ICT教育ニュース",
       "id": "7555afe1a24288ab",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicのAI「Claude」が生命科学の40年来の謎に挑む、96個のタンパク質が作る巨大構造を解明",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93VTlrUGYxRzNhWGVnY3M5X0R4dmhVZ3VVNVZBVlZJZlRHR0NndEFac0xwQUh6QkhTNk10emN2MzZLRktES0o3SlFTMFVTLW9xeWhHTkllLWFJcDdBYXM0NWZ1aTUxUlVGSWJVZ195R1dIQQ?oc=5",
-      "source": "XenoSpectrum",
-      "published": "2026-11-05T01:10:20+00:00",
-      "summary": "AnthropicのAI「Claude」が生命科学の40年来の謎に挑む、96個のタンパク質が作る巨大構造を解明 XenoSpectrum",
-      "id": "313ef1dc8f438491",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "大阪産業局・大阪府が主催する生成AIセミナーでAIリスキル代表の山原慎也が講師登壇｜満足度94.4%を達成",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlNEItSVlueTB6aEtOUVhiUE5seVlCOTJFVWw4NUY3c2Y0QkdhSTNnMTc3Y2RDZ21pcEdnbFNQZXlsU1VRMXV1aWV5VFkxVXA3azQ5ODNPMEF3T1ZJSXdjVkNVM2FBVFFvNFE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-05T01:10:01+00:00",
-      "summary": "大阪産業局・大阪府が主催する生成AIセミナーでAIリスキル代表の山原慎也が講師登壇｜満足度94.4%を達成 PR TIMES",
-      "id": "b9d700ace6760329",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Codeを装う悪意ある拡張機能がCursorで配布、SSHバックドア設置を試みる",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uV0Fnc0dWaE13SXRBSXE5ckdyUWNsNmVzUzFKNlQ0RUVmaTBjUU1acnhvdHlSRF9ReWlsMHJ3OHQ0NUZWa1ZxQzJibDFWNC1aZDhDV1dwU1EwTXc1bE9wV01ubFVOR3BF?oc=5",
-      "source": "マイナビニュース",
-      "published": "2026-11-05T01:05:42+00:00",
-      "summary": "Claude Codeを装う悪意ある拡張機能がCursorで配布、SSHバックドア設置を試みる マイナビニュース",
-      "id": "c66c53871a9c28ce",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -463,6 +475,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "関連動画 | 米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XQmRvN1BDb2NKeU5yZkV3OThOdjU4Qlc4MmJubGNOUi1SUFdBaFVTUjFaOVFyMjQzSW9mcWUwU2xFa3BDMjg3b2hhRFNrb2k4MjlMcEZrdlRWWEFpZVVmMkRRZ3ZreXBnYlE?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-11-04T03:34:04+00:00",
+      "summary": "関連動画 | 米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福 オリコンニュース",
+      "id": "062fc298468483fa",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "東急ジルベスターコンサート2026-2027",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FM2pmbW9oMGhYaFduQ3h3dGxKZ1NVSm03SURlb1QxYjVPX19pcTRJSHBBcWt1X1FvZDRhM3dHMjRvN3JiZXVKQzg1V1d3N0cza1BSOUJIMUpheE1GVGw5SmxoNkJVME1iaWVOTg?oc=5",
       "source": "Bunkamura",
@@ -667,30 +691,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「Lemon」MV 10億再生突破",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QcG01MVFCWGd1TDkyVWp4TnNFNHFISlRiWWU5R1dMa0JRa01tdTh5czk2Wk1UQ2R5YlNfdnNPejZMd3JPNkFTMS1POC1QRDJWYkcxRTZTbzhkenlZMjRNU1Y4Qk1zTFFvQlRaOFMzUDZMVk96SExwaURpLWlRUlk?oc=5",
-      "source": "米津玄師 official site「REISSUE RECORDS」",
-      "published": "2026-11-03T23:02:36+00:00",
-      "summary": "「Lemon」MV 10億再生突破 米津玄師 official site「REISSUE RECORDS」",
-      "id": "5ca16f958b4831ef",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "円安・株高・雇用増でもアベノミクスは「失敗」だった…経済学者が高市内閣の積極財政を危険視するワケ",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UUEk0S01ZOWhCdUV4VHNnTFRVOU9zckhHNFRZT3BWM04wMVc4eXRtcWcwcG5raVZRY01FcFhKN2ZJczl2MUl5ZkNRaTFKZVQ4M2VLWjh3?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-11-03T22:00:00+00:00",
-      "summary": "円安・株高・雇用増でもアベノミクスは「失敗」だった…経済学者が高市内閣の積極財政を危険視するワケ ダイヤモンド・オンライン",
-      "id": "0169c65c1986a4d7",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "長期金利3%、個人向け国債の販売好調 西日本シティ銀行は3年で17倍",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mVkdTeVJROFF6LV91ckhYQmkzU19sQU0wNGlSLS12ZE5qQ3VORENyczlsQktjaDM3N2F6Q0IzVTVid0J0aW00SnNNdS1TNUhFcWNxQl8xeVF2RTVIa240blIyVE4tajdrVlpYWA?oc=5",
       "source": "日本経済新聞",
@@ -808,18 +808,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "盆踊りとイルミネーション、未来の山車のコラボで賑わう 品川区制80周年「しながわ盆フェス2026」",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Qa2RYYUd1QXFBMWJJMWRya2xaZ0tCTXE3RUF1LW15bXV1UXhVTjZVdkhXRTZIU1N1R3VZcmV0X3VqTTRhdkgwZjFtNlY1dw?oc=5",
-      "source": "TOKYO HEADLINE",
-      "published": "2026-11-02T05:45:59+00:00",
-      "summary": "盆踊りとイルミネーション、未来の山車のコラボで賑わう 品川区制80周年「しながわ盆フェス2026」 TOKYO HEADLINE",
-      "id": "39000be5884c215d",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -1015,5 +1003,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 79
+  "count": 78
 }
