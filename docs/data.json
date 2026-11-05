@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-05T10:43:18.113552+00:00",
+  "generated_at": "2026-11-05T13:09:26.051002+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 9
+      "count": 10
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,12 +67,132 @@
   ],
   "items": [
     {
+      "title": "Anthropic発表、Claude Codeの使用量制限の消費が減少もサブエージェント修正はバグの匂い",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWtKRDFEQ19jZmh6UXFrUXJSSmlmcnFjbWZFRDlNdm9zc1lvWUhhajNsMDdMeXBZTzdDOURDMTNXTGJMYUFGQUhQNzk4MmJjUlNoNnFoV25kV0xyZ2p6N1k5N0ZCWmlUWTItTzZONEhEZG9aS25EYlV2bVloRmNpZG5SSlhtRE5UT1FkWXVCSlNRdw?oc=5",
+      "source": "Pasquale Pillitteri",
+      "published": "2026-11-05T12:39:56+00:00",
+      "summary": "Anthropic発表、Claude Codeの使用量制限の消費が減少もサブエージェント修正はバグの匂い Pasquale Pillitteri",
+      "id": "2a5309f218deac3c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Riotが280億ドルでAnthropicと提携、12%の利息条項が懸念材料に",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxVVdUMjhVdjg1VXNSQmZqQlByRWRMc3hLLWZpN1p3Ti1yc0dxT2Y1ZHJUOEprNzlPWS1rT0hoLWhMWXdCd3FJUmFkel9yNlFMellxV1dQNFhNNmdRY1NsTTJ4NGhtTUgzTU5zbUc3MWxPdFVm?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-05T12:26:00+00:00",
+      "summary": "Riotが280億ドルでAnthropicと提携、12%の利息条項が懸念材料に BigGo ファイナンス",
+      "id": "d5491fd95e2ae1d4",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AuthenticAIが提供するMaison AIの新機能「オートメーション」で定例業務を自動化する時代",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Pb2lZXzY2aC05UWVEX3dqOEczMkh3ekxTVnlPVHJtOUxOcnJ5blgxYnJJakU4Ul9IamVSaklKQXJaVnVPSm42dTZQLVpLVlExUlpId09jMU5zR0ZnVVZ5UENtNjBQNS1ncWlR?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-11-05T12:25:05+00:00",
+      "summary": "AuthenticAIが提供するMaison AIの新機能「オートメーション」で定例業務を自動化する時代 ニュースメディアVOIX",
+      "id": "ecd0ede15136f605",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「脆弱性報告数が別次元に」 Mythos一般公開を恐れる前に、推奨される7つの優先対策：もう一度読みたい「対策見直し」ニュース",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3c083cjkzbUdaRjE3dS1vb2xFNGdMd0RtbVBSYm8xakpsYVRlc0FJN2J6cGlzeWhJR0VzZF9pUnJDQkQ4UXN2T3hfYS1kWEpYbWlrM3lEYXJJdnYtTlNlV1gxek0xc2YyaHFPVldqSTdiQQ?oc=5",
+      "source": "ITmedia",
+      "published": "2026-11-05T12:21:40+00:00",
+      "summary": "「脆弱性報告数が別次元に」 Mythos一般公開を恐れる前に、推奨される7つの優先対策：もう一度読みたい「対策見直し」ニュース ITmedia",
+      "id": "7cca4e57ee2a2d85",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "サードスコープの「Kanata」がデジタル化・AI導入補助金2026のITツールに登録された理由",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QakZWVzFMbmpVMG4tMFZ3UF9WaFdhai1hT3RXYXlKak9lRU4tQjJneURVaXZLNGRBRUpfd1RZWFlYUWpWVG1QNm1BRDgxd1VPWHM4eHM5amYzb2hMdWw5eGVhcWdNUHR3aEdfT2JMTQ?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-11-05T12:19:22+00:00",
+      "summary": "サードスコープの「Kanata」がデジタル化・AI導入補助金2026のITツールに登録された理由 ニュースメディアVOIX",
+      "id": "fbe0c66ba7c3b399",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "英国のAIサブスクリプション支出に占めるClaudeのシェア、市場拡大とともに4倍に",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMS11YTRHa2pmSkJaQWxHNXZBaEFiaWl6WjBrSGJYMzRRWE11TU8zWUVwRW5ESklKOEVCOVdfU2RTVnFQbm5kWHRnUlFQblhIb2tsTnB3Z0tqVjJiV2p5QTAtMVYwR0dNUVZLTVNMT3F3UzNOX2ZFdHdKMkljT1pnTUtmY1U1WThIYXJxZEl6YmtVejROQ1U3Yg?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-05T12:18:02+00:00",
+      "summary": "英国のAIサブスクリプション支出に占めるClaudeのシェア、市場拡大とともに4倍に Unite.AI",
+      "id": "8dc898e1bd4db950",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "NEOが「デジタル化・AI導入補助金2026」に登録、中小企業の仕事の抜け漏れを防ぐ",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4a09SMHhFRF9ZOUxaR0ZTd05TSEpqTFNBempyYk5FNksxYUhLRzFKaHoxQm9PY2RZNTdocEVqQzhpaHo1d3doWkJGeEdETHNTRnJBR1I0c1Fkc3NtUm53WS14ampNMlZxTUZF?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-11-05T12:15:54+00:00",
+      "summary": "NEOが「デジタル化・AI導入補助金2026」に登録、中小企業の仕事の抜け漏れを防ぐ ニュースメディアVOIX",
+      "id": "d4e092bfcac0883c",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "i☆Ris、初の横浜アリーナ単独公演で29曲熱唱 2027年のファイナルツアー開催も発表し、「2027年末まで愛してください！」",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlc2FqZGFDb1VjM0FycHF3bFFGd2FKNW04MUNRRVJKRTVPNlRGZkh6UFZNbGtmdTVwLW4xOTJSOURjSzJySW1BT2wzT3k2Q0NhUU1OOTJCRDJFWC1sbW5DRlVoVF9XWjhycThSUE1JMjlNdkhhQXJpd2xhdw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-05T11:27:14+00:00",
+      "summary": "i☆Ris、初の横浜アリーナ単独公演で29曲熱唱 2027年のファイナルツアー開催も発表し、「2027年末まで愛してください！」 ニコニコニュース",
+      "id": "d54c63dcd52f0bea",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Code v2.1.318、委任作業と無人実行のための制御機能を追加",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXJNd0FiU3hCQmlaTkhpOElfcEtrYTJ4ampYcnhfSF9ucG4xN1V2aEU2ODdiWGVZT25hYmVpQ1Z1OUtTOFNkRnBEYzA2Uk1tM3hHSW1jSjlLbjVySFJzVTAxTm9iR2ZwVmhwT1UyQWhTeEVMZkkwb3RzR3pBMjA1UV9WcFlvWmJjaE14MU5IbUpDcXlrZVY2Vmlvdmc4MnB4dDMtZ3lSZTE?oc=5",
+      "source": "remio",
+      "published": "2026-11-05T11:25:32+00:00",
+      "summary": "Claude Code v2.1.318、委任作業と無人実行のための制御機能を追加 remio",
+      "id": "44be364f0b5c54f2",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Anthropic、Claude Codeのバックグラウンドサブエージェントがコンテキストを重複読み込みしていたことを認める、1回のステータス更新コストが99%削減",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yeTUyXzRTWm9BSGxNeDk4c1hjR3FqYkcyVFB5X0h2X296VG5sR2hyZngyNWxQUFZkd0tVaFp5dDFvTm9jNV94ekZBM2p4T09OM0NYUXJoOUVZN2prcVBlbjRNTlV0U2U4MnN2QUplNVRHUF9J?oc=5",
       "source": "BigGo ファイナンス",
       "published": "2026-11-05T10:26:00+00:00",
       "summary": "Anthropic、Claude Codeのバックグラウンドサブエージェントがコンテキストを重複読み込みしていたことを認める、1回のステータス更新コストが99%削減 BigGo ファイナンス",
       "id": "57db2ca593afa6d1",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIをやっつける、生成AIを使ってない高速ローグライト環境破壊FPS『VOID/BREAKER』正式リリース！日本語に対応し新武器なども登場",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vVFlTVFRucGY0NldmVHdDR3pJYjdpZ2NEZVYweTlRU1FVY3VBTDE5NDR5elhFUVJhVDNPbzFHVlJkdEE3cEQ0WDMxcWRYYUlQQ1JuYzhudldVUHlEdzhxbEZJM2pidw?oc=5",
+      "source": "Game*Spark",
+      "published": "2026-11-05T10:15:03+00:00",
+      "summary": "AIをやっつける、生成AIを使ってない高速ローグライト環境破壊FPS『VOID/BREAKER』正式リリース！日本語に対応し新武器なども登場 Game*Spark",
+      "id": "4c8f13e8c921a7e6",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -103,12 +223,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「脆弱性報告数が別次元に」 Mythos一般公開を恐れる前に、推奨される7つの優先対策：もう一度読みたい「対策見直し」ニュース",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3c083cjkzbUdaRjE3dS1vb2xFNGdMd0RtbVBSYm8xakpsYVRlc0FJN2J6cGlzeWhJR0VzZF9pUnJDQkQ4UXN2T3hfYS1kWEpYbWlrM3lEYXJJdnYtTlNlV1gxek0xc2YyaHFPVldqSTdiQQ?oc=5",
-      "source": "ITmedia",
-      "published": "2026-11-05T09:21:40+00:00",
-      "summary": "「脆弱性報告数が別次元に」 Mythos一般公開を恐れる前に、推奨される7つの優先対策：もう一度読みたい「対策見直し」ニュース ITmedia",
-      "id": "7cca4e57ee2a2d85",
+      "title": "ビットコインマイナーのRiotは、280億ドルのAI契約の下でAnthropicに12％の利息を支払う可能性",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0dYQndKYWs5QVptY2JoMmk4bkhWaTIxZVRoRmhHNklYNy1WcnhOU3FpMklCUG1oNUhFelB5QTkzclhkZkZmWXUzMkwwQkFlU05YMk04Z1psUEtVcWdWSDlqcERoQ0c3RU1zeHlwN3ZCSlppdkw0OHdYcGRhVWQ0QnVnRjBMWHJxLWtJbnctLW1aSXl5X1UzTDRHa1JvMmxEVWpQSTJnU2JPWnN2YzliTERRQVFJSWlkTGdIaVUzbw?oc=5",
+      "source": "CoinDesk",
+      "published": "2026-11-05T09:36:32+00:00",
+      "summary": "ビットコインマイナーのRiotは、280億ドルのAI契約の下でAnthropicに12％の利息を支払う可能性 CoinDesk",
+      "id": "09db3b1a992efca5",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -127,47 +247,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【クリエイター向け】STP分析×AIで市場を切り取り、選ばれるポジションを確立しよう！11/19（木）無料セミナー「実践マーケティング戦略」応用編第4回を開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBreWpiZ3NFWlBLMml4RlpNQkxpczJOT2JHY3Z2QkNHV2lneFBpczJOUm9DcHoyejFuZEdGNWgyc2JPZ2s0cHRGaG9jS2lFUGN3WEVfd1pQemNxZk5nWGpIQnFGWkQ2VkplRkE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-05T08:30:02+00:00",
-      "summary": "【クリエイター向け】STP分析×AIで市場を切り取り、選ばれるポジションを確立しよう！11/19（木）無料セミナー「実践マーケティング戦略」応用編第4回を開催 PR TIMES",
-      "id": "0bf5e92bfdbcc646",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicのSEC警告、投資家に自律型AIのリスクを突きつける",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDRPZVNhWFBHMXVNOWpTc0JVTkRpV0hxMkh1cDRqbHZTaUdSS0tEOVFjckNGQTFfUXE1QVhjbk82ZWFneGpjNlZ5MXNtM1lDOWs3S0h4dERSLTVNSzUwbnpUbE81MmVHR21ucXVuOWdrT1c4Nl9tU2kweFE2bEx1RUxlZlFCb21KZ25jZkd2RzB5WHJUZmJnaDUxVQ?oc=5",
-      "source": "remio",
-      "published": "2026-11-05T08:28:36+00:00",
-      "summary": "AnthropicのSEC警告、投資家に自律型AIのリスクを突きつける remio",
-      "id": "1dd55a0efdf61ecb",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "生成AIが選ぶ「SEO対策ツール」、1位はAhrefs（言及率100%）【2026年10月調査】",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XZ3JuN2VfTnVrZ3VYdE5UVXZWM3Zxb3Y1RDhyUGltazBKLWs1Qk5lVHZBSXI1LWlrekZNcVBtd1Z5VTZZVktLek1EejhSWHFzNWFwMlVSZU9DTHdNdy05T2o3WnFoNWtmclE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-05T07:00:02+00:00",
-      "summary": "生成AIが選ぶ「SEO対策ツール」、1位はAhrefs（言及率100%）【2026年10月調査】 PR TIMES",
-      "id": "849bd3c10a741ade",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Bitget、AnthropicのIPO関連商品を追加し最低100ドルからの投資機会を提供",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1SQlk5QnBpRFJEODVWQ0NTWVRXb1NfZjBEMzBQMW9hTmktVVdXdEx2NjFfc3l5UUc1a2ZRZnNFOW1OUUE?oc=5",
-      "source": "nextmoney.jp",
-      "published": "2026-11-05T05:59:42+00:00",
-      "summary": "Bitget、AnthropicのIPO関連商品を追加し最低100ドルからの投資機会を提供 nextmoney.jp",
+      "source": "NEXTMONEY",
+      "published": "2026-11-05T08:50:46+00:00",
+      "summary": "Bitget、AnthropicのIPO関連商品を追加し最低100ドルからの投資機会を提供 NEXTMONEY",
       "id": "68594ab119955a32",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -184,54 +268,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AIデータ社、生成AIの次は“価格・稼働最適化AI”— AI孔明 on IDXが切り拓くホテル経営の未来 ～観光・ホテル業界の“収益構造課題”を解決する“価格・稼働最適化AIモデル”をリリース～ | AIデータ株式会社のプレスリリース",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TTEpMVmduelVhRTdXNFFtczY0NFV1X2JJeXdkcjk3Z3lVV0hpcFR1UC1pck04UjhkYUxtcHZMeHBMUEk5YXlCMlhnUFRzNm5mNF9KaDhvR2VQTHBfTGZBNmRLcTVBWGpWQXc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-05T05:50:01+00:00",
-      "summary": "AIデータ社、生成AIの次は“価格・稼働最適化AI”— AI孔明 on IDXが切り拓くホテル経営の未来 ～観光・ホテル業界の“収益構造課題”を解決する“価格・稼働最適化AIモデル”をリリース～ | AIデータ株式会社のプレスリリース PR TIMES",
-      "id": "66310f6b694b7f88",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15UG5HcjFGd05uV1o1TDV0SGc1SU9DQ09uTzV4Sld3b2JtOTdOckh6OFJ6aUF2ZXdQTFprdF9HbUhSakVJYWJ6aFNrdkdlM2haSXg0bnJxcERoVm9VUmowblZn?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-11-05T04:48:00+00:00",
-      "summary": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能 GIGAZINE",
-      "id": "442d5d76222940c7",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能 (2026年11月5日掲載)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yZWpSRXhDT0paeHdrakVESzBYcGRpanlDMS1qb09rWi03bEUzWklaNzM4Vk56WFV3N0lld3BwMU9WeTRmTG96dTBBdm55aG5pdjVzbmMyR091S2pXUXc?oc=5",
-      "source": "ライブドアニュース",
-      "published": "2026-11-05T04:48:00+00:00",
-      "summary": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能 (2026年11月5日掲載) ライブドアニュース",
-      "id": "1ec102027fc91f4f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "17年分のモバイルICTや生成AI利用動向などをまとめた「モバイル社会白書2026-2027」を公開",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92bmpQaEFGeExXTks2X2NEakVqZFFYM3BVVXY3emtJWE5xNEZydmx6SWN2djlhaGphc2RiTlphSEJ6STZIWW9mQnI2b2tWdHJ4clhtSjkwek5lNGdvZ1NjdGhab2V6R1hWVHc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-05T04:30:01+00:00",
-      "summary": "17年分のモバイルICTや生成AI利用動向などをまとめた「モバイル社会白書2026-2027」を公開 PR TIMES",
-      "id": "894224f87db7f685",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -427,6 +463,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【速報】戸越銀座商店街で火事 中華料理店から出火 現在も延焼中（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aWjJyX3I1djEyemVYWUhacGM0Skc5bm9vZURaSW51Z1Q3QXlwOWxJdGs1TGVtY1g1X0w0UTgtTjBESUZqRlhyaWxoQWRvTFFzOFVoVE1ZbHd0U29ESEI0bEdtNl9ybFRTbkRKR0RFc0ZRN2ttQTZEaEFGa3ZKZXM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-04T08:08:01+00:00",
+      "summary": "【速報】戸越銀座商店街で火事 中華料理店から出火 現在も延焼中（日テレNEWS NNN） Yahoo!ニュース",
+      "id": "6c649b81a628af87",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【速報】「1階の厨房から火が」東京・品川区の戸越銀座商店街の飲食店で火事（テレビ朝日系（ANN））",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TM2xXeVNuYlBfajFDbVFESldGeWMxNGVBeVZxRkRWSzI4TVMxYU1xa1Y4WGZPa1lIMDNmaEFCbURybS1XOVNObFRMQjNDZzRKY1VvLUQzLTlHU2ZNdXBWc3ItdDRJOWU1UVktRWpQSF9XbTRnbzduZmR3aXYtSVE?oc=5",
       "source": "Yahoo!ニュース",
@@ -571,18 +619,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zUExLZE1ZQ2tid1kxNzhXOWlKT1h6RWNGNWhVSEwzdTEwMDJXRzRRcFhSUXlpN1YzYTVkRFk2bXEtdWpQbG1MVFRZQkk3YUU?oc=5",
-      "source": "オリコンニュース",
-      "published": "2026-11-04T02:46:39+00:00",
-      "summary": "米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福 オリコンニュース",
-      "id": "d39c6174bc5cb85c",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福（オリコン）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xVERNYVdVQXBYNmJOOE1MNVR1dUZUWHFMS0hsSDJzSExJVWJ2cEZRaWZTQU8zTVJvS25Ha2dPa1BvUXJ0OU5rTDFPTC14V3oxZUVkWDNPRGdzQUloZkZzcllmd3AtMEZ1VlVkckV6ME9RZ1JrQldqekJQYmZjOVk?oc=5",
       "source": "Yahoo!ニュース",
@@ -715,27 +751,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "長期金利3%、個人向け国債の販売好調 西日本シティ銀行は3年で17倍",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mVkdTeVJROFF6LV91ckhYQmkzU19sQU0wNGlSLS12ZE5qQ3VORENyczlsQktjaDM3N2F6Q0IzVTVid0J0aW00SnNNdS1TNUhFcWNxQl8xeVF2RTVIa240blIyVE4tajdrVlpYWA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-03T20:00:00+00:00",
-      "summary": "長期金利3%、個人向け国債の販売好調 西日本シティ銀行は3年で17倍 日本経済新聞",
-      "id": "cd7a6790c0dd20ce",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「カネ」は血液、「金利」は血圧 国を守る「資金の流れ」を読む",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14bEN3NXFYRjNWWXlrV3VLdUFMSVFvQnlWMWNZdHRDbHIybTVOTFlTenNyVUhvUHlTRWRZZ1BiMlYxTFZqN2VudWNxaFJMWG9Vc083cEhlS2FWLXNwWVFkRDExTnFYTE0?oc=5",
-      "source": "日経ビジネス電子版",
-      "published": "2026-11-03T20:00:00+00:00",
-      "summary": "「カネ」は血液、「金利」は血圧 国を守る「資金の流れ」を読む 日経ビジネス電子版",
-      "id": "33656dc7a0c496f8",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
+      "title": "「Lemon」MV 10億再生突破",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QcG01MVFCWGd1TDkyVWp4TnNFNHFISlRiWWU5R1dMa0JRa01tdTh5czk2Wk1UQ2R5YlNfdnNPejZMd3JPNkFTMS1POC1QRDJWYkcxRTZTbzhkenlZMjRNU1Y4Qk1zTFFvQlRaOFMzUDZMVk96SExwaURpLWlRUlk?oc=5",
+      "source": "米津玄師 official site「REISSUE RECORDS」",
+      "published": "2026-11-03T23:02:36+00:00",
+      "summary": "「Lemon」MV 10億再生突破 米津玄師 official site「REISSUE RECORDS」",
+      "id": "5ca16f958b4831ef",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -808,18 +832,6 @@
       "category": "不動産",
       "topic": "道場物件（品川・大田）",
       "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "矢野顕子50周年コンサート開催！ スペシャルゲストに角野隼斗、 そして、パット・メセニーが出演！",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PSHJLcmxWd2wzbTRCUjRwV2Zjb0NZMVFLajc2Z2dacXBIS0dlQkpRVDFLWHAteVFFbTZWeGdFeEVCY3hoRnR5b3lwdjNKZUl4S0o2aE9SSi1lX1dwRUE?oc=5",
-      "source": "J-WAVE",
-      "published": "2026-11-02T06:02:04+00:00",
-      "summary": "矢野顕子50周年コンサート開催！ スペシャルゲストに角野隼斗、 そして、パット・メセニーが出演！ J-WAVE",
-      "id": "3ce1ed33c6d304d0",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -979,5 +991,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 76
+  "count": 77
 }
