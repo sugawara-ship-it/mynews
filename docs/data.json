@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-07T21:34:15.567823+00:00",
+  "generated_at": "2026-11-07T22:54:51.145308+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 7
+      "count": 8
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 4
+      "count": 3
     },
     {
       "name": "経済・ビジネス",
@@ -67,10 +67,34 @@
   ],
   "items": [
     {
+      "title": "外注なら1億円、実際は30万円――Claude Codeで「なんでもできるやん」と驚かれた町工場の中身",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBnRnFJVDFPMHlCenR5QmlNQzJ5RFlROTVHcEpqc01UNnYxYURyaURlVW1ROUEzVnJEdTlnS0s4NVlzdw?oc=5",
+      "source": "shiritomo",
+      "published": "2026-11-07T22:27:35+00:00",
+      "summary": "外注なら1億円、実際は30万円――Claude Codeで「なんでもできるやん」と驚かれた町工場の中身 shiritomo",
+      "id": "2dcbb96063ebaba9",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claudeの性能向上ペース、約2倍に加速--「AIを使ってAIを開発」が要因か",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xVGFBODhOVzVhRG9VY3N1VG8tMjNPZjNJdkhWQUM3clpyZXZsd3FmcUIxS0xmVWViYzJYNXUyYjUtZzVRY0ZjOWxGLTQ3MnR1dGc?oc=5",
+      "source": "CNET Japan",
+      "published": "2026-11-07T22:24:00+00:00",
+      "summary": "Claudeの性能向上ペース、約2倍に加速--「AIを使ってAIを開発」が要因か CNET Japan",
+      "id": "d22c9e255c063aba",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【鎌倉市民は無料】鎌倉国宝館で特別展「瑞泉寺七百年」開催！開館100周年に向けた取り組みも紹介",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iR1V2YzRpREU1UUZCYnFSWDNGR3JoOXRvOWJDb0RmcDBLeDN0WXlXYnp6M2dSZkFmQS1DeGNNOWdDTVBsVDNWQ1ItUTBubWRSekZYUFE0c3B2eGJvU2Z3?oc=5",
       "source": "選挙ドットコム",
-      "published": "2026-11-07T21:19:55+00:00",
+      "published": "2026-11-07T21:34:31+00:00",
       "summary": "【鎌倉市民は無料】鎌倉国宝館で特別展「瑞泉寺七百年」開催！開館100周年に向けた取り組みも紹介 選挙ドットコム",
       "id": "6b6fdfe400364a3f",
       "category": "地域",
@@ -79,11 +103,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ときのそら、デビュー９周年　初アリーナ公演「幸せでいっぱいです」　来年１２月に「約束の場所」横浜アリーナ公演決定",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GWC1ZcUg3RFVmUWZtbTVvQTRlU0htV1U2LWJKZ0JsT1FIZVIyMHhtZ2RnSlFyQzk1X1VHeUJ2OVlmVHQwNTRWZzd0aFpNVzBtR2RWV2JoNEdGZVROTDZJakY0U2k5SW1lbGRlUUx1UdIBdEFVX3lxTE9NMFhxOVFHMU5sVlZmU05tbjhQN0ozUHRXSWg5bjFxTVBiR0RoaWVSelVqYkF2QnByTHRkc0VEbzZLbkhBcmZ4dlBKOC1HM0ZTaVJnMDhraUU0SlNIR2tETEFEdHNNNjdvTjlBU2JlVGVOMHpz?oc=5",
-      "source": "Infoseek",
+      "title": "ときのそら、デビュー９周年 初アリーナ公演「幸せでいっぱいです」 来年１２月に「約束の場所」横浜アリーナ公演決定",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIb3BFUWhrYjQ0ckZYQnJmYnNpd0FEeGE0dkFnTHg5aTZqSnFKaThmS3RLN1kwZzcyQmVrLUMtMVlVMFh0Uk1wSVdXX1pZTmhORHhfUlZwY0JHbndxRC1YVWp3?oc=5",
+      "source": "スポーツ報知",
       "published": "2026-11-07T21:00:00+00:00",
-      "summary": "ときのそら、デビュー９周年 初アリーナ公演「幸せでいっぱいです」 来年１２月に「約束の場所」横浜アリーナ公演決定 Infoseek",
+      "summary": "ときのそら、デビュー９周年 初アリーナ公演「幸せでいっぱいです」 来年１２月に「約束の場所」横浜アリーナ公演決定 スポーツ報知",
       "id": "11f4387a6631fb91",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
@@ -295,30 +319,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「未だパニックしないで！」――AnthropicのIPO計画、評価額引き下げとロードショー延期の懸念",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJM2Y3M3d5Y2p2TUdlVmZZNGl0RE83THdGbTFPT25UWkRENWNHUnBfOVNQY1FZbkl4UmlZN0tlQUNldw?oc=5",
-      "source": "shiritomo",
-      "published": "2026-11-07T08:35:08+00:00",
-      "summary": "「未だパニックしないで！」――AnthropicのIPO計画、評価額引き下げとロードショー延期の懸念 shiritomo",
-      "id": "73e6f5c0e4e95e84",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "FlowersKnivesがAI映像制作プラットフォームMaiStoryをリリース",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA1SjdYZlBYbUZTaDJtRzdGWElNOUVRMDh6S1RZak1rLW45WHpXU2IzbWdTRWU2XzR3RmhtZmptSndkQUNJbkZZ?oc=5",
-      "source": "Dellows News",
-      "published": "2026-11-07T07:40:39+00:00",
-      "summary": "FlowersKnivesがAI映像制作プラットフォームMaiStoryをリリース Dellows News",
-      "id": "ada87bf9564c76a5",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "東京都、電気・LPガス価格高騰に最大750万円を支給！11月9日から申請受付",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VVEhMSkdBdkJkbUk4TDc2TVgycGNhVDhEdXVlQmpFREstMzl5WkxSVnZqckVYUlFwMU5wODJaNzVLODhGb002NzVOTl9PTTBYWEdidQ?oc=5",
       "source": "創業手帳株式会社",
@@ -472,6 +472,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "きせつ風(品川第二地域ニュース)令和8年11月号 No.247",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZkNlc3h3YmR0cm9DbTd1X09hV3k5bmpqTDZmdGFQaHoyR3VJWTRIUTRPY1JsQ1kwZ3hYWThxVTVELVpqd2xfTXlacVFiM29jSVRCYzlYcmgyYnlqRFZjZFN6Yk5aYlZicXFYRXdlZDdhSWhueklFVTVpZHl0dUtOVUpKV3lndjVrZUE?oc=5",
+      "source": "www.city.shinagawa.tokyo.jp",
+      "published": "2026-11-06T03:00:16+00:00",
+      "summary": "きせつ風(品川第二地域ニュース)令和8年11月号 No.247 www.city.shinagawa.tokyo.jp",
+      "id": "ba125f063ce235a0",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -631,6 +643,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+      "source": "補助金ポータル",
+      "published": "2026-11-05T08:00:00+00:00",
+      "summary": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 補助金ポータル",
+      "id": "afaad8002a629459",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ダンス教室のトイレで女子児童の下半身を撮影したか 講師の男逮捕「狙ったのは大人の女性です」 東京・足立区 警視庁",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zT2VlRngzUzdqVEdXVkZXWng1MzBxTElrbW5yTURob1dHMzlZNWItTVRjb0ZZVUdCVnpSbWFFX1lGUVk3Y3pUMUJzcnNOWk1YNVJ1VlBVTnhzWmJUN0t3cTRKUE50dFd1TU4wSmU1VmFwa3JnRkx5OXV6U2VBTm8?oc=5",
       "source": "Yahoo!ニュース",
@@ -739,18 +763,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【先週いちばんプレイリスト入りしたアーティストTOP30】",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXVDFCVXBnS0NLZ0cxQU5OUUF6eEpCaFdXZllyeWhxU3RFSzJhZmhUNE54cjRveWJNc1BOWTNGeXo4UEw0T3BiUV9TNHJrbjRGX3J4bWhvMEpzYzlxejdRM0l6bEJKSGNP?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-04T06:00:21+00:00",
-      "summary": "【先週いちばんプレイリスト入りしたアーティストTOP30】 ニコニコニュース",
-      "id": "e35b1a1a8eac0834",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【アットホーム調査】50坪以下の貸店舗の募集動向 2026年度上期(26年4月～26年9月)",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LT1IxbC10OWFXOFBid21udUd2QUhDLWY4UXYwbDM4Nkpod2ZuVGp1SWMybDc1NmI5eWYxcTN1X3doVHpXaDJ1ZkdZeGhMR0dwd1o5VE5NNG11YUM5WFpZNHRmMWZNZkMzZFE?oc=5",
       "source": "PR TIMES",
@@ -760,18 +772,6 @@
       "category": "不動産",
       "topic": "道場物件（品川・大田）",
       "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AWA、「先週いちばんプレイリスト入りしたアーティストTOP30」発表 米津玄師が1位",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fTW9VZkpsWE1HQ2J6NWtfZU82M3JFSFNwYzY5S2c0R2taM3QtX1FsbkJ1N01ncnVfOG1JQWU4NnU4bGVPeGhCU2dTWmNCMDB1OURyMw?oc=5",
-      "source": "音楽業界総合情報サイト",
-      "published": "2026-11-04T03:46:09+00:00",
-      "summary": "AWA、「先週いちばんプレイリスト入りしたアーティストTOP30」発表 米津玄師が1位 音楽業界総合情報サイト",
-      "id": "870f34fe31163aa9",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -811,36 +811,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「新事業進出・ものづくり商業サービス補助金」第2回公募開始！申請開始：11月30日、締切：12月25日",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yMWlpOFAxZGhDM0Vpc3RONjFMOW1EOFNHaC1TdDBMc2JmRERVY0lOYmxsX1BEQUxDdkprTTdnVmJScURTZTJydV80SWRORXhiTndyRFJCMGdrWllYeFZrODNOY2xsdkZf?oc=5",
-      "source": "創業手帳株式会社",
-      "published": "2026-11-04T02:08:11+00:00",
-      "summary": "「新事業進出・ものづくり商業サービス補助金」第2回公募開始！申請開始：11月30日、締切：12月25日 創業手帳株式会社",
-      "id": "2982ef5652d90ba5",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "米津玄師の名曲「Lemon」がYouTubeで10億回再生を達成、米津本人のユーモラスなコメントにも注目集まる",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE11MVBoUXpzazdGdmZhYnNOVEFNWFRwUVdFLWdHbmRXclg1NlIwTHNwRG9UQ0ozNGp6bndITVNrTjJGWGpwMGc?oc=5",
       "source": "Togetter",
       "published": "2026-11-04T01:48:28+00:00",
       "summary": "米津玄師の名曲「Lemon」がYouTubeで10億回再生を達成、米津本人のユーモラスなコメントにも注目集まる Togetter",
       "id": "acad8e943c424fa5",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【先週いちばんプレイリスト入りしたアーティストTOP30】米津玄師、Mrs. GREEN APPLE、ILLITらが上位に",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Na2RqMmoySlh6N3dZN3lsX3hPVVhKclQ1eU5Eb2lJenRDZGVhSEdBV1RMT19BSi02M0tmTWlKOEFveGRiLXBrcU4ybmNuTndHQ0M0TjR0aUQwYll3b0JLQzhBUEpFQTc3a0g2MGVZNA?oc=5",
-      "source": "news.awa.fm",
-      "published": "2026-11-04T01:00:00+00:00",
-      "summary": "【先週いちばんプレイリスト入りしたアーティストTOP30】米津玄師、Mrs. GREEN APPLE、ILLITらが上位に news.awa.fm",
-      "id": "367e249d2d1d7943",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -859,6 +835,42 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "米津玄師「Lemon」MV１０億回再生突破、日本語楽曲として史上初の快挙！「アンナチュラル」チームよりお祝いコメント到着。米津玄師コメント・ライブ映像も公開",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RQ3ljYXp5em1VX2NPV1RtcEIzT3pfZWZ6LTE2ZF9FTGNOLUs5UmIyaWE1NjY3LWJqYVpQWFZJLXItZVV1czJUNnh1ZzBoM0plVm9NYWtld1lFYjhlUnc?oc=5",
+      "source": "USENの音楽情報サイト",
+      "published": "2026-11-03T14:08:00+00:00",
+      "summary": "米津玄師「Lemon」MV１０億回再生突破、日本語楽曲として史上初の快挙！「アンナチュラル」チームよりお祝いコメント到着。米津玄師コメント・ライブ映像も公開 USENの音楽情報サイト",
+      "id": "993724205378ae92",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "桑田佳祐、あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉が日本武道館で歌った“大衆音楽としてのフォークソング”、ライブ盤『九段下フォーク・フェスティバル’25』から聴こえる言葉たち",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84X2xGNElaeFQyeTJxZFdZbUNLOGZ3Q1JUWENvQ1JKUlM4TDdGT0dBTXpRUjJfMWJJVUFjSTBnd1NHUkU3a19nMW02TGNFNU3SAVRBVV95cUxNblRUeG1BV2drUU9WUm9NUF83THhiU1ZVc3dhMndDd2ZaNVFFbFI5N1pIWXBuZWRWbmpOWjFmSU56QTBHa05wZ0lFc2puY3NXYXFpSXM?oc=5",
+      "source": "エンタメ特化型情報メディア スパイス",
+      "published": "2026-11-03T06:00:00+00:00",
+      "summary": "桑田佳祐、あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉が日本武道館で歌った“大衆音楽としてのフォークソング”、ライブ盤『九段下フォーク・フェスティバル’25』から聴こえる言葉たち エンタメ特化型情報メディア スパイス",
+      "id": "03827d241c9b5fa6",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "豪華！桑田佳祐×あいみょん、吉井和哉、桜井和寿、竹内まりや、原由子それぞれのライブ映像公開（音楽ナタリー）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4VEFkcmxUVUZmQnExTGJPMlhfTG9PUl9VWGIzT21sVmlMRmEzWGhqS1E0Nm5nSzdaZjU4UjVTTkxMR0pkeDQ2b2d4VDRheE1VR3BVM1ZoVEFvZFc0b0lqR29DbmtYTWxVaS1EOGJPN25Jekd0Z2Y4bVVwOGs1Nm8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-03T03:07:11+00:00",
+      "summary": "豪華！桑田佳祐×あいみょん、吉井和哉、桜井和寿、竹内まりや、原由子それぞれのライブ映像公開（音楽ナタリー） Yahoo!ニュース",
+      "id": "07fd545717ab9cfb",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "品川・羽田・横浜へ自在な「蒲田」エリアに、新築投資用マンション「RELUXIA蒲田西」販売開始",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1US19rd0hSTWJwdk1yVE5Nc0tVX2JHQTZoNUR6eWNPZDBBdW9QQTRsR0Y3YUFiTHppN3M5d3BucGJReU91Z29MS2ZDSXFkWEdBZHItREFieXctZmx3NWlCUlc2OUVHWC1ETGRFQ2VNNVdidw?oc=5",
       "source": "Infoseek",
@@ -868,18 +880,6 @@
       "category": "不動産",
       "topic": "道場物件（品川・大田）",
       "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "第10回全国スポーツ大会（2026年）を楽しみにしています。武道家ディウ・リーの輝かしい活躍を期待しています。",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGpWUEw1Ymt3MTdLQW5fNjZkc0NaVi1oTzItemFwbTVtb0pFS2R1cmk0SkhNczBreG9HYWJjTTNtbkRmUzFnYTB6VUVPQ09LNWJib25TMjFvM2RZc3c2NVdvdVFFRjdOZEQ1YTdXYXhMelpNZWJzQWxheDNiSFNTM2pXd1hydFhTREh2TDczUHlFWk5xZFNYelVQemdNZ2lWeFBtU2NCZw?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-01T23:30:14+00:00",
-      "summary": "第10回全国スポーツ大会（2026年）を楽しみにしています。武道家ディウ・リーの輝かしい活躍を期待しています。 Vietnam.vn",
-      "id": "50d31a1c2f572a74",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
