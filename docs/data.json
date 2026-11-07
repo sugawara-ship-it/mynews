@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-07T16:51:23.680978+00:00",
+  "generated_at": "2026-11-07T18:07:18.427891+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -20,7 +20,7 @@
       "name": "ライブ・コンサート全般",
       "category": "音楽",
       "emoji": "🎤",
-      "count": 12
+      "count": 11
     },
     {
       "name": "道場物件（品川・大田）",
@@ -32,7 +32,7 @@
       "name": "道場物件（鎌倉・湘南）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 1
+      "count": 0
     },
     {
       "name": "地域ニュース 品川",
@@ -66,6 +66,30 @@
     }
   ],
   "items": [
+    {
+      "title": "「Anthropic(アンソロピック)」のIPOに日本の証券から申し込む方法を解説！ 最短11/16上場予定の“史上最大のIPO”を取り扱う証券会社や申込方法を紹介！",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Wenh2alFaTFM3MF9lR0x6eWFuc01DSFRmYURjcjVWRkhtazRCT3otU2NMTlVXRVpGLXI4UXZ0elNFTnhGUjVESlVPT1BzOHBrcnFn?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-07T17:34:07+00:00",
+      "summary": "「Anthropic(アンソロピック)」のIPOに日本の証券から申し込む方法を解説！ 最短11/16上場予定の“史上最大のIPO”を取り扱う証券会社や申込方法を紹介！ ダイヤモンド・オンライン",
+      "id": "543029f6bcf7b89c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "SeaportがAnthropicの株式に関する予備的見解を発表",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfNzR3dFZzVV9pR3Mtdkg5Ykt5ckU2cDVFUUluS2lMTS1yU2p4bmstQjUzS1pjVVNRMVhrQ1NSZTVFM1FTSkZ3RjBuQ1BabDZRSHZwbWdwMHotUTRyMnQyaE1yYVA2TFZlM0NpMUxqNDk?oc=5",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "published": "2026-11-07T17:27:00+00:00",
+      "summary": "SeaportがAnthropicの株式に関する予備的見解を発表 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "id": "13ffdb63ebe6f7cf",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "＜中小企業省力化投資補助事業（一般型）＞の第9回公募要領を公開しました",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XLTBJVElkeTBhMkhVSVIyYWRzNWowMV92V01qTUtqZGVIQTd1Xzc3a090ZXVucWZ2emw3RVp6QVh1OHI4X3BIQzFrM25DREdvXzV4N3JWQkdGWU55WDNTMlNNOXF3NUpaMDJPVk5sTURiZw?oc=5",
@@ -283,30 +307,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "FlowersKnivesがAI映像制作プラットフォームMaiStoryをリリース",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA1SjdYZlBYbUZTaDJtRzdGWElNOUVRMDh6S1RZak1rLW45WHpXU2IzbWdTRWU2XzR3RmhtZmptSndkQUNJbkZZ?oc=5",
-      "source": "Dellows News",
-      "published": "2026-11-07T07:40:39+00:00",
-      "summary": "FlowersKnivesがAI映像制作プラットフォームMaiStoryをリリース Dellows News",
-      "id": "ada87bf9564c76a5",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude、旧モデルにも透かしを追加 – 無効化は不可",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM3BGdUM5NWZySFo2MFB0djY3NEpzaElvay1wMGpQbHE2QW9qUXZGRk5zYUFqcGktWjhPT2pJQ3c2VlU4VzZPekF2djBQVkpsQXhDajNrVC1wWGJLcFFHb0FVa2Nkb05rX25EaDVFZUFOUU9MWGplaEJjRUY0VXRXR1d4QUwyVUQ5cXhOUnh1QVBhU1ZTRng1eE9GdHI?oc=5",
-      "source": "Mezha.net",
-      "published": "2026-11-07T07:11:00+00:00",
-      "summary": "Claude、旧モデルにも透かしを追加 – 無効化は不可 Mezha.net",
-      "id": "bc40af9727dbb05e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "東京都、電気・LPガス価格高騰に最大750万円を支給！11月9日から申請受付",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VVEhMSkdBdkJkbUk4TDc2TVgycGNhVDhEdXVlQmpFREstMzl5WkxSVnZqckVYUlFwMU5wODJaNzVLODhGb002NzVOTl9PTTBYWEdidQ?oc=5",
       "source": "創業手帳株式会社",
@@ -331,6 +331,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "桑田佳祐『九段下フォーク・フェスティバル’25』レビュー あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉と混迷の時代に鳴らした希望の歌",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVWtDdzF3LXo3c2RkRm0wUHVjTGNlUTlwSHp6TXZEcGZJY2oxRGVSRkF3TFQ3cDJrX1BHM25zQ3Q2T0pSdW9xeXFtLXdjWlNXNHc?oc=5",
+      "source": "Mikiki by TOWER RECORDS",
+      "published": "2026-11-06T17:47:58+00:00",
+      "summary": "桑田佳祐『九段下フォーク・フェスティバル’25』レビュー あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉と混迷の時代に鳴らした希望の歌 Mikiki by TOWER RECORDS",
+      "id": "c71a718797d1e81f",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "南足柄市 善福寺で報恩講に合わせた特別企画 鎌倉能舞台の公演ほか",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiMWxFcVpVVVQ1NERvU05lRjRzZnBTd3RpWm9USUtrLUltWm1OdGxRdy1lMzI1MmdFTVBXZkVxcjNSREJzVXZYakY4MEczSkE0QWF5VGVHTkdiSlg5SGQ1RXNoSW4?oc=5",
       "source": "タウンニュース",
@@ -343,27 +355,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "桑田佳祐『九段下フォーク・フェスティバル’25』レビュー あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉と混迷の時代に鳴らした希望の歌",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVWtDdzF3LXo3c2RkRm0wUHVjTGNlUTlwSHp6TXZEcGZJY2oxRGVSRkF3TFQ3cDJrX1BHM25zQ3Q2T0pSdW9xeXFtLXdjWlNXNHc?oc=5",
-      "source": "Mikiki by TOWER RECORDS",
-      "published": "2026-11-06T14:46:17+00:00",
-      "summary": "桑田佳祐『九段下フォーク・フェスティバル’25』レビュー あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉と混迷の時代に鳴らした希望の歌 Mikiki by TOWER RECORDS",
-      "id": "c71a718797d1e81f",
+      "title": "『真瀬はるか 20th Anniversary Concert ～Storia～』 11/8（日）一般発売開始！14:00開演ゲストに井上芳雄さん出演決定！",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zWWhvclNBb3gyV3ROeGptYVVRUFdwd2lDeHpGYjJjZ052bE50UlRSWHh2Q1FIcGZUOUFKbk11eUFubU0ta2tHZ0JZdVh3SGpNbDVZNmVCVlUxQk1EUWZLRlFoZ3RnQUc1Q21fZlJsOVA4eXhwUVMtWTczTQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-06T12:15:38+00:00",
+      "summary": "『真瀬はるか 20th Anniversary Concert ～Storia～』 11/8（日）一般発売開始！14:00開演ゲストに井上芳雄さん出演決定！ ニコニコニュース",
+      "id": "6c7efeaefc1e795a",
       "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【鎌倉市】大船観音寺の観音像がパープルにライトアップ！女性への暴力根絶を訴える運動が11月12日から鎌倉で開催",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zdXc1UmNTb0VLYlFiSWxuYTV2dEdOUTI0MTNxM0IxZGRTNS1RVGlPa000M2ZMazQxTjkzSXdkbS1HZFZIRVpvLWEyRXZBQXgzSFJLTmFtclhqdG80cTg4RTVOeWlsSFBkeExqTXNmZXhQUQ?oc=5",
-      "source": "湘南人",
-      "published": "2026-11-06T10:55:59+00:00",
-      "summary": "【鎌倉市】大船観音寺の観音像がパープルにライトアップ！女性への暴力根絶を訴える運動が11月12日から鎌倉で開催 湘南人",
-      "id": "0e892a1ceb80e5bb",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -475,30 +475,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "『真瀬はるか 20th Anniversary Concert 〜Storia〜』 11/8（日）一般発売開始！14:00開演ゲストに井上芳雄さん出演決定！",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCU1lMMG16OHZiUUhDWEdKRk04NWt2X1gtOG9JWTRTbmZWWFhfZk5VbUxydU4wX2VrRDdjZlR6dm5heGRLeUlpN3RoZXNzOFdEdHBBcUFQZEJ3M01CYnFwV1lCSUhzMUZqTFE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-06T03:05:25+00:00",
-      "summary": "『真瀬はるか 20th Anniversary Concert 〜Storia〜』 11/8（日）一般発売開始！14:00開演ゲストに井上芳雄さん出演決定！ PR TIMES",
-      "id": "6c7efeaefc1e795a",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "振るわぬ10年債入札、投資家の目線なお3% 「買い場」占う日銀利上げ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vbXd5UEpnTGJnRms1MW1UVWlEWTRoZEl3Ni14MV9waGxsWngxVkdQT1hBdGR5Z1JRdHNTcGtBcFhCVUdBaGFNSkFIY1V5NWNjUlJUd3VPX1NkMTl1YXFBeDVDR2RucHB2bmhieg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-06T02:00:00+00:00",
-      "summary": "振るわぬ10年債入札、投資家の目線なお3% 「買い場」占う日銀利上げ 日本経済新聞",
-      "id": "2b6289cf47cab024",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【藤沢市・茅ヶ崎市・鎌倉市・平塚市】湘南レーベルのホテル5施設でブラックフライデー2026開催！最大50％OFFの限定プランを12月20日まで販売中",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BWHdXblhYX0ZWZEs2azJETUE3bnVMT3Q4bm9KMjZkblVjanpYNHhPby1wdllqUV9uNWdxSmM1SENpMVhMTU8tWGtNWllDTzJnX0dsdXFpMXFGb1drVFNBTW9RWGItSHFUUnZmcVRB?oc=5",
       "source": "湘南人",
@@ -520,30 +496,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "『アース製薬 クーザ』東京追加公演決定！11月14日より最速先行販売スタート シルク・ドゥ・ソレイユ日本公演最新作 大反響につき69公演を追加！",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uQnAzM2RVQmZLeEZUMzF6eVIwZGJkbWpranBCTGRFbGpCMUFGOW4wcGI1bkVZRU1LOWxFX19paGsybVdwcXRwdEUyZHRVTnl5TTFn?oc=5",
-      "source": "めざましmedia",
-      "published": "2026-11-06T01:00:00+00:00",
-      "summary": "『アース製薬 クーザ』東京追加公演決定！11月14日より最速先行販売スタート シルク・ドゥ・ソレイユ日本公演最新作 大反響につき69公演を追加！ めざましmedia",
-      "id": "f1190bcb35ce48c0",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "シルク・ドゥ・ソレイユ日本公演最新作『アース製薬 クーザ』好評につき東京追加公演開催決定！",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Hb3gzWV9WOXpfQVhEZndWcm84b2tqUDJyeXZxVTk2aFUzUHNaVHl5TGxzUjNKcHZQNXNvQVp3bVM4QTZKMlE1UFVJUjZlQVV1MExibGZVSXVodHdYczQwUndxbVFDUFRuZEZxRTVXQTRZUEowSWttWThB?oc=5",
-      "source": "イザ！",
-      "published": "2026-11-06T01:00:00+00:00",
-      "summary": "シルク・ドゥ・ソレイユ日本公演最新作『アース製薬 クーザ』好評につき東京追加公演開催決定！ イザ！",
-      "id": "0b5025e1cbdf01f9",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -601,6 +553,18 @@
       "published": "2026-11-05T15:00:00+00:00",
       "summary": "鶴岡八幡宮に新杉戸絵 桜・蓮・牡丹の３部作 タウンニュース",
       "id": "f3133242c3ca6961",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wMmRhelBXb3NOQm0tVk0zdDBDVW9uRmFKY1hHQlRIa1NWYXBsT1RkT1QxQzlGYUMyR0tqT1VGWXRnbEprWlVIU3Z6bDlsbjdLZUYtWTg2S0RCTURXQVVQLTZHeWQ?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-11-05T15:00:00+00:00",
+      "summary": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超 タウンニュース",
+      "id": "49d0f9886e46f169",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -721,6 +685,18 @@
       "published": "2026-11-04T23:15:00+00:00",
       "summary": "特別高圧の電気料金支援、受付中の都道府県まとめ【2026年11月】 セレクトラ",
       "id": "d3b0ad3415bc464a",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "まもなくブラジル中銀政策金利の発表",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWbzVObmMyYTFxUzFxZU5vQlI2bkUwRDYzaFFmUzFuem1RdTVWcXpoVUVsTEJIOERlaGIzZFhRV3RQazVQRUhfNA?oc=5",
+      "source": "みんかぶ FX/為替",
+      "published": "2026-11-04T21:10:28+00:00",
+      "summary": "まもなくブラジル中銀政策金利の発表 みんかぶ FX/為替",
+      "id": "c020eeaa4f2fd3a8",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -883,18 +859,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "藤沢駅南口でイルミネーション点灯式 レディオ湘南が公開生放送も（みんなの経済新聞ネットワーク）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wbDFmV1JwdXpFb2c4blY3VU9iMTdvaTNkX09xUkMyUk9kN0QzSHRsbERvdDRNU3FPalV4dXZOVHF1aVNqWVJzYkxqdTFZWWNrTlBHdnA2c1N3Z1preG53OUJ4WERXUVFaaUd0SWlSbWdodXptMVRLRWpZeVZTM2c?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-03T23:18:38+00:00",
-      "summary": "藤沢駅南口でイルミネーション点灯式 レディオ湘南が公開生放送も（みんなの経済新聞ネットワーク） Yahoo!ニュース",
-      "id": "a7f1160be5c5d6db",
-      "category": "不動産",
-      "topic": "道場物件（鎌倉・湘南）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "品川・羽田・横浜へ自在な「蒲田」エリアに、新築投資用マンション「RELUXIA蒲田西」販売開始",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1US19rd0hSTWJwdk1yVE5Nc0tVX2JHQTZoNUR6eWNPZDBBdW9QQTRsR0Y3YUFiTHppN3M5d3BucGJReU91Z29MS2ZDSXFkWEdBZHItREFieXctZmx3NWlCUlc2OUVHWC1ETGRFQ2VNNVdidw?oc=5",
       "source": "Infoseek",
@@ -977,7 +941,19 @@
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "宝塚歌劇 雪組 東京宝塚劇場公演『ポーの一族』千秋楽 ライブ中継｜10/25(日)映画館にて生中継！",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZaG1EVnpudnJsX2lMWXZnazRwMDJQcG0yMUsyN0hQTjg0b1YzT0dQXzYtZ3hLcWx0WDZtQ2dZdUcyMDUzaVNHWkEtczh4am4tZjQyVWVNd1ozUQ?oc=5",
+      "source": "LIVE VIEWING JAPAN",
+      "published": "2026-10-25T07:00:00+00:00",
+      "summary": "宝塚歌劇 雪組 東京宝塚劇場公演『ポーの一族』千秋楽 ライブ中継｜10/25(日)映画館にて生中継！ LIVE VIEWING JAPAN",
+      "id": "f9d967296c78d5d8",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 76
+  "count": 74
 }
