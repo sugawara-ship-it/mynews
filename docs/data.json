@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-08T00:12:12.608664+00:00",
+  "generated_at": "2026-11-08T01:12:33.413794+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 8
+      "count": 9
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,14 +67,50 @@
   ],
   "items": [
     {
-      "title": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超 鎌倉市",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YZFhLVGh1a0V5cThoTVY5dEFuN3RhVlNkbzF4QVlFMEkxMDZwOUh2dHlKelUzMTR2RkRjZTVKQkctdGdId0dROFNTM3EzamZXY2pmbjlCZHZGZk1GR1h6anoxOFdzN2REd0VKcDBn?oc=5",
-      "source": "au Webポータル",
-      "published": "2026-11-08T00:01:25+00:00",
-      "summary": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超 鎌倉市 au Webポータル",
+      "title": "【鎌倉市】鎌倉・由比ヶ浜で「グルメグランプリ鎌倉2026」開催！沖縄×鎌倉交流祭も同時開催 11月8日",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJMHBPUnZqYVVkSU9JMFB1SW51TkkwSVM5OFFCeDAyZFNkX2xIU0JEaUZGelA3dnREM0VpM0d6RGFTeUNicnhNLUR5LXZkSUN4dHlSTXlpM2NYVVkwRmxKNldTNTU4ZTk2Q0hCeA?oc=5",
+      "source": "湘南人",
+      "published": "2026-11-08T01:09:31+00:00",
+      "summary": "【鎌倉市】鎌倉・由比ヶ浜で「グルメグランプリ鎌倉2026」開催！沖縄×鎌倉交流祭も同時開催 11月8日 湘南人",
+      "id": "a186fe333ea09d97",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ChatGPT国内MAU1876万人に拡大 Claude急伸",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRU0pMTU9SUElQS2wzaEdabnFrb1g0ZlE3My1zTk41NVFrX0Z1dGwyOWdEZlM2NnMtcE1NM190OEpjV2FxM19PUlNaM1NVOTNBWmFxTWdYcHJ1LVZKdm1HMnRfUXd5Z29MelhNa0JvR01fMURiRnNCbjZB0gGOAUFVX3lxTE1mVWRsSDVvT3B2bmtxa3BkUDdVUHFyckRCWW1WNURjQzMzeUxCZ0tQazlKb2VsMGJ0ekNXbXAzcVNhazJoTUdfbU5xMjJScmt2LWxINVV5WFZzZ2I0NjAyal9pZng5VTNUNjFPWWJ5ZTU2aXlHTjVKZVhYVHlaa0xYb3MydEU0NGhTamtITXc?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-11-08T00:35:00+00:00",
+      "summary": "ChatGPT国内MAU1876万人に拡大 Claude急伸 Chosunbiz",
+      "id": "ede0c6443677a6fd",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "鎌倉市シルバー人材センター　草刈りで地域貢献10年超〈鎌倉市〉",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXpBeUVHZXlhMVpacTVpZTdRdlhCWmJMbjFwd3FpX1BRNzBiUlMtOG9MSTlWdUJBS2kwQmpIU2JGTDZ0aXlodHZGdzNMU25NZ1IyU1JFTE80cG5ueUcxRXdGNVVIamN5cjFITmdoU0dSZy1wRm1faG1aNktCczZUdWpTYWxrN1RBZ0c4NjNn0gGAAUFVX3lxTE5uV2lkNmtkN1A1U2tMVW9VXzZxM3ZEaG9iVFFuSDlzMHVzb2J0M3N0OE5NVDNPVmJPQ0tVNEFscGJ0Sy1IOFZGREwteEg1V0JwcGFDSjU3ZkZxM0tUWnoxQjlwZWs5dGZOLXYtS2cwZEptaEl6VEMwU1FZQ1NyNkMz?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-08T00:00:00+00:00",
+      "summary": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超〈鎌倉市〉 ｄメニューニュース",
       "id": "54ec083a1ca69a4c",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "桜色の並木に動きで変わる光のアートが登場！品川区“目黒川みんなのイルミネーション2026”",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrZGhFSFR3dGRDSE0yUmVmYUY4ZnhJNndiZUhrSnhlVlJESU03TnhiMDNTNzBBYXd0NUVKUW1aNXpUSXV1cUE?oc=5",
+      "source": "Dtimes",
+      "published": "2026-11-07T23:32:52+00:00",
+      "summary": "桜色の並木に動きで変わる光のアートが登場！品川区“目黒川みんなのイルミネーション2026” Dtimes",
+      "id": "1a4dc55ff9ff99d6",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
@@ -88,18 +124,6 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【鎌倉市】鎌倉・由比ヶ浜で「グルメグランプリ鎌倉2026」開催！沖縄×鎌倉交流祭も同時開催 11月8日",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJMHBPUnZqYVVkSU9JMFB1SW51TkkwSVM5OFFCeDAyZFNkX2xIU0JEaUZGelA3dnREM0VpM0d6RGFTeUNicnhNLUR5LXZkSUN4dHlSTXlpM2NYVVkwRmxKNldTNTU4ZTk2Q0hCeA?oc=5",
-      "source": "湘南人",
-      "published": "2026-11-07T23:09:09+00:00",
-      "summary": "【鎌倉市】鎌倉・由比ヶ浜で「グルメグランプリ鎌倉2026」開催！沖縄×鎌倉交流祭も同時開催 11月8日 湘南人",
-      "id": "a186fe333ea09d97",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -196,18 +220,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "SBI証券、米国株式IPO「アンソロピック」の購入申込を受付予定～米国IPO株式を上場前に公開価格で購入できるチャンス。SBIハイパー預金残高10万円以上で当選確率アップ～｜SBI証券",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNM1VrWkVpM2JWWkZReGlrS2ZwbnI3bXF2dzVRVmQtZzRGdmVjUnFKaHdQaXlGVmk5TjgyRDI3Y2lLdl8tT2NiU3k4SERHM09lM0g3bVdZX0hJYmUyTEtFZDM3RTI3cV9ySm1sWXRDYnU0VXNNMW1pSmdaYlp3Vkg4UlNGOTJ0blN1MlU2WDJLN1FHYm8zZzdHbWxyalRLeW5kOWtyYVpjRFFjYkJEQ2dfZ3RhOWRwNVRfWHNVSzZHcVhITkVTdXVEcnVfS2VJTW9JQU9rRmJTMzFpTXRYbW94dXFNUlVxNkJSQ3YtcGlJa3ZPcnNhMGVJTFZjamN3cXNTYVhGSEhPcnV3MWR1Nk9YcHdBYm9QdW5jT1ZHWVVPTGVjUzJpM0ZjS24tNE9lNTVkS1dJR3JZT3NwR3pReFVqRGNud2xHcVFWYkFCM09Db0NKZlo0SlVmZXVYY0xEc18yNU9Qay1iN3FXUnlyMXBueGJOc2JVdjlpbDF2OTlB?oc=5",
-      "source": "SBI証券",
-      "published": "2026-11-07T12:44:04+00:00",
-      "summary": "SBI証券、米国株式IPO「アンソロピック」の購入申込を受付予定～米国IPO株式を上場前に公開価格で購入できるチャンス。SBIハイパー預金残高10万円以上で当選確率アップ～｜SBI証券 SBI証券",
-      "id": "cc45d7cc796392f7",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -607,24 +619,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wMmRhelBXb3NOQm0tVk0zdDBDVW9uRmFKY1hHQlRIa1NWYXBsT1RkT1QxQzlGYUMyR0tqT1VGWXRnbEprWlVIU3Z6bDlsbjdLZUYtWTg2S0RCTURXQVVQLTZHeWQ?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-11-05T15:00:00+00:00",
-      "summary": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超 タウンニュース",
-      "id": "49d0f9886e46f169",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "水が出ないとき、どう守る？災害時の口腔ケア 鎌倉市歯科医師会・檀上会長に聞く",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wOEdxaTFjM3RCcERkb3ZwT1ZzaEVLY0VibWR4MENNLUxacVNRcVk4Y1RjZUpkLU0yS3FfeWFGbG1kZ3VRczdOZm1QZjZOZ3JzTTNLWnpBWGtCY0gtbkZVTkF5c2w?oc=5",
       "source": "タウンニュース",
       "published": "2026-11-05T15:00:00+00:00",
       "summary": "水が出ないとき、どう守る？災害時の口腔ケア 鎌倉市歯科医師会・檀上会長に聞く タウンニュース",
       "id": "940463d1c0650eb7",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "日本スポーツマスターズ2026空手道男子組手７部で３年連続優勝した 中村 秀司（ひでし）さん 腰越在住 72歳",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UTVo2a0wzZEhzZy05dlk4c2MxMnlMUjZOT2dULXFVVGgwOHRIdGpqZHVmbTJDTG1RR0p0T25kVFRSck9mRUYzS2tydGJMODlzaUNuQzA5a3M4aGVpekZ1aVVDd3k?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-11-05T15:00:00+00:00",
+      "summary": "日本スポーツマスターズ2026空手道男子組手７部で３年連続優勝した 中村 秀司（ひでし）さん 腰越在住 72歳 タウンニュース",
+      "id": "52882af0d635e3e8",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -967,5 +979,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 75
+  "count": 76
 }
