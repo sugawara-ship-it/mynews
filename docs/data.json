@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-07T22:54:51.145308+00:00",
+  "generated_at": "2026-11-08T00:12:12.608664+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 3
+      "count": 4
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,42 @@
     }
   ],
   "items": [
+    {
+      "title": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超 鎌倉市",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YZFhLVGh1a0V5cThoTVY5dEFuN3RhVlNkbzF4QVlFMEkxMDZwOUh2dHlKelUzMTR2RkRjZTVKQkctdGdId0dROFNTM3EzamZXY2pmbjlCZHZGZk1GR1h6anoxOFdzN2REd0VKcDBn?oc=5",
+      "source": "au Webポータル",
+      "published": "2026-11-08T00:01:25+00:00",
+      "summary": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超 鎌倉市 au Webポータル",
+      "id": "54ec083a1ca69a4c",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "意志力と決意は「黄金」である。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZUExvMWFRR0lSRzZYTjBhVTkyelpfbFd5X1R6SHB2azRHVEtkMlU3QXIzdnpZX0dTNm43bk1GbkhrNTdMMm5RLVpyei1hazJtQnZMRHFWa1JsV3BKaXc?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-07T23:11:43+00:00",
+      "summary": "意志力と決意は「黄金」である。 Vietnam.vn",
+      "id": "900dffe45a634215",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【鎌倉市】鎌倉・由比ヶ浜で「グルメグランプリ鎌倉2026」開催！沖縄×鎌倉交流祭も同時開催 11月8日",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJMHBPUnZqYVVkSU9JMFB1SW51TkkwSVM5OFFCeDAyZFNkX2xIU0JEaUZGelA3dnREM0VpM0d6RGFTeUNicnhNLUR5LXZkSUN4dHlSTXlpM2NYVVkwRmxKNldTNTU4ZTk2Q0hCeA?oc=5",
+      "source": "湘南人",
+      "published": "2026-11-07T23:09:09+00:00",
+      "summary": "【鎌倉市】鎌倉・由比ヶ浜で「グルメグランプリ鎌倉2026」開催！沖縄×鎌倉交流祭も同時開催 11月8日 湘南人",
+      "id": "a186fe333ea09d97",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "外注なら1億円、実際は30万円――Claude Codeで「なんでもできるやん」と驚かれた町工場の中身",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBnRnFJVDFPMHlCenR5QmlNQzJ5RFlROTVHcEpqc01UNnYxYURyaURlVW1ROUEzVnJEdTlnS0s4NVlzdw?oc=5",
@@ -148,18 +184,6 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【鎌倉市】鎌倉・由比ヶ浜で「グルメグランプリ鎌倉2026」開催！沖縄×鎌倉交流祭も同時開催 11月8日",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJMHBPUnZqYVVkSU9JMFB1SW51TkkwSVM5OFFCeDAyZFNkX2xIU0JEaUZGelA3dnREM0VpM0d6RGFTeUNicnhNLUR5LXZkSUN4dHlSTXlpM2NYVVkwRmxKNldTNTU4ZTk2Q0hCeA?oc=5",
-      "source": "湘南人",
-      "published": "2026-11-07T13:25:26+00:00",
-      "summary": "【鎌倉市】鎌倉・由比ヶ浜で「グルメグランプリ鎌倉2026」開催！沖縄×鎌倉交流祭も同時開催 11月8日 湘南人",
-      "id": "a186fe333ea09d97",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -331,6 +355,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "桑田佳祐『九段下フォーク・フェスティバル’25』レビュー あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉と混迷の時代に鳴らした希望の歌",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVWtDdzF3LXo3c2RkRm0wUHVjTGNlUTlwSHp6TXZEcGZJY2oxRGVSRkF3TFQ3cDJrX1BHM25zQ3Q2T0pSdW9xeXFtLXdjWlNXNHc?oc=5",
+      "source": "Mikiki by TOWER RECORDS",
+      "published": "2026-11-06T23:50:06+00:00",
+      "summary": "桑田佳祐『九段下フォーク・フェスティバル’25』レビュー あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉と混迷の時代に鳴らした希望の歌 Mikiki by TOWER RECORDS",
+      "id": "c71a718797d1e81f",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【鎌倉市イベント情報】11月29日開催｜戦場カメラマン・久保田弘信氏の講演会",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43N1NuaElKdFNfcWJnTTVDZXU5UWMzQjI3S2lGSVhLMzliNHhKWGlSNHVXOW14Yjd0UTE5WWZiRFRDc1VlZDlzVjlxRXBXTV85UEY5MWR2RWFqNXlnUkxF?oc=5",
       "source": "選挙ドットコム",
@@ -340,18 +376,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "桑田佳祐『九段下フォーク・フェスティバル’25』レビュー あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉と混迷の時代に鳴らした希望の歌",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVWtDdzF3LXo3c2RkRm0wUHVjTGNlUTlwSHp6TXZEcGZJY2oxRGVSRkF3TFQ3cDJrX1BHM25zQ3Q2T0pSdW9xeXFtLXdjWlNXNHc?oc=5",
-      "source": "Mikiki by TOWER RECORDS",
-      "published": "2026-11-06T20:48:25+00:00",
-      "summary": "桑田佳祐『九段下フォーク・フェスティバル’25』レビュー あいみょん、桜井和寿、竹内まりや、原 由子、吉井和哉と混迷の時代に鳴らした希望の歌 Mikiki by TOWER RECORDS",
-      "id": "c71a718797d1e81f",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -376,6 +400,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【鎌倉市】大船観音寺の観音像がパープルにライトアップ！女性への暴力根絶を訴える運動が11月12日から鎌倉で開催",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zdXc1UmNTb0VLYlFiSWxuYTV2dEdOUTI0MTNxM0IxZGRTNS1RVGlPa000M2ZMazQxTjkzSXdkbS1HZFZIRVpvLWEyRXZBQXgzSFJLTmFtclhqdG80cTg4RTVOeWlsSFBkeExqTXNmZXhQUQ?oc=5",
+      "source": "湘南人",
+      "published": "2026-11-06T10:55:59+00:00",
+      "summary": "【鎌倉市】大船観音寺の観音像がパープルにライトアップ！女性への暴力根絶を訴える運動が11月12日から鎌倉で開催 湘南人",
+      "id": "0e892a1ceb80e5bb",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -595,27 +631,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "深沢中学校近藤友華さん 文化財ポスター最優秀賞 10日から地下ギャラリーで展示",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1Ui00d1N6enpJQ1p0eFZ1ZFJRMHJhTWFrcVlGLTVQM1V5bnJCam1NMTBUTEZ0Q2NockNlV0ctUExZZFVlTlVJUWprMmdGUUwwWk1Bd1hOTnZqa0N0ckxCNjI3RlY?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-11-05T15:00:00+00:00",
-      "summary": "深沢中学校近藤友華さん 文化財ポスター最優秀賞 10日から地下ギャラリーで展示 タウンニュース",
-      "id": "9a813cd188a0353b",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "七里ガ浜高校吹奏楽部 管楽合奏で２年連続全国へ 目標は「最優秀賞」",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DR3FvZlVIWFRWUmpwYnVpSFJWbTYzQUhUNjFsUDRxQnExWlRaTzdhclRnN2ZtaWY3cVRJeFc5TnM4eDdnRXdHZ05aRW9uMlhaWUxkOTdVOFRxTEVLbGp5SUpUdXA?oc=5",
-      "source": "タウンニュース",
-      "published": "2026-11-05T15:00:00+00:00",
-      "summary": "七里ガ浜高校吹奏楽部 管楽合奏で２年連続全国へ 目標は「最優秀賞」 タウンニュース",
-      "id": "6ac89a338d3d461c",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
+      "title": "『クリスマス・キャロル』日本初演、チケットぴあ・チケミーで一般発売中 購入方法のご案内",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KWHVQLXR4RHh3ZnF2WENDV0VkN0dvQ3lTSE1ValZYXzdlYjljOW9udXVoMGZadGl1Um5zd1JtZ25FMjRGRS1mblZseGNqTU1RUGdDR3RKTm5VQlNIczQzVVRqdHpUNFNJbXc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-05T14:54:36+00:00",
+      "summary": "『クリスマス・キャロル』日本初演、チケットぴあ・チケミーで一般発売中 購入方法のご案内 PR TIMES",
+      "id": "36c858ed96058eea",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -715,12 +739,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "大井競馬場再整備で最後の「東京メガイルミ」 近隣在住、在勤学者に特典も",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RMU9yOERmUHhyYVNfUGNOZjQ2VEJxc2pDTWZWa2lhbXlvWlZBQWN1aXFrWnYtN1VfQk1XVmUxV05UbGN2aXF1ZXg4X1hPbS1SZWlWTm1B?oc=5",
-      "source": "品川経済新聞",
-      "published": "2026-11-04T13:16:42+00:00",
-      "summary": "大井競馬場再整備で最後の「東京メガイルミ」 近隣在住、在勤学者に特典も 品川経済新聞",
-      "id": "7107792a9ead233f",
+      "title": "大井競馬場再整備で最後の「東京メガイルミ」 近隣在住、在勤学者に特典も（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3Q1BTU0NDRnQwZmZ1ODBiODRUbnRxVGdqNF9LMTd0QkRVQWNZdXJ2WkhGT05TWmt6TGtSaUJuRzFrTnVSd01VOUlRQUpjUFlTN1kwSDhMOUtOUGVmMzI2NExmNExnTWUtSExwZ0xGd1BfeUxYcW1hcWszMjRKNXM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-04T12:35:15+00:00",
+      "summary": "大井競馬場再整備で最後の「東京メガイルミ」 近隣在住、在勤学者に特典も（みんなの経済新聞ネットワーク） Yahoo!ニュース",
+      "id": "f29157e28638de38",
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
@@ -736,18 +760,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米津玄師「Lemon」MV10億回再生突破 日本語楽曲では初 石原さとみ＆『アンナチュラル』チームから祝福コメント到着",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyaDJ6NjBFWGIySTFEWi1QbkVwZmZKUXl5ZzdxUDBpMi12dl8wN2UtRmdkSmhXdU9aZWZNcUlSY2tkeVU0aHM5eW9jeDdEM0tHR2lWQ1hraFR2TnhRbC1KZXJRd0VsWTRCa0E1RXRqTEdsVmFhWUVBbHMtUXVDS0U?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-04T08:00:00+00:00",
-      "summary": "米津玄師「Lemon」MV10億回再生突破 日本語楽曲では初 石原さとみ＆『アンナチュラル』チームから祝福コメント到着 Yahoo!ニュース",
-      "id": "57e649eae6844438",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -871,6 +883,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "桑田佳祐『九段下フォーク・フェスティバル’25』より、あいみょん、桜井和寿、竹内まりや、原由子、吉井和哉との共演ライブ映像5本を一挙公開",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zdUZORTRabExWSHFiU2t4RkZWTmw4OHUtZGplWTBRX0lrbkxXUlo5WC00am90SzF2TERUUVRGSU51SE5ucG5wQTlWbWRQRXcwTFY4dU12WFE?oc=5",
+      "source": "THE FIRST TIMES",
+      "published": "2026-11-03T03:01:46+00:00",
+      "summary": "桑田佳祐『九段下フォーク・フェスティバル’25』より、あいみょん、桜井和寿、竹内まりや、原由子、吉井和哉との共演ライブ映像5本を一挙公開 THE FIRST TIMES",
+      "id": "ed4c5a7b329e64ed",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "品川・羽田・横浜へ自在な「蒲田」エリアに、新築投資用マンション「RELUXIA蒲田西」販売開始",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1US19rd0hSTWJwdk1yVE5Nc0tVX2JHQTZoNUR6eWNPZDBBdW9QQTRsR0Y3YUFiTHppN3M5d3BucGJReU91Z29MS2ZDSXFkWEdBZHItREFieXctZmx3NWlCUlc2OUVHWC1ETGRFQ2VNNVdidw?oc=5",
       "source": "Infoseek",
@@ -907,12 +931,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "藤井風チケット倍率・当落2026｜ワールドツアー追加受付・ピアノリサイタルのリセール情報",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PenpHU292aURxX3psR29DMGRfVUg1X3JUY19iZWlRZ2Q1VFhDcFhLaTBKdDQ0bndyRkVaRDNDdXBBa2VtLVd3X0EtV29jaU0?oc=5",
+      "title": "藤井風 ライブ2026・2027｜Prema World Tour日程・会場・ピアノリサイタル",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WUkNrVFBzLWFwTkt2b2NZdXZnalY4MnJ2THNFUjZ1MVRsQjZ1b0wweUV5c2IwRGNPU1VrTVdKX1NxYkFwbVE?oc=5",
       "source": "LIGNEA",
-      "published": "2026-10-31T10:59:18+00:00",
-      "summary": "藤井風チケット倍率・当落2026｜ワールドツアー追加受付・ピアノリサイタルのリセール情報 LIGNEA",
-      "id": "937339bcb3f62be2",
+      "published": "2026-10-31T10:52:58+00:00",
+      "summary": "藤井風 ライブ2026・2027｜Prema World Tour日程・会場・ピアノリサイタル LIGNEA",
+      "id": "f594a4a75e86f705",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -941,19 +965,7 @@
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "宝塚歌劇 雪組 東京宝塚劇場公演『ポーの一族』千秋楽 ライブ中継｜10/25(日)映画館にて生中継！",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZaG1EVnpudnJsX2lMWXZnazRwMDJQcG0yMUsyN0hQTjg0b1YzT0dQXzYtZ3hLcWx0WDZtQ2dZdUcyMDUzaVNHWkEtczh4am4tZjQyVWVNd1ozUQ?oc=5",
-      "source": "LIVE VIEWING JAPAN",
-      "published": "2026-10-25T07:00:00+00:00",
-      "summary": "宝塚歌劇 雪組 東京宝塚劇場公演『ポーの一族』千秋楽 ライブ中継｜10/25(日)映画館にて生中継！ LIVE VIEWING JAPAN",
-      "id": "f9d967296c78d5d8",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 74
+  "count": 75
 }
