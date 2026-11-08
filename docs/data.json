@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-08T01:12:33.413794+00:00",
+  "generated_at": "2026-11-08T02:29:04.668722+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -50,7 +50,7 @@
       "name": "合気道・武道",
       "category": "武道",
       "emoji": "🥋",
-      "count": 4
+      "count": 5
     },
     {
       "name": "経済・ビジネス",
@@ -66,6 +66,18 @@
     }
   ],
   "items": [
+    {
+      "title": "特急 常磐鎌倉号 運転",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1reU45S2ZfeFc0cjNMckxVY2d0QzRiWkRWNUxJME92S0trY09YLWZmTG9VQXVDMXliR1FoWjctZDB5SDNuczBOSkYwWVZlbWEzS2pUQ1h6X25NZE5aXzZLb0Zkem42MG5lNDVWTmJwejlpWWJhVVJ1REdrWHBqZ9IBgwFBVV95cUxQVFVpQ1lQcGVYYlVFNG81anlxbmVHRVBXRXd6WjFmSG5RRS1mUnZwTFcyT2VDQ0Y5QUVwMVBTcmZUcVVIT2xvMFZxNWN4eEhyLVJhSUJsSzZRZHpxTUd3ZW4xb3YzUGJKbm5lN0IwX1A5emhQcEd3b3dtQnVDQ2JUY1E5bw?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-08T01:29:00+00:00",
+      "summary": "特急 常磐鎌倉号 運転 ｄメニューニュース",
+      "id": "5337d373365b68b4",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "【鎌倉市】鎌倉・由比ヶ浜で「グルメグランプリ鎌倉2026」開催！沖縄×鎌倉交流祭も同時開催 11月8日",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJMHBPUnZqYVVkSU9JMFB1SW51TkkwSVM5OFFCeDAyZFNkX2xIU0JEaUZGelA3dnREM0VpM0d6RGFTeUNicnhNLUR5LXZkSUN4dHlSTXlpM2NYVVkwRmxKNldTNTU4ZTk2Q0hCeA?oc=5",
@@ -172,6 +184,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米国中間選挙後のAI市場、SpaceXとAnthropicの契約が「AI構築全体の価格を再設定する」可能性＝チャマス・パリハピティヤ氏",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90STFWT21KOWd4ZVBJUG5NaTZZR2FtVk9SZGM3NzF6cXltcXZieUt5Vkh5SkRFTGxaQ1V4c2dUS2U0RU44VFJYZ1MwTTNnQlViNzVKaXBXdFJGZw?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-07T20:08:00+00:00",
+      "summary": "米国中間選挙後のAI市場、SpaceXとAnthropicの契約が「AI構築全体の価格を再設定する」可能性＝チャマス・パリハピティヤ氏 BigGo ファイナンス",
+      "id": "68cdb34f04b7207a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -295,36 +319,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Code クラウド、依存関係とAPIキーの自動セットアップを発表",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYlFCSWRLdmZBN3lRWU5KV3ZBY1VOeWluUnRpVW5DWmpGQTdJdDlNS1BhNjNhX3QzVUNFMFczdFhGa0lTdGxqeWdnTHZYeWpXWEdYQnctWFVWOTlvU3VzOG8weHZYQWNOZHd0M1lVSkRoRmd0cUh1cjBDb2NlazRYQkF3UVI3NEx5X1JfQW1oVQ?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-11-07T09:51:58+00:00",
-      "summary": "Claude Code クラウド、依存関係とAPIキーの自動セットアップを発表 Pasquale Pillitteri",
-      "id": "e85712213e9e6e03",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "AnthropicのIPO評価額1.5兆ドル、投資家は「厳しい」と見る",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDZ0aWdNb3hkdjFXd0x1YW8tb1dDMG1SYU15SWl4LTlVV1NsUjNnNWVaZXZPQmJ1SUt0akVVSUJUSGtmS0xKRjMwUFpUUW1XbEw0UWxtcDRvOFVUTmdyT3ozdmhyY3hnN2lkWEtuWWZMMXNlQVVYTGJCX0N0b3FNWFRXdHo5UWFNa29kMg?oc=5",
       "source": "Pasquale Pillitteri",
       "published": "2026-11-07T09:36:08+00:00",
       "summary": "AnthropicのIPO評価額1.5兆ドル、投資家は「厳しい」と見る Pasquale Pillitteri",
       "id": "53b2453eb88742f8",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Codeがメールアドレスを各Webサイトへ送信、User-Agentのバグが判明",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR0pmNUJLT3QwZEprWVBDV0h3RjQxWjZZY1ZDLWZZYlpEVlVCOWhXMENTR3k0UHA2UHh6dlhabW9vS0tMVXVGQWtvZ21YbUhOSjljM3JGQ29weGJraENQLURLXzB0N1JKTTAxNU5VUGpfU3o5UGhiWVQ0aVRoLV9pUFZmUUtRdW8?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-11-07T09:11:56+00:00",
-      "summary": "Claude Codeがメールアドレスを各Webサイトへ送信、User-Agentのバグが判明 Pasquale Pillitteri",
-      "id": "8d693bdd9e35237e",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -355,6 +355,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "「未だパニックしないで！」――AnthropicのIPO計画、評価額引き下げとロードショー延期の懸念",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJM2Y3M3d5Y2p2TUdlVmZZNGl0RE83THdGbTFPT25UWkRENWNHUnBfOVNQY1FZbkl4UmlZN0tlQUNldw?oc=5",
+      "source": "shiritomo",
+      "published": "2026-11-07T08:35:08+00:00",
+      "summary": "「未だパニックしないで！」――AnthropicのIPO計画、評価額引き下げとロードショー延期の懸念 shiritomo",
+      "id": "73e6f5c0e4e95e84",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "東京都、電気・LPガス価格高騰に最大750万円を支給！11月9日から申請受付",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VVEhMSkdBdkJkbUk4TDc2TVgycGNhVDhEdXVlQmpFREstMzl5WkxSVnZqckVYUlFwMU5wODJaNzVLODhGb002NzVOTl9PTTBYWEdidQ?oc=5",
       "source": "創業手帳株式会社",
@@ -376,18 +388,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【鎌倉市イベント情報】11月29日開催｜戦場カメラマン・久保田弘信氏の講演会",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43N1NuaElKdFNfcWJnTTVDZXU5UWMzQjI3S2lGSVhLMzliNHhKWGlSNHVXOW14Yjd0UTE5WWZiRFRDc1VlZDlzVjlxRXBXTV85UEY5MWR2RWFqNXlnUkxF?oc=5",
-      "source": "選挙ドットコム",
-      "published": "2026-11-06T21:02:39+00:00",
-      "summary": "【鎌倉市イベント情報】11月29日開催｜戦場カメラマン・久保田弘信氏の講演会 選挙ドットコム",
-      "id": "3de7f1f96e63f214",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -631,12 +631,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "日本スポーツマスターズ2026空手道男子組手７部で３年連続優勝した 中村 秀司（ひでし）さん 腰越在住 72歳",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UTVo2a0wzZEhzZy05dlk4c2MxMnlMUjZOT2dULXFVVGgwOHRIdGpqZHVmbTJDTG1RR0p0T25kVFRSck9mRUYzS2tydGJMODlzaUNuQzA5a3M4aGVpekZ1aVVDd3k?oc=5",
+      "title": "深沢中学校近藤友華さん 文化財ポスター最優秀賞 10日から地下ギャラリーで展示",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1Ui00d1N6enpJQ1p0eFZ1ZFJRMHJhTWFrcVlGLTVQM1V5bnJCam1NMTBUTEZ0Q2NockNlV0ctUExZZFVlTlVJUWprMmdGUUwwWk1Bd1hOTnZqa0N0ckxCNjI3RlY?oc=5",
       "source": "タウンニュース",
       "published": "2026-11-05T15:00:00+00:00",
-      "summary": "日本スポーツマスターズ2026空手道男子組手７部で３年連続優勝した 中村 秀司（ひでし）さん 腰越在住 72歳 タウンニュース",
-      "id": "52882af0d635e3e8",
+      "summary": "深沢中学校近藤友華さん 文化財ポスター最優秀賞 10日から地下ギャラリーで展示 タウンニュース",
+      "id": "9a813cd188a0353b",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -919,6 +919,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "第10回全国スポーツ大会（2026年）を楽しみにしています。武道家ディウ・リーの輝かしい活躍を期待しています。",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGpWUEw1Ymt3MTdLQW5fNjZkc0NaVi1oTzItemFwbTVtb0pFS2R1cmk0SkhNczBreG9HYWJjTTNtbkRmUzFnYTB6VUVPQ09LNWJib25TMjFvM2RZc3c2NVdvdVFFRjdOZEQ1YTdXYXhMelpNZWJzQWxheDNiSFNTM2pXd1hydFhTREh2TDczUHlFWk5xZFNYelVQemdNZ2lWeFBtU2NCZw?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-01T23:30:14+00:00",
+      "summary": "第10回全国スポーツ大会（2026年）を楽しみにしています。武道家ディウ・リーの輝かしい活躍を期待しています。 Vietnam.vn",
+      "id": "50d31a1c2f572a74",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「やさしい日本語講座」開催",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GQkRnSC1ZV1A0ekRuUzY1RFRfcE16R0RqeFpkLTFTNXhIVWNFLUFIQU1JMjRuNVcwOGtVOWFzSDFFWmxqajEzZElpeE1zbm5vZ0ZUWU5CR1dDa01HcDdTMmdXYm5GSWMybThiLV94Zk14YVhrR0ExVjdyaTI?oc=5",
       "source": "www.city.shinagawa.tokyo.jp",
@@ -979,5 +991,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 76
+  "count": 77
 }
