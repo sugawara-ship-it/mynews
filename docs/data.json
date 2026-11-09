@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-09T21:13:54.843422+00:00",
+  "generated_at": "2026-11-09T22:14:14.974946+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -56,7 +56,7 @@
       "name": "経済・ビジネス",
       "category": "経済",
       "emoji": "💹",
-      "count": 12
+      "count": 11
     },
     {
       "name": "テクノロジー・AI",
@@ -66,6 +66,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pRkJwQzU3Q2JNdWNmZmxxaEdYUUgweW8wN0Y3NGFnaWZ0Mm1nN1hiazBBMGdRakh6emdKVXlzXzEydUNiM3UydXBsaEFsY2NrVlZPZXd2VDZPbTdQV0tIamZSN2lSUXMtdGc?oc=5",
+      "source": "ITmedia",
+      "published": "2026-11-09T22:03:56+00:00",
+      "summary": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化 ITmedia",
+      "id": "fa43d568aa8a303f",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「Claude Fable 5.2」登場、出力速度を最大30％向上 API料金は2割値下げ",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OakdTQXpMRjVwYlFid2swLUZyQW96X3A0SjJqNlEtYktCY2M3NExBckpCd0tGZFFDaENCNi11cEQ1ZjV2UWdCMldTQUtObGV6dUE?oc=5",
+      "source": "CNET Japan",
+      "published": "2026-11-09T21:12:00+00:00",
+      "summary": "「Claude Fable 5.2」登場、出力速度を最大30％向上 API料金は2割値下げ CNET Japan",
+      "id": "510a79e0bee4f35a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "Anthropic、新AI「Claude Fable 5.2」発表：1000体のAIエージェントが協力し、わずか8日間でOSを開発",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DNHBISXlBUlZncTBhVFRBcVJNVDZpMHJ1Q1JPc3ZNX3RGcWNrV1o1UnBxdWNSMEU4VTZVa253Q1ludXpZRkdhYldxNm5zTmx6Yy1La2tBbzdOU29TUWZfQzh0TExJWTVZQnpKbVVNYmFjMkNJendxUWw2QQ?oc=5",
@@ -85,6 +109,30 @@
       "published": "2026-11-09T20:37:28+00:00",
       "summary": "Anthropic、Fable 5.2とMythos 5.2を提供開始。価格は20%安く ゴリミー",
       "id": "7af4a093064fb6f0",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AI動画 画像生成プラットフォーム DomoAI ドモエイアイ MCP & CLIを提供開始 Codex Claude Cursor と連携 AIツール上から動画 画像 音声を生成が可能に",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lTEpjWlpITHdYc2hxb0t5UWtHb1FRdGpBcVRwNm9Bblh0WGxTdTVlMWViZjZTTjlDR1E5YnNzd3FMdGx1cTBlcHNqbw?oc=5",
+      "source": "ガジェット通信",
+      "published": "2026-11-09T20:36:59+00:00",
+      "summary": "AI動画 画像生成プラットフォーム DomoAI ドモエイアイ MCP & CLIを提供開始 Codex Claude Cursor と連携 AIツール上から動画 画像 音声を生成が可能に ガジェット通信",
+      "id": "32f43e4f2b234b2e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Cisco、制御されたレッドチームテストに向けてClaude MythosをAI Defenseに追加",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWltLVlHZkljUmdkLWZDdmlnUFZ5MU4ySElLQk0zYXM1TFpjTEhLOTdvZkMxVFdwUFh2T0ZRaHBsX1lQSkk4WDZKT3d1clZFaDFfeWZnRWYyN2RQRmRYOFozU0tLbjd1YmtjLXdjUExWMjJtWVBiWW03UFlHd3piUG1KTGROOHRIbXpXa0tDUVg4ZzFQeEVB?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-09T20:25:02+00:00",
+      "summary": "Cisco、制御されたレッドチームテストに向けてClaude MythosをAI Defenseに追加 Unite.AI",
+      "id": "e8e319e609cda3d6",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -169,54 +217,6 @@
       "published": "2026-11-09T19:06:00+00:00",
       "summary": "AnthropicがIPO前に新AIモデル「Fable 5.2」と「Mythos 5.2」を発表 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
       "id": "c8d6ddfec07efc8b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "IBM、Claude MythosによるスキャンをConcert Protectに追加する計画",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVl8wUnhYN1c1TmNDbHRMU1VQZW9tT0F3UkZzY0c3UXF1c3NlRjlGS0tHTFVhYlI4UzFzOGxvM1FQUUp2UkV3bFRGODNFUExWM3B2MWJBVWFkemw4VlhjZEF0bGRBLWF6Rm5BNWhQZURSRnNobWlOY1JtdlQxdVRVTXl4bGhiS0ZtQkh3?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-09T18:39:02+00:00",
-      "summary": "IBM、Claude MythosによるスキャンをConcert Protectに追加する計画 Unite.AI",
-      "id": "b15f9816378aff09",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Codeの設定ファイル、公開GitHubリポジトリでパスワードやAPIキーが流出",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qWFRMVGFKaEhmT0E2ek0zMXp2OWdhMERsQ0YwdUI1VGwtSkswOWhfcHFhVU9Nb05WaUtSdmdfUTZ5Q3d2aWR3dmRVajUwS1JXSFllaGxVSGczMWxqZEtyRmdCa0NDR0pDSlFacFdtb191TXEt?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-09T18:35:00+00:00",
-      "summary": "Claude Codeの設定ファイル、公開GitHubリポジトリでパスワードやAPIキーが流出 BigGo ファイナンス",
-      "id": "2a7053e994f424e7",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AI向け電力の確保が難しくなるなか、Anthropicがガスタービンの購入を計画と報道",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbGZqVWRObWtQZVZDOXhjakpHaHdXZERrVWd0WkpyUTBkRXk2cHRBOS03ek9jOF9OLUFYMGFKaFN3cDJvV0M1c0JFY0Jfam9idGVTS283eUhRV3o2RFQza0x2WVRERUhzTjE0dG5IakRmMTE5a25BVE1LeXJHWGhGdXVCdG5ZVlFKVTRwbjF3a2FmR1FfMEE?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-09T18:16:02+00:00",
-      "summary": "AI向け電力の確保が難しくなるなか、Anthropicがガスタービンの購入を計画と報道 Unite.AI",
-      "id": "a5ddabdd0a934de6",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Chamath: SpaceX’s Revenue From Anthropic “Could 2 to 3x” as the Data Center Freeze Bites",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVZ1Z1NLN1l4TXNXLTY5UjB0U1l1N2ZKY3ExOWdkVWhwM3NtcUJla19sRzRnQW0yMGZRdWE1dEdDUTRaR084bUVqSU5OVkhhUldINmgxU1NmTHk5aWFWWWxzR2lUTHItRk9fS2VHV2E2aHNaU1Y3N01oWEl2aDNpYm5EdnhyTlpDdERpbHlGTUxPWFllOE10Q3cwRDhWV09kZXgyN0V6Y0M2Ui1NNWNuZ3Fod2s?oc=5",
-      "source": "TIKR.com",
-      "published": "2026-11-09T16:17:41+00:00",
-      "summary": "Chamath: SpaceX’s Revenue From Anthropic “Could 2 to 3x” as the Data Center Freeze Bites TIKR.com",
-      "id": "8948a18bdce0b33f",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -352,18 +352,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "債券11時 長期金利、2.695%に上昇 米債安と株高で",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wRUFSQkwyRnZnLUd2UlgzTEtCWUlOMWlPcENUMXQ3dEdVYVhsVWJQQWJxNE1aZ0lxM0hGMy02WGpmMVdGRldmVjdhUERJSXh6Y0ltbng2Uld2aENKTUFVZGVYUWFST2phak8xNA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-09T02:23:26+00:00",
-      "summary": "債券11時 長期金利、2.695%に上昇 米債安と株高で 日本経済新聞",
-      "id": "c3b43ad3eb1b801c",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -967,5 +955,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 75
+  "count": 74
 }
