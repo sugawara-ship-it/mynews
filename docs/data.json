@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-09T01:51:36.099780+00:00",
+  "generated_at": "2026-11-09T02:52:42.065560+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -67,15 +67,75 @@
   ],
   "items": [
     {
-      "title": "ジェネロ、中小企業庁「デジタル化・AI導入補助金2026」のIT導入支援事業者に採択",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxY0NDekZDX2V5cnBXcC1vZG5jemM2Vm5pOWpNdmpsbElGTXFFTmV1aVhvWF9wMnA5VWlSVlVseFpienhDNXl3RGs4WFBXaWZqNHhsNlpBcGJ1NXJYTnREWVVZbnJsdWlfcmlZcXBmNEtPZ0NVM2docVQwYw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-09T01:45:42+00:00",
-      "summary": "ジェネロ、中小企業庁「デジタル化・AI導入補助金2026」のIT導入支援事業者に採択 ニコニコニュース",
-      "id": "02143ed74db14491",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
+      "title": "Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IX0FKWFRrMVdUaDliWXEtaG02eHU4YUtMRTA5cGdDOERlNF9LT3ZkNnZfMTBGZjdFNU1nbjlHSkxOazV6c25ycmlEM2NiMjZOUEJ3UmRGcmVkaS1MaFU5MmhPSWFFeDVUdXBGamZR?oc=5",
+      "source": "au Webポータル",
+      "published": "2026-11-09T02:43:00+00:00",
+      "summary": "Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる au Webポータル",
+      "id": "b0e1efbcc206ca65",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropicが26日までにIPO実施へ 時価総額下振れ観測",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Oa2hZN3k3ak1XSGp3RnNfTHptSmV1RGlmZHg0Y2RzQ296X1FSTzE0RWtDZHJ2UEk4SmN2T2pkbDk2Zi02anJHMUc0alhZUEl1SlQ5Mm9HVnVtQ1pnNEdmTFEwX1AzMGN6ZVJNWnRBV2piQ3pLdGNOZXZn0gGOAUFVX3lxTE5EMHY5b3JBc1UySjNkZElQdzVOY01oX3kyVjQyYUhJTk4tWGlkNzV5c3ZtNU1hR1B5VUhhUWdFTUFLYUN4Y252X250WGNmMmZPLS1zTUFxalJCS1lXcURCUE9lMlNpZE9qbTUxSTJ5VFVHc095VVZ6Q3puZXBhSGphOEdBcjRib01vdE8zb2c?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-11-09T02:37:00+00:00",
+      "summary": "Anthropicが26日までにIPO実施へ 時価総額下振れ観測 Chosunbiz",
+      "id": "d7f63f0592056571",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropicがガスタービン1.7GW確保",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1U1J0UmdScEtuNng1VGxScjFjRHdqTi02WFB6MXVVTlZQeWxoeFFtcUJYdkVCUHpGanJyQVFVaUhkYmtWRDJCcEVQeTJPTndmcTVnRDl0Z3ZoU0tlLW9DOGNSQnB5N2gwSC1pT280alV4MERXWU8wQjRR0gGOAUFVX3lxTE9oVk1QQUNIaUtfRVpmUldROVVaaU1tWTFEcEFlSU9qejFNbWFqdF94YkNyMS1EZFVyZk8tSFlQVGlWbkRlWUxkNF82bFdGYVhQVjJfVjV2R3VTQlQ3Sm1FZlRzXzd5d2cxLXFldGxPVWFHeWZ5YThuMkFGaUtXVHZfVGRQZ09TY2FveDlxY2c?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-11-09T02:35:00+00:00",
+      "summary": "Anthropicがガスタービン1.7GW確保 Chosunbiz",
+      "id": "8108fe6aab95ad8b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「東武鉄道 presents ANIMAX MUSIX 2026 supported by Lemino」11/20・21に横浜アリーナで開催",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUSlJiR1p2SDExUERyakM3bWxwTXl2OVBIZE1oU2RLa2xXV1hEVWVfamZlVW9peXFhWmVPNUtrQWMxdkRrZGdj?oc=5",
+      "source": "MEDIAMIXI",
+      "published": "2026-11-09T02:14:41+00:00",
+      "summary": "「東武鉄道 presents ANIMAX MUSIX 2026 supported by Lemino」11/20・21に横浜アリーナで開催 MEDIAMIXI",
+      "id": "ebdebfd8aaeb7410",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「カマトトぶってんじゃねえぞ」米津玄師 『Lemon』MV再生数10億回突破のコメントにBUMPファンらが反応したワケ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55R0ZuYmU2WnRUVC1Na1dWREZfR003UXZ5WmdwSVZQVFIwVjZHclRoY0RXXzFyQndTMXkwNnBYdDhfbHlrczhVdmtVMFQ1cWJjZWEycnNEM29tNjNQMEd3M084WEhXdzJ3QUpoQzhwN0c?oc=5",
+      "source": "女性自身",
+      "published": "2026-11-09T02:00:00+00:00",
+      "summary": "「カマトトぶってんじゃねえぞ」米津玄師 『Lemon』MV再生数10億回突破のコメントにBUMPファンらが反応したワケ 女性自身",
+      "id": "b581c257f8099783",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、AI株売りを突破し感謝祭前に上場強行…企業価値1.7兆ドル台",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fb0hYT1ZwN1B4bGU3TktVMXdKaXZjTmdjVEIwZ1FyLXRXM2cwZ01CTmx1X2dMWnFzUmQwU2JiZlVpUGIyUG1VTU03NlQza3JvM2h3WDNEWS1vY3dvb2RSaV96RXdfRElOMXo2V1pEaU9GdlZV?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-09T01:56:00+00:00",
+      "summary": "Anthropic、AI株売りを突破し感謝祭前に上場強行…企業価値1.7兆ドル台 BigGo ファイナンス",
+      "id": "65d57dfb2b26f2ac",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -136,6 +196,18 @@
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ジェネロ、中小企業庁「デジタル化・AI導入補助金2026」のIT導入支援事業者に採択",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FRTRyZjU1b09DSV9PVms0WmY5T2huc0hLazF1aHpKd2tMWVdPMlptUGFNQ3otcEp0bXdYUG5CNUxvbWJpYmJxYUtRWDVyZ3dXRlpKUEl5ZU5lQ2NTQUJxY0Y0a2FyR1VueUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-08T23:30:01+00:00",
+      "summary": "ジェネロ、中小企業庁「デジタル化・AI導入補助金2026」のIT導入支援事業者に採択 PR TIMES",
+      "id": "02143ed74db14491",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -247,30 +319,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Codeは正しく見えたが80万ドルを見逃した——AlixPartnersのNatalia Connolly氏とKevin Madura氏｜AI Engineer",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80Y0R1VXBDQW9uWVFadmdac2JMOWdPRklxOUtmZExGYXhPLVpubkh2WUFTa1FrTWVrQ0x4akJpdEtLdGNqZ01MM3NUYTlYVmVfdWg4LUNnNVpTNTRTTkE?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-08T18:45:12+00:00",
-      "summary": "Claude Codeは正しく見えたが80万ドルを見逃した——AlixPartnersのNatalia Connolly氏とKevin Madura氏｜AI Engineer BigGo ファイナンス",
-      "id": "be7a477c8be7495b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、34億ドルでガス発電機の「順番待ち」を飛び越える AIの電力確保へ",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0tUWUNnQ016TjBUVTMtY3BfNHNnT2RxLUJDcEVMY1hsOTktemtNeXZGVVA5N18wMXkxQjVqeTZBVnI0VkxvRU82VTB0MEJFTUdkZVNOVEFUajJlRTE5ZzFfdUxpUnRkN1hwUFZuOU9GMUlTb2E4a1hkcDZ1bHBzRUZ6QzdPa0dTWnJPUV9JazNfQzhBU2ttNE1uZkNZTTdjbVdScmFNVFdUTXlyaFp5MTlxMmVLTTN3NDE4UGNjYUdYX1NadDZFNTZ3?oc=5",
-      "source": "Martin Cid Magazine",
-      "published": "2026-11-08T15:08:16+00:00",
-      "summary": "Anthropic、34億ドルでガス発電機の「順番待ち」を飛び越える AIの電力確保へ Martin Cid Magazine",
-      "id": "fadbfa85c987e7ec",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "３００の菊が咲き誇る 県立大船フラワーセンターで11月23日まで菊花大会が開催中",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yVXVsUThWbkR2Z0pjWXZoZWo3YURkNFN6UHV5NDlTWk5WeTBRV3pTTFk3LTZlWTJfOF9sMGJ1aDI5dlRZeXlxMUk5bjRFVHUwVHoxVGp5MjF5a0tjc0h6VEdodF8?oc=5",
       "source": "タウンニュース",
@@ -292,30 +340,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "正式リリース前のQwen-4、Claude Opus・Sonnet 5.5を同時に上回る――第三者ベンチの結果に",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5OaERhQ1pWUVdXem5PSkV2VFZMR19Vb3RHT3lzVFNERTZHWGZxQTl4UnI5Mi1wYlNkQ0h5ajlJWEhpdw?oc=5",
-      "source": "shiritomo",
-      "published": "2026-11-08T14:31:32+00:00",
-      "summary": "正式リリース前のQwen-4、Claude Opus・Sonnet 5.5を同時に上回る――第三者ベンチの結果に shiritomo",
-      "id": "fffbdc395807662a",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AirPodsのヘッドトラッキングでマウスを動かすツールが公開｜Linux用 AirPods 3にも対応しClaude Codeが解析【海外ニュース】",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nOWFHQ2lJUkpiYUw2b2dFZGV1Ujh1blJZeGJGdEV0YVFNRmtKdkI4R3hYamdfVmNvZWNXY2t2cDBtZno2QTlzSlFWT2Y?oc=5",
-      "source": "スマートウォッチライフ",
-      "published": "2026-11-08T14:20:23+00:00",
-      "summary": "AirPodsのヘッドトラッキングでマウスを動かすツールが公開｜Linux用 AirPods 3にも対応しClaude Codeが解析【海外ニュース】 スマートウォッチライフ",
-      "id": "0b5dbff86f74329c",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -727,18 +751,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【2026】GLAYセトリ！ARENA TOUR 2026-2027 “EXOFIRE”のライブセットリストを随時更新",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EU2M4VEsxYXZUX0xfYnd6UUtCNGtHM250RkZ6MmU0aHZPVXp1SXlkN1k3UWJJMVFqNTlyR29ZRTR2WkhjdGpTY0daMHhQX01aZ2VCYjZvTFVoMWVJX1FzWS03SXpSbnBndG5MS2JGVUJMR2FDS21vaQ?oc=5",
-      "source": "UtaTen",
-      "published": "2026-11-06T03:55:46+00:00",
-      "summary": "【2026】GLAYセトリ！ARENA TOUR 2026-2027 “EXOFIRE”のライブセットリストを随時更新 UtaTen",
-      "id": "0749b0c0487b20e9",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "第48回 荏原第四地区子どもまつり(品川区民まつり)を開催｜品川区公式ウェブサイト",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlBEdmlrZWhxb2RhanVMR2wxQXJFU3pobFc3OWtsV0RtZGhQYVVWd0p4dTdmNlhzV1h0SlZmekFULVFVWmJQbVRVVGo0b25xR05xX0ItUkd4MHQ0cHBfX05PNUc4VURFUGdMU2MtTkNWWDZsQ3FqaDR1UDNMSzlMUmw3S3NaVHVvTlJLNEdQbTZIeDZ5?oc=5",
       "source": "www.city.shinagawa.tokyo.jp",
@@ -800,10 +812,10 @@
     },
     {
       "title": "米津玄師「Lemon」MV10億回再生突破 日本語楽曲では初 石原さとみ＆『アンナチュラル』チームから祝福コメント到着",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44VFA2WVVIZ1BiTDU1Z05xVVl6WjNlVzRyNk1YNWpnY0JXVFIzaDlEXzZ6amhQYnRZeHo3cEl3S1lRUGJvaVhVZEl6MUwteGs?oc=5",
-      "source": "クランクイン！",
-      "published": "2026-11-04T08:02:12+00:00",
-      "summary": "米津玄師「Lemon」MV10億回再生突破 日本語楽曲では初 石原さとみ＆『アンナチュラル』チームから祝福コメント到着 クランクイン！",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyaDJ6NjBFWGIySTFEWi1QbkVwZmZKUXl5ZzdxUDBpMi12dl8wN2UtRmdkSmhXdU9aZWZNcUlSY2tkeVU0aHM5eW9jeDdEM0tHR2lWQ1hraFR2TnhRbC1KZXJRd0VsWTRCa0E1RXRqTEdsVmFhWUVBbHMtUXVDS0U?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-04T08:00:00+00:00",
+      "summary": "米津玄師「Lemon」MV10億回再生突破 日本語楽曲では初 石原さとみ＆『アンナチュラル』チームから祝福コメント到着 Yahoo!ニュース",
       "id": "57e649eae6844438",
       "category": "音楽",
       "topic": "推しアーティスト",
@@ -847,36 +859,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "画像・写真 | 米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福 5枚目",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQWRvTnI1U09HUm9HU1F3dk4zcFhHdU1Sem1iTjVBUFJudzEwTEVXOGVuU0dmZlE1RVFaZjBLd0tqb0VpSzVNYVR6VnFNcnJJZnZuMGxwSkd6QQ?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-11-04T02:49:25+00:00",
+      "summary": "画像・写真 | 米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福 5枚目 オリコンニュース",
+      "id": "5b490e6a96d2c380",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福（オリコン）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xVERNYVdVQXBYNmJOOE1MNVR1dUZUWHFMS0hsSDJzSExJVWJ2cEZRaWZTQU8zTVJvS25Ha2dPa1BvUXJ0OU5rTDFPTC14V3oxZUVkWDNPRGdzQUloZkZzcllmd3AtMEZ1VlVkckV6ME9RZ1JrQldqekJQYmZjOVk?oc=5",
       "source": "Yahoo!ニュース",
       "published": "2026-11-04T02:45:00+00:00",
       "summary": "米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福（オリコン） Yahoo!ニュース",
       "id": "abde68f26b5c45c6",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "桑田佳祐",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0NpQlhkOXBBSTF3Sng1c1RNUURlbFh1azMxb0tOUXdJZG54ME92ZTAtRWhrZTV4cVJ5UnA3emZnTm8wYW5yMUw5dWpWcTNOMC1CVm1LcXk0d3NBU01UcVQ4ZFY2UUxWcGUzWmUyZ0FwTjJwTnRBellScUxsbmZESU1wT1V3S3FlWWtvVUhB?oc=5",
-      "source": "USENの音楽情報サイト",
-      "published": "2026-11-04T02:12:53+00:00",
-      "summary": "桑田佳祐 USENの音楽情報サイト",
-      "id": "054ff806822c28e3",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「Lemon」MV 10億再生突破",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QcG01MVFCWGd1TDkyVWp4TnNFNHFISlRiWWU5R1dMa0JRa01tdTh5czk2Wk1UQ2R5YlNfdnNPejZMd3JPNkFTMS1POC1QRDJWYkcxRTZTbzhkenlZMjRNU1Y4Qk1zTFFvQlRaOFMzUDZMVk96SExwaURpLWlRUlk?oc=5",
-      "source": "米津玄師 official site「REISSUE RECORDS」",
-      "published": "2026-11-03T23:02:36+00:00",
-      "summary": "「Lemon」MV 10億再生突破 米津玄師 official site「REISSUE RECORDS」",
-      "id": "5ca16f958b4831ef",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
