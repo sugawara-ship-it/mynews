@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-09T20:13:34.609085+00:00",
+  "generated_at": "2026-11-09T21:13:54.843422+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -66,6 +66,66 @@
     }
   ],
   "items": [
+    {
+      "title": "Anthropic、新AI「Claude Fable 5.2」発表：1000体のAIエージェントが協力し、わずか8日間でOSを開発",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DNHBISXlBUlZncTBhVFRBcVJNVDZpMHJ1Q1JPc3ZNX3RGcWNrV1o1UnBxdWNSMEU4VTZVa253Q1ludXpZRkdhYldxNm5zTmx6Yy1La2tBbzdOU29TUWZfQzh0TExJWTVZQnpKbVVNYmFjMkNJendxUWw2QQ?oc=5",
+      "source": "XenoSpectrum",
+      "published": "2026-11-09T20:38:07+00:00",
+      "summary": "Anthropic、新AI「Claude Fable 5.2」発表：1000体のAIエージェントが協力し、わずか8日間でOSを開発 XenoSpectrum",
+      "id": "05ee7c08943518aa",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、Fable 5.2とMythos 5.2を提供開始。価格は20%安く",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1IUUJmZlRGWE9tczVGYTc0eUoteWNEZXlJWU94ZGp3UWxZS2NtMVZMQW1hdktYcWdDck5XUVpn?oc=5",
+      "source": "ゴリミー",
+      "published": "2026-11-09T20:37:28+00:00",
+      "summary": "Anthropic、Fable 5.2とMythos 5.2を提供開始。価格は20%安く ゴリミー",
+      "id": "7af4a093064fb6f0",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Ｎｅｗｓモーニングサテライト(テレ東、2026/11/17 05:45 OA)の番組情報ページ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc1U1T0hiUGs0cXEwZXpRYnNXbk1fWmczUWZlMHdHU2o0cDRXQmI2MmFiWDRjSVlKankzQ1FONU53ZjgxYkRJaUozTkdnSWRGOEl4RjhTUkQtSm9hbkRsckpsOGtMcG15RDNoQWlNN2Q0djlWWXJIbTV2d1hXaEZKODQ1Y2dkN3lSREl2NUFMTQ?oc=5",
+      "source": "tv-tokyo.co.jp",
+      "published": "2026-11-09T20:17:07+00:00",
+      "summary": "Ｎｅｗｓモーニングサテライト(テレ東、2026/11/17 05:45 OA)の番組情報ページ tv-tokyo.co.jp",
+      "id": "9bfa569e15fcad4f",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claudeの契約者にFable 5.2の無料リセット、最大3回",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXZvMmNvSUxBT18zOFRFZHZvLVlVXzNOSktMMEVWbk5oZWlyWEg4X3d0ZnhsNjJNM0Z5UC1pU2xZSV9XaTVULVBlelpxTHo2YkZzcXI1cXhrSk50SFZtN3VoM0pQVlRXRzh1MVBtMmFsZjVHb0s4N293Wmdqb29icWUxbw?oc=5",
+      "source": "Pasquale Pillitteri",
+      "published": "2026-11-09T20:14:37+00:00",
+      "summary": "Claudeの契約者にFable 5.2の無料リセット、最大3回 Pasquale Pillitteri",
+      "id": "8441b9bc4d4527ae",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Codeにより、公開されているGitHubリポジトリ上で数千件の認証情報が流出しました",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcWNYSi04d3gwcEoxcEVSdUFadXIyVmhVUGxzUW5hOHpMZENQOU90ajNZMUxtd3ZjYWI3UFBVcmdzS1lnTzVqTHR2VHh4bG5BR09ETWlmQ3lpbmM2T0Nubms2aFNCMDNUMldleDFycTZyYVQ0QjVNY3NPZDNSUVVlRFdYM1o3Z0d5Qlo5aFM1M3J4dkxCdjhsYlFPT0thdVd4VEdvV01Qd25DajJKTEdVREZrMVl3MVZuS1FOWFcxSmh2cFJnVVpPcHo2ejE1UGZsNmd6cXd6SThDOUdvVXc?oc=5",
+      "source": "news.lavx.hu",
+      "published": "2026-11-09T20:12:20+00:00",
+      "summary": "Claude Codeにより、公開されているGitHubリポジトリ上で数千件の認証情報が流出しました news.lavx.hu",
+      "id": "1a4c2c44a9d6f8f5",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "Claude Fable 5.2とMythos 5.2が登場、価格は20%下がる",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91VHhNSC1GVk9HSkVwWWZZamFJS3FjLWFrYi1hUWJiQnJhTXFUd1VqY2tOc25idUxvY2M0UlFMbWpyRG9sd2liRmdrWndzd2xycjF3eExYM0N5Sk9aUTJSOWs1dWlUa1NRSjdJV1R1S2tQVzVWeFFaUWJUUG1ZTW8?oc=5",
@@ -163,18 +223,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropicは、画像や動画制作にAIを用いることを拒否し、代わりに企業向け分野に注力することで、独自の道を歩んだ。",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRE4wckhId190eHgtSWZsOXNlbmJMTEhRc2EtOFBLazBWRHdWTm1SUkZ3NGpydGh1UWdVMHoyYnNmUmxWMkl1enltXzZXUURuXy1pRVRyNzlMOGhNS053alF1eG50OUxZYmsyUHZQTkMtQ3FnN0tCdVpBX0xSdjZmRkJUYVNuVU85eEZZNVo4STNlQXN6aWNjZDBmeUxQZXJJNGwwZHdKYzdVQzItNGlKQ2NZQXZQeFc3X2V1TGlmdDlIb0gxYzRvWQ?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-09T15:54:46+00:00",
-      "summary": "Anthropicは、画像や動画制作にAIを用いることを拒否し、代わりに企業向け分野に注力することで、独自の道を歩んだ。 Vietnam.vn",
-      "id": "6b5cdf003afc0f12",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "五感で楽しむ未来の健康 11月21日に湘南アイパークで「新湘南ウェルビーイングフェスタ」開催",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04RTF1SGFBWWxYanhEdmxQLVRYdUFoV1gtMUpYeUFZQ1FVRjB0WTNfSlZKRDUwcVJrQVVZeDFoemFCV1ZmamxNU2U4b2F1WEtyOTBFczYyaXpNZG1DUi1MbzlVLUw?oc=5",
       "source": "タウンニュース",
@@ -184,30 +232,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicがIPO申請、驚異の売上継続率 AI事業の持続性に懐疑の声",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnNvdzRLTURpVm5odkF1bVJSZEV3b3Q1b05waGM2MGY0a2o5Tm5hdF9sZTNJdWlZWTdPdHY4WE9UZGkzZGNfVzUzUmtCcDZnQWpCOC03eFdjMHNwLUNuZnY5Mzc0XzRnX0N1aWpkSHozeU93djdfV3pzX0lkQTlhelhkZDdwU1NGRUxn?oc=5",
-      "source": "日経クロストレンド",
-      "published": "2026-11-09T15:00:00+00:00",
-      "summary": "AnthropicがIPO申請、驚異の売上継続率 AI事業の持続性に懐疑の声 日経クロストレンド",
-      "id": "1d0d2d088ff9c623",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Codeの設定ファイルからGitHub上に何千もの認証情報が流出",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmItNnJmRzdHRERZZmRRVWcwS2ttY1pBWFB1cHk4aVpvY0duc3FVVUthV0szMzlzLVhlUmt3YlhaSTMyLWJnUTFrTGN5UjZOZkZQVnNGWmx6ekJCYXdoaWpQNURYMTljNlp2TTFtV1JqUzhxM3VOQm5aZWlydHBLaHVIOE1Md3ZRdEpzNUhtQjhNZ0wxdGEteVQ0VUEwTXFZVllTNA?oc=5",
-      "source": "Mezha.net",
-      "published": "2026-11-09T13:05:00+00:00",
-      "summary": "Claude Codeの設定ファイルからGitHub上に何千もの認証情報が流出 Mezha.net",
-      "id": "970e13d79cec5b24",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -244,18 +268,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "事業部門主導のAIエージェント「Claude Code」活用マネジメント研修を11月27日に開催",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaSnJOenRqVGt6ejFMbThmZDlHdl9FZzBjTThBWHpadkNyLXAyc3c0Y19TUWJiUGNuZ3FrSHJkUFhTN203aTQyVFJNNkQ4VUh2UWxKNEVZTkdaSHpoUlViaVNIVnJyc09kTTUzUTlRRHhUcEpJMHZLZDNoQQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-09T10:30:33+00:00",
-      "summary": "事業部門主導のAIエージェント「Claude Code」活用マネジメント研修を11月27日に開催 ニコニコニュース",
-      "id": "cd69e1493b14c8c2",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -607,11 +619,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉市シルバー人材センター　草刈りで地域貢献10年超〈鎌倉市〉",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXpBeUVHZXlhMVpacTVpZTdRdlhCWmJMbjFwd3FpX1BRNzBiUlMtOG9MSTlWdUJBS2kwQmpIU2JGTDZ0aXlodHZGdzNMU25NZ1IyU1JFTE80cG5ueUcxRXdGNVVIamN5cjFITmdoU0dSZy1wRm1faG1aNktCczZUdWpTYWxrN1RBZ0c4NjNn0gGAAUFVX3lxTE5uV2lkNmtkN1A1U2tMVW9VXzZxM3ZEaG9iVFFuSDlzMHVzb2J0M3N0OE5NVDNPVmJPQ0tVNEFscGJ0Sy1IOFZGREwteEg1V0JwcGFDSjU3ZkZxM0tUWnoxQjlwZWs5dGZOLXYtS2cwZEptaEl6VEMwU1FZQ1NyNkMz?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-11-08T00:00:00+00:00",
-      "summary": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超〈鎌倉市〉 ｄメニューニュース",
+      "title": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超 鎌倉市",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YZFhLVGh1a0V5cThoTVY5dEFuN3RhVlNkbzF4QVlFMEkxMDZwOUh2dHlKelUzMTR2RkRjZTVKQkctdGdId0dROFNTM3EzamZXY2pmbjlCZHZGZk1GR1h6anoxOFdzN2REd0VKcDBn?oc=5",
+      "source": "au Webポータル",
+      "published": "2026-11-08T00:01:25+00:00",
+      "summary": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超 鎌倉市 au Webポータル",
       "id": "54ec083a1ca69a4c",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -709,18 +721,6 @@
       "published": "2026-11-06T10:50:00+00:00",
       "summary": "沼津信金、貸出基準金利や定期預金など引き上げ 日本経済新聞",
       "id": "4f2110bc13c0cfe0",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "日本の「勝ち筋」 「3つの上げ」で「四方よし」。日本経済の変身は2026年も進む 野村證券・森田京平",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JMUpIWkIxQmpZejgtamtOY3BnY2pzcXptSHNBTGxYYU1Ebm5HTGp0cllaa19QRGR1dEtnSnBlU0hHVUZZLXZ2Y3NzcE1EZVNEczFRaC1YM2FQdjN5N1Iw?oc=5",
-      "source": "野村證券",
-      "published": "2026-11-06T08:00:00+00:00",
-      "summary": "日本の「勝ち筋」 「3つの上げ」で「四方よし」。日本経済の変身は2026年も進む 野村證券・森田京平 野村證券",
-      "id": "5e77da4bdc3397b1",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
