@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-09T07:31:35.531363+00:00",
+  "generated_at": "2026-11-09T08:47:27.704942+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -56,7 +56,7 @@
       "name": "経済・ビジネス",
       "category": "経済",
       "emoji": "💹",
-      "count": 12
+      "count": 11
     },
     {
       "name": "テクノロジー・AI",
@@ -67,11 +67,35 @@
   ],
   "items": [
     {
+      "title": "Appleが競合のClaude Code向けに公式Xcodeプラグインを公開、シミュレーター操作もAI任せに",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4tOUttZlVHTDNCZGdCUHl4anRFODVuVmwzbktCYnVjYkQtZ0VVZjcyU2VscFpsUFY4ZHdqNENVelZudw?oc=5",
+      "source": "shiritomo",
+      "published": "2026-11-09T08:25:48+00:00",
+      "summary": "Appleが競合のClaude Code向けに公式Xcodeプラグインを公開、シミュレーター操作もAI任せに shiritomo",
+      "id": "64abb8ff519c05d2",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、Claude活用した創薬支援の成果公開。抗体設計・文書作成を効率化し開発期間短縮",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02N1VZZnFHZ00tQU8yY3NnS2ZjcEQ4dC1SQ1VWQnNSMFhKR2IyTU52OUszX0RzWnMybVQwTlhZWlZJNWVONzdVbmdmR3RaZC1KTXZ5UGJkdTJxRTQ5b2ZXTGNBNlZCb21XOEgwVEVNZlpkQXM?oc=5",
+      "source": "AIsmiley",
+      "published": "2026-11-09T08:20:00+00:00",
+      "summary": "Anthropic、Claude活用した創薬支援の成果公開。抗体設計・文書作成を効率化し開発期間短縮 AIsmiley",
+      "id": "cc6ec69813baa3cb",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ヴィレッジヴァンガードダイナー鎌倉店NEWオープン！",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kTHhHUWZPc3dpYW9GX3A4Y0J1M3E3bEFwb2szbm9kM3BhM0VkNGF2SUdIYnBxSVdvWTZsMHUwUWd4cVloOGJ2cWd3OXVQU1JyVWRTR3hacHpzNEhyU05VU1RHNjU0T0hnMUNyeHUtRDVlejBV?oc=5",
-      "source": "Excite エキサイト",
-      "published": "2026-11-09T06:45:00+00:00",
-      "summary": "ヴィレッジヴァンガードダイナー鎌倉店NEWオープン！ Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12RkpKT0s4UUFHSUZFeVRGTGN6VXJmcW52V3Nna01aZ3ctQXBMcmotemRnaEFHOE5uaXQ5VjBlTTI4NzRaMFJIR1ZmWjVYQlpVSnpWNnRMejc3aXRJMHZJNS1BZGJZR3RzaGZOXzNRSS1TUQ?oc=5",
+      "source": "Infoseek",
+      "published": "2026-11-09T06:45:35+00:00",
+      "summary": "ヴィレッジヴァンガードダイナー鎌倉店NEWオープン！ Infoseek",
       "id": "d0a6776f38084c2f",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
@@ -80,10 +104,10 @@
     },
     {
       "title": "事業部門主導のAIエージェント「Claude Code」活用マネジメント研修を11月27日に開催",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aMVVxaGQ1ME45NWpRRGtic1dMRl90MWl5UVBCWHZhMmRxYnotSHdlck1sVmpPcG91Z2tSNWNPVDNQWnNLQ08wQVFyM28tQUkycWRSNUxiUXd6dmVxOTVJN3hLLU11VGdSdkdPQTdLRklwb2h5?oc=5",
-      "source": "Excite エキサイト",
-      "published": "2026-11-09T06:15:00+00:00",
-      "summary": "事業部門主導のAIエージェント「Claude Code」活用マネジメント研修を11月27日に開催 Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0WVRiMm1oSExESGNwMk9BcVgyTEtIM2hackc0MU9OTjMwVnBDYlhOWGZJVWM2MFpURVZVd0RlbVd3Uk5Jd1pQV00yc2hVbnlibGpYd2Z3blpXeUNMYkRra1BGVTJ3eEtkOFo4TzVrSVVJdw?oc=5",
+      "source": "Infoseek",
+      "published": "2026-11-09T06:15:52+00:00",
+      "summary": "事業部門主導のAIエージェント「Claude Code」活用マネジメント研修を11月27日に開催 Infoseek",
       "id": "cd69e1493b14c8c2",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -154,7 +178,7 @@
       "title": "Anthropicの非公開AIモデルを使って18年間未解決だった量子コンピューターの難問が証明される",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xNWNlZUFiTjE1Sm9NUHRLbkFuUmNybUg3N0lOMENPSTYxaHR2X0NlRVlnLURUVTRNZ0drWGhfbWtaUE1uMWo0WjI1ckRyeW4tY3g0YWc0aHVRNUdRVjFLZ2Jya1VJUUVJQ0FkN3FFYTVjemM2Qmc?oc=5",
       "source": "GIGAZINE",
-      "published": "2026-11-09T05:11:00+00:00",
+      "published": "2026-11-09T05:10:00+00:00",
       "summary": "Anthropicの非公開AIモデルを使って18年間未解決だった量子コンピューターの難問が証明される GIGAZINE",
       "id": "4d0482672bfc5cbd",
       "category": "テック",
@@ -175,12 +199,36 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "【新機能】HIX AIが複数AIモデルの同時比較チャットをリリース！ChatGPT、Claude、Geminiなどの回答を1画面で一斉比較",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpeENUT0tMTDB3UHlDRk11MlQ0U1VZd0pISm4yU1dVOWpZOUdCejBPZkRVQ0puWHZ0STA1Zi16cVVILUNRWUI4N2phYUd3MTdoMUFhNGM4UjJmTnI3NE91Zm5HMXdQRFNWaGc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-09T05:00:02+00:00",
+      "summary": "【新機能】HIX AIが複数AIモデルの同時比較チャットをリリース！ChatGPT、Claude、Geminiなどの回答を1画面で一斉比較 PR TIMES",
+      "id": "92d45f40975a6839",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Claude、個人金融機能を追加 ChatGPTとの違いは",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmNoX1BlWnc0VzFYWWFxWGxPekROTnhIZ1B4b0pLOHlISWNoWmh1UGtGUl9WclhyUjNyRVRBdmdxNlo5T1ZuRURNYWJoN2M3SmFzTHlpQ01mRXl4bnJvTmZTWmF3R2RReTNCb3l3UzRlMUlrYWxZM0RwRGFYQXl5T2JUTUhYMXA5RzRTc2huSjBKdEhNa0JQaWhXTzU1UWRkSkdqVDRjR0VYTEh1Zm9LVHZBMTJGeV9IWVRCQjlFcw?oc=5",
       "source": "디지털투데이",
       "published": "2026-11-09T04:19:29+00:00",
       "summary": "Claude、個人金融機能を追加 ChatGPTとの違いは 디지털투데이",
       "id": "b25285bafeb3715d",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "総合情報サイト「All About」、企業のAIO/LLMO（生成AI検索対策）を支援する「All About メディアパートナーサービス」を提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CUTFMeHBhQVI4LXBZMzRwM1pkYWFSM2k5aWpSWFc0ajRuRG9LTndjZjVMc0pWc28tUDlxQUpWZ2hmUnBnUGt2YlRMWERrX3dKLVZVZlFKdDFVSnFjb3BXUExsU0ZRRzlUWUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-09T04:00:24+00:00",
+      "summary": "総合情報サイト「All About」、企業のAIO/LLMO（生成AI検索対策）を支援する「All About メディアパートナーサービス」を提供開始 PR TIMES",
+      "id": "2e8da61bd1be9985",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -223,54 +271,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ギブリー、AIエージェント型のWebページ・LP作成運用プラットフォーム「Givery AI for Web」β版の提供を開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEdTFzNmJFTnVudXRDZko5dzlrWWM0M3BFTXFCWkpXSC1sUWZLWHV3Tk8xTl9DWG1pcnNaSGdVXzZudzE0cjcySElLMl8yWEpCb2w5UGZTT1JreFQtdC1wSHhlalV5eDFxc3c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-09T03:00:01+00:00",
-      "summary": "ギブリー、AIエージェント型のWebページ・LP作成運用プラットフォーム「Givery AI for Web」β版の提供を開始 PR TIMES",
-      "id": "74d557319525c93f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GdlVwa2hpSldxVy16MDBwaXk5aXFrMW9ZWnk1M2JwTVh1MjIyVjU2OF9HMGE4b1c1VFVyZFZvMXRmdkNjWk1ZZUlUMDUxSUhNeEFTZ3BLU1EtVkRWSHJMLUtkdXpDQXlzM3VrNQ?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-11-09T02:43:00+00:00",
-      "summary": "Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる GIGAZINE",
-      "id": "b0e1efbcc206ca65",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropicが26日までにIPO実施へ 時価総額下振れ観測",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Oa2hZN3k3ak1XSGp3RnNfTHptSmV1RGlmZHg0Y2RzQ296X1FSTzE0RWtDZHJ2UEk4SmN2T2pkbDk2Zi02anJHMUc0alhZUEl1SlQ5Mm9HVnVtQ1pnNEdmTFEwX1AzMGN6ZVJNWnRBV2piQ3pLdGNOZXZn0gGOAUFVX3lxTE5EMHY5b3JBc1UySjNkZElQdzVOY01oX3kyVjQyYUhJTk4tWGlkNzV5c3ZtNU1hR1B5VUhhUWdFTUFLYUN4Y252X250WGNmMmZPLS1zTUFxalJCS1lXcURCUE9lMlNpZE9qbTUxSTJ5VFVHc095VVZ6Q3puZXBhSGphOEdBcjRib01vdE8zb2c?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-11-09T02:37:00+00:00",
-      "summary": "Anthropicが26日までにIPO実施へ 時価総額下振れ観測 Chosunbiz",
-      "id": "d7f63f0592056571",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropicがガスタービン1.7GW確保",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1U1J0UmdScEtuNng1VGxScjFjRHdqTi02WFB6MXVVTlZQeWxoeFFtcUJYdkVCUHpGanJyQVFVaUhkYmtWRDJCcEVQeTJPTndmcTVnRDl0Z3ZoU0tlLW9DOGNSQnB5N2gwSC1pT280alV4MERXWU8wQjRR0gGOAUFVX3lxTE9oVk1QQUNIaUtfRVpmUldROVVaaU1tWTFEcEFlSU9qejFNbWFqdF94YkNyMS1EZFVyZk8tSFlQVGlWbkRlWUxkNF82bFdGYVhQVjJfVjV2R3VTQlQ3Sm1FZlRzXzd5d2cxLXFldGxPVWFHeWZ5YThuMkFGaUtXVHZfVGRQZ09TY2FveDlxY2c?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-11-09T02:35:00+00:00",
-      "summary": "Anthropicがガスタービン1.7GW確保 Chosunbiz",
-      "id": "8108fe6aab95ad8b",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "「東武鉄道 presents ANIMAX MUSIX 2026 supported by Lemino」11/20・21に横浜アリーナで開催",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUSlJiR1p2SDExUERyakM3bWxwTXl2OVBIZE1oU2RLa2xXV1hEVWVfamZlVW9peXFhWmVPNUtrQWMxdkRrZGdj?oc=5",
       "source": "MEDIAMIXI",
@@ -301,18 +301,6 @@
       "published": "2026-11-08T23:30:01+00:00",
       "summary": "ジェネロ、中小企業庁「デジタル化・AI導入補助金2026」のIT導入支援事業者に採択 PR TIMES",
       "id": "02143ed74db14491",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Ｎｅｗｓモーニングサテライト(ＢＳテレ東、2026/11/16 05:45 OA)の番組情報ページ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWJvOXZJbXpCNGVaa1BjUlk0LW5qQ3d6bDFkekczMHREcThESkw3ZHZVcHRVQUI4aXhsQjFVRDh4THBsZUplb1BLdEt1UkFFVlFLeGo1TnczblFMUGJvc0IyMkdmakhEd1NQYWhNdGpNZ3FlY3JSWVZDR3Fod0VNZ2hDNlcxQmdpOTBLNHYzOUtsZw?oc=5",
-      "source": "tv-tokyo.co.jp",
-      "published": "2026-11-08T23:25:03+00:00",
-      "summary": "Ｎｅｗｓモーニングサテライト(ＢＳテレ東、2026/11/16 05:45 OA)の番組情報ページ tv-tokyo.co.jp",
-      "id": "05cd350adae2e44e",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -655,6 +643,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "沼津信金、貸出基準金利や定期預金など引き上げ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GYmdZcFo5aUJwZGJ0eVRvOUtScmdETVNsVHFlY2ZjSXFvZ2RNb3lXVjBkNlk5YmFrc1ktb0MyUjNhem5oQmZMbV95bVVSS1pFdWpOUkc3ZlZGcC1xbWhBZTVpSnJZNmt4SVN6RA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-06T10:50:00+00:00",
+      "summary": "沼津信金、貸出基準金利や定期預金など引き上げ 日本経済新聞",
+      "id": "4f2110bc13c0cfe0",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【学マス】学園アイドルマスター LIVE TOUR -標- ファイナル公演はいよいよ明日から！ Kアリーナ横浜にて開催！",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sSWdSVHpvb0dLdVBISkI1V0hoaFVPU25kckJDWkJvQ18xUzh1cFNZQmRZeVZlb1NUelJjODByc1ZTX3dzYkZRcjFpRVJFSG1XakEtWENqZw?oc=5",
       "source": "アイドルマスター",
@@ -685,18 +685,6 @@
       "published": "2026-11-06T08:00:00+00:00",
       "summary": "日本の「勝ち筋」 「3つの上げ」で「四方よし」。日本経済の変身は2026年も進む 野村證券・森田京平 野村證券",
       "id": "5e77da4bdc3397b1",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "東京都、業務改善に最大600万円を助成！第3回申請受付が開始、11月13日締切",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDSUVYQzBUaEpMZGZsS004cXlCYWpleVgxT1NFUFZack54bnViTkRReVFTb1A3T3c1UVhOZjFqRVJ3OW96T0s2SFRJd2tLMWtvYTk1Wg?oc=5",
-      "source": "創業手帳株式会社",
-      "published": "2026-11-06T05:43:59+00:00",
-      "summary": "東京都、業務改善に最大600万円を助成！第3回申請受付が開始、11月13日締切 創業手帳株式会社",
-      "id": "6dc9be59916ee480",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -943,5 +931,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 73
+  "count": 72
 }
