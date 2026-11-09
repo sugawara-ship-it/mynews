@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-09T18:12:52.403633+00:00",
+  "generated_at": "2026-11-09T19:13:12.192293+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -32,13 +32,13 @@
       "name": "道場物件（鎌倉・湘南）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 0
+      "count": 1
     },
     {
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 7
+      "count": 8
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -66,6 +66,42 @@
     }
   ],
   "items": [
+    {
+      "title": "AnthropicがIPO前に新AIモデル「Fable 5.2」と「Mythos 5.2」を発表",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sSWhaUEdYZnNYbTJfTWxFZFRlOFVUN0dTVGpBRzhLcHFwZjhEWFlIdmstcVdOdTVFRG9EaVVsckdlWUlJNkh3dUVFYVYzYnVvaVAxaE1qMGFTM1VNUk5xT1ZDdDR6bDZIbEoxb0djVU4?oc=5",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "published": "2026-11-09T19:06:00+00:00",
+      "summary": "AnthropicがIPO前に新AIモデル「Fable 5.2」と「Mythos 5.2」を発表 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "id": "c8d6ddfec07efc8b",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Codeの設定ファイル、公開GitHubリポジトリでパスワードやAPIキーが流出",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qWFRMVGFKaEhmT0E2ek0zMXp2OWdhMERsQ0YwdUI1VGwtSkswOWhfcHFhVU9Nb05WaUtSdmdfUTZ5Q3d2aWR3dmRVajUwS1JXSFllaGxVSGczMWxqZEtyRmdCa0NDR0pDSlFacFdtb191TXEt?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-09T18:35:00+00:00",
+      "summary": "Claude Codeの設定ファイル、公開GitHubリポジトリでパスワードやAPIキーが流出 BigGo ファイナンス",
+      "id": "2a7053e994f424e7",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AI向け電力の確保が難しくなるなか、Anthropicがガスタービンの購入を計画と報道",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbGZqVWRObWtQZVZDOXhjakpHaHdXZERrVWd0WkpyUTBkRXk2cHRBOS03ek9jOF9OLUFYMGFKaFN3cDJvV0M1c0JFY0Jfam9idGVTS283eUhRV3o2RFQza0x2WVRERUhzTjE0dG5IakRmMTE5a25BVE1LeXJHWGhGdXVCdG5ZVlFKVTRwbjF3a2FmR1FfMEE?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-09T18:16:02+00:00",
+      "summary": "AI向け電力の確保が難しくなるなか、Anthropicがガスタービンの購入を計画と報道 Unite.AI",
+      "id": "a5ddabdd0a934de6",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "Chamath: SpaceX’s Revenue From Anthropic “Could 2 to 3x” as the Data Center Freeze Bites",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVZ1Z1NLN1l4TXNXLTY5UjB0U1l1N2ZKY3ExOWdkVWhwM3NtcUJla19sRzRnQW0yMGZRdWE1dEdDUTRaR084bUVqSU5OVkhhUldINmgxU1NmTHk5aWFWWWxzR2lUTHItRk9fS2VHV2E2aHNaU1Y3N01oWEl2aDNpYm5EdnhyTlpDdERpbHlGTUxPWFllOE10Q3cwRDhWV09kZXgyN0V6Y0M2Ui1NNWNuZ3Fod2s?oc=5",
@@ -235,18 +271,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Anthropic、Claude活用した創薬支援の成果公開。抗体設計・文書作成を効率化し開発期間短縮",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02N1VZZnFHZ00tQU8yY3NnS2ZjcEQ4dC1SQ1VWQnNSMFhKR2IyTU52OUszX0RzWnMybVQwTlhZWlZJNWVONzdVbmdmR3RaZC1KTXZ5UGJkdTJxRTQ5b2ZXTGNBNlZCb21XOEgwVEVNZlpkQXM?oc=5",
-      "source": "AIsmiley",
-      "published": "2026-11-09T08:20:00+00:00",
-      "summary": "Anthropic、Claude活用した創薬支援の成果公開。抗体設計・文書作成を効率化し開発期間短縮 AIsmiley",
-      "id": "cc6ec69813baa3cb",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "水が出ないとき、どう守る？災害時の口腔ケア 鎌倉市歯科医師会・檀上会長に聞く 鎌倉市",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42eWpiaGdlS3phY0gzSFZVR1A5QmtvR2JwWnhaYTh1WXVFS1N3OXNDODJfUUNJTVJra1M0N01HUFZNZWczNDg3eG9xX0YwV2tGckh3XzlQRWNnQnBzbTgxTjRnLXZZQUpsS0pzQjB3?oc=5",
       "source": "au Webポータル",
@@ -259,39 +283,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "生成AIが選ぶ「M&A仲介会社」、1位はM&Aキャピタルパートナーズ（言及率99.3%）【2026年10月調査】",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84UGRtWVNOcFBhYjhaVExjODhvbkhqSWZpanBKbFprN2FlSi1oUXJWZ2hBZzJsb2FNY2RJR2lHODNRZkszbTVxd1lXQUM1Z2tyc1dETll5TUtzU1JWT3M4Q19JVGpERkZYV0E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-09T07:00:01+00:00",
-      "summary": "生成AIが選ぶ「M&A仲介会社」、1位はM&Aキャピタルパートナーズ（言及率99.3%）【2026年10月調査】 PR TIMES",
-      "id": "b4ba008f816a0ae0",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "債券15時 長期金利、2.670%に上昇 株が反発 米債安も重荷",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HcWl0WnMtcHBmeFZjZVJIM3lkajl1UU1VVHpSdzh1YmlJWmZhczFwU0VZdWJ1amRvMlJmUzY0ZmlrU2VYYS1sX1REZ2ZzSXRza0tlNWRRUUpEMGFlYndCZUpxeTNWTUlmcVRqTw?oc=5",
+      "title": "9月の景気動向指数、2カ月ぶり上昇 熊本地震後の生産回復が寄与",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1aF9IdmZMcktkV1c3WUt1clhQcVUwSm1jWUpwLW9KeWJqaHQxV3pNQWhOS0pCWTlpX2o5UVhZeHBfTXVVTHZWVm81OVUtUVZlVnpCTWUtOWJKOGxPazlJNWkzVDF1LXRQekJuNA?oc=5",
       "source": "日本経済新聞",
-      "published": "2026-11-09T06:31:00+00:00",
-      "summary": "債券15時 長期金利、2.670%に上昇 株が反発 米債安も重荷 日本経済新聞",
-      "id": "cd180c9700b5b160",
+      "published": "2026-11-09T06:22:50+00:00",
+      "summary": "9月の景気動向指数、2カ月ぶり上昇 熊本地震後の生産回復が寄与 日本経済新聞",
+      "id": "f2bd4f26360c2399",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "XN、AnthropicのIPOに追加投資へ 上場後も買い増し方針",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNck45bURpWU1Sc1l0N2pnM2ZDOS1sNXMtcmJ6M292b3RDVkREM0ZaNHJNbkNwdS1mQ1JDZTRPS2ZKMUV4YUNrS29mN0JLeG82QW1GVHNvQndCT21SVm5rZFZTVUZFYmttLWMwbkIyMjhvMnJXT1BDa2l5a01hSlJYNDI5NTRsd2xPR25yUm16NFdWQ1IxbGFFZTRTMUd3a3Q4TVBOcDJYTHhjaDU3Zm5xNVhjRkRKQWJEdzZMajlTT0hCbDB3UGdIb05LU29xZ3d2RzlpVg?oc=5",
-      "source": "디지털투데이",
-      "published": "2026-11-09T06:12:09+00:00",
-      "summary": "XN、AnthropicのIPOに追加投資へ 上場後も買い増し方針 디지털투데이",
-      "id": "fcf4c80211309b8e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -391,12 +391,36 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "元BOJチーフエコノミスト：2027年までに金利は2%に上昇",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmc3TFU0Yl9sZUlmdEkxczN2R0N0dkVKMkFlbnJVSFMxaTFMYWlra3BLRWxaRTRNcDU5VFk1WTB3YTNZaUdKOGV0OVItNTNNX3AxVWpFNDZTdklVVmRKSWZVU1pGM05pQ0trVE4wM09yVnhBRmlkUzI1UW1wSmdNNkN1ZWptTTJDdHJ5bUw0aURwekZQNVk1bjMwcWJmUQ?oc=5",
+      "source": "IDNFinancials",
+      "published": "2026-11-09T00:00:00+00:00",
+      "summary": "元BOJチーフエコノミスト：2027年までに金利は2%に上昇 IDNFinancials",
+      "id": "b663bece7818fc37",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ジェネロ、中小企業庁「デジタル化・AI導入補助金2026」のIT導入支援事業者に採択",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FRTRyZjU1b09DSV9PVms0WmY5T2huc0hLazF1aHpKd2tMWVdPMlptUGFNQ3otcEp0bXdYUG5CNUxvbWJpYmJxYUtRWDVyZ3dXRlpKUEl5ZU5lQ2NTQUJxY0Y0a2FyR1VueUE?oc=5",
       "source": "PR TIMES",
       "published": "2026-11-08T23:30:01+00:00",
       "summary": "ジェネロ、中小企業庁「デジタル化・AI導入補助金2026」のIT導入支援事業者に採択 PR TIMES",
       "id": "02143ed74db14491",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Ｎｅｗｓモーニングサテライト(ＢＳテレ東、2026/11/16 05:45 OA)の番組情報ページ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWJvOXZJbXpCNGVaa1BjUlk0LW5qQ3d6bDFkekczMHREcThESkw3ZHZVcHRVQUI4aXhsQjFVRDh4THBsZUplb1BLdEt1UkFFVlFLeGo1TnczblFMUGJvc0IyMkdmakhEd1NQYWhNdGpNZ3FlY3JSWVZDR3Fod0VNZ2hDNlcxQmdpOTBLNHYzOUtsZw?oc=5",
+      "source": "tv-tokyo.co.jp",
+      "published": "2026-11-08T23:25:03+00:00",
+      "summary": "Ｎｅｗｓモーニングサテライト(ＢＳテレ東、2026/11/16 05:45 OA)の番組情報ページ tv-tokyo.co.jp",
+      "id": "05cd350adae2e44e",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -436,18 +460,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Ｎｅｗｓモーニングサテライト(テレ東、2026/11/16 05:45 OA)の番組情報ページ",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXR5bTJLZGkwcnF3elp4d1JYdVplcUkzMVh3N3NEeGNIT0lxNk15dTh0TjFWRGhkRVJWSzMtU2Rvc0FPZExVT1V2dlVnaXFvTkk3bVRrNURaQzJ4WnVGY1pOcThLX1NVX1V4MU5kblpFWUEtckJXMlVVQWJEY2dEdHBRWFc0UXdGbnl4WjZiMA?oc=5",
-      "source": "tv-tokyo.co.jp",
-      "published": "2026-11-08T20:26:17+00:00",
-      "summary": "Ｎｅｗｓモーニングサテライト(テレ東、2026/11/16 05:45 OA)の番組情報ページ tv-tokyo.co.jp",
-      "id": "ba137187ebe1d7a6",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -583,6 +595,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "特急 常磐鎌倉号 運転",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1reU45S2ZfeFc0cjNMckxVY2d0QzRiWkRWNUxJME92S0trY09YLWZmTG9VQXVDMXliR1FoWjctZDB5SDNuczBOSkYwWVZlbWEzS2pUQ1h6X25NZE5aXzZLb0Zkem42MG5lNDVWTmJwejlpWWJhVVJ1REdrWHBqZ9IBgwFBVV95cUxQVFVpQ1lQcGVYYlVFNG81anlxbmVHRVBXRXd6WjFmSG5RRS1mUnZwTFcyT2VDQ0Y5QUVwMVBTcmZUcVVIT2xvMFZxNWN4eEhyLVJhSUJsSzZRZHpxTUd3ZW4xb3YzUGJKbm5lN0IwX1A5emhQcEd3b3dtQnVDQ2JUY1E5bw?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-08T01:29:00+00:00",
+      "summary": "特急 常磐鎌倉号 運転 ｄメニューニュース",
+      "id": "5337d373365b68b4",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "鎌倉市シルバー人材センター　草刈りで地域貢献10年超〈鎌倉市〉",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXpBeUVHZXlhMVpacTVpZTdRdlhCWmJMbjFwd3FpX1BRNzBiUlMtOG9MSTlWdUJBS2kwQmpIU2JGTDZ0aXlodHZGdzNMU25NZ1IyU1JFTE80cG5ueUcxRXdGNVVIamN5cjFITmdoU0dSZy1wRm1faG1aNktCczZUdWpTYWxrN1RBZ0c4NjNn0gGAAUFVX3lxTE5uV2lkNmtkN1A1U2tMVW9VXzZxM3ZEaG9iVFFuSDlzMHVzb2J0M3N0OE5NVDNPVmJPQ0tVNEFscGJ0Sy1IOFZGREwteEg1V0JwcGFDSjU3ZkZxM0tUWnoxQjlwZWs5dGZOLXYtS2cwZEptaEl6VEMwU1FZQ1NyNkMz?oc=5",
       "source": "ｄメニューニュース",
@@ -655,14 +679,14 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【藤沢市・鎌倉市】※江ノ電ニュース：電子チケット購入アプリ「アソビュー！」に不正アクセス発覚、会員情報流出か",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LZFpJbkNFR05WR3FFTUkyTTBWUDVkcWtybzJxMlRPbENEMUs2RkxSdHNJZ0kxUXRtSG0xV1QyQlUxZjhZZXRiaUhfRFlnYkZxT2ZiUHg4bGZWdXhjNWt5endQUFljNkJubWZPU1JNMDJIbEE?oc=5",
-      "source": "湘南人",
-      "published": "2026-11-07T08:56:52+00:00",
-      "summary": "【藤沢市・鎌倉市】※江ノ電ニュース：電子チケット購入アプリ「アソビュー！」に不正アクセス発覚、会員情報流出か 湘南人",
-      "id": "af66701a253af0df",
+      "title": "品川区民はLINE登録だけでOK！もしもの時に並ばず入れる、避難所の新しい受付スタイル",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wSWtYUFY4dldQdWNQNHAydG8tRVRNUlE2WU1pYU1SUHpnS0V3N3k3d1dESnpkZmJXOUZBTDdINXFEWXQtMUNKenZJTWhMdk0?oc=5",
+      "source": "DXマガジン",
+      "published": "2026-11-07T10:01:30+00:00",
+      "summary": "品川区民はLINE登録だけでOK！もしもの時に並ばず入れる、避難所の新しい受付スタイル DXマガジン",
+      "id": "799da40b64c631f7",
       "category": "地域",
-      "topic": "地域ニュース 鎌倉",
+      "topic": "地域ニュース 品川",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
@@ -709,18 +733,6 @@
       "published": "2026-11-06T05:43:59+00:00",
       "summary": "東京都、業務改善に最大600万円を助成！第3回申請受付が開始、11月13日締切 創業手帳株式会社",
       "id": "6dc9be59916ee480",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "東京都、原材料価格高騰対策に最大2000万円を助成！第3回募集が開始",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Wbmt0ZXVWWmZsRXlsUWsxUXliMlhhY202c2FybXVEeklPbkp4Y0twa3VXdVJiY0RScmJ4R193d01kQkpMcEw1U19EUHdZMy1RSnVaeQ?oc=5",
-      "source": "創業手帳株式会社",
-      "published": "2026-11-06T05:15:29+00:00",
-      "summary": "東京都、原材料価格高騰対策に最大2000万円を助成！第3回募集が開始 創業手帳株式会社",
-      "id": "aff53f3f262701e0",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -859,6 +871,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "藤沢駅南口でイルミネーション点灯式 レディオ湘南が公開生放送も",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBleGNNdVAwbjk3TmZuUG5vMklnTGNuZ1JIN0ZleUc1N1hHNVBGV1V3VlkxblBLU21pOE9iTFU3djRaWWJ5Y0xBQzAwbVpvaU56cFE?oc=5",
+      "source": "湘南経済新聞",
+      "published": "2026-11-03T23:37:26+00:00",
+      "summary": "藤沢駅南口でイルミネーション点灯式 レディオ湘南が公開生放送も 湘南経済新聞",
+      "id": "08fcb77fdcb3d508",
+      "category": "不動産",
+      "topic": "道場物件（鎌倉・湘南）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「Lemon」MV 10億再生突破",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QcG01MVFCWGd1TDkyVWp4TnNFNHFISlRiWWU5R1dMa0JRa01tdTh5czk2Wk1UQ2R5YlNfdnNPejZMd3JPNkFTMS1POC1QRDJWYkcxRTZTbzhkenlZMjRNU1Y4Qk1zTFFvQlRaOFMzUDZMVk96SExwaURpLWlRUlk?oc=5",
       "source": "米津玄師 official site「REISSUE RECORDS」",
@@ -943,5 +967,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 73
+  "count": 75
 }
