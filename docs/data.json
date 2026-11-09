@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-09T11:05:29.762010+00:00",
+  "generated_at": "2026-11-09T12:21:31.846460+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -56,7 +56,7 @@
       "name": "経済・ビジネス",
       "category": "経済",
       "emoji": "💹",
-      "count": 12
+      "count": 11
     },
     {
       "name": "テクノロジー・AI",
@@ -116,10 +116,10 @@
     },
     {
       "title": "AIと協働してPC作業を自動化。ChatSenseが新機能を提供予定",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41ZnVWSklma0Qta2pTSGZhYnVibEF4djQxVDMzVV96MUctQm1fUUxBZnY4STZBQTZWeVd0X3ItMkpYQWF6M0NFSDZoblQzWkx6TmZKSDJ5ekpQT1pJQjhDd3VKU19EOUwwWVBnY0JaTkczb28?oc=5",
-      "source": "宮崎日日新聞",
-      "published": "2026-11-09T09:13:00+00:00",
-      "summary": "AIと協働してPC作業を自動化。ChatSenseが新機能を提供予定 宮崎日日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sZ1FfMXoxX2NZNUNZbGVpLUxiVlJLUEhuWmxIY19VSG1LbXlRVk4wSmVEWXAwc25pbFZzQU84eG5hYXRWUGw1Uy02LWV3NnMwTHZBX0RGOUh6UTJvVlhtbVJOcnVUcmNJSmc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-09T09:13:06+00:00",
+      "summary": "AIと協働してPC作業を自動化。ChatSenseが新機能を提供予定 PR TIMES",
       "id": "cf6cbb7d0a178b11",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -223,18 +223,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "アイスマイリー、WEB雑誌リリース！ Claude導入支援会社おすすめ徹底比較ガイド！失敗しないパートナーの選び方",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xY3hRdk1SVVQtWWtyR2RhT0hMZFFWdlJhdUlTelV3dmdnTFZEbTVTN284VUFFbXZWSWR0Tko2RzI1N3VKdWZKLUUzSXpMMlhjdDRIYjBHRndXX0hEM0JMYTI0YTNlSmVGVXRSSFZnSU5jQQ?oc=5",
-      "source": "Infoseek",
-      "published": "2026-11-09T05:45:37+00:00",
-      "summary": "アイスマイリー、WEB雑誌リリース！ Claude導入支援会社おすすめ徹底比較ガイド！失敗しないパートナーの選び方 Infoseek",
-      "id": "903f47f1a9a9f06c",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Appleの「HomeView」、ChatGPTやClaude対応の可能性 iOS 27.3ベータに新項目",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHc3T0c2M0NhTWpDNGlDZUJpR05kM2VTYTNNdUVnR1AwelRGa1ZtQktSbzUtY3BYTXU3eG02VWEzZHBfeEtBSllTczRqcHAtY21kbmFRVXc5NjVJTmNUOEs2RUNXMnFaV2xPeEpBOEUtNXNTcU5TZzZ5RFdZQ2FlN3VENEl6OEZ2ZkxDdTJwQzFROWk0bkJxS2hZeE1Fd28?oc=5",
       "source": "디지털투데이",
@@ -253,6 +241,18 @@
       "published": "2026-11-09T05:10:00+00:00",
       "summary": "Anthropicの非公開AIモデルを使って18年間未解決だった量子コンピューターの難問が証明される GIGAZINE",
       "id": "4d0482672bfc5cbd",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "マイクロソフトのPM、金沢圭司氏がCodexとClaudeに3週間コードをリファクタリングさせた結果、トークン請求書が届いた",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IRGROZzB3Mm00bkF0eEJTNWNQTUw5dWduajQ3bnlMQm15YnpmdnhJMlBsdmZoek8tdWZJc3BZUXpOcTNudWVCdzRfVDVIS0pONG9oeXlxQmhSZw?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-09T05:08:00+00:00",
+      "summary": "マイクロソフトのPM、金沢圭司氏がCodexとClaudeに3週間コードをリファクタリングさせた結果、トークン請求書が届いた BigGo ファイナンス",
+      "id": "78320f34009d99b7",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -316,6 +316,18 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「2026ふるさと港北ふれあいまつり」を開催します！ （2026年11月）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84TWRfWmZ3YVc1TE85S0JnVl9kdjhfMkVDdVB5aDU1UzV1M1psVE91MU0tZFVHZFFabFQ0RmJOemNHbEZKbVRoOC1vU2E2X1RwLWd3ME1nV3lwMnM4U2J4TEFScUhTbVRtU3hJdUNhem83NEQ0QTlCcC1OTlZtNkE?oc=5",
+      "source": "横浜市",
+      "published": "2026-11-09T00:03:42+00:00",
+      "summary": "「2026ふるさと港北ふれあいまつり」を開催します！ （2026年11月） 横浜市",
+      "id": "3207b52dca8fb8ae",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -559,18 +571,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ときのそら、活動10周年記念ライブ決定。念願の横浜アリーナで2デイズ開催へ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lbndsU3ZpTUhmT0VxcGJ4eFliNGZKZFZQWTMzZVNBcHN4MjdMLTYwdHhzQ011NkZhRHo0alN3c1hDLUVwOFlZWGhwdkRqR1RtTXc3RmFhZ0NKZEM2OVlr?oc=5",
-      "source": "千葉テレビ放送",
-      "published": "2026-11-07T12:41:39+00:00",
-      "summary": "ときのそら、活動10周年記念ライブ決定。念願の横浜アリーナで2デイズ開催へ 千葉テレビ放送",
-      "id": "710e8a8bf7d11444",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ときのそら、ついに横浜アリーナへ！夢のステージで活動10周年ライブ開催（写真17枚）",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EZEVSTFlkVjJXUmV2QmRVNEVQRlFUa0t6ZE1qWERfODloS2JwVjgwTS1sam5wU3hiVHd5NWFFV0lVMXV1a0ZTWmVSMkg?oc=5",
       "source": "ナタリー",
@@ -703,12 +703,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "東京都、業務改善に最大600万円を助成！第3回申請受付が開始、11月13日締切",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDSUVYQzBUaEpMZGZsS004cXlCYWpleVgxT1NFUFZack54bnViTkRReVFTb1A3T3c1UVhOZjFqRVJ3OW96T0s2SFRJd2tLMWtvYTk1Wg?oc=5",
+      "title": "東京都、原材料価格高騰対策に最大2000万円を助成！第3回募集が開始",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Wbmt0ZXVWWmZsRXlsUWsxUXliMlhhY202c2FybXVEeklPbkp4Y0twa3VXdVJiY0RScmJ4R193d01kQkpMcEw1U19EUHdZMy1RSnVaeQ?oc=5",
       "source": "創業手帳株式会社",
-      "published": "2026-11-06T05:43:59+00:00",
-      "summary": "東京都、業務改善に最大600万円を助成！第3回申請受付が開始、11月13日締切 創業手帳株式会社",
-      "id": "6dc9be59916ee480",
+      "published": "2026-11-06T05:15:29+00:00",
+      "summary": "東京都、原材料価格高騰対策に最大2000万円を助成！第3回募集が開始 創業手帳株式会社",
+      "id": "aff53f3f262701e0",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -724,18 +724,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "中小法人がすぐ取り組める低コスト人材採用戦略を講演「人手不足対策セミナー2026 in 広島」11/19（木）開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52SnFBVXQ1YW50UXdOYXg5eVJHVnFaZS1fcTNtcGtNLUxoSXYtVWhNMUhhbzg2SC1KTGVjeVk5ZGlPc2U2VkF0NUtCVVFVbjNGOFhudWlQRUUxTFNFUnRUbkl4ajFxS0JWTUE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-06T01:00:03+00:00",
-      "summary": "中小法人がすぐ取り組める低コスト人材採用戦略を講演「人手不足対策セミナー2026 in 広島」11/19（木）開催 PR TIMES",
-      "id": "9ebb8f4b61fc6bd2",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -871,12 +859,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『ア",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43c09KaUszNWhPUkJndjFnanZyR29VNGRLY0dMbnJ4QTY4a2hDRnJjcTNYWHI4VTd5OEJBOVZUdFp4UF9aWGwzWFdGMVhGVElhR3JFOQ?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-04T02:45:22+00:00",
-      "summary": "米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『ア ニコニコニュース",
-      "id": "29b4639c4a32d473",
+      "title": "オリコンニュース：米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NWEwxc1N0aVlEVE5YVndTU2d2bDNnUEJoVHZMT0p1cTBhdnJiYmFYeU12WmgxSDYxODJkSTNGdHlfQ3UzbmtBZGJsVXZyX3JROWoxMHVwYVpMZmRQNjJldEY4Y3M0QnR2?oc=5",
+      "source": "毎日新聞",
+      "published": "2026-11-04T02:45:00+00:00",
+      "summary": "オリコンニュース：米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福 毎日新聞",
+      "id": "7a3a638551280fbd",
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
@@ -943,5 +931,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 73
+  "count": 72
 }
