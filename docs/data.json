@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-09T23:14:40.983099+00:00",
+  "generated_at": "2026-11-10T01:09:27.035806+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -56,7 +56,7 @@
       "name": "経済・ビジネス",
       "category": "経済",
       "emoji": "💹",
-      "count": 10
+      "count": 11
     },
     {
       "name": "テクノロジー・AI",
@@ -66,6 +66,90 @@
     }
   ],
   "items": [
+    {
+      "title": "Claude Codeの「今後は確認しない」でパスワードやAPIキーがGitHubに公開 1,994リポジトリから2,539件検出",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkt3RXdpcHQ1UWdib1NsSWZBUGhUcXB1dnFWMHpERkVWbVRqNGRpUDZzYmhZbm1LWEQxV2ZwaVRESHRJR2tab3lFT0RpV0c0aS1FMWYwcnlWNkNsRnRjWGptd1p6XzBRbXItVHZONnpHWUVlNk1GUUN1ZFFkdVA1cXFnQklIYXhHTS14V3c5dGhMa2hVOHUtdzRzSnpYV2Y4cVpFYWJGcWJ1dw?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published": "2026-11-10T01:00:08+00:00",
+      "summary": "Claude Codeの「今後は確認しない」でパスワードやAPIキーがGitHubに公開 1,994リポジトリから2,539件検出 合同会社ロケットボーイズ",
+      "id": "8d3e2f1a0281a058",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "シスコがClaude MythosでAI防御強化",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QRVozdzM4bDRLTjJsUzhlRXNHLVctSjEzWm1EVUdQc25ubUF4aTk3WXlUbVc1YlYyTkJRNE5aRkh0X2I2aE0wSnNUcFkwQ0VLOWFLcFp3X1dzYkV6VHdnYmdyNzVCYU1uZWRqTDJRb1IxNEMtUjNYc3hR0gGOAUFVX3lxTE5aUFZpR05jdk50dWVvSF9UeWxveE1GTFgyY2ZSejBBblF6ZVg5ZlNMekk3b3Bqc1ZsaTRMXzJfYTlsRWFMLXh4N3VNSGRHOTZHSFVLaDNNNV96b1pab2ZVRFQ3c2VZUDdjWHp6ZGJGZHNsMXEySjhJcUUyRmk1SW9QQ0hPTXRxM0dmcHY3RlE?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-11-10T00:26:00+00:00",
+      "summary": "シスコがClaude MythosでAI防御強化 Chosunbiz",
+      "id": "f9fc59fda6c8d425",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ChatGPTの世界シェア81.2%に回復、ClaudeとGeminiは依然10%未満",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80WmFNY3pZcEk3aXcyTUJ6UHJQX2RmQ09UMmZFTnlaTFRady1pWGktSzIxQnh1c3N4WlZTZ251M3RCZ25oSGhYQjM2SU52UEZ0bTg5MFg0eXMtVnA5ejhMc1JRN3MyV0ZHLWp5ejBwbHlvWG1X?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-10T00:25:00+00:00",
+      "summary": "ChatGPTの世界シェア81.2%に回復、ClaudeとGeminiは依然10%未満 BigGo ファイナンス",
+      "id": "85cc65614210fa70",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIエージェントで広告運用を70%自動化した話 Claude Code × CData MCP Servers の活用事例",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4ydFI1YjQ3RXdfMkV3eUc1UHpPZm9rYm5fMU52LWh2VjVMQXN5UFhFNW81NkZYS09mTHlTQnY3UVpoZTdjZHYxMThZLWJpSGIwVFFzUWFIcXFEM0h1NWJsOXVhMnlaS09DZUZTRWxEVjQwelE?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-10T00:12:06+00:00",
+      "summary": "AIエージェントで広告運用を70%自動化した話 Claude Code × CData MCP Servers の活用事例 ニコニコニュース",
+      "id": "03274c0b8629de05",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "会話だけで動画をブラッシュアップ！ 仕事に使える動画をClaudeとKling 4.0で作って見た",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wNThia0hWTEttUDBJN3d4OTV4YmxId0RZRmhaRmdORFJIcGtOSnNab3JMMFg1QS1TTHRTLWFuYmZJSmNtUnpEb09PVzV1d3gyN2ZFaDRnZTZUMkFJUzBrMFhMNmpxVmpCbkV0azRZM3ZMa1U?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-10T00:12:06+00:00",
+      "summary": "会話だけで動画をブラッシュアップ！ 仕事に使える動画をClaudeとKling 4.0で作って見た ニコニコニュース",
+      "id": "28bcc1fa98c4fa9a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ChatGPTがAI市場シェアを回復、競合のClaudeやGeminiを抑え「81％超」に",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1raEpBVzlsQzhCMzNrTjVZODlvTU4yZGF1NHN6cS1CVC1ycF94Z0tzRVhQRmphSHlMdHg0bk93b3IwOVJ1RzVoZi15RF9rVXM2SDdVY2VtYzRsYlpCNXFOZkVGRFB0SXRManZpWW1VajdoaWhEUTZzVVZPMHVXVWc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-10T00:00:00+00:00",
+      "summary": "ChatGPTがAI市場シェアを回復、競合のClaudeやGeminiを抑え「81％超」に Yahoo!ニュース",
+      "id": "06ade448640007fe",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、「Claude Fable 5.2」「Claude Mythos 5.2」を発表 ～最強モデルがより高速・安価に／ほぼすべての評価で「Opus 5.5」を凌駕、物理学の未解決問題を解いた実績も",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OeGtwTEJsZUt3OGNmbUJ4elY2aWpzNzQyR1AzS3Fnby1xdVg1MnhsbnF0Ump1RzdjTzNlUzBnRlNmOGx2YkhrLWVNU1BHUFY5aFozdmZGS090YktHVmNn?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "published": "2026-11-09T23:26:24+00:00",
+      "summary": "Anthropic、「Claude Fable 5.2」「Claude Mythos 5.2」を発表 ～最強モデルがより高速・安価に／ほぼすべての評価で「Opus 5.5」を凌駕、物理学の未解決問題を解いた実績も 千葉テレビ放送株式会社",
+      "id": "b04824e4351f78ac",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "「Claude Fable 5.2」「Mythos 5.2」発表　性能と速度を向上、API料金は20％引き下げ",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44RlhjX2xPTm9UbWJXR3FGMXljZDc3UW5tZFZHcE0tYWRkNWxaWDk4SDdwcFNweXIwV1ZjQzEwdFg3WWZsWGF6cUE5NGNhRVRMZGs4THR0NDU0NTZMT3FpTnZjNkt0dmVHMm5wQ3NYVVBCYUhYNWRn0gF8QVVfeXFMTWw2QzBRZGpJdUhJRThCM0dHRjI5Nmc0czh0WHpnQjh6b010enhhdkFKVm1oa3pUOC1QZVpzbWczMV9DX3hvdUdqaWh0emtlLVUzV2JZUWs3S3RxNUxaUDQ2RlNWbHRObVgxdE95NEZlM0N0RHF5c2w1WHM0eA?oc=5",
@@ -91,6 +175,30 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "鎌倉市役所にユースクリニック開設 思春期の悩み相談を",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WUDJveTE0SV9yU2NmOW9BYTFabWxkdFpMeFpsZFRoQ2xFcmp4ajk0SWMydElleHJtVlQzWU9SQnpHNHUzaF9RMzVQcDI2VTVuUHhRUVhERDdJTXNpaE93?oc=5",
+      "source": "NHKニュース",
+      "published": "2026-11-09T22:48:49+00:00",
+      "summary": "鎌倉市役所にユースクリニック開設 思春期の悩み相談を NHKニュース",
+      "id": "fafa8e2e1c9220c1",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "JPMorganChase、Claude Codeの利用をエンジニアリング部門以外にも拡大",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON29QTFRRWlhUNVdvN0FDNXNKRm9zN0x4Wm1SSUx0YWVmT2JIclN4aWVubVJwbWExMkhBV3l2clBBZjZjbDA0NnR1NmlWV0dpeHFqdHJWTHd0ZmdEb01wOHdPdkNUY2hqWHdtWkNpMmhpY2hCZ1RvRVNUa1A2X0JfSFBtV3hXbTJBMFhTMVJpZ01qdw?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-09T22:45:04+00:00",
+      "summary": "JPMorganChase、Claude Codeの利用をエンジニアリング部門以外にも拡大 Unite.AI",
+      "id": "539848ee3b0cc370",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Anthropic、最上位の「Claude Fable 5.2」と「Mythos 5.2」を公開——API料金は入力100万トークン8ドルに",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51Smk2X1JaWEhoT3hkS2xYY3hrNjcwSEZGQnJjQVVsUDU0Z2otQXByUnFPanFURzBfU3N3T0ZZVDM5a2V3Zm8xNUZZUXlDajEtWmF0cW9xTk90Y1BGU014TzdFR183QVRUSlVoQkY3ZDZZby16?oc=5",
       "source": "BRIDGE（ブリッジ）",
@@ -109,102 +217,6 @@
       "published": "2026-11-09T22:29:04+00:00",
       "summary": "「AIに意識を持たせるべきか」Google、Microsoft、Anthropicの幹部が見解対立 株式会社エクサウィザーズ",
       "id": "93110c6ed604a591",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude HaikuやGPT-6と同じ価格で性能は上――Meta最小AI「Muse Ember」登場",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5WMGVDbFFjODk3MTh4ZEFGVnFaWjBxa3E5dTltcFdnczFINWlRSlhPbzhqcm15aDlDd2swUWpXUGxJUQ?oc=5",
-      "source": "shiritomo",
-      "published": "2026-11-09T22:28:38+00:00",
-      "summary": "Claude HaikuやGPT-6と同じ価格で性能は上――Meta最小AI「Muse Ember」登場 shiritomo",
-      "id": "b7f36afa677c66e3",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Fable 5.2とMythos 5.2は同じAIだった――AnthropicがOpus 5.5超えの新モデルを公開",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE02SmEzbW5mbTZNOVlPRl8wb1NLT1p1SWlUWm9ITk81NjMzTUNQVEkycmpKbHpCaVVwLTdiRXlubVlLdw?oc=5",
-      "source": "shiritomo",
-      "published": "2026-11-09T22:28:22+00:00",
-      "summary": "Fable 5.2とMythos 5.2は同じAIだった――AnthropicがOpus 5.5超えの新モデルを公開 shiritomo",
-      "id": "b04b6108fbdd98da",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Cisco、「AI Defense」にClaude Mythos 5統合 AI向けレッドチーミングを強化",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN1dDaTlFRVNrU3h0cnQ0Qk1WcS1fb2xNVTAyaUd1S1ZjZ3VDZmpUc28xeXNFeC1Fa0NkdlVSNFZsOEJlVno4SWJ1LVliQkxIeWlGTF9aQk5NWUpLdWpqN05rQllwUEdsd1R6NmZWSXdVc2w3R3lqV2sxWDlXSkJ5UnpxUDlfRGQwa3FNUmpodzIxLTRJNUF1OExuZkloSE91R3NiZ05DMXdoVzQ0ejFtU3lhVWxsMER5LW1tZkowUUNPU2NN?oc=5",
-      "source": "디지털투데이",
-      "published": "2026-11-09T22:13:39+00:00",
-      "summary": "Cisco、「AI Defense」にClaude Mythos 5統合 AI向けレッドチーミングを強化 디지털투데이",
-      "id": "1c362f7c05aa8a4d",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pRkJwQzU3Q2JNdWNmZmxxaEdYUUgweW8wN0Y3NGFnaWZ0Mm1nN1hiazBBMGdRakh6emdKVXlzXzEydUNiM3UydXBsaEFsY2NrVlZPZXd2VDZPbTdQV0tIamZSN2lSUXMtdGc?oc=5",
-      "source": "ITmedia",
-      "published": "2026-11-09T22:03:56+00:00",
-      "summary": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化 ITmedia",
-      "id": "fa43d568aa8a303f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、「Mythos 5.2」「Fable 5.2」発表 Fableは入力料金を値下げ",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLURFWUxGQWFxZWF2TW5vZ0x2RWhNTkM1d05ZMlFDY0k0YkY1TEk4OGdWaUNIalIxY1BUZEFNU3Q5NTJaUmZ6cVlvS1RpdVFCVXBBbENpMkFGUUJNS09YTVRUVDlOTUFJdzJndkRQY0s1TkNQRWdRbHlTR0xzS0RNMTRoMTlsLUhCNmRxelhQc1ByeUFpLXB3eW9BdlZoWjg?oc=5",
-      "source": "디지털투데이",
-      "published": "2026-11-09T22:00:51+00:00",
-      "summary": "Anthropic、「Mythos 5.2」「Fable 5.2」発表 Fableは入力料金を値下げ 디지털투데이",
-      "id": "6491e4a14ca4b946",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「Claude Fable 5.2」登場、出力速度を最大30％向上 API料金は2割値下げ",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OakdTQXpMRjVwYlFid2swLUZyQW96X3A0SjJqNlEtYktCY2M3NExBckpCd0tGZFFDaENCNi11cEQ1ZjV2UWdCMldTQUtObGV6dUE?oc=5",
-      "source": "CNET Japan",
-      "published": "2026-11-09T21:12:00+00:00",
-      "summary": "「Claude Fable 5.2」登場、出力速度を最大30％向上 API料金は2割値下げ CNET Japan",
-      "id": "510a79e0bee4f35a",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、新AI「Claude Fable 5.2」発表：1000体のAIエージェントが協力し、わずか8日間でOSを開発",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DNHBISXlBUlZncTBhVFRBcVJNVDZpMHJ1Q1JPc3ZNX3RGcWNrV1o1UnBxdWNSMEU4VTZVa253Q1ludXpZRkdhYldxNm5zTmx6Yy1La2tBbzdOU29TUWZfQzh0TExJWTVZQnpKbVVNYmFjMkNJendxUWw2QQ?oc=5",
-      "source": "XenoSpectrum",
-      "published": "2026-11-09T20:38:07+00:00",
-      "summary": "Anthropic、新AI「Claude Fable 5.2」発表：1000体のAIエージェントが協力し、わずか8日間でOSを開発 XenoSpectrum",
-      "id": "05ee7c08943518aa",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、Fable 5.2とMythos 5.2を提供開始。価格は20%安く",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1IUUJmZlRGWE9tczVGYTc0eUoteWNEZXlJWU94ZGp3UWxZS2NtMVZMQW1hdktYcWdDck5XUVpn?oc=5",
-      "source": "ゴリミー",
-      "published": "2026-11-09T20:37:28+00:00",
-      "summary": "Anthropic、Fable 5.2とMythos 5.2を提供開始。価格は20%安く ゴリミー",
-      "id": "7af4a093064fb6f0",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -283,6 +295,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "古都鎌倉に「カピバラの岩風呂」が登場！アニタッチ 鎌倉小町 (2026年11月9日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QOG1vM1VBdVBDdTZWdUxpUm5Hclp5ZkhTSWdBTktUb2FkWlpEY0U1aldYX1l6bERGVDhpYjdkVmlzck9GbVpId1dsS3JwMHJjZ0IyclB1bm9qSHJBYlE?oc=5",
+      "source": "ライブドアニュース",
+      "published": "2026-11-09T08:12:04+00:00",
+      "summary": "古都鎌倉に「カピバラの岩風呂」が登場！アニタッチ 鎌倉小町 (2026年11月9日掲載) ライブドアニュース",
+      "id": "4887946675790472",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "水が出ないとき、どう守る？災害時の口腔ケア 鎌倉市歯科医師会・檀上会長に聞く 鎌倉市",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42eWpiaGdlS3phY0gzSFZVR1A5QmtvR2JwWnhaYTh1WXVFS1N3OXNDODJfUUNJTVJra1M0N01HUFZNZWczNDg3eG9xX0YwV2tGckh3XzlQRWNnQnBzbTgxTjRnLXZZQUpsS0pzQjB3?oc=5",
       "source": "au Webポータル",
@@ -352,6 +376,18 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "債券11時 長期金利、2.695%に上昇 米債安と株高で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wRUFSQkwyRnZnLUd2UlgzTEtCWUlOMWlPcENUMXQ3dEdVYVhsVWJQQWJxNE1aZ0lxM0hGMy02WGpmMVdGRldmVjdhUERJSXh6Y0ltbng2Uld2aENKTUFVZGVYUWFST2phak8xNA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-09T02:23:26+00:00",
+      "summary": "債券11時 長期金利、2.695%に上昇 米債安と株高で 日本経済新聞",
+      "id": "c3b43ad3eb1b801c",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -595,18 +631,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超 鎌倉市",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YZFhLVGh1a0V5cThoTVY5dEFuN3RhVlNkbzF4QVlFMEkxMDZwOUh2dHlKelUzMTR2RkRjZTVKQkctdGdId0dROFNTM3EzamZXY2pmbjlCZHZGZk1GR1h6anoxOFdzN2REd0VKcDBn?oc=5",
-      "source": "au Webポータル",
-      "published": "2026-11-08T00:01:25+00:00",
-      "summary": "鎌倉市シルバー人材センター 草刈りで地域貢献10年超 鎌倉市 au Webポータル",
-      "id": "54ec083a1ca69a4c",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "桜色の並木に動きで変わる光のアートが登場！品川区“目黒川みんなのイルミネーション2026”",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrZGhFSFR3dGRDSE0yUmVmYUY4ZnhJNndiZUhrSnhlVlJESU03TnhiMDNTNzBBYXd0NUVKUW1aNXpUSXV1cUE?oc=5",
       "source": "Dtimes",
@@ -615,18 +639,6 @@
       "id": "1a4dc55ff9ff99d6",
       "category": "地域",
       "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【鎌倉市民は無料】鎌倉国宝館で特別展「瑞泉寺七百年」開催！開館100周年に向けた取り組みも紹介",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iR1V2YzRpREU1UUZCYnFSWDNGR3JoOXRvOWJDb0RmcDBLeDN0WXlXYnp6M2dSZkFmQS1DeGNNOWdDTVBsVDNWQ1ItUTBubWRSekZYUFE0c3B2eGJvU2Z3?oc=5",
-      "source": "選挙ドットコム",
-      "published": "2026-11-07T21:34:31+00:00",
-      "summary": "【鎌倉市民は無料】鎌倉国宝館で特別展「瑞泉寺七百年」開催！開館100周年に向けた取り組みも紹介 選挙ドットコム",
-      "id": "6b6fdfe400364a3f",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
@@ -730,7 +742,7 @@
       "title": "岡山武道館主道場の床に大規模なへこみ 利用中止に、復旧めど立たず",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OSExBOGdFRmdfQk82ZU1CQ2REdzBvTGhTZWpsSFVXY1MycV9sdURUc1RrXzBLVEladC1OOXgxYmdubVpPcUdJbVRscHpzQUl2VVE?oc=5",
       "source": "山陽新聞",
-      "published": "2026-11-05T20:05:56+00:00",
+      "published": "2026-11-05T20:00:00+00:00",
       "summary": "岡山武道館主道場の床に大規模なへこみ 利用中止に、復旧めど立たず 山陽新聞",
       "id": "91ceb3f2799cdadb",
       "category": "武道",
@@ -943,5 +955,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 73
+  "count": 74
 }
