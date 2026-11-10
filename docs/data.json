@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-10T02:09:51.097838+00:00",
+  "generated_at": "2026-11-10T03:32:02.688495+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 3
+      "count": 2
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -56,7 +56,7 @@
       "name": "経済・ビジネス",
       "category": "経済",
       "emoji": "💹",
-      "count": 11
+      "count": 10
     },
     {
       "name": "テクノロジー・AI",
@@ -66,6 +66,90 @@
     }
   ],
   "items": [
+    {
+      "title": "Claude Fable 5.2のロボット制御能力をAnthropicが公式SNSで公開 双腕ロボットのシミュレーション評価で他のモデルを上回る",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkaEllanNBZUptcXFaNUF0UG92NGdaTFE2YWI5REtYc0hiWG5aY1VYSnhnVFBUUEd5TzJKcDhFMmNoYmkyNkIwU3hnUUk1cFhWQks2cHE0Q3ZIdFhCdTVROF94ZkROaEVkWjVkZFlR?oc=5",
+      "source": "au Webポータル",
+      "published": "2026-11-10T03:18:30+00:00",
+      "summary": "Claude Fable 5.2のロボット制御能力をAnthropicが公式SNSで公開 双腕ロボットのシミュレーション評価で他のモデルを上回る au Webポータル",
+      "id": "e4b704ce63916f16",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Fable 5.2とClaude Mythos 5.2が登場、1000体以上のAIを指揮して8日間でOSを自律開発することに成功",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IdFlBNThhNDFadkt0XzZHWmxoRDFrSWd5NFZnbVlHWGJKZXJrLWVuYzZmYm9OU1c1N3QwYXpiR2RBMFFnVk5GbUo1T1lYRGdNQ1o5U1JPUWRCSkhEWlQ0T3gtcUpoanJOLVFQdnF6OTBqOVZfTmUwZQ?oc=5",
+      "source": "GIGAZINE",
+      "published": "2026-11-10T02:47:00+00:00",
+      "summary": "Claude Fable 5.2とClaude Mythos 5.2が登場、1000体以上のAIを指揮して8日間でOSを自律開発することに成功 GIGAZINE",
+      "id": "60d6cd0b5801feec",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AnthropicがClaude Fable 5.2とMythos 5.2を発表、前世代比30％高速・20％低価格で提供開始（テクノエッジ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzM2R6YVhXeWxOeU02ZFZoLUpRM0ZyUWJtRDRYbEdROWVCSWJFeVJsWnF0UzJheFliWGUtRk1CT3lpaEY4aUJTOWpubmQ5eUdNZG41Nk1yMENsaWJ4U2tZVGN1VjExUnNvRnU5a0VWUVJBTmU5TXpwODAxdUJvMW8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-10T02:30:03+00:00",
+      "summary": "AnthropicがClaude Fable 5.2とMythos 5.2を発表、前世代比30％高速・20％低価格で提供開始（テクノエッジ） Yahoo!ニュース",
+      "id": "45658b7d5687499c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropicが新AI「Claude Fable 5.2」をリリース。ぶっちぎりの高性能、実用例はもはや異次元（ギズモード・ジャパン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FY3ZVeVFLZ180YTVBRGd0R0Y2MnNuTFloVkZMWkRHZWJCcUdtRFVRbm8xVWFkNENYNEVYRzNnaXVWcmF1Q2Fxd1ZVNmppT2ZLa2pRWE51MWtiUFNFczZ1MUxuQnRPLVNCTHZCb21WVVM3bVYybjVES1RVb3owUzQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-10T02:30:01+00:00",
+      "summary": "Anthropicが新AI「Claude Fable 5.2」をリリース。ぶっちぎりの高性能、実用例はもはや異次元（ギズモード・ジャパン） Yahoo!ニュース",
+      "id": "e7400d9419205a6e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic社はIPOを前に、新たなAIモデルを発表した。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHplUmR3NnFNWUlVYlVTdXZfdTRuYmxRSy1vU0ZteWhJOXpnd1o2QkVFSm1ZSzJvM1pHakZzeUM0UTZqZjFlVzJmOTRtV3dMTWpDaUI1Ul9YTzdiY20yaTEwX1BIa3BfZElrMjhIVWgtVFV3Q3JqaWxrUC1VVENXMkRENTZmRWZNcFE3TQ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-10T02:29:05+00:00",
+      "summary": "Anthropic社はIPOを前に、新たなAIモデルを発表した。 Vietnam.vn",
+      "id": "5996b2b9675754e0",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【鎌倉市】「ダニエル・オスト in 鎌倉」覚園寺で開催！花の彫刻30点以上を展示 11月12日～17日",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnJpalJQSVRTWTBHSjdwSUc1QjFHQkZMNl96aWJhYkdWbVhpR3VrMkQ0VGlwRXhaSFlNaF9YSXhvVElIeGNReEsxTzhDdmRESjV4ZW9KNkg3Q2pfRVBBTFlBMl84cnVUcjdMLXVQRXBuWllKWFVDR1U4Z1VKalNjaTRiYndhcjdXTlE?oc=5",
+      "source": "湘南人",
+      "published": "2026-11-10T02:11:21+00:00",
+      "summary": "【鎌倉市】「ダニエル・オスト in 鎌倉」覚園寺で開催！花の彫刻30点以上を展示 11月12日～17日 湘南人",
+      "id": "edc920cccaea87fe",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "9月の景気後退確率は29.5％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VMUs4Q093YldRcWhOdGE0U0lLWW82cUE4NEl4ZGNxU21zYjAxUUg2UmtQcWUyZ3lqdmpNOUFyLUFEaG91QklJLTluQkhlNDczVHJRVkZGSWhJczJudTYyUVdLQURQNUU?oc=5",
+      "source": "公益社団法人 日本経済研究センター",
+      "published": "2026-11-10T02:08:39+00:00",
+      "summary": "9月の景気後退確率は29.5％ 公益社団法人 日本経済研究センター",
+      "id": "c2289a32e7bdec08",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "アンソロピック、「Claude Fable 5.2」と「Claude Mythos 5.2」提供開始。標準API単価を2割引き下げ（あたらしい経済）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qMmJ1a1FNQjl0Z0o5RkMxbVZ2R0dSaWdpclNNYmVja21HRS1SNnA0bkNHU1kxQmcxYkpjRC1wTUk1THNScGg4NGQwUmwzaFc2OEJoaFdKel9NQ181b0NrWFdhdlZ5a1k0WDBhSlhTTFpCbVNHU0JIZEQ2T3BnZk0?oc=5",
@@ -79,24 +163,48 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【鎌倉市】「ダニエル・オスト in 鎌倉」覚園寺で開催！花の彫刻30点以上を展示 11月12日～17日",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnJpalJQSVRTWTBHSjdwSUc1QjFHQkZMNl96aWJhYkdWbVhpR3VrMkQ0VGlwRXhaSFlNaF9YSXhvVElIeGNReEsxTzhDdmRESjV4ZW9KNkg3Q2pfRVBBTFlBMl84cnVUcjdMLXVQRXBuWllKWFVDR1U4Z1VKalNjaTRiYndhcjdXTlE?oc=5",
-      "source": "湘南人",
-      "published": "2026-11-10T01:59:27+00:00",
-      "summary": "【鎌倉市】「ダニエル・オスト in 鎌倉」覚園寺で開催！花の彫刻30点以上を展示 11月12日～17日 湘南人",
-      "id": "edc920cccaea87fe",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
+      "title": "AIエージェント導入で終わらせない。成果につなげる業務設計と人材育成を公開/ビルスピアカデミーが「生成AI/AIエージェントフォーラム東京2026秋」に登壇 - パーソルイノベーション株式会社のプレスリリース",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56eTdRc0VEOUltN2pYNmtRSmFENlZ2S3VCNGZtOV9sUmdxZUhwbmtOZklHNHBLTXIyMHhZUEhWeG9HdXdDQVp6cEw0RzNRenQzV2FFZUxGeE9vRVU?oc=5",
+      "source": "valuepress",
+      "published": "2026-11-10T02:00:00+00:00",
+      "summary": "AIエージェント導入で終わらせない。成果につなげる業務設計と人材育成を公開/ビルスピアカデミーが「生成AI/AIエージェントフォーラム東京2026秋」に登壇 - パーソルイノベーション株式会社のプレスリリース valuepress",
+      "id": "b0dea8e75c8c63e9",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "コスト3分の1でClaude Haiku 5.5に並ぶ、メタの最小AI「Muse Ember」が登場した衝撃（ビジネス＋IT）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDMUFZS0gtM3p4VXIyVEJwUDRUTHo5dWtkRVk2U3BGaDFianlRa1RGWkxlSDZNc2N5TUlYTWRaU2swR1NEWWVoVGNXTVFLMk9LY2dMMVhfdFc2V0ZySWNpNU00RTUtMFBRbmoyZ0JLVTMxLVZsNWhBS3BJcks4WmM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-10T01:55:06+00:00",
+      "summary": "コスト3分の1でClaude Haiku 5.5に並ぶ、メタの最小AI「Muse Ember」が登場した衝撃（ビジネス＋IT） Yahoo!ニュース",
+      "id": "a616071a469eb132",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "title": "Metaが小型AIモデル「Muse Ember」を発表、Claude Haiku 5.5と同等の性能を約3分の1のコストで実現",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50aFFSRWd3VkFrcktGYUtPRHBEcnlMUTltbk1hdzRxNkhDanpPTVFRcnlqbEhmbzU4SU04VXJjdXQwSFdWVFhXTTBMemNZZ19nVmJPVTN4eEh1NmI4OWFnbl9reU01N1ptYnZjS0h3?oc=5",
-      "source": "au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WLXRwQkI4eldqMXlLMUl0TTdmSHMxSVQtRVpmZlVMRDhSeGRnS212UDRVaWV1QWZ6S3FmdFFNS0RhNW8teGJhU1JvMWpaZmtyb1lJSTgzYmN1d1JCa1Z3MA?oc=5",
+      "source": "GIGAZINE",
       "published": "2026-11-10T01:54:00+00:00",
-      "summary": "Metaが小型AIモデル「Muse Ember」を発表、Claude Haiku 5.5と同等の性能を約3分の1のコストで実現 au Webポータル",
+      "summary": "Metaが小型AIモデル「Muse Ember」を発表、Claude Haiku 5.5と同等の性能を約3分の1のコストで実現 GIGAZINE",
       "id": "c9b5747bb5dde01a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、34億ドル相当のガスタービン確保 AI向け電力調達で一歩先へ",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeUFvRXZoSTJ3SlZZb1FzNkxWbG1CQ2RvSXVHVTRxN3pBaWlGNVFzRXgwTmZVN0lMQm9BRVJrODZITmJTeDFqWTluc3lwNFdVd2lPbGlSNnVRNkVWQzB2cnJReURPc3FEbFpWVE9vUGU4aHFtcGFFLWJzcm11a2d1cG5zM1c1OGRGRVdtTHY5V0JkbjNaZ2NjV0NaRkJ2cUpoVW50OEFaZFJUTXk4WlNENVBoQQ?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-11-10T01:42:43+00:00",
+      "summary": "Anthropic、34億ドル相当のガスタービン確保 AI向け電力調達で一歩先へ 디지털투데이",
+      "id": "99816b7e7283d70b",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -127,78 +235,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ハードウェアを開発できる「Claude Fable 5.2」。最大3回のリセット権も付与（PC Watch）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50Y2pic3NpS3pHZnRvbXlOMFYtQ2h3U1VzVjNtcVBWX3pLWllfQnRxMzJtelZsaWFmamowcm1Yb05yTUdibEZQb0ZXNS02T0p4cHZSOW5Eb0wyRWk1LTFPQk56MTVDeExBc2lPVXhXTGpCOHgtNHdBamp3N0cteEE?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-10T01:34:00+00:00",
-      "summary": "ハードウェアを開発できる「Claude Fable 5.2」。最大3回のリセット権も付与（PC Watch） Yahoo!ニュース",
-      "id": "89df96629b746dac",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropicが韓国法人情報流出を申告",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4waFE1T1RaaGY4TURzNXdleDNMcWQ5OXBDYU93YjE0Ymc0b2ZzRmdURXpCTGFzYmJuUWcxdXJyUHB1ZkJMQU5iMS1QZmp0Wkh3YUZLR3N1anp0dUFtT1FmUlZaWHVYc0VmblIxNHFXbUI3SFJmVDhudEdn0gGOAUFVX3lxTE5XYXdqTkhMT0tLNVdWYWtERW9LdVZyZGp2dkptT3ZvSE5CQ2FkRmR3SDM5bG51VklfaGtPZjVQSVNrdzZQUUt4OXhPalZTWkdMYUloZGRLNkNBVkVsR3VzUHJUWmJNN0xhdEpzRjdOVDFxdGc0Nm9qb3JnUVNyb1JQLUZPTUp2QUxFRmpGQ3c?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-11-10T01:32:00+00:00",
-      "summary": "Anthropicが韓国法人情報流出を申告 Chosunbiz",
-      "id": "be1dd735b58f0093",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GitHub、複数のAIモデルを自動選択・連携する「Copilot Fusion」を正式リリース 回答の生成・検証をAIが分担",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ONXFCcU5DMUNyU2hZSXY3MjA0TlN1bWxocUpSX1hlSmc4MVNTTkFNZC0wUmxXdm8zdk9LbUI1TjQ4NWxHc2RpS2hUcjlzbHRhdXBJai04LS1rblhRMkRwMnl6MVV5alZEYkZ2YWRrOTJPeXZNYzNIaDNCZ2lyQQ?oc=5",
-      "source": "Ledge.ai",
-      "published": "2026-11-10T01:28:47+00:00",
-      "summary": "GitHub、複数のAIモデルを自動選択・連携する「Copilot Fusion」を正式リリース 回答の生成・検証をAIが分担 Ledge.ai",
-      "id": "357687f81fc54f53",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米アンソロピック、韓国企業の「Claude」約100アカウントの情報流出を届け出",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQUUJ6MXNWaTBiNlZxNUo4YUJRNUZWazVNQVFUakh1NnlQYWVDemRWUVVheHF3djNDTG56NTRaYUhWVlROTzhlU3FUZ2JBd2pFUHFadjhDa2hxVTM5R3VNMGxaVDl1MGRtcTNHSUlfOEdmTWxmTWhrU1lWX3Flb0ZrRVhUY3pwb0p0MXItNndYTHVjSkxmemtZYVhBUWhKTHRiQnprR2FCSWFkaTc0MzhPakszQkVMMU1pWXQ1RWkzWWU4cnF1MVRmdURDNEk1ZUhrMG8ycjZqZ0otTldEeXZLUTdxT2dJNjA2THFUOVFGbG9RQ3FoOE13MzhfanBNcGZNWnhfM2RGbDFoN0FlMllkYkRiMmUzTVktNUFRaEtPam0zdHZ2eDBJSDgzaDNRdFJHTFJyLWFZOGptMFhrbEQtOW93?oc=5",
-      "source": "KOREA WAVE",
-      "published": "2026-11-10T01:20:55+00:00",
-      "summary": "米アンソロピック、韓国企業の「Claude」約100アカウントの情報流出を届け出 KOREA WAVE",
-      "id": "66aed99a77fdeb57",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "韓国で「Claude」アプリ月間500万人突破、1年で10倍に急拡大",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oSGZTLWVMTXhUd2lqczhyUFVWYjFDU0k0OWNqaEhVMVY2amYyRkVvUEdWZGJMODl5T2I4UkU0VUhLSVRkeEoxeHBWWlVzSzliOS1UeUlPckNkcy03Y1VFSm9QNlVOekY3WDZ4T1VVV3RQdDVD?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-10T01:13:56+00:00",
-      "summary": "韓国で「Claude」アプリ月間500万人突破、1年で10倍に急拡大 BigGo ファイナンス",
-      "id": "ce2db74550d439e0",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claudeの利用ポリシー、11月12日改定 スポンサー隠蔽やAI回答元への出所偽装を明記",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PZnFmSG81REtHRDhCN1YwN0NiTHRfV2FPclhZUWJTenJybHIwREpoVHRHTmczMW92SEdrVTJ2TEVUTFA1QTVtNjhLVVhRWU04V25RWlVNdw?oc=5",
-      "source": "共同通信PRワイヤー",
-      "published": "2026-11-10T01:07:30+00:00",
-      "summary": "Claudeの利用ポリシー、11月12日改定 スポンサー隠蔽やAI回答元への出所偽装を明記 共同通信PRワイヤー",
-      "id": "933bd71f8affc389",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【こどもの未来を創る】奈良の老舗企業、品川区児童養護施設の無料マルシェ出店",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12WmxfQTlFRWEwRnZtWlctYm83aVVUcUtQV193c1M1N2RaVHc1aGkzUXNDd1FpZkg4M0haWE41cWdKOVp0Z3luNl9NcnhOR0lEcjdXeHI1aVBzeUdHeFEzYkpCcHBXU0dRX3FmQVMtM0wySk0?oc=5",
       "source": "ニコニコニュース",
@@ -208,30 +244,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Codeの「今後は確認しない」でパスワードやAPIキーがGitHubに公開 1,994リポジトリから2,539件検出",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkt3RXdpcHQ1UWdib1NsSWZBUGhUcXB1dnFWMHpERkVWbVRqNGRpUDZzYmhZbm1LWEQxV2ZwaVRESHRJR2tab3lFT0RpV0c0aS1FMWYwcnlWNkNsRnRjWGptd1p6XzBRbXItVHZONnpHWUVlNk1GUUN1ZFFkdVA1cXFnQklIYXhHTS14V3c5dGhMa2hVOHUtdzRzSnpYV2Y4cVpFYWJGcWJ1dw?oc=5",
-      "source": "合同会社ロケットボーイズ",
-      "published": "2026-11-10T01:00:08+00:00",
-      "summary": "Claude Codeの「今後は確認しない」でパスワードやAPIキーがGitHubに公開 1,994リポジトリから2,539件検出 合同会社ロケットボーイズ",
-      "id": "8d3e2f1a0281a058",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "300MW規模の亀尾AIデータセンター頓挫…Anthropic、用地の平坦化要求で足踏み",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5alozWkwzM1JidFc4c3BNUWJtUFVRYVNpVXBIa1p6WlJVN0lodkZFOFRFVFR0RmVhaXJUUVByYTBmbDUzcEEyNUZnMWxacDVlbFk2QkV2ZFc2TDRLaU10QlA5NUZjMjhfMm85Z1NkQkdzSVc2?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-10T00:55:00+00:00",
-      "summary": "300MW規模の亀尾AIデータセンター頓挫…Anthropic、用地の平坦化要求で足踏み BigGo ファイナンス",
-      "id": "0b740723117180e2",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -379,18 +391,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "北鎌倉女子学園が11月14日（土）、鎌倉芸術館大ホールで定期演奏会開催〈鎌倉市〉",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVEtUb1FzVTRxQ0Mzd2hWMlpISENyZ3dBWDlDSjI5X3hIaXBGMkFHUFF5VEpFT0g2QUNBMGxjXzdJODJiaWFlYXF6Q1dmYlZoU1AxY2pfQnBEMGU2eEhGUm5UYi1VSDVWX1I3X2p5VXNROUFlWVNwemJCblgwZkxWanJoQjY4VG8wbUVYd3hn0gGAAUFVX3lxTE9kTnBVNnlma0llNGJTM3ZmclpqbUlOYmFKVGNtZEhWZGNySlNsVzVaeUNOT1g0TmRUTm1Ea2JKOHY0YWtxcEUzVTRNMHRZVFE1M2E1R2JENENKMHJ2QVY0bXNLR0JMeE1DTVVKWDhOdTVMamtpSUlDRWV6ZVFiUDZf?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-11-09T03:42:11+00:00",
-      "summary": "北鎌倉女子学園が11月14日（土）、鎌倉芸術館大ホールで定期演奏会開催〈鎌倉市〉 ｄメニューニュース",
-      "id": "51ecf7ad3bed41df",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【鎌倉 観光スポットレポ】旧川喜多邸別邸（旧和辻邸） - 海外の映画人が集った歴史ある日本家屋を訪ねて",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xZDZBeENJUmxkMzBhU0dlcjNVZU9ycERaNVZfNmhDOGg2U25vT2EtOEJXUUVNY3BZbFRZVUVtQnhCTUpuNGxXQlRXcjA2Y3VfNElybkNaeW5DVE9mLVJUdDBUWGdERnlIWjI0?oc=5",
       "source": "湘南人",
@@ -400,18 +400,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "債券11時 長期金利、2.695%に上昇 米債安と株高で",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wRUFSQkwyRnZnLUd2UlgzTEtCWUlOMWlPcENUMXQ3dEdVYVhsVWJQQWJxNE1aZ0lxM0hGMy02WGpmMVdGRldmVjdhUERJSXh6Y0ltbng2Uld2aENKTUFVZGVYUWFST2phak8xNA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-09T02:23:26+00:00",
-      "summary": "債券11時 長期金利、2.695%に上昇 米債安と株高で 日本経済新聞",
-      "id": "c3b43ad3eb1b801c",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -571,6 +559,30 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "東京 品川区長選挙告示 現職と新人のあわせて2人が立候補",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rMHg0bWxkRVV1Q0k5amRUYlVCVGRWWjJ4clg4RVM1OG04N0w0YW9HQWJFVWUxSktMd2tJRDIwOUpHa1I4RHZfek50NURNWDJCLVFoNEpabHFqOGlzQ2Y4?oc=5",
+      "source": "NHKニュース",
+      "published": "2026-11-08T09:11:00+00:00",
+      "summary": "東京 品川区長選挙告示 現職と新人のあわせて2人が立候補 NHKニュース",
+      "id": "7156dc545daa181e",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【鎌倉市】鎌倉・由比ヶ浜で「グルメグランプリ鎌倉2026」開催！沖縄×鎌倉交流祭も同時開催 11月8日",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJMHBPUnZqYVVkSU9JMFB1SW51TkkwSVM5OFFCeDAyZFNkX2xIU0JEaUZGelA3dnREM0VpM0d6RGFTeUNicnhNLUR5LXZkSUN4dHlSTXlpM2NYVVkwRmxKNldTNTU4ZTk2Q0hCeA?oc=5",
+      "source": "湘南人",
+      "published": "2026-11-08T07:13:03+00:00",
+      "summary": "【鎌倉市】鎌倉・由比ヶ浜で「グルメグランプリ鎌倉2026」開催！沖縄×鎌倉交流祭も同時開催 11月8日 湘南人",
+      "id": "a186fe333ea09d97",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "“正面部分が大破”トラックと乗用車が交差点で衝突事故 乗用車に乗っていた2人と歩行者2人あわせて4人がけが 命に別状なし 東京・品川区（TBS NEWS DIG Powered by JNN）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBucEdhWmp0azdxSFNUX3lqQVdrbGlfMWIwVjlsWkQ0NGF6QUloNDN2X2Fja0x6RUVyYjJoOFRrSUZlZUY0NXQ2MU5vSGl5MVdJOWo3VUpUZXlZbXRndmZTSDNCR1R2SmRFajNjSUJJSVFuS2U3R245TGxwNVhkVEk?oc=5",
       "source": "Yahoo!ニュース",
@@ -643,18 +655,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "桜色の並木に動きで変わる光のアートが登場！品川区“目黒川みんなのイルミネーション2026”",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrZGhFSFR3dGRDSE0yUmVmYUY4ZnhJNndiZUhrSnhlVlJESU03TnhiMDNTNzBBYXd0NUVKUW1aNXpUSXV1cUE?oc=5",
-      "source": "Dtimes",
-      "published": "2026-11-07T23:32:52+00:00",
-      "summary": "桜色の並木に動きで変わる光のアートが登場！品川区“目黒川みんなのイルミネーション2026” Dtimes",
-      "id": "1a4dc55ff9ff99d6",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "ときのそら、デビュー９周年　初アリーナ公演「幸せでいっぱいです」　来年１２月に「約束の場所」横浜アリーナ公演決定",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GWC1ZcUg3RFVmUWZtbTVvQTRlU0htV1U2LWJKZ0JsT1FIZVIyMHhtZ2RnSlFyQzk1X1VHeUJ2OVlmVHQwNTRWZzd0aFpNVzBtR2RWV2JoNEdGZVROTDZJakY0U2k5SW1lbGRlUUx1UdIBdEFVX3lxTE9NMFhxOVFHMU5sVlZmU05tbjhQN0ozUHRXSWg5bjFxTVBiR0RoaWVSelVqYkF2QnByTHRkc0VEbzZLbkhBcmZ4dlBKOC1HM0ZTaVJnMDhraUU0SlNIR2tETEFEdHNNNjdvTjlBU2JlVGVOMHpz?oc=5",
       "source": "Infoseek",
@@ -697,18 +697,6 @@
       "published": "2026-11-07T04:55:32+00:00",
       "summary": "東京都、電気・LPガス価格高騰に最大750万円を支給！11月9日から申請受付 創業手帳株式会社",
       "id": "40199d155c59c49d",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "沼津信金、貸出基準金利や定期預金など引き上げ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GYmdZcFo5aUJwZGJ0eVRvOUtScmdETVNsVHFlY2ZjSXFvZ2RNb3lXVjBkNlk5YmFrc1ktb0MyUjNhem5oQmZMbV95bVVSS1pFdWpOUkc3ZlZGcC1xbWhBZTVpSnJZNmt4SVN6RA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-06T10:50:00+00:00",
-      "summary": "沼津信金、貸出基準金利や定期預金など引き上げ 日本経済新聞",
-      "id": "4f2110bc13c0cfe0",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -919,18 +907,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "スーパーマーケットバロー本羽田店 2026年11月6日(金)開業！どのような施設に？最新情報も！",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjZDZPQlNfRVExa3RGSk8xeGZZTDUzdUZLWDEzNWpuTlU2WkJQbHRabkV3aEZzaFkzUEw5RG1EcW9qdk92WVJzWU1fbmc1bHM?oc=5",
-      "source": "出店ウォッチ",
-      "published": "2026-10-31T15:10:04+00:00",
-      "summary": "スーパーマーケットバロー本羽田店 2026年11月6日(金)開業！どのような施設に？最新情報も！ 出店ウォッチ",
-      "id": "ec80027e91beea44",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "調布・京王アリーナで調布合気道会演武大会 設立50周年記念し (みんなの経済新聞ネットワーク)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRnlhWXNKVm1DMlBHdVBmTVNvX3hia08xRTBzZGtYT0VCeWUzV2FpT3haY1pxM041T3BYdDBrN3IwWnlTYnBPeV9uX1B0M0N3eER2LVVkblo4SlpBSUdTcGdvMUhIbDlYMW1WWmJsTkcyMWpLRTdSVFdXcFNqTWdJbGpYMTRycERlYk10NjBB?oc=5",
       "source": "Yahoo!ニュース",
@@ -955,5 +931,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 74
+  "count": 72
 }
