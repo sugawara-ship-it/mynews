@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-10T04:32:27.145720+00:00",
+  "generated_at": "2026-11-10T06:16:59.285200+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -56,7 +56,7 @@
       "name": "経済・ビジネス",
       "category": "経済",
       "emoji": "💹",
-      "count": 11
+      "count": 12
     },
     {
       "name": "テクノロジー・AI",
@@ -66,6 +66,102 @@
     }
   ],
   "items": [
+    {
+      "title": "Claude Fable 5.2とは？性能・料金・使い方と5.1からの変化を解説",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xTTMzTEpKRml0ZkZwV1NnbnBIQThoLWg3bkEtalQtVHluWmhOLUpXMWx4eGd4VERSY3A4UDJheE1tTUFIS1Qza1RwSFVKUUcxb0llcGp5U1E4WkRh?oc=5",
+      "source": "AIsmiley",
+      "published": "2026-11-10T05:30:20+00:00",
+      "summary": "Claude Fable 5.2とは？性能・料金・使い方と5.1からの変化を解説 AIsmiley",
+      "id": "b7804d9d2ee8043c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、93兆ウォン規模IPOの公募価格誤りで届出書を電撃撤回…ビッグテック260億ドルが参加",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LaUpzMkFjTTl6ZGJtbl9yRVU3aE5ydFYzSUN6Y0RRQnRtbjBvdTdRcnF3YXoyY3dpbzhzZ2g4TllXQnp2MXRPOExrZGRsNGM1NjFvcVc1b29xQ2luY09FalBNM25mQ05HM19zX1hLOThaWDJh?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-10T05:26:00+00:00",
+      "summary": "Anthropic、93兆ウォン規模IPOの公募価格誤りで届出書を電撃撤回…ビッグテック260億ドルが参加 BigGo ファイナンス",
+      "id": "f59d2cd34b8b2673",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "60歳以上を雇用する中小企業を対象とした「エイジフレンドリー補助金」申請期限を11月20日に延長！",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94MG40YjJPV1FFYzY3YnRxQ0k2eG1fM2htcEw4clVpSTF4cE16YVJrS3RKTFBIekI4NXI0X0JxcENwcUV1LTktMjQzLWF4WkZfNEp3YktvTHdqLWZL?oc=5",
+      "source": "創業手帳株式会社",
+      "published": "2026-11-10T05:08:33+00:00",
+      "summary": "60歳以上を雇用する中小企業を対象とした「エイジフレンドリー補助金」申請期限を11月20日に延長！ 創業手帳株式会社",
+      "id": "03e32622ddf93d3a",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "デジタル化・AI導入補助金2026、第5次の採択結果を公表！5,390者申請・2,433者を採択",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jdDg4WlJZU2dodlBJZU1sUkFFdlZndFR4amN3MEVKV1lmWHFuVjVFZ19QS2pNQWFWTk5OWnRLMDB5d0xZWDcxUDFSLXlOR2N3eTFNMGJVN1U1UQ?oc=5",
+      "source": "創業手帳株式会社",
+      "published": "2026-11-10T04:46:41+00:00",
+      "summary": "デジタル化・AI導入補助金2026、第5次の採択結果を公表！5,390者申請・2,433者を採択 創業手帳株式会社",
+      "id": "1909d1f4d0386c49",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GoQSystem、AI機能「KiNT」に商品説明画像を自動生成する新機能を追加",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40aV9UWWVFZVlFdl83bTlWN2pnSEw5VklhYk5Ya05iNTZ2eVBaZVFhQnlxYkVKMWtpNHI1V091T29GUHByWXVPaFFWekRad0JEdFlpS2lpVQ?oc=5",
+      "source": "コマースピック",
+      "published": "2026-11-10T04:40:31+00:00",
+      "summary": "GoQSystem、AI機能「KiNT」に商品説明画像を自動生成する新機能を追加 コマースピック",
+      "id": "c9ab2a3a16ceecff",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、Claude Fable 5.2とMythos 5.2を発表 ——推論や画像理解を改善、長時間のエージェント作業も強化",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tTGNkNkVLNTI2RksteDJEVl9vVmg5cGZLbkRMN3BBTXJjT2hJcVpjT1oxZzJ4SHpmQXhkWjFKMEs5WEgyTzJVRWJJUktQakcwd0JaR1J3MjlUMzlvWW56Z0V3RFUtZ1RscHpWTw?oc=5",
+      "source": "gihyo.jp",
+      "published": "2026-11-10T04:39:15+00:00",
+      "summary": "Anthropic、Claude Fable 5.2とMythos 5.2を発表 ——推論や画像理解を改善、長時間のエージェント作業も強化 gihyo.jp",
+      "id": "29a380bc57fabebb",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AnthropicのIPO、AI関連株反発の試金石に クレイマー氏",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemMwTkJxN1plNzFJVTA5ckx0S2pjS3JXMlpoSXhpZDZybTR5SDMyeVhWelpBMFNXNVlob2RIcGk5VmlWUzBwcFlvYmUxWG1OQ21VMXdPSmFGcE1HRXl1emVuWW44MXo1d3dmQmM3bmRiRWZzckpNU3FacU5qc0dmODBDR0o2WEdGT2Fmb2VWX0FyaElXU1VKQjBsMGowX3It?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-11-10T04:38:09+00:00",
+      "summary": "AnthropicのIPO、AI関連株反発の試金石に クレイマー氏 디지털투데이",
+      "id": "669fd0168b6f6189",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「Fable 5.2」の用途は？ Claudeモデルの選び方、Anthropicが基本を解説（ITmedia NEWS）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Q1RwZGNUS0IwNHdMZVRJWXVWdTY2UUtFbllXRWhIRFQzODdhcF83S19BRjFncVhDZUgwUklSOURzTm1jWmhBdjJGZlNZUkZzLU92WEZZeFpUVEQzdW5VXzVBRDRNbElHUWcxWVFUWkNZYjYyZFFCRUktOVYzSEU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-10T04:28:24+00:00",
+      "summary": "「Fable 5.2」の用途は？ Claudeモデルの選び方、Anthropicが基本を解説（ITmedia NEWS） Yahoo!ニュース",
+      "id": "bd6b65912b9372bf",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "忙しくて手をつけられない業務を、AIが手助け。中小企業・店舗向け「PILOTシリーズ」正式リリース 集客・広告・SNS",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwS2JIcEVaRm91XzRZSG91b3NIc3ZMV0x3M1RDSFBldU1FUWtHVzJnWklaX0twVWpIbG1uclVJLW5mcXdvRWc3Rm5mcDNpQnl5dmJQWkZyZGdoRGV4TzBiSGdmbUpoaWRqYm9hTFBOZV9STGdncXhYd3BHQQ?oc=5",
@@ -103,6 +199,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "playknot、デジタル化・AI導入補助金2026の申請相談を受付 -Claude ・ Codex等のAIエージェント導入を支援-",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oX3N0NVZXejZRb0M3TzBvb1g5cUY5aG50eXIzNkV0WnZBU3Y1b2ZLQ0IwdmZFWXNfMEJBS3VBck81NWVWNWUwMVhTNGNhemcyMlAxUmdYNGxxY0otMmVBdWc3RFBkUS15MVE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-10T04:01:25+00:00",
+      "summary": "playknot、デジタル化・AI導入補助金2026の申請相談を受付 -Claude ・ Codex等のAIエージェント導入を支援- PR TIMES",
+      "id": "ed37c02767ccaa2c",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【最大400万円・補助率最大3/4】佐賀県の設備投資補助金の申請サポートを開始します！【助成金なう】",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jVFpvREphWVJuODFYYXBfTnpTbThJcFV2VzF3eXhhenV6Y0dvb3Y4dzdVSXZVbXg3ZGNIV2hiWTJwSi1oTGZuVHZ1MjJTVUpRbFdnT2RTdHZvSWduTXJHWjFlZVhGWS1HUlE?oc=5",
       "source": "PR TIMES",
@@ -112,6 +220,18 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "アシュアード、Claude Mythosを活用した「AI総合サイバーリスク診断」の提供を開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RVllrWkNNeXdoaUZ2aDdfd1JKWjZfN1R5WWhpRG9Nd2V5Z043VUkzQWNTNVdSSFhFY19QWGtkZ280WG5rdHhjNjdTcjRucWxDb1o4LUt5b1VxbzZqWERTb21vWnVfVHVwRGc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-10T04:00:02+00:00",
+      "summary": "アシュアード、Claude Mythosを活用した「AI総合サイバーリスク診断」の提供を開始 PR TIMES",
+      "id": "fdcd3d0f569a5942",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -151,54 +271,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Claude Fable 5.2とClaude Mythos 5.2が登場、1000体以上のAIを指揮して8日間でOSを自律開発することに成功",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IdFlBNThhNDFadkt0XzZHWmxoRDFrSWd5NFZnbVlHWGJKZXJrLWVuYzZmYm9OU1c1N3QwYXpiR2RBMFFnVk5GbUo1T1lYRGdNQ1o5U1JPUWRCSkhEWlQ0T3gtcUpoanJOLVFQdnF6OTBqOVZfTmUwZQ?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-11-10T02:47:00+00:00",
-      "summary": "Claude Fable 5.2とClaude Mythos 5.2が登場、1000体以上のAIを指揮して8日間でOSを自律開発することに成功 GIGAZINE",
-      "id": "60d6cd0b5801feec",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicがClaude Fable 5.2とMythos 5.2を発表、前世代比30％高速・20％低価格で提供開始（テクノエッジ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzM2R6YVhXeWxOeU02ZFZoLUpRM0ZyUWJtRDRYbEdROWVCSWJFeVJsWnF0UzJheFliWGUtRk1CT3lpaEY4aUJTOWpubmQ5eUdNZG41Nk1yMENsaWJ4U2tZVGN1VjExUnNvRnU5a0VWUVJBTmU5TXpwODAxdUJvMW8?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-10T02:30:03+00:00",
-      "summary": "AnthropicがClaude Fable 5.2とMythos 5.2を発表、前世代比30％高速・20％低価格で提供開始（テクノエッジ） Yahoo!ニュース",
-      "id": "45658b7d5687499c",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropicが新AI「Claude Fable 5.2」をリリース。ぶっちぎりの高性能、実用例はもはや異次元（ギズモード・ジャパン）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FY3ZVeVFLZ180YTVBRGd0R0Y2MnNuTFloVkZMWkRHZWJCcUdtRFVRbm8xVWFkNENYNEVYRzNnaXVWcmF1Q2Fxd1ZVNmppT2ZLa2pRWE51MWtiUFNFczZ1MUxuQnRPLVNCTHZCb21WVVM3bVYybjVES1RVb3owUzQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-10T02:30:01+00:00",
-      "summary": "Anthropicが新AI「Claude Fable 5.2」をリリース。ぶっちぎりの高性能、実用例はもはや異次元（ギズモード・ジャパン） Yahoo!ニュース",
-      "id": "e7400d9419205a6e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic社はIPOを前に、新たなAIモデルを発表した。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHplUmR3NnFNWUlVYlVTdXZfdTRuYmxRSy1vU0ZteWhJOXpnd1o2QkVFSm1ZSzJvM1pHakZzeUM0UTZqZjFlVzJmOTRtV3dMTWpDaUI1Ul9YTzdiY20yaTEwX1BIa3BfZElrMjhIVWgtVFV3Q3JqaWxrUC1VVENXMkRENTZmRWZNcFE3TQ?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-10T02:29:05+00:00",
-      "summary": "Anthropic社はIPOを前に、新たなAIモデルを発表した。 Vietnam.vn",
-      "id": "5996b2b9675754e0",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【鎌倉市】「ダニエル・オスト in 鎌倉」覚園寺で開催！花の彫刻30点以上を展示 11月12日～17日",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnJpalJQSVRTWTBHSjdwSUc1QjFHQkZMNl96aWJhYkdWbVhpR3VrMkQ0VGlwRXhaSFlNaF9YSXhvVElIeGNReEsxTzhDdmRESjV4ZW9KNkg3Q2pfRVBBTFlBMl84cnVUcjdMLXVQRXBuWllKWFVDR1U4Z1VKalNjaTRiYndhcjdXTlE?oc=5",
       "source": "湘南人",
@@ -223,42 +295,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "アンソロピック、「Claude Fable 5.2」と「Claude Mythos 5.2」提供開始。標準API単価を2割引き下げ（あたらしい経済）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qMmJ1a1FNQjl0Z0o5RkMxbVZ2R0dSaWdpclNNYmVja21HRS1SNnA0bkNHU1kxQmcxYkpjRC1wTUk1THNScGg4NGQwUmwzaFc2OEJoaFdKel9NQ181b0NrWFdhdlZ5a1k0WDBhSlhTTFpCbVNHU0JIZEQ2T3BnZk0?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-10T02:00:14+00:00",
-      "summary": "アンソロピック、「Claude Fable 5.2」と「Claude Mythos 5.2」提供開始。標準API単価を2割引き下げ（あたらしい経済） Yahoo!ニュース",
-      "id": "880d937a387ce38f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AIエージェント導入で終わらせない。成果につなげる業務設計と人材育成を公開/ビルスピアカデミーが「生成AI/AIエージェントフォーラム東京2026秋」に登壇 - パーソルイノベーション株式会社のプレスリリース",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56eTdRc0VEOUltN2pYNmtRSmFENlZ2S3VCNGZtOV9sUmdxZUhwbmtOZklHNHBLTXIyMHhZUEhWeG9HdXdDQVp6cEw0RzNRenQzV2FFZUxGeE9vRVU?oc=5",
-      "source": "valuepress",
-      "published": "2026-11-10T02:00:00+00:00",
-      "summary": "AIエージェント導入で終わらせない。成果につなげる業務設計と人材育成を公開/ビルスピアカデミーが「生成AI/AIエージェントフォーラム東京2026秋」に登壇 - パーソルイノベーション株式会社のプレスリリース valuepress",
-      "id": "b0dea8e75c8c63e9",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "コスト3分の1でClaude Haiku 5.5に並ぶ、メタの最小AI「Muse Ember」が登場した衝撃（ビジネス＋IT）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDMUFZS0gtM3p4VXIyVEJwUDRUTHo5dWtkRVk2U3BGaDFianlRa1RGWkxlSDZNc2N5TUlYTWRaU2swR1NEWWVoVGNXTVFLMk9LY2dMMVhfdFc2V0ZySWNpNU00RTUtMFBRbmoyZ0JLVTMxLVZsNWhBS3BJcks4WmM?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-10T01:55:06+00:00",
-      "summary": "コスト3分の1でClaude Haiku 5.5に並ぶ、メタの最小AI「Muse Ember」が登場した衝撃（ビジネス＋IT） Yahoo!ニュース",
-      "id": "a616071a469eb132",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【こどもの未来を創る】奈良の老舗企業、品川区児童養護施設の無料マルシェ出店",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12WmxfQTlFRWEwRnZtWlctYm83aVVUcUtQV193c1M1N2RaVHc1aGkzUXNDd1FpZkg4M0haWE41cWdKOVp0Z3luNl9NcnhOR0lEcjdXeHI1aVBzeUdHeFEzYkpCcHBXU0dRX3FmQVMtM0wySk0?oc=5",
       "source": "ニコニコニュース",
@@ -272,9 +308,9 @@
     },
     {
       "title": "鎌倉市役所にユースクリニック開設 思春期の悩み相談を",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WUDJveTE0SV9yU2NmOW9BYTFabWxkdFpMeFpsZFRoQ2xFcmp4ajk0SWMydElleHJtVlQzWU9SQnpHNHUzaF9RMzVQcDI2VTVuUHhRUVhERDdJTXNpaE93?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MNHVsRXJlUl8xXzFXQ1BzbU00VVVJZVo2UnpUUWxVRWlWYnpkTHVZdVhaLUVKekVudFN0UUtKRjNpZFJwOXdHN3dGanduNFFYU2haazRoRGhnUnZCN0dR?oc=5",
       "source": "NHKニュース",
-      "published": "2026-11-09T22:48:49+00:00",
+      "published": "2026-11-10T00:47:57+00:00",
       "summary": "鎌倉市役所にユースクリニック開設 思春期の悩み相談を NHKニュース",
       "id": "fafa8e2e1c9220c1",
       "category": "地域",
@@ -379,6 +415,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "国税庁、2026年分の消費税確定申告の手引きを掲載！申告期限は2027年3月31日",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GdmEyWENYYUZoSUFPeXdhQnpJVUJGeUFXSE5WUEpMVHEwVDdwbUZfQWF6SWwwOXZFZkFUQW5DNG1NejYtMWtQWjlaSWpJVzlIZmx5Yw?oc=5",
+      "source": "創業手帳株式会社",
+      "published": "2026-11-09T07:30:40+00:00",
+      "summary": "国税庁、2026年分の消費税確定申告の手引きを掲載！申告期限は2027年3月31日 創業手帳株式会社",
+      "id": "fe6b0de172d036a8",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "9月の景気動向指数、2カ月ぶり上昇 熊本地震後の生産回復が寄与",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1aF9IdmZMcktkV1c3WUt1clhQcVUwSm1jWUpwLW9KeWJqaHQxV3pNQWhOS0pCWTlpX2o5UVhZeHBfTXVVTHZWVm81OVUtUVZlVnpCTWUtOWJKOGxPazlJNWkzVDF1LXRQekJuNA?oc=5",
       "source": "日本経済新聞",
@@ -439,18 +487,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「カマトトぶってんじゃねえぞ」米津玄師 『Lemon』MV再生数10億回突破のコメントにBUMPファンらが反応したワケ",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55R0ZuYmU2WnRUVC1Na1dWREZfR003UXZ5WmdwSVZQVFIwVjZHclRoY0RXXzFyQndTMXkwNnBYdDhfbHlrczhVdmtVMFQ1cWJjZWEycnNEM29tNjNQMEd3M084WEhXdzJ3QUpoQzhwN0c?oc=5",
-      "source": "女性自身",
-      "published": "2026-11-09T02:00:00+00:00",
-      "summary": "「カマトトぶってんじゃねえぞ」米津玄師 『Lemon』MV再生数10億回突破のコメントにBUMPファンらが反応したワケ 女性自身",
-      "id": "b581c257f8099783",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "花の彫刻家ダニエル・オストが鎌倉・覚園寺で初開催する展覧会",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jTk5FSW5RekZocllFeGFKSHJjNlZ1bDBFLVBIRzNCbzlGYVY0Q0ZCUEFmWXpGZnpBLW5fZ2lvSnk5STNPRnZDWUFRaVIwcnMySTBWLVlfbmtKQQ?oc=5",
       "source": "wowKorea",
@@ -472,18 +508,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ジェネロ、中小企業庁「デジタル化・AI導入補助金2026」のIT導入支援事業者に採択",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FRTRyZjU1b09DSV9PVms0WmY5T2huc0hLazF1aHpKd2tMWVdPMlptUGFNQ3otcEp0bXdYUG5CNUxvbWJpYmJxYUtRWDVyZ3dXRlpKUEl5ZU5lQ2NTQUJxY0Y0a2FyR1VueUE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-08T23:30:01+00:00",
-      "summary": "ジェネロ、中小企業庁「デジタル化・AI導入補助金2026」のIT導入支援事業者に採択 PR TIMES",
-      "id": "02143ed74db14491",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -691,18 +715,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "東京都、電気・LPガス価格高騰に最大750万円を支給！11月9日から申請受付",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VVEhMSkdBdkJkbUk4TDc2TVgycGNhVDhEdXVlQmpFREstMzl5WkxSVnZqckVYUlFwMU5wODJaNzVLODhGb002NzVOTl9PTTBYWEdidQ?oc=5",
-      "source": "創業手帳株式会社",
-      "published": "2026-11-07T04:55:32+00:00",
-      "summary": "東京都、電気・LPガス価格高騰に最大750万円を支給！11月9日から申請受付 創業手帳株式会社",
-      "id": "40199d155c59c49d",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "第48回 荏原第四地区子どもまつり(品川区民まつり)を開催｜品川区公式ウェブサイト",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlBEdmlrZWhxb2RhanVMR2wxQXJFU3pobFc3OWtsV0RtZGhQYVVWd0p4dTdmNlhzV1h0SlZmekFULVFVWmJQbVRVVGo0b25xR05xX0ItUkd4MHQ0cHBfX05PNUc4VURFUGdMU2MtTkNWWDZsQ3FqaDR1UDNMSzlMUmw3S3NaVHVvTlJLNEdQbTZIeDZ5?oc=5",
       "source": "www.city.shinagawa.tokyo.jp",
@@ -748,18 +760,6 @@
       "category": "地域",
       "topic": "地域ニュース 品川",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-      "source": "補助金ポータル",
-      "published": "2026-11-05T08:00:00+00:00",
-      "summary": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 補助金ポータル",
-      "id": "afaad8002a629459",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -820,6 +820,18 @@
       "category": "不動産",
       "topic": "道場物件（品川・大田）",
       "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福（オリコン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xVERNYVdVQXBYNmJOOE1MNVR1dUZUWHFMS0hsSDJzSExJVWJ2cEZRaWZTQU8zTVJvS25Ha2dPa1BvUXJ0OU5rTDFPTC14V3oxZUVkWDNPRGdzQUloZkZzcllmd3AtMEZ1VlVkckV6ME9RZ1JrQldqekJQYmZjOVk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-04T02:45:00+00:00",
+      "summary": "米津玄師「いまだにピンときていません」 「Lemon」MVが10億回再生突破、日本語楽曲として史上初 石原さとみら『アンナチュラル』チームも祝福（オリコン） Yahoo!ニュース",
+      "id": "abde68f26b5c45c6",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -931,5 +943,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 72
+  "count": 73
 }
