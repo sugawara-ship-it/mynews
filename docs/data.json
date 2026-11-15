@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-15T01:46:18.055826+00:00",
+  "generated_at": "2026-11-15T02:46:40.814315+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,13 +26,13 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 2
+      "count": 3
     },
     {
       "name": "道場物件（鎌倉・湘南）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 1
+      "count": 0
     },
     {
       "name": "地域ニュース 品川",
@@ -112,6 +112,18 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「大好きで仕方がないんだろうなあ」愛子さま 武道大会で「隣に座られた女性皇族」に喜びの声相次ぐ（女性自身）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Cc0xNcEtxMFppV0hXai1XSE5DTTIzeUZyZFBXXy1HMXJKUkNmYzBuT3NrWnVMUFBNUkwtY0NtaEpSTHJkQ3daSDB4R2pGUzZOVmJiZlBvUVU0V0VIemdFSWFVNVE0aUtabWh4bnIzeW5Rdm10S29KTC0xbjNsVFE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-14T21:00:12+00:00",
+      "summary": "「大好きで仕方がないんだろうなあ」愛子さま 武道大会で「隣に座られた女性皇族」に喜びの声相次ぐ（女性自身） Yahoo!ニュース",
+      "id": "f3cf367da7b23499",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -295,18 +307,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【鎌倉市】「HERSTONE Guest Room」開催｜金沢のほうじ茶やシルクシャツ、パールジュエリーが集結",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOEtLLXJwSVFoNVBZY3RmU2gtOGpjZnV5Ymd3b3VWSnc1S2ZGSHZGMGc2MEZHWTg1VDJBOF9zSENxZ0VtUjZ4VWlCMUltQzhFSENleThyaEdjckV2NXI3QkE1bm9mUzEy?oc=5",
-      "source": "湘南人",
-      "published": "2026-11-14T06:58:25+00:00",
-      "summary": "【鎌倉市】「HERSTONE Guest Room」開催｜金沢のほうじ茶やシルクシャツ、パールジュエリーが集結 湘南人",
-      "id": "b48c70d0f530f5db",
-      "category": "不動産",
-      "topic": "道場物件（鎌倉・湘南）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【大好きな湘南の海を、もっときれいに。】鎌倉・由比ヶ浜海岸と逗子・小坪漁港で11/28ビーチ＆港クリーン開催。参加者募集！手ぶらで参加OK、ボランティア証明書も発行",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3Ull0QVMya3BFazVveWdjYy1xbmNSZHVCdnZkcWRUdElBNWEwck05V0dMRU92RVdybmh4dHRweUVPUTJzTzBPeVNpN3ZfZldRSUNydHd3cFNMNlpaSjV3SnhTbHNMcXVxTWpEOGtRLVlaU1NOTkFDek1R?oc=5",
       "source": "イザ！",
@@ -364,6 +364,18 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【350人の回答公開！】米津玄師さんの一番好きな楽曲教えて！11/15まで受付中！！【祝！「Lemon」MV10億再生 あなたとともに読者アンケート】",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RREFOLTlueUpoTmMzcHBsTlhGSThrLUhKejRHcGRLejFKSV93NF9FVE8tTDZyb255cU5rU2hXdndmRUw0anpuQkd2OFFxU1NIbE9rVGVR?oc=5",
+      "source": "徳島新聞デジタル",
+      "published": "2026-11-13T12:00:00+00:00",
+      "summary": "【350人の回答公開！】米津玄師さんの一番好きな楽曲教えて！11/15まで受付中！！【祝！「Lemon」MV10億再生 あなたとともに読者アンケート】 徳島新聞デジタル",
+      "id": "548d40d2e54f45fc",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -715,23 +727,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "天皇ご一家、皇宮警察武道大会を観戦 熱戦繰り広げた選手らに拍手も（2026年11月11日掲載）｜日テレNEWS NNN",
+      "title": "天皇ご一家、皇宮警察武道大会を観戦 熱戦繰り広げた選手らに拍手も（2026年11月11日掲載）",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PZGlwa2VJWVdyU2JqMi1aejB0aWo4OWdMZWpKY1VaUWRnUUFVOEllVWxRdU0xcDBZS1F4N3YxNTJNcDBZcEEyRUtOZjJER0ZUaFdXc05EekFOWWVnbmxXd0tOR2ZJVzd0NmljNV9fbHpvWUtQTnBIRDBrMjc?oc=5",
       "source": "日テレNEWS NNN",
       "published": "2026-11-11T11:30:02+00:00",
-      "summary": "天皇ご一家、皇宮警察武道大会を観戦 熱戦繰り広げた選手らに拍手も（2026年11月11日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
-      "id": "ccd33cd737911986",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "天皇ご一家、皇宮警察武道大会を観戦 熱戦繰り広げた選手らに拍手も (2026年11月11日掲載)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fWWowREZVVXBTVGxYOGlnOFJ3VHBvZGU4WDVtNlkzZG9ZR0tKeG81cU42M3VRdEIySXc4aHdHRXhBUWlKRU1hVEFzUVRaX3VvU1NXSFhHWXRscXdVWlE?oc=5",
-      "source": "ライブドアニュース",
-      "published": "2026-11-11T11:30:02+00:00",
-      "summary": "天皇ご一家、皇宮警察武道大会を観戦 熱戦繰り広げた選手らに拍手も (2026年11月11日掲載) ライブドアニュース",
+      "summary": "天皇ご一家、皇宮警察武道大会を観戦 熱戦繰り広げた選手らに拍手も（2026年11月11日掲載） 日テレNEWS NNN",
       "id": "9693ca6ed3ac0d95",
       "category": "武道",
       "topic": "合気道・武道",
@@ -752,10 +752,10 @@
     },
     {
       "title": "天皇皇后両陛下と愛子さま 皇宮警察の武道大会を観戦 柔道や剣道の決勝戦などで勝敗決定時には護衛官らに拍手も",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rb3lwc3ZqQm1LcllvRnFFZmJsZ3RqelU0bEg3YkZ1b3RHMnFScFRCMDFIRWFEQVNadVJMZVpTYzZoYnllNk8tQzhpQWgzb1JGdXNNUXpSaU5xVUdVWkxlZVRaSjFtaWtVNEZoeGplOTNlWXVfQlNXM005NFN6eFk?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-11T10:11:56+00:00",
-      "summary": "天皇皇后両陛下と愛子さま 皇宮警察の武道大会を観戦 柔道や剣道の決勝戦などで勝敗決定時には護衛官らに拍手も Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iQVlKZ0dRLS1YaTlFRWtnMXpDR3llejEzbFZ2eHlZcFNPXzl0ZTR3V3dOaE41WFUxTDQweHMyTk1QYVpfR19BcDdZTTNmelIyY2MzSkdaYw?oc=5",
+      "source": "TBS NEWS DIG",
+      "published": "2026-11-11T10:13:38+00:00",
+      "summary": "天皇皇后両陛下と愛子さま 皇宮警察の武道大会を観戦 柔道や剣道の決勝戦などで勝敗決定時には護衛官らに拍手も TBS NEWS DIG",
       "id": "c3affd79e88f4599",
       "category": "武道",
       "topic": "合気道・武道",
@@ -787,18 +787,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ブックフェア「米津玄師と文学」紀伊國屋書店横浜店で本日から、Kアリーナ公演開催を記念して（音楽ナタリー）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rWE9YcXk0ZWM1TWNDMXZEQmlhRXBMeExhZHhTdWVuWW9PLW54dzFpYTFHVzVUZG9QRmhYSEplQUgtWks3akcwRWZzcFVuMUtKVEJ6TVVpZk1DVDB6dXhqRFlkMlFoTnN0VkFkYW9sajN5UXVYRzM0Zm8tVGhwdmc?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-08T06:07:10+00:00",
-      "summary": "ブックフェア「米津玄師と文学」紀伊國屋書店横浜店で本日から、Kアリーナ公演開催を記念して（音楽ナタリー） Yahoo!ニュース",
-      "id": "da43a421d36efd26",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "品川区スタートアップ・エコシステム キックオフイベント 区立五反田産業文化施設CITY HALL & GALLERY GOTANDAで開催［2024年7月26日］｜品川区公式ウェブサイト",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcVVyN3VjZ0Fidm9MdEJDSEJsVzZZdlktRGtoRDFvMnk4eUVyQnl3aXd1T3RSdnlSTVJaalRBNmpsQU02ZHo3UjBnOWlINUFiQXhOOE1ONjdBeEhpVkdTaHhsN2xIUTBRcjJESW9zbVBMZ2hXWmxUS1piTG1fWnFJZ0dn?oc=5",
       "source": "www.city.shinagawa.tokyo.jp",
@@ -820,6 +808,18 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "バロー／東京1号店「本羽田店」オープン、年商50億円目指す",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NQ2pGZzZWZFFlVGZneGFZMEo3R3Q3WEFnNUcxby1GMTBEX1oxZlR5M1ljR3dYeFhxRFRPbVRzMlZlM0t5NUZHZk9PRWxRNm1uNnZCQ093?oc=5",
+      "source": "流通ニュース",
+      "published": "2026-11-06T08:00:00+00:00",
+      "summary": "バロー／東京1号店「本羽田店」オープン、年商50億円目指す 流通ニュース",
+      "id": "3d34e65a08b6eb30",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
