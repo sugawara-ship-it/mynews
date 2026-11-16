@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-16T16:46:57.081962+00:00",
+  "generated_at": "2026-11-16T17:47:21.685231+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -14,7 +14,7 @@
       "name": "推しアーティスト",
       "category": "音楽",
       "emoji": "🎵",
-      "count": 3
+      "count": 2
     },
     {
       "name": "ライブ・コンサート全般",
@@ -66,6 +66,42 @@
     }
   ],
   "items": [
+    {
+      "title": "Qwen4-Max vs Claude Fable 5.5：一方は製品ではない",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVdzQ1cS1WbzFFd04tS293aDZESzFDTW13RHktRTBhVFJuUkh0Wnd0UGJvZk9lLTZDQkdNeVh0ZXdJMlFfNnNZbjdwbWZ3Q0RYSTlob1NWTEFCT0tXZnRzVXpLY0dfNXpyOENNb0pRU1NzZw?oc=5",
+      "source": "OrcaRouter",
+      "published": "2026-11-16T16:51:52+00:00",
+      "summary": "Qwen4-Max vs Claude Fable 5.5：一方は製品ではない OrcaRouter",
+      "id": "a4ef6a1b284e96c3",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AnthropicのCFO、Krishna Rao氏が財務責任者として初のIPOに備える",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWJZLVUzS3NPVnEtdDdPTS02UEhsQ1JUNnlMMXZpWnFMeExDT1ltbWtMN042X0RNVHNuSjFaSzdONkE5SFZhbW13cUNXZ3c3R0l2cHFXRG1zZ0FEaEdFS2w3Um51cDlTZlpyU1RMdTdKYUdWVGtZSFlxay1WS24ydzhXMlZtTGFYS3BLd3pxOE9FNG1SUjYzMUhB?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-16T16:41:03+00:00",
+      "summary": "AnthropicのCFO、Krishna Rao氏が財務責任者として初のIPOに備える Unite.AI",
+      "id": "02b11f43aae600b7",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "市場の噂：OfficeアプリでClaudeがMicrosoft Copilotに後れを取る",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTzVTSkp0cFVrbk9WbFhDbHhaUXlZUWFmNkh3UXd1R0V3QjlyRk9jaXhIZU9ha29xaWQxa2Q1X3pyNUxxeDF4SDlHY2xTeWsyNFdycDFUNWFSenlXNWdHckdPZ3hXOHJIeGxuM0dPUVhCR25lbVhtWTJrckxaa1BVWExqYWF1TzJVM3ByeDZMemZST2JoOFJFNEszdEFHbnFpZTBfc2ZRYWFHT1dvUzlqcXZfOFhPTms?oc=5",
+      "source": "Moomoo",
+      "published": "2026-11-16T16:38:16+00:00",
+      "summary": "市場の噂：OfficeアプリでClaudeがMicrosoft Copilotに後れを取る Moomoo",
+      "id": "683fc6f161e4b61e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "笛田リサイクルマーケット開催 11月29日 笛田リサイクルセンターにて",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JZzBwd3pPYWs0cy04RE9BT3U0UjdzNlBwYnZWbTZ4RWRlZ29TQW9BRmx0d3FKZTBvbVJZbWVyT21BalJacXJUcXZDckM0TEZJZVNuTG9SNzhGZ29FeEY2Z2pQMUg?oc=5",
@@ -211,30 +247,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "AIとの対話で、マニュアル作成。ChatSenseが新機能を提供予定",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VUkxyWW9yeHlIV3RuWi02ZHhXY3JaWkFvYTdtcDFLbzBUQnVla3NIZ1RoNG5Gbm14NDlic1A3VU9UWTg0VWliNUpVTDFTZUp0b1B1enFwOHhxVXVWVzdHVDZyQkJKQmh4UHc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-16T09:40:27+00:00",
-      "summary": "AIとの対話で、マニュアル作成。ChatSenseが新機能を提供予定 PR TIMES",
-      "id": "ab743be35589a040",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「あいみょんの投稿が泣ける」スピッツ・崎山龍男の事故報道後に“発信した内容”に反響→ファン「なんていい子」「ありがとう",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54b0FyejdrVGlfUENYMTVTTFNJMUpqMTZLWjNXUjBMSmJMSGhPZVU4dldZZGd6VjJSUEdTRlhjX1VvQXFfYnF0ZTd2bjVYWWlIdmswY2JySEhDY0ExOWdrdVM0YkFqT3dFbEswczFRSTRfTldlZW95X0drcw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-16T09:33:50+00:00",
-      "summary": "「あいみょんの投稿が泣ける」スピッツ・崎山龍男の事故報道後に“発信した内容”に反響→ファン「なんていい子」「ありがとう ニコニコニュース",
-      "id": "4981e51a6402ae5e",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "aiko、【Love Like Pop vol.26】が開幕「みんなの美味しい美味しい飴ちゃんになれますように。」",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hc2tNYkdGNldlc3Y2LVRHVEtMNzc0aDVGanNvQXlKcTlrMXY0bEJnWGo0dVNUdGktbHo1bVh5MVd1QlZDdVN3cFBwMzVQcWFySXRyZklZY2xqWENROF9iS016NlFYV3Rs?oc=5",
       "source": "ニコニコニュース",
@@ -283,30 +295,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「要らなくなったら捨てるのみ」――Claude Codeで作る単一HTMLファイルの社内アプリ",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4wbFc1MTRlcDBRcjZJM21WWXMxdnNKMVJfUEFqVEFkVkNSc3hqY19aTXd5Z2xZd3dESW1VWm00QnFWdw?oc=5",
-      "source": "shiritomo",
-      "published": "2026-11-16T08:25:07+00:00",
-      "summary": "「要らなくなったら捨てるのみ」――Claude Codeで作る単一HTMLファイルの社内アプリ shiritomo",
-      "id": "ff2ec2c2f0aefa2e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropicによると、Claude Mythos PreviewはAMD MI355X GPU上で、あるモデルを約3日で稼働させた",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUNWSC1Qd1BxUGF0eldNNExubUVqbTNLUDRHY291aTlhMTNWNjBEWVZvdXUtNXFYRHdjVDg1QmpOSG1kam9jVzNyVW5MM25CNmxoalJuenZDOU9tVldnb1FyVmpvVk9BSXI5UGYzcVFMcm9ENVRTWFBtelpfN3hDajQ4QXdEVXkyalF6SEZZdGkycmJGUEhOZkZvNWVvV1E?oc=5",
-      "source": "Mezha.net",
-      "published": "2026-11-16T08:07:00+00:00",
-      "summary": "Anthropicによると、Claude Mythos PreviewはAMD MI355X GPU上で、あるモデルを約3日で稼働させた Mezha.net",
-      "id": "e0a6d33aa1fda165",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "品川歴史館で「品川らくご会」初回開催へ 柳家吉緑さん独演会、「芝浜」口演（みんなの経済新聞ネットワーク）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IUFI1bWE0NjZJVFZkVWpGdXpuT2k4S0l3VWZjT1F2SFMyX2lGd2xVOE4tWThXY1ZRRjZBenUtZ0N3OGdlaV9kdnlnX1lmWHo1bzMyVl9haldIeHliSm5yLWtQYXJjV1dTdkVNd1lqcmFESGRpRTNadFFJS1ZwTkE?oc=5",
       "source": "Yahoo!ニュース",
@@ -337,6 +325,18 @@
       "published": "2026-11-16T05:46:10+00:00",
       "summary": "「中小企業省力化投資補助金（カタログ注文型）」の交付決定が合計6,988件に！10月末時点の結果が公表 創業手帳株式会社",
       "id": "95c8ba8a47cdf868",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "個人向け社債最大の3.2兆円、ソフトバンクGや楽天 金利上昇が呼び水",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sVi1Dd2tZT25LY0xGcExNRnNDTjZ5eG5MaS00YVRZcmFkWEFocVJXLW5VNXZGYnZuZElwemhCTTBTNlQ4aHZwVzlhVWttNXNzTm15LVcteUlHLXhKaERtZnFfY2dHY21HREZOUQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-16T05:30:00+00:00",
+      "summary": "個人向け社債最大の3.2兆円、ソフトバンクGや楽天 金利上昇が呼び水 日本経済新聞",
+      "id": "1def13714d3ffd15",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -553,18 +553,6 @@
       "published": "2026-11-14T00:00:02+00:00",
       "summary": "【11/14より】「省力化投資補助金「採択攻略」セミナー～審査項目から逆算する申請準備～」の配信を開始します！【助成金なう】 PR TIMES",
       "id": "8ad78c9afb4c7e55",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米長期金利5%台続く インフレ再燃、トランプ関税以来の週間上げ幅",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01cUdjcVBoRmIxVWVzeTJWZGpDNm1JSGdzTGNOLVpnaTdoMUdZNFpxZm5ORFJyV3o2UnhGT195UHJSWG1vcTdEbmsyamJiQkJ0d0F4V2ctR3RXUlBsc3VsbUxYbGpwVlRIQ2h6Mw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-13T20:56:48+00:00",
-      "summary": "米長期金利5%台続く インフレ再燃、トランプ関税以来の週間上げ幅 日本経済新聞",
-      "id": "57180f81b75227e3",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -871,5 +859,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 67
+  "count": 66
 }
