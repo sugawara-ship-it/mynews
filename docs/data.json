@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-16T12:41:27.935131+00:00",
+  "generated_at": "2026-11-16T14:02:05.021915+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 8
+      "count": 7
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,6 +67,18 @@
   ],
   "items": [
     {
+      "title": "Epstein files に残る Cami Clark のメール、実際には何が書かれているか",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56TTVsTlVYcGxNZG1uYjVrYy15NXBzd2MyeE9hNWxfcjljV09sQnAySndEMXhINXI5Rk5GM05FOWlqV0R5WE1wbExoMUJCdTB1cEYyVDZVclZRd0pLemZ6OUI5eXRDOHR3NmdCQTI1R0pHMXdmMlhPaUp0bkFxUQ?oc=5",
+      "source": "Pasquale Pillitteri",
+      "published": "2026-11-16T12:54:39+00:00",
+      "summary": "Epstein files に残る Cami Clark のメール、実際には何が書かれているか Pasquale Pillitteri",
+      "id": "ea94be21250c8af1",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Claude Code生みの親ボリス・チャーニーとは。プロンプトではなくループを書く理由",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2p6WjRObHZMY290a3luZm5QMzN2VGpObkE4a1Zaa1I2ejNKUHZXZzFjeTNCbENZb180ZGJGUWNmTEdGOTlZOXZzZ2NuMnZhZEJJX0FOdTJQaU1BeWJ0a1E3a0VFUk9RRE1LNmI5SjQ2U1dfWE93MUFlTkxXUUdEZg?oc=5",
       "source": "Pasquale Pillitteri",
@@ -82,7 +94,7 @@
       "title": "ClaudeとCodexで32年落ちのジープをリバースエンジニアリングして修理",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaSUMyTnAwZmkwbHhOVDlxbDNlUVMtN2F3Q3lGbUV0SnR0TVhvMUtLYktnUDFBUzRZcU4ydUNwX2ZnSXJaRTUzbElBelRKNzNmcnI3aF9oTDMzeUpWVHQySWE4bjFULUplN0NMZmhkbw?oc=5",
       "source": "GIGAZINE",
-      "published": "2026-11-16T12:02:22+00:00",
+      "published": "2026-11-16T12:00:00+00:00",
       "summary": "ClaudeとCodexで32年落ちのジープをリバースエンジニアリングして修理 GIGAZINE",
       "id": "4359b86a2a833655",
       "category": "テック",
@@ -259,6 +271,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "AnthropicのIPO、中国・香港マネーを遮断…AI覇権競争が「資本の戦線」へ拡大",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhNFptcEMtUDNIZEw4UEZROVY5dmhNMHpUc185LUdJa0gxeExndGthR2dkUTM1d3AtNkUyMzM0bTJNbmRMZ0s2WEdJbVN6eUxMakFCYmd3ZGpWYkFxRkpTSGV5bzE4dzdsZnNvMjEwdnBjWURl?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-16T07:55:00+00:00",
+      "summary": "AnthropicのIPO、中国・香港マネーを遮断…AI覇権競争が「資本の戦線」へ拡大 BigGo ファイナンス",
+      "id": "641193fdbaa59b83",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "品川歴史館で「品川らくご会」初回開催へ 柳家吉緑さん独演会、「芝浜」口演（みんなの経済新聞ネットワーク）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IUFI1bWE0NjZJVFZkVWpGdXpuT2k4S0l3VWZjT1F2SFMyX2lGd2xVOE4tWThXY1ZRRjZBenUtZ0N3OGdlaV9kdnlnX1lmWHo1bzMyVl9haldIeHliSm5yLWtQYXJjV1dTdkVNd1lqcmFESGRpRTNadFFJS1ZwTkE?oc=5",
       "source": "Yahoo!ニュース",
@@ -283,18 +307,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Ahrefs、ちょっと株式会社の導入事例を公開。Claude 連携で制作提案を支援",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52RjBBNlBwdk1kTFMxbTVqZjctLVJTdUtvMUlJVkIxd1VJdzhxclQzaW5GWHpZOVBkS0pQcmNKZUw3VjlyUGczWjhvRmd1OUJXU1ZHLV9jWlpRXzVtbVFSREdTTThzTkRLRHc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-16T07:09:13+00:00",
-      "summary": "Ahrefs、ちょっと株式会社の導入事例を公開。Claude 連携で制作提案を支援 PR TIMES",
-      "id": "c3e63c61c69b18f8",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "債券15時 長期金利、2.880%に上昇 金利急低下の反動続く",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05R3g5Q0RVS21JWU1abVM1YWtfUXRHUWZ6cEVuRDlLaXU5VjV1WGV0dE0wZEY4Z0VoaThyZ2ZndHBYQ1MwaDNTX1NSRXRCYWdiVXpDRV93MTlxYkRiNW5DWXhRam0tY2hVUkVLbg?oc=5",
       "source": "日本経済新聞",
@@ -304,18 +316,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Lumexa AI、アイデアを伝えるだけで設計から公開までAIが担うAI開発プラットフォーム「Lumexa AI」を正式リリース。リリース記念で有料プランが初月1ドルに",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11TTg4NjhzenRKcTRBdm5BZ2xwVXNubk9WczdGRElKaWxOZVVjcGdlQ0pjaWRVVkx1Qkw4VkM3NUZvZjdVcE5NdTBET2tzd0VadHpoTlZkMWQ1eDNzekFkZDFFT3VOVms0VGc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-16T06:42:13+00:00",
-      "summary": "Lumexa AI、アイデアを伝えるだけで設計から公開までAIが担うAI開発プラットフォーム「Lumexa AI」を正式リリース。リリース記念で有料プランが初月1ドルに PR TIMES",
-      "id": "ee3de120b5640177",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -471,18 +471,6 @@
       "id": "6a005afd2c6c86c6",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "品川区長選、現職の森沢恭子氏が当選 前回は異例の再選挙（朝日新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GY0RIajNjR1ZiazB6eV9nOUxYRVhhWFc3Mk16cTFmT0RsZjRtMFVleG5rb1hTSTI5MGxQbGFiTFNVOWNvNmZIaDJXdHZkb043Z3pRSkpWOUYxMGpaMUJ1Q3o3a2xsN2Y5bVJVZ0xobndfcS1KYzVBOGxIcEN4NkE?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-15T12:31:28+00:00",
-      "summary": "品川区長選、現職の森沢恭子氏が当選 前回は異例の再選挙（朝日新聞） Yahoo!ニュース",
-      "id": "e271a4a9d66b1e9f",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
@@ -895,5 +883,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 69
+  "count": 68
 }
