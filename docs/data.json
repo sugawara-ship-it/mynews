@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-16T18:48:52.579863+00:00",
+  "generated_at": "2026-11-16T20:04:29.048112+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 7
+      "count": 9
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -66,6 +66,42 @@
     }
   ],
   "items": [
+    {
+      "title": "Claudeを使い続けて大丈夫か？ IPOで見えるAnthropicの財務と新機能：大幅アップデートの新モデル",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOOWc2ZXpwYmExejdzNFl3MDlmOGw1eVQxRjVGcHRySmNEVlV4U3o5bGhhMzhjRDJkQ0tabUtpdUowUWxEM1ZrN3Q1SUxCZG1qTnRRV3QxYkhheVRXajZiMEtRV3JLTVhnUjduYkVjR00?oc=5",
+      "source": "TechTargetジャパン",
+      "published": "2026-11-16T20:00:00+00:00",
+      "summary": "Claudeを使い続けて大丈夫か？ IPOで見えるAnthropicの財務と新機能：大幅アップデートの新モデル TechTargetジャパン",
+      "id": "864dcfddb7e41357",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": ""
+    },
+    {
+      "title": "Altimeter Capital、AnthropicのIPOに50億ドルを投資する計画",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQnAxamJIcWNtNnZlaUdlQnlENjBkQ1g4YU9CNC1lNC0wd2JnQnRGeUxQRVIwc1JZTG4xR2FTZmZMdHZyY0lrX3A2TGx2aGI0dkUtSjN0NnIwemxWY212UWJCUXV5MFVKU1YyZ3ZDYWw3WTBidFQxUTdKcm5RM0FJOTVJQ0l6b2M?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-16T18:45:06+00:00",
+      "summary": "Altimeter Capital、AnthropicのIPOに50億ドルを投資する計画 Unite.AI",
+      "id": "803f8e1d301df85e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "アルティメーター・キャピタル、AnthropicのIPOに50億ドル投資へ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zbXNyWE9vUE9UVk5CTHhmQjVsMm5lblBRdE1ISmg4WXB0b2pqSVVWUUp4VnkxZXlmVkZUMFFBUWIyR2pIZzgwMV8wZER4WWlzek9Lem5ER1ZaTjE5U25qSGsyX0o5NGVGTHFYRDJZYnA?oc=5",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "published": "2026-11-16T18:16:00+00:00",
+      "summary": "アルティメーター・キャピタル、AnthropicのIPOに50億ドル投資へ Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "id": "df413fb912928fd4",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "DevinのSilicon 2はClaude Fable 5.1と同じ価格設定",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0eENhRW9mVm53NmYyVmY4LWVxX194MEt1aVpib0pRcDVzcWxyOHVKa1Zoc1JLMmZDWDhBLUFxVThCc2laT3hsNE9CTzdWcjJ0NzJ1NjFSd3g5UmF4NzkzY245X18?oc=5",
@@ -199,18 +235,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "IG証券、上場初日よりAnthropic（ANT）株式CFDの取引を開始予定",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPbVF6SGk1MUZsLVpFTkdMNXNRVG9rcXNfOGcxV0psZ2NNSUhhMjFCaVpHSVE3d0k5V3lLYkphcFFtUG1VSUNLUjNLTUhOYnNKTFl5TVVya0U?oc=5",
-      "source": "オリコンニュース",
-      "published": "2026-11-16T10:46:00+00:00",
-      "summary": "IG証券、上場初日よりAnthropic（ANT）株式CFDの取引を開始予定 オリコンニュース",
-      "id": "7c5dbc10ef6a1d21",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "30年債利回り4.03%、1カ月ぶり高さ 米金利高と入札警戒で",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wMFltWUdEeEZjYWNnZGU4VV9ocEJ0R0JxLWwzWms2RldsVVM3MEJkMEdTSk9wTUFiUTBwTExQOTFZckowenRQX0RKUy1uaFl4WUp3aWVFeHFvZDBRZ0hKODVhMll2TEJRM205aA?oc=5",
       "source": "日本経済新聞",
@@ -220,30 +244,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ユーロ圏国債利回り横ばい、エヌビディア決算とAnthropic新規株式公開を控え投資家は様子見",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sd3lsQnotcnY3U3B0U09INXptcTVSZGYtaW9YYVl2T3M0cjB0SzdGQkJOSUFpUVhUZE5uc2wwbU12a2VGcmlqZ2J0QjlwY3FlY1NNMVVFZ0F0aXdmR0M3THJMM0g0TURJUm9HYnRzVnphdG9h?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-16T10:05:00+00:00",
-      "summary": "ユーロ圏国債利回り横ばい、エヌビディア決算とAnthropic新規株式公開を控え投資家は様子見 BigGo ファイナンス",
-      "id": "15efd950c4893144",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Codeに「カスタムテーマ」がきた。カラフルで動きまくり、楽しそう！（ギズモード・ジャパン）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11Sl80MjUyeDI1ME5fcVZSWk1JYzdNNHhwR1Q1aFAzNHYwUXZycmdrbHh3NWxOZU1UMEpBRVg5M3RNc3FFNWZ1aTR0VmpOZnNHeFJTM0oxRERuMzZTQ040REVqTmJOcG0zOU1Kb0k4aG4ySFpkdUFMbnJzQUN1SkU?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-16T10:00:01+00:00",
-      "summary": "Claude Codeに「カスタムテーマ」がきた。カラフルで動きまくり、楽しそう！（ギズモード・ジャパン） Yahoo!ニュース",
-      "id": "3d81ed06a2c44b5f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -499,6 +499,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "品川区長選、現職の森沢恭子氏が当選 前回は異例の再選挙（朝日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GY0RIajNjR1ZiazB6eV9nOUxYRVhhWFc3Mk16cTFmT0RsZjRtMFVleG5rb1hTSTI5MGxQbGFiTFNVOWNvNmZIaDJXdHZkb043Z3pRSkpWOUYxMGpaMUJ1Q3o3a2xsN2Y5bVJVZ0xobndfcS1KYzVBOGxIcEN4NkE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-15T12:31:28+00:00",
+      "summary": "品川区長選、現職の森沢恭子氏が当選 前回は異例の再選挙（朝日新聞） Yahoo!ニュース",
+      "id": "e271a4a9d66b1e9f",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "緑黄色社会のアリーナツアー“あたまご”ファイナル・横浜アリーナ公演を12月6日にWOWOW・Leminoで生中継！舞台裏密着スペシャルも2027年1月に",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1MmlhbkYzNFZIWlZhV01xekY5STh2WUUzVXl1MW9pZ2lfaFRfTUpsdjFaTE0yMVhKZkIxbWFpdUc4amlUOVo4MHhWRDFZeW8zT1Q1MTE1UQ?oc=5",
       "source": "にじめん",
@@ -508,6 +520,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【品川区】30団体が活動を紹介「しながわ地域貢献活動展」11/21（土）きゅりあんで開催",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VMlpjTjVjVkwwUVhLODdIcG5JbkhqZmtlRmhXdE5SSU5ZVVVraGhibHlXY3BYSEVzWU8xeHFxR0gwYWVtZ1BsT3A3bjE0S3Rncy0wbkc5Z1JzQzJlQ1JDbzFPellNVzAzME9VaHdNdw?oc=5",
+      "source": "号外NET 品川区",
+      "published": "2026-11-15T02:10:00+00:00",
+      "summary": "【品川区】30団体が活動を紹介「しながわ地域貢献活動展」11/21（土）きゅりあんで開催 号外NET 品川区",
+      "id": "238b7455a09dc8c3",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -541,18 +565,6 @@
       "published": "2026-11-14T10:56:38+00:00",
       "summary": "【鎌倉市】鎌倉スマイルフードプロジェクトで食料パックを配布、11月から3月まで 湘南人",
       "id": "c0c9be2f88d1a058",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【鎌倉市】放課後かまくらっ子で乳幼児親子向け12月イベントを開催",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tY05EMGlIc216UFhYOXdfWFh3WXpFTTVvLWlLUXRaanhtZUtTdTNvc3k3Q21uelhsN2VOWExsUDhkNUFhclAyWHJVTFlzMllwMlBrMkdwa3hCU0doVnludDRkdXFRWWJnZGRyNVBsN3Q5dw?oc=5",
-      "source": "湘南人",
-      "published": "2026-11-14T08:57:17+00:00",
-      "summary": "【鎌倉市】放課後かまくらっ子で乳幼児親子向け12月イベントを開催 湘南人",
-      "id": "864f80e438be4098",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -640,6 +652,18 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zSlBQa2JnbnNzRnluV3NlaWotcE1idHQxRDlCRldqS2M3QVBEQncxaFRzajhYc3BJdmwwQktRSlBPQ0dHSjZtblBSTzNuQUMxTWFRclJFWkRvek9p?oc=5",
+      "source": "鎌倉学園 中学校・高等学校",
+      "published": "2026-11-13T02:55:59+00:00",
+      "summary": "ニュース 鎌倉学園 中学校・高等学校",
+      "id": "96b86e2f2f506d28",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -871,5 +895,5 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 67
+  "count": 69
 }
