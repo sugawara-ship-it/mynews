@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-16T02:53:00.698650+00:00",
+  "generated_at": "2026-11-16T03:53:26.816221+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 2
+      "count": 1
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 9
+      "count": 6
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,6 +67,78 @@
   ],
   "items": [
     {
+      "title": "Claude Codeの「Projects」、進捗を自分から報告するコーディネーターに刷新",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVd2lUbU5JbUktUmxOOEo5QVhpc2VPMGxTaGotMG5Qd0JVRVp5cDZYZWdFQzIxZkg3TXcxdGxnVzhadw?oc=5",
+      "source": "shiritomo",
+      "published": "2026-11-16T03:24:24+00:00",
+      "summary": "Claude Codeの「Projects」、進捗を自分から報告するコーディネーターに刷新 shiritomo",
+      "id": "a71f9f02e1d45f2f",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Haiku 5.5とは？料金・性能・使い方を解説",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nLTF1Z1c4eG9zb0JfVE1UUUo3N25Ib1dSMklXVlNUVnNBSk1SQ0p3OWpqdE42ZXIwYTRRMUoxUllJeXV6bnZ0UHNrSXRHTFByRkZ2Z2hncTg3TGZuZmFFUG5rV185YkNqVmc?oc=5",
+      "source": "AIsmiley",
+      "published": "2026-11-16T03:07:22+00:00",
+      "summary": "Claude Haiku 5.5とは？料金・性能・使い方を解説 AIsmiley",
+      "id": "6345f4ef2d0c1934",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claude Sonnet 5.5の性能・料金は？他モデルとの比較や使い方も解説",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0Yjd3MGVuS2FpNXVoOG9ROXl0MFVlS2o5SEJIYlpvYnNHZG1iY1J2LVdlbnpYQ1gwOHlSb2VzR1Qzc1NrMDhxcTMtUV9XaHZwRXBMWG9mc0Zzc0lRWlJlSHNwR0dRTE56TDN3?oc=5",
+      "source": "AIsmiley",
+      "published": "2026-11-16T03:07:21+00:00",
+      "summary": "Claude Sonnet 5.5の性能・料金は？他モデルとの比較や使い方も解説 AIsmiley",
+      "id": "a95ce74aaacdb329",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "韓国UiPath、AIコーディングエージェントを正式リリース…Claude Code・Codex連携で開発自動化を狙う",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfdmFJZldLd0g3dWJFck4xcW9KS1l0WW9JWlY3NGIzTXFKRkNTYlhSZkNvbWI1cDhjVXZrRExKT1l5RmJEZldWVVpXTjFuRkN0N1lfTHZZTDYzaWl3UXE1NnRQSGhDMlg3YmZ4NlFWUUw4WTcw?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-16T03:05:00+00:00",
+      "summary": "韓国UiPath、AIコーディングエージェントを正式リリース…Claude Code・Codex連携で開発自動化を狙う BigGo ファイナンス",
+      "id": "46cdd2da20183069",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claudeの表計算や分析画面を4つの仕事で試した 転記は減り、確認は人に残った（いけとも） - エキスパート",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3BST3B2ZVFmWGlFc1NTNDFJWDZVQXZkZm9VcXpqTE1lZHJiUkRQN2IteXFMVUcycW5PS2tvZFFNSFJzUF9ibmhsRmw5S3FxbWxVNTRLWjBIQmJ4YnIycXg2S1FzbGZacDVVQlZHUEppUnFFdHBzNFFTTHZDaVNfc1RTWHB0OEc2?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-16T03:01:23+00:00",
+      "summary": "Claudeの表計算や分析画面を4つの仕事で試した 転記は減り、確認は人に残った（いけとも） - エキスパート Yahoo!ニュース",
+      "id": "d45bc92597282ab0",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Cursor、悪性Claude Code拡張機能の公開に繋がったセキュリティ侵害の経緯を報告",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUTUzWkVENFdLdHBxT2VBc1NkQVRIYVVXR1hVWlNlalRVZS1DYVhuVldEa09namJKZk1ReElvNzF2REJhVy1fM2ZDWDFhd0czM0Zla3duTW5tN004VzNNdVZNaUhfRGNPZXhqN0YtbzdOXzR0bHBtY1lxblBSdHV6UU85djU?oc=5",
+      "source": "株式会社マキナレコード",
+      "published": "2026-11-16T02:47:56+00:00",
+      "summary": "Cursor、悪性Claude Code拡張機能の公開に繋がったセキュリティ侵害の経緯を報告 株式会社マキナレコード",
+      "id": "60eb491837efa1a0",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "【鎌倉市・逗子市】由比ヶ浜と小坪漁港で海を守る清掃活動、11月28日に開催",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VcVpGZTU1T0J5dTVDM1g0TEJYS1VsOXEwUXBhYXpBbk1kZ29vbWpCZkZqWlVRaW16cGt2dkVEUmEzODlpRlpLVGNQUS1peG12VENVRkFHaC1rYnNrYWNKS3NrX1pDS2xWZVNBMQ?oc=5",
       "source": "湘南人",
@@ -76,18 +148,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "日本は第3四半期に予想外の景気後退を記録する",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdkhaNmk1ZmhGZVl3TWNvdUpzRjlwdGdzV2hTWUpNY21QalhQZFhUVVFDMkxQZ3RMV002ZTUwU1pncUhZTV8tZWV0bE92N245YmhYcGdyUXRZbFVhM1NQcGN2TDVEc21NV0ZDc1gxamNhME5XNVRET3ctZXktZklWWkx0SGxKbEFkeHFZb2RHWnQxWUhrOVlJQmNIZmd5UQ?oc=5",
-      "source": "PortalCripto",
-      "published": "2026-11-16T01:57:47+00:00",
-      "summary": "日本は第3四半期に予想外の景気後退を記録する PortalCripto",
-      "id": "7ee368187bf9920d",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -175,18 +235,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "AnthropicのIPOが秒読み段階へ…ビッグテックが260億ドルを投下 : 国際 : 財経日報",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EVm5jRHFpei04MlEwVnJQWlNFV0VSSW9DRTg1WEQ5X0JjQ3ZvcW9YbzFVRmo4clVYM0p3QS1PNTJnTnJ0NEREcWtzTVRjdkVXcXNDQnlzTE9BamZqVl9ldmJQaw?oc=5",
-      "source": "재경일보",
-      "published": "2026-11-15T23:20:00+00:00",
-      "summary": "AnthropicのIPOが秒読み段階へ…ビッグテックが260億ドルを投下 : 国際 : 財経日報 재경일보",
-      "id": "bddcf71cc6506f56",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "因幡電機産業がStaywayの「補助金クラウド for Sales」を導入",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VdWYyUnU2ZDNzLUhzajdINVhFbTZSVTlBd2dpSWQtR0hqRFpySkZ5MTBlQ0lEc2lxM1B6VTg5c2Y0VW1kUGhDckd3UGVnWFFYZmdZMkhWX0taUHBweTdZaVlVMS1sNlhPM2c?oc=5",
       "source": "PR TIMES",
@@ -199,39 +247,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "「トークンが37%減った」の声も――Claude Code新機能「Code Mode」、公式には数字の明記なし",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ocFVBelZHQ3VnMmlHaENoaUJvVGRhYmxBdG1aNWRzSUtFQ2dWTWJabzN5em4yV0x2cW0wT1JwN2RIUQ?oc=5",
-      "source": "shiritomo",
-      "published": "2026-11-15T22:32:06+00:00",
-      "summary": "「トークンが37%減った」の声も――Claude Code新機能「Code Mode」、公式には数字の明記なし shiritomo",
-      "id": "89348197fa9427e5",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【鎌倉市】第46回鎌倉福祉まつりが11月29日開催！バザー・模擬店・福祉体験も",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ka28wQ0I0bG1XWnVmUzNENklIYzFzOXB0Um9wYnEwbEJCLUZURFV3Y2JYWm9mRHRzeDlfd29RVWhJanU1THo2QzloYjJLVUxSdUJxWUVxenpaZUVxY2pn?oc=5",
       "source": "選挙ドットコム",
-      "published": "2026-11-15T21:13:07+00:00",
+      "published": "2026-11-15T21:32:17+00:00",
       "summary": "【鎌倉市】第46回鎌倉福祉まつりが11月29日開催！バザー・模擬店・福祉体験も 選挙ドットコム",
       "id": "fb7f9f38507cf2bc",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "生成AIに手足を付けたエージェント、Claude Code登場でブレーク",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWktfUXlaTUU0NVZidGVlT1BrNVh4TlFaZWhHN1lLWGw1OVR2dHVGSW1rU051bW9OclNXVXQtY1RVcXpKY0pQTFJsTlJuZVZwVHRvWU43Z2JWT3dhVXNTeElhWjN4V21RUnVMUg?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-11-15T20:00:00+00:00",
-      "summary": "生成AIに手足を付けたエージェント、Claude Code登場でブレーク 日経クロステック",
-      "id": "40d992300083cc53",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -244,42 +268,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Duetが招待の配布を開始、1人3件、探し回る必要はなし",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SZm12SXRSZWhlcDN5LWFkVGhuVmstTk1NRTB0WHBaWm9MT3BDOUpoS3ZHT2NjZWw2TlhIZ0lpLVRQRHdjNXdpUjlubEV3SjAyQV96cncxd2FFQzlvc0xTNV9QYi1uM3l1ZVY3NXozcW96QnJYU3c?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-11-15T19:17:38+00:00",
-      "summary": "Claude Duetが招待の配布を開始、1人3件、探し回る必要はなし Pasquale Pillitteri",
-      "id": "c5e1c0469443aeaa",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claudeで作ったDOS用の言語モデル、435KBでフロッピー1枚に収まる",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTi1BdnJCSmMxSkhnYm53aTJIdGxMX3czLU01WVIxbnhKbjZZOW5NNDNJbGxGaHFPV3Q1OS1zUWlMd01RMi10Qm0yc2lQQ0RhQjFwRmJIaFpKS3BCMUc2OXZzWmJibTQtemZscGMzeW9qSktDZFExTTZSblZFODRfTmRIa011R2ZFdi00RA?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-11-15T18:11:35+00:00",
-      "summary": "Claudeで作ったDOS用の言語モデル、435KBでフロッピー1枚に収まる Pasquale Pillitteri",
-      "id": "a5fda2b00c650609",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Fable 5.2、ゲームエンジンなしで97KBの水中世界を180FPSで構築",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LYk9XMExjaVlyNnc4elZuSTlJQzBlZ212RWJVSkhRMzVXYXNpSHRHSVZublNGSXJ6d0JlLVRfX0VIQlpqa0RaWlh2c1hkQjNTQVVZWFhZR0ZuVEdmaG04RXJ4UnRvQng1ZFB6VVBncHZGMHNM?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-15T15:55:00+00:00",
-      "summary": "Claude Fable 5.2、ゲームエンジンなしで97KBの水中世界を180FPSで構築 BigGo ファイナンス",
-      "id": "0f3098bd45d211eb",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -547,39 +535,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "東京 品川で路線バスとタクシーが衝突 バス乗客6人けが",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2Wk5UNU1ZTU9TdFZsZlhIUS1UNUZqQjZ3elo5Y2plQmRUZXNqeGVkbkNfbWZqMXhNZlF4SEVxbkkzc0o2MUlpNnMwbHE1YmNWQ3BGbG5kNEh3dFgtcmtJ?oc=5",
-      "source": "NHKニュース",
-      "published": "2026-11-13T07:08:00+00:00",
-      "summary": "東京 品川で路線バスとタクシーが衝突 バス乗客6人けが NHKニュース",
-      "id": "d1ddbb5cfaa8563b",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【品川区で住みたい街】ランキング2位は「目黒」、1位は3路線が使え、買い物が便利なあの街",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYjVkaTVuM05HWHdReFBtZ3FQam5ybVNwSDZmaWZFNDhGQ3Ezcko2eWZqNDRzVG8wQVJ6aWQ0Y3RRbWhQTWdXX2xnM09KTHB2MjJqblUwb2cxMkVTZkhpS1IyU0JTZDJQVXNaay1rTnk1TzBhb1FUU283Wk9ZTnVfNU9LYlHSAYoBQVVfeXFMTWpCVDNqQVVlVWJ1XzJlUXMxZmJIaGlBcjl2RWZKTUI2SDFGUWw0T2FXc0pPaTEwQlVObGNpbmhncm45SF9NN2tPdkhrb1poNU5hY2dqaldlOHJZdlBQVnlFcWF1RTBiOWhmRW5OUmJvME9fV3ZDcGVtTWZKN2t3VGplSzhCamFOMGhB?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-11-13T05:04:24+00:00",
-      "summary": "【品川区で住みたい街】ランキング2位は「目黒」、1位は3路線が使え、買い物が便利なあの街 ｄメニューニュース",
-      "id": "330cff4293e12ddc",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【品川区で住みたい街】ランキング2位は「目黒」、1位は3路線が使え、買い物が便利なあの街 (2026年11月13日掲載)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tVU13azlZNkZ0dFQ0dG4zRGJXelR0ZWNVT3R1MUlJY0pZNXJCbEJUczFhcjB4c3NMb2JRVU5taHY2aTZnZUN4V1hWc3RZeXlZdUY1THd3dU9OZmtrZXc?oc=5",
-      "source": "ライブドアニュース",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "【品川区で住みたい街】ランキング2位は「目黒」、1位は3路線が使え、買い物が便利なあの街 (2026年11月13日掲載) ライブドアニュース",
-      "id": "6c5e137f47862794",
-      "category": "地域",
-      "topic": "地域ニュース 品川",
-      "emoji": "📍",
+      "title": "【参加無料】オンラインイベント「UIターンを解像度高く描く - 九州編」に福岡支社長の大石が登壇",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KQzBwQkp3QTVrZ3ItSFB3QmduamIyNHFzN1Y4aUNoUU1pY2FUZ1VxaEdFcmVjbldwZjVyNmhaTFBZc295ZFYydURtU1oyVk9VQlhhbGhXWXgzbTNPMDZtMUlDRjNKWE1jb0E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-13T07:18:16+00:00",
+      "summary": "【参加無料】オンラインイベント「UIターンを解像度高く描く - 九州編」に福岡支社長の大石が登壇 PR TIMES",
+      "id": "03c9a9f749be1a67",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -613,18 +577,6 @@
       "published": "2026-11-13T01:00:00+00:00",
       "summary": "緑黄色社会、最大規模のアリーナツアー最終公演の生中継決定 舞台裏に密着した特別番組も オリコンニュース",
       "id": "3957be74e20fca64",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "緑黄色社会ツアーファイナルを生中継、舞台裏に密着した特番も放送＆配信",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GMFZZSjdSNWlNRkpPYU9ncDA5SnVGdFR1eVdYSVB1ZHZCYWw3eGdDMmZObjdOUmdtT2tmYktlLVRnSERoRHhUWDZ1ZV8?oc=5",
-      "source": "ナタリー",
-      "published": "2026-11-13T01:00:00+00:00",
-      "summary": "緑黄色社会ツアーファイナルを生中継、舞台裏に密着した特番も放送＆配信 ナタリー",
-      "id": "27fa19118802a6a1",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -673,6 +625,18 @@
       "published": "2026-11-12T20:30:00+00:00",
       "summary": "ゆりやんレトリィバァがシルク・ドゥ・ソレイユ『アース製薬 クーザ』大阪公演スペシャルサポーターに就任！東京追加＆大阪公演チケット最速先行販売スタート めざましmedia",
       "id": "f51c4085f9f4d688",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "緑黄色社会ツアーファイナルを生中継、舞台裏に密着した特番も放送＆配信",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11Tm82OHpvTHVnNkxpMG8xb1l5Tl9GYmFNc2RKVnpBQldLUXpLWDZxVXRaVEowSWgzdmozSmRqSndEdWgxSzZTRDJqR0ZmX2g0QVE?oc=5",
+      "source": "JOYSOUND 音楽ニュース",
+      "published": "2026-11-12T08:04:00+00:00",
+      "summary": "緑黄色社会ツアーファイナルを生中継、舞台裏に密着した特番も放送＆配信 JOYSOUND 音楽ニュース",
+      "id": "27fa19118802a6a1",
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
@@ -869,19 +833,7 @@
       "topic": "地域ニュース 品川",
       "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "品川・羽田・横浜へ自在な「蒲田」エリアに、新築投資用マンション「RELUXIA蒲田西」販売開始",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1US19rd0hSTWJwdk1yVE5Nc0tVX2JHQTZoNUR6eWNPZDBBdW9QQTRsR0Y3YUFiTHppN3M5d3BucGJReU91Z29MS2ZDSXFkWEdBZHItREFieXctZmx3NWlCUlc2OUVHWC1ETGRFQ2VNNVdidw?oc=5",
-      "source": "Infoseek",
-      "published": "2026-11-02T16:10:00+00:00",
-      "summary": "品川・羽田・横浜へ自在な「蒲田」エリアに、新築投資用マンション「RELUXIA蒲田西」販売開始 Infoseek",
-      "id": "8566cfb4fd81ae5a",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 68
+  "count": 64
 }
