@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-16T15:32:27.989236+00:00",
+  "generated_at": "2026-11-16T16:46:57.081962+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -66,6 +66,18 @@
     }
   ],
   "items": [
+    {
+      "title": "笛田リサイクルマーケット開催 11月29日 笛田リサイクルセンターにて",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JZzBwd3pPYWs0cy04RE9BT3U0UjdzNlBwYnZWbTZ4RWRlZ29TQW9BRmx0d3FKZTBvbVJZbWVyT21BalJacXJUcXZDckM0TEZJZVNuTG9SNzhGZ29FeEY2Z2pQMUg?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-11-16T15:00:00+00:00",
+      "summary": "笛田リサイクルマーケット開催 11月29日 笛田リサイクルセンターにて タウンニュース",
+      "id": "0deb659cbcf82e86",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "Epstein files に残る Cami Clark のメール、実際には何が書かれているか",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56TTVsTlVYcGxNZG1uYjVrYy15NXBzd2MyeE9hNWxfcjljV09sQnAySndEMXhINXI5Rk5GM05FOWlqV0R5WE1wbExoMUJCdTB1cEYyVDZVclZRd0pLemZ6OUI5eXRDOHR3NmdCQTI1R0pHMXdmMlhPaUp0bkFxUQ?oc=5",
@@ -152,10 +164,10 @@
     },
     {
       "title": "IG証券、上場初日よりAnthropic（ANT）株式CFDの取引を開始予定",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0RDlmRm1uUnY1bFpZWTNUNUx5d2drcHBwVlBoZ3RIeDJ2cml6LXJJRnFESTBISkxtWDVLX0RBWU5iSnFoZjdGNTBGS3J2cnZPRWo3OGUxaHFTWHhibVl5cUw2M0pWQ1FteWx1OEdKcWp0clFneW80WA?oc=5",
-      "source": "RBB TODAY",
-      "published": "2026-11-16T10:46:33+00:00",
-      "summary": "IG証券、上場初日よりAnthropic（ANT）株式CFDの取引を開始予定 RBB TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPbVF6SGk1MUZsLVpFTkdMNXNRVG9rcXNfOGcxV0psZ2NNSUhhMjFCaVpHSVE3d0k5V3lLYkphcFFtUG1VSUNLUjNLTUhOYnNKTFl5TVVya0U?oc=5",
+      "source": "オリコンニュース",
+      "published": "2026-11-16T10:46:00+00:00",
+      "summary": "IG証券、上場初日よりAnthropic（ANT）株式CFDの取引を開始予定 オリコンニュース",
       "id": "7c5dbc10ef6a1d21",
       "category": "テック",
       "topic": "テクノロジー・AI",
@@ -181,6 +193,18 @@
       "published": "2026-11-16T10:00:01+00:00",
       "summary": "Claude Codeに「カスタムテーマ」がきた。カラフルで動きまくり、楽しそう！（ギズモード・ジャパン） Yahoo!ニュース",
       "id": "3d81ed06a2c44b5f",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、Claudeにホワイトボード・スプレッドシート・データ機能を追加…オフィス生産性ツール市場を狙い撃ち",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85eGwxZVg5N2dVZFR1bzJPTXd5clpxYVo1UEZjdkZYaTZfV1lEZ1VleURMdmVTYU53WktWQ1phVUVnZEd2SU14dVgxQ0RSU2NBN2ltYl9ULW5wZDFIZHNydE1FYy1zRlRHWjlCOWtGSlpldVNk?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-16T09:45:00+00:00",
+      "summary": "Anthropic、Claudeにホワイトボード・スプレッドシート・データ機能を追加…オフィス生産性ツール市場を狙い撃ち BigGo ファイナンス",
+      "id": "abf055c6912ca572",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -277,18 +301,6 @@
       "published": "2026-11-16T08:07:00+00:00",
       "summary": "Anthropicによると、Claude Mythos PreviewはAMD MI355X GPU上で、あるモデルを約3日で稼働させた Mezha.net",
       "id": "e0a6d33aa1fda165",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicのIPO、中国・香港マネーを遮断…AI覇権競争が「資本の戦線」へ拡大",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhNFptcEMtUDNIZEw4UEZROVY5dmhNMHpUc185LUdJa0gxeExndGthR2dkUTM1d3AtNkUyMzM0bTJNbmRMZ0s2WEdJbVN6eUxMakFCYmd3ZGpWYkFxRkpTSGV5bzE4dzdsZnNvMjEwdnBjWURl?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-16T07:55:00+00:00",
-      "summary": "AnthropicのIPO、中国・香港マネーを遮断…AI覇権競争が「資本の戦線」へ拡大 BigGo ファイナンス",
-      "id": "641193fdbaa59b83",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -463,18 +475,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "リビエラ未来創りプロジェクト、鎌倉・逗子でビーチクリーン 参加者を募集",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE42Nm5YTVAyS3NMY0NkWlFOMzR2Uk5mWG5BVEp5dTB4dWZpOUE3RHNqWVJ6RmFJNTRHZjhYcGtTN0NGUGlmMlRuWWxB?oc=5",
-      "source": "ツーリズムメディアサービス",
-      "published": "2026-11-15T12:36:46+00:00",
-      "summary": "リビエラ未来創りプロジェクト、鎌倉・逗子でビーチクリーン 参加者を募集 ツーリズムメディアサービス",
-      "id": "6a005afd2c6c86c6",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "緑黄色社会のアリーナツアー“あたまご”ファイナル・横浜アリーナ公演を12月6日にWOWOW・Leminoで生中継！舞台裏密着スペシャルも2027年1月に",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1MmlhbkYzNFZIWlZhV01xekY5STh2WUUzVXl1MW9pZ2lfaFRfTUpsdjFaTE0yMVhKZkIxbWFpdUc4amlUOVo4MHhWRDFZeW8zT1Q1MTE1UQ?oc=5",
       "source": "にじめん",
@@ -508,18 +508,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "リビエラ未来創りプロジェクト、鎌倉と逗子でビーチクリーンを2026年11月に開催へ",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1HR3VxMmoxVnpacE5uMGtaSXo0VnNIYjVhUWFBa096X0VldnltSkVGX3hWV0RNSTFZa0hPYjZXTHZwZWFnU2NB?oc=5",
-      "source": "Dellows News",
-      "published": "2026-11-14T18:07:58+00:00",
-      "summary": "リビエラ未来創りプロジェクト、鎌倉と逗子でビーチクリーンを2026年11月に開催へ Dellows News",
-      "id": "5cc3622c50193abf",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -601,6 +589,18 @@
       "published": "2026-11-13T15:00:00+00:00",
       "summary": "ベルマガ通信 終了間際の古巣への恩返しゴールで、湘南またも追い付く Ｊ２第16節 ｖｓジュビロ磐田 湘南１―１磐田 タウンニュース",
       "id": "ef6c0780b605c82f",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "鎌倉のサウナ「御成桑拿」が「SAUNACHELIN 2026」を受賞",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nakUwZG5ISUZsNXdQc2NjQzNUNHF0eFFRYjM4TUQtQVhVVHp2ck93ZWR0a0d6V3Joc3lGMVhrc045V3RJMXlQekplR2wxMDJMMTNIblZTTzdwUm5CWElOMkNISzd1dDNIX1R2eF9ZZ2MwZw?oc=5",
+      "source": "Infoseek",
+      "published": "2026-11-13T14:40:02+00:00",
+      "summary": "鎌倉のサウナ「御成桑拿」が「SAUNACHELIN 2026」を受賞 Infoseek",
+      "id": "260a09f44360ca75",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
