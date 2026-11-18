@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-18T03:47:40.231942+00:00",
+  "generated_at": "2026-11-18T04:52:22.317000+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -14,7 +14,7 @@
       "name": "推しアーティスト",
       "category": "音楽",
       "emoji": "🎵",
-      "count": 2
+      "count": 1
     },
     {
       "name": "ライブ・コンサート全般",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 1
+      "count": 2
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -66,6 +66,42 @@
     }
   ],
   "items": [
+    {
+      "title": "「デジタル化・AI導入補助金」11月24日20時から申請マイページを停止！25日10時再開予定",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xWnh6Uk1rS0lMZ3Myd0tZVzBzbzdTSERRN3BrT19fRmh4T0lPVElpQml5bHl0M2d2bUxhTnQ3RnNSeVNMUVJhTm9jb1pBZ3o4RW1fR3llNjZ6QQ?oc=5",
+      "source": "創業手帳株式会社",
+      "published": "2026-11-18T04:39:19+00:00",
+      "summary": "「デジタル化・AI導入補助金」11月24日20時から申請マイページを停止！25日10時再開予定 創業手帳株式会社",
+      "id": "eecd445478ade9f8",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqM3c3SXJqZlJCblUwNVNUbzM0T1FSUU55TnljalZsUC13bUYxVC1YVzdzTUwwQzJrY3E0ekhDTzJPVURGNVpJYmNpLXM1WGx3ckszRUtBWHNEemNnWU1DTzl2OFoxQmxWWGEtMQ?oc=5",
+      "source": "GIGAZINE",
+      "published": "2026-11-18T04:15:00+00:00",
+      "summary": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に GIGAZINE",
+      "id": "5644f399fb6bb8c0",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AnthropicのIPOは急騰する可能性がある。既に保有しているAI株はどうなるのか？",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNElzNzlpTUdhbThDMzFJX3BpUWdaXzlBNVdnQjZBVDYySFE2ek5JSjBIQ2sxQVl6M05jT0J1ZU5UeENkdjhWbE1kSHlEUHVIb1c2c0NhbExTSTBIOVBPSW9DUGhlYUVlNkRRWi10aUlIeDk5RDNZWi1NcDllYklEQmRTTmoxZmVKVFFYTFRjb1c0UjFDTVZjOGs5aXpYaWE2NEZpZTZOQ2dYUQ?oc=5",
+      "source": "Moomoo",
+      "published": "2026-11-18T03:39:46+00:00",
+      "summary": "AnthropicのIPOは急騰する可能性がある。既に保有しているAI株はどうなるのか？ Moomoo",
+      "id": "a1393b189def419a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
     {
       "title": "Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HMGxVb3VueVdsb3pmZURmT1JNRTUzWkNPMl9hVEx1WVpYSlRtTHRCREREVjRPOVJ6MlY2N3Nhbi00VEo3ZjMtcm12eXJmQm5zOUlTQ1dic2VncEtyOWNiVFBqbEpJZjlGbXRNZG50YUdQNVlE?oc=5",
@@ -151,12 +187,36 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "シンシアリー代表・國本知里が執筆『2027年版 生成AIパスポートをひとつひとつわかりやすく。教科書＆問題集』予約開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R1BhWTZmYjBkMnRKaURLM2ZjN1lMOXdPRzJmRXFVVVZEYkF3UTVjSjZBaV9pWHRsQ2Zib3JDaG5KOGJFUXpDR1RrV2pqQmM2NkRHSWZ6dF9ZQk9JV1BXWTRQeXJCWDRtS1E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-18T01:54:07+00:00",
+      "summary": "シンシアリー代表・國本知里が執筆『2027年版 生成AIパスポートをひとつひとつわかりやすく。教科書＆問題集』予約開始 PR TIMES",
+      "id": "9e7e1179f466da47",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "fileAI、AI生成文書を用いた不正が増加する中、東京にオフィスを開設しfileForensicsをリリース",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EMnhpSzZBNUJHbnFTMXR4WXdBeTBPQ3FmTGVfWU8zTXFFVzdVczdHdi01X2Q2Tmx5R1pPQWZzZEVDakptbWJMZnJwMVVEOFgzMWpZdmUwOC1wVVlCd2dHbEdpZ3g0ZmVWbzhIVS1ESWEtanM?oc=5",
       "source": "レスポンス（Response.jp）",
       "published": "2026-11-18T01:53:00+00:00",
       "summary": "fileAI、AI生成文書を用いた不正が増加する中、東京にオフィスを開設しfileForensicsをリリース レスポンス（Response.jp）",
       "id": "51fb9c9e563b59d8",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "中小企業の6割超が、生成AIを「個人任せ」に――Waris、無料ウェビナー「非連続の時代に、経営はどう構えるか」を11月25日開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JQWwtbHpsZ1VtRWR0N0hFOWFUUnhEVHNlZHByRG9hWUp4QmJyWTAzaVJiSU9rMjV3WlByanl6TGRVVG9HaG8wWXFBUGtVLVM4S0l3dldRTGc3dDhGeFhXc3VUNXBqS0FySGc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-18T01:50:01+00:00",
+      "summary": "中小企業の6割超が、生成AIを「個人任せ」に――Waris、無料ウェビナー「非連続の時代に、経営はどう構えるか」を11月25日開催 PR TIMES",
+      "id": "5f37c06540bc5d98",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -175,18 +235,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Harness（ハーネス）が「Cosmos by Harness」でClaude Platformのリンク請求をサポート開始",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZm5DWVZRMkhQbjRncTMzSUU5UmVGeWowMzkzcGVLSTJvX1ZWTmVlc1NiZEVRaTRZQ0JodVUxSmZyVFFnQ3VLN2F4azNkR01LOTZBM2o3QWJnUDZHM0MtNkRMSmREQ2dmS1BrVUc3OHlvU2x5OHRlOVptY1lYZzJSajdFejdLX2lVVHFXN3NfdGlQX2luMktJUmMzZlVfODlWTEt4bmZ6R3BaSXV5?oc=5",
-      "source": "DXable News",
-      "published": "2026-11-18T01:22:28+00:00",
-      "summary": "Harness（ハーネス）が「Cosmos by Harness」でClaude Platformのリンク請求をサポート開始 DXable News",
-      "id": "3d8a26d021ced149",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Stayway、浜松地域イノベーション推進機構へ「補助金クラウド for",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HWlRJLWRkb1FrMzZwTXhYV1YyUW5KTnBab3Bjd2p0bHRKeTczMjBoaFBUanJEcnBYN1AwZTFzWjk4cDg0NTVrWnlDYWNidWxVNXJuTnVnSGQ2aVdHS3BrY01qUFRoUDdp?oc=5",
       "source": "ニコニコニュース",
@@ -196,42 +244,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicのIPOに追い風か ジェンスン・フアン退任で競争環境に変化",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFZZaWpsNWFYZC1Nc09nVkFxZ0ZaNk9ibk5pWkx6ZHE5Y2haTWVaa2FNTjBIZHVDR1ZEa3hIRjk5dEktVUxaQmRYZXZDMVFFcXh4eWp4T0VJSGYxR3hUSGxtMVFYNzI5ZVZ1djhkdkpoUEhBVTVmQUtuN1FkNEU0Nm51c0swNXdwOW9DaDBMMGx0bkg3Q3YzUExnWE1YVndyUnpTWmhnN3MzWTFSbU1IMGlmU2tYZw?oc=5",
-      "source": "디지털투데이",
-      "published": "2026-11-18T01:20:04+00:00",
-      "summary": "AnthropicのIPOに追い風か ジェンスン・フアン退任で競争環境に変化 디지털투데이",
-      "id": "ad9b8625e32c1246",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oWUZwTy1oR1NnbHYtV3JtNG81NTJGeWlyejM1U0laSXpSb3k4eExaLTdMSkRNTW1Kb21peW9NelNlbXRNd3RxQmRSNEdrbERldVQtVVk0NkJXQ2JEUUxrVFc3UVlCcGdDb2c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-18T01:10:02+00:00",
-      "summary": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 PR TIMES",
-      "id": "44813a600ba6f51e",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ウォール街「Anthropic、2030年売上676兆ウォン」…IPOを前に「買い」初登場",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rek9LX3VDR2ZXaTluQ05wSFZvQ0JhWklmcm1Wclp0MTZZZDVremkxVkhIdVI3blFQZXZBZDVpZ3BLdUIyN2ZyMnZGTnlVempwWFp0QXFNajdKRTdqVG02c1B2Rm15RVZIQnFYOE9rQ0l5Mk41?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-18T00:56:00+00:00",
-      "summary": "ウォール街「Anthropic、2030年売上676兆ウォン」…IPOを前に「買い」初登場 BigGo ファイナンス",
-      "id": "10d96e5238911c8c",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -256,6 +268,18 @@
       "category": "不動産",
       "topic": "道場物件（鎌倉・湘南）",
       "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "県内中小景況13．6ポイント改善 10月 観光客増で商品卸売好調",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fZ0xsQ0VfZlA0UXlpX2FEODdKVmMteTh1Q0YzUWZtel9GcFpsaHFiLWhqS2QwUmRVd3ZEQ0RVNFVHWU9ZWElvUEFOSUoyWmZ4eURnaHRFWXdSNjAtZ2c?oc=5",
+      "source": "沖縄タイムス社",
+      "published": "2026-11-17T18:58:00+00:00",
+      "summary": "県内中小景況13．6ポイント改善 10月 観光客増で商品卸売好調 沖縄タイムス社",
+      "id": "c3b6d265d12f669f",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -439,6 +463,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "商業不動産の“新規テナント開拓”をAIで支援する「SHOPCOUNTER リーシング」を提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NZVpwTjV5YVZTb2otcTAycGNJMXM5Q19fRlZ4NDgtSFJQMU9TOUh0UnJMMWNiVnBRXzRPMy1scU0zWE5zUVBUUXlWc2Z2TGJxTkE?oc=5",
+      "source": "調布経済新聞",
+      "published": "2026-11-17T04:22:45+00:00",
+      "summary": "商業不動産の“新規テナント開拓”をAIで支援する「SHOPCOUNTER リーシング」を提供開始 調布経済新聞",
+      "id": "34cf5d5cd7e4b304",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "初心者にやさしいコースで子どもたちがプレーを満喫！ ゴルフとエンタメが融合したイベント『Endless Summer 2026』を体験",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04OF9CVjEwUEV4WUx2cjk3eTdGejFKVWN0bjdoakpmU3hxUElWd28yd0pHLXBfM0tWLUVpYWo3aXFYN1N5LUE0N2xObVRET054dFpNWTdydVRHdVExdTNkRkQyWDhxUEMzX20tT1U4ZkdtU3lFS3c?oc=5",
       "source": "ALBA Net",
@@ -473,30 +509,6 @@
       "topic": "経済・ビジネス",
       "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "補助金クラウド運営のStayway、省エネ診断から補助金活用までワンストップ支援へ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Hc1VmXy1KMlNYeXRJSmRpdUl3bS1iaGlHMVpBZVZnR0hlTDBPVHBvb0tyQm95eGxGeXlaUUdMQzlKRnJKcWx5MWJneF9LbVBhVnNnaTltMFVBVk1qZXR4akxNZXJnUDdFQ2c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-16T23:00:02+00:00",
-      "summary": "補助金クラウド運営のStayway、省エネ診断から補助金活用までワンストップ支援へ PR TIMES",
-      "id": "34dd3925f2ebcc53",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【締切1/20】2026年度「ディープテック・スタートアップ支援基金／国際共同研究開発」公募",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53RnNUS19jcmNoYzZPVmJzOFdNeC1SdEczM1UxX3BfWUl5TGwzQmRYcEl6UnQya2czZHlGdy10elVHN0VNa21hM2xJUnBUTzcyMWZ2SzVpT01FZmNoeGYxeFhGOVNyLWs?oc=5",
-      "source": "スタートアップポートヨコハマ",
-      "published": "2026-11-16T22:53:11+00:00",
-      "summary": "【締切1/20】2026年度「ディープテック・スタートアップ支援基金／国際共同研究開発」公募 スタートアップポートヨコハマ",
-      "id": "faad73b9d50d669d",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": ""
     },
     {
       "title": "神奈川県と新潟県を結ぶ「夜行列車」が運行へ 鎌倉市と南魚沼市を直結！ 新宿駅にも停車（乗りものニュース）",
@@ -797,18 +809,6 @@
       "topic": "地域ニュース 品川",
       "emoji": "📍",
       "image": ""
-    },
-    {
-      "title": "米津玄師 「米津玄師 2026 TOUR / GHOST」 チケット一般発売",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jWXF1QXJiSjFvbWVOOVhNWmZKOUhwQmk3VmRsLWd1Tjd1Q1FNMG9NOEQ4QkZDVnhoeGRWN21nQUZxVEh0X3RnMFNFOFR1STlwa0dNaGE4QTcwQ1VralNTWERTa2J1M0JOenc?oc=5",
-      "source": "USENの音楽情報サイト",
-      "published": "2026-11-06T08:00:00+00:00",
-      "summary": "米津玄師 「米津玄師 2026 TOUR / GHOST」 チケット一般発売 USENの音楽情報サイト",
-      "id": "80d5c4a56967ec8b",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "title": "第48回 荏原第四地区子どもまつり(品川区民まつり)を開催｜品川区公式ウェブサイト",
