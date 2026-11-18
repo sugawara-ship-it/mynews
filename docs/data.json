@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-18T04:52:22.317000+00:00",
+  "generated_at": "2026-11-18T06:59:58.513472+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -26,7 +26,7 @@
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 2
+      "count": 1
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 6
+      "count": 7
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -67,6 +67,102 @@
   ],
   "items": [
     {
+      "title": "ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95SmQwZFdpWVpzT29COWNwNHBEb2NrNm80Mlc1d1EtbGlDcHNYbDlpdVFPZWxfcGlyRnB1RTl1Nm1iQ0EyMTM5bWI2dnZPWGZnd2ZidWEtSHppQTJFbTluWjkxdmo?oc=5",
+      "source": "鎌倉学園 中学校・高等学校",
+      "published": "2026-11-18T06:56:29+00:00",
+      "summary": "ニュース 鎌倉学園 中学校・高等学校",
+      "id": "96b86e2f2f506d28",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "サイボウズ、kintoneに新機能「プロセスAIエージェント」 人とAIが業務を分担",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uMGdwT0E5TllBS1hjRWx2UXVVRDdwc1U5V2l5NjROWjdFbm1lcjhLTzdtQlMyX2k2LTVpYXRVR0c5d0w4RjBUNXZqbzMtUkk1VnlteUhiMXdFN2R4VGdfWg?oc=5",
+      "source": "Infoseek",
+      "published": "2026-11-18T06:04:02+00:00",
+      "summary": "サイボウズ、kintoneに新機能「プロセスAIエージェント」 人とAIが業務を分担 Infoseek",
+      "id": "f4906d743d2b6768",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HMGxVb3VueVdsb3pmZURmT1JNRTUzWkNPMl9hVEx1WVpYSlRtTHRCREREVjRPOVJ6MlY2N3Nhbi00VEo3ZjMtcm12eXJmQm5zOUlTQ1dic2VncEtyOWNiVFBqbEpJZjlGbXRNZG50YUdQNVlE?oc=5",
+      "source": "GIGAZINE",
+      "published": "2026-11-18T05:55:28+00:00",
+      "summary": "Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明 GIGAZINE",
+      "id": "a96920dbe2f14af3",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "グーグルのChrome 158、204件の脆弱性を修正 重大6件、Claude支援8件 今すぐ更新を（ビジネス＋IT）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YWXZDempGSlF2MVhOTkttVXA5QXl1TjgzVGpKOFVHZjVuX2pkZkNzZEVmc3dOdVBKd25tUGx2Zkw0aENnME1CZ3g0MVlnb3NDWERIaTVxTWlUcV9lY3pvMUxnRDRXc1gwNkY3RXNnc0FfSkdPZVVMUzN5SV90QUU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-18T05:55:06+00:00",
+      "summary": "グーグルのChrome 158、204件の脆弱性を修正 重大6件、Claude支援8件 今すぐ更新を（ビジネス＋IT） Yahoo!ニュース",
+      "id": "6b8dd83e79dd23d4",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "AIで作った曲にMVも生成 AI音楽のSunoが新機能「Visuals」を公開",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pZHZxbjJjRlRhaVBKUWFJUWFHRkNMSVBpaTZHTVNvZGV3OGxqbXpBWks1RnA4aFNFeDBOci1aWTVmbU4tYXZEMUQ5Rk5xMkFXd1E?oc=5",
+      "source": "CNET Japan",
+      "published": "2026-11-18T05:55:00+00:00",
+      "summary": "AIで作った曲にMVも生成 AI音楽のSunoが新機能「Visuals」を公開 CNET Japan",
+      "id": "546f49057f47980e",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "リーガルテック、R&D研究開発のレビュー業務を自動化する「R&DレビューAIエージェント」をリリース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmSjhBMWtfTnl3UUN5UkdESUJZaEdWMDgwMDM2aWpFeEdlaG5kamZoRFRtVFhJbGRXRV9vX1JTTmFkRWpQdW1MNlVPQ21HZ3gwRjlidjdXOFotZ0tRRENndDZDQ2pIZ1My?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-18T05:45:26+00:00",
+      "summary": "リーガルテック、R&D研究開発のレビュー業務を自動化する「R&DレビューAIエージェント」をリリース ニコニコニュース",
+      "id": "78a5993350e2584f",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "令和8年11月28日（土曜日）開催「輪の品マルシェ」JR目黒駅中央改札外イベントスペース（みどりの窓口隣）",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORThJdk1nM2lybjNfUkd6dXhsWVJPOHgxaVJFZlBWOE85QzhWeFZiWGNJV0JBWTczT3d0RlNyb3EtaWp1R2RLSlJFUnhXd2xZWTY4QU5aTXVpU0lYazd3a2N0aTNSTWFUZjlxWVZhYlJOYkR3UFB5OEhNd1ZrNDVSVmxlUmIwdzl1RUNKUWN3?oc=5",
+      "source": "www.city.shinagawa.tokyo.jp",
+      "published": "2026-11-18T05:16:34+00:00",
+      "summary": "令和8年11月28日（土曜日）開催「輪の品マルシェ」JR目黒駅中央改札外イベントスペース（みどりの窓口隣） www.city.shinagawa.tokyo.jp",
+      "id": "b419be558873ce5b",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "アンソロピックIPOで判明した約143兆円の契約、Claude利用企業が抱える料金と供給のリスク",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MWjdOUldIbW9OMHBqWWRHR2ZhdFU5TGtUNnd4TzNXcmVjNEM2NmtxdEZOZmN1cnIwUWJlT0FvWFdlWU04cVd0X2dVV3VyMG5UWndQbmVWU1c1c3lET0N1bWg1aEFnREc5UmFyT1FNN1dQZ2E2QTBhd282ZUo2SU0?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "アンソロピックIPOで判明した約143兆円の契約、Claude利用企業が抱える料金と供給のリスク Yahoo!ニュース",
+      "id": "21fc2ae1247abd6a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「デジタル化・AI導入補助金」11月24日20時から申請マイページを停止！25日10時再開予定",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xWnh6Uk1rS0lMZ3Myd0tZVzBzbzdTSERRN3BrT19fRmh4T0lPVElpQml5bHl0M2d2bUxhTnQ3RnNSeVNMUVJhTm9jb1pBZ3o4RW1fR3llNjZ6QQ?oc=5",
       "source": "創業手帳株式会社",
@@ -82,7 +178,7 @@
       "title": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqM3c3SXJqZlJCblUwNVNUbzM0T1FSUU55TnljalZsUC13bUYxVC1YVzdzTUwwQzJrY3E0ekhDTzJPVURGNVpJYmNpLXM1WGx3ckszRUtBWHNEemNnWU1DTzl2OFoxQmxWWGEtMQ?oc=5",
       "source": "GIGAZINE",
-      "published": "2026-11-18T04:15:00+00:00",
+      "published": "2026-11-18T04:17:01+00:00",
       "summary": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に GIGAZINE",
       "id": "5644f399fb6bb8c0",
       "category": "テック",
@@ -103,24 +199,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HMGxVb3VueVdsb3pmZURmT1JNRTUzWkNPMl9hVEx1WVpYSlRtTHRCREREVjRPOVJ6MlY2N3Nhbi00VEo3ZjMtcm12eXJmQm5zOUlTQ1dic2VncEtyOWNiVFBqbEpJZjlGbXRNZG50YUdQNVlE?oc=5",
-      "source": "GIGAZINE",
-      "published": "2026-11-18T03:04:25+00:00",
-      "summary": "Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明 GIGAZINE",
-      "id": "a96920dbe2f14af3",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Claude、AdobeやCanvaを会話の横で編集 3つのアプリで試した仕事への影響（いけとも） - エキスパート",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWwxbFFkV094MjZuT3BFaUZCT2g3OXo2U05rVXYtUWRLdllGVVN6eUs3QTNUME0yUFRpaVdhUEJLcTkyMjNDaDRHR0ZjZ0czWG9lSzFfSHIycnNpeUtJcWFXQkhhT0NVaVozYVZFOTA3Wnp3bTJpdGYzdXV6VllZTnhLYWZIMUJ6?oc=5",
       "source": "Yahoo!ニュース",
       "published": "2026-11-18T03:01:29+00:00",
       "summary": "Claude、AdobeやCanvaを会話の横で編集 3つのアプリで試した仕事への影響（いけとも） - エキスパート Yahoo!ニュース",
       "id": "f3801619660b1f73",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "クリニック専門のAIライティングツール「MEDISMA AIブログ」提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zTm13SHVzRVVoemRuZEVxZ1FVRTcxRC1JMHZEcV9kUDdYd1RKSzhYQl9NY3BfdFJCNy1ocFowVGVLM2NqOG5SMVFySUxHVjBKVVNsRzNIMW9IN2g3TDZSNllKdDFhVXpqMmc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-18T03:00:02+00:00",
+      "summary": "クリニック専門のAIライティングツール「MEDISMA AIブログ」提供開始 PR TIMES",
+      "id": "cf6c23baeef5deef",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -151,78 +247,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【新機能リリース】AI検索の診断レポートに、その場で聞けるチャットサポート。「HYPEUP",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYVkpiUHd3QVJmek1CV1VVbzRzVXExOFdqdzloTGVydld2UVJja1liZlFzUTFETzB0c0RtZGh2czRjR1FUcFIwRkNQVkVSQzZ3eWV1cFQzaV9JMjc0ZHlRYU16SHRzMVNwTl9Rc1UtUVFWd3FaZjJ6aVZUYw?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-18T02:30:26+00:00",
-      "summary": "【新機能リリース】AI検索の診断レポートに、その場で聞けるチャットサポート。「HYPEUP ニコニコニュース",
-      "id": "ab6d0b01e8c4aa85",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "コンカー、SAP ConcurのAI新機能と2027年の進化計画を発表",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43dF9RQUJWX2luR1VqczV6MnduRWt1YklxVTNQUXZfbEdUOG5NdzktMGRlcjdkS0FORVlGeUsyb2dqSVZqdEsxenFwZFBCMWVfZTJBeVJjaFBuZkRzejJ1MA?oc=5",
-      "source": "Infoseek",
-      "published": "2026-11-18T02:30:00+00:00",
-      "summary": "コンカー、SAP ConcurのAI新機能と2027年の進化計画を発表 Infoseek",
-      "id": "499a33551b2fdc58",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、IPO価格が想定上限超えの可能性 AI投資への懐疑論下の需要測る",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXg4QVZCRUdoOUhXTzBZQWE1c1Y3Z1pfM3pHWThhdEdLM1gtbjJCbEJBT3F3cjhFRmpVVTc5Yk5VTEQ1dXY0SXNJRjZ4Q2lOcEVZVGNTN1lHc0h0bUpncnFjREZLcGxMbUIxR21WNkhtTnRKWktxbmdYQzE1REFPVlBtYjQ3dXpiY280Ny1WSkF3bU9ESjlJMFNBQTJrb0pGZFV4ejlvWElnbW9DQkVlN3R3STlOMjEwcnhNb2d2ZVFlZi1ZWVE?oc=5",
-      "source": "디지털투데이",
-      "published": "2026-11-18T02:00:16+00:00",
-      "summary": "Anthropic、IPO価格が想定上限超えの可能性 AI投資への懐疑論下の需要測る 디지털투데이",
-      "id": "2068b977c3742991",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "シンシアリー代表・國本知里が執筆『2027年版 生成AIパスポートをひとつひとつわかりやすく。教科書＆問題集』予約開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R1BhWTZmYjBkMnRKaURLM2ZjN1lMOXdPRzJmRXFVVVZEYkF3UTVjSjZBaV9pWHRsQ2Zib3JDaG5KOGJFUXpDR1RrV2pqQmM2NkRHSWZ6dF9ZQk9JV1BXWTRQeXJCWDRtS1E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-18T01:54:07+00:00",
-      "summary": "シンシアリー代表・國本知里が執筆『2027年版 生成AIパスポートをひとつひとつわかりやすく。教科書＆問題集』予約開始 PR TIMES",
-      "id": "9e7e1179f466da47",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "fileAI、AI生成文書を用いた不正が増加する中、東京にオフィスを開設しfileForensicsをリリース",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EMnhpSzZBNUJHbnFTMXR4WXdBeTBPQ3FmTGVfWU8zTXFFVzdVczdHdi01X2Q2Tmx5R1pPQWZzZEVDakptbWJMZnJwMVVEOFgzMWpZdmUwOC1wVVlCd2dHbEdpZ3g0ZmVWbzhIVS1ESWEtanM?oc=5",
-      "source": "レスポンス（Response.jp）",
-      "published": "2026-11-18T01:53:00+00:00",
-      "summary": "fileAI、AI生成文書を用いた不正が増加する中、東京にオフィスを開設しfileForensicsをリリース レスポンス（Response.jp）",
-      "id": "51fb9c9e563b59d8",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "中小企業の6割超が、生成AIを「個人任せ」に――Waris、無料ウェビナー「非連続の時代に、経営はどう構えるか」を11月25日開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JQWwtbHpsZ1VtRWR0N0hFOWFUUnhEVHNlZHByRG9hWUp4QmJyWTAzaVJiSU9rMjV3WlByanl6TGRVVG9HaG8wWXFBUGtVLVM4S0l3dldRTGc3dDhGeFhXc3VUNXBqS0FySGc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-18T01:50:01+00:00",
-      "summary": "中小企業の6割超が、生成AIを「個人任せ」に――Waris、無料ウェビナー「非連続の時代に、経営はどう構えるか」を11月25日開催 PR TIMES",
-      "id": "5f37c06540bc5d98",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "自治体・産業支援機関向け｜地域の中小企業向けAI支援事業 全国84事業の比較レポート【2026年11月版】",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5akFJdDJBV0YtMDFCS01CNmQ5NjIzRG9Sc3EwN1B5b3BNV2RGdkR0UTdkWk5SZmRleFFON3pZbmVMS3VRX0ttNm94SU1td0hDOVRQcFJXMmtod1lYUWpucUZBS1MwVXUzT0E?oc=5",
       "source": "PR TIMES",
@@ -235,12 +259,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Stayway、浜松地域イノベーション推進機構へ「補助金クラウド for",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HWlRJLWRkb1FrMzZwTXhYV1YyUW5KTnBab3Bjd2p0bHRKeTczMjBoaFBUanJEcnBYN1AwZTFzWjk4cDg0NTVrWnlDYWNidWxVNXJuTnVnSGQ2aVdHS3BrY01qUFRoUDdp?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-18T01:21:18+00:00",
-      "summary": "Stayway、浜松地域イノベーション推進機構へ「補助金クラウド for ニコニコニュース",
-      "id": "7e5a1f7fc89acc43",
+      "title": "Stayway、浜松地域イノベーション推進機構へ「補助金クラウド for Gov」を提供。地域中小企業へ補助金制度を迅速かつ的確に届ける支援体制を構築",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVT1dMMFFFSjZTRDFmNlpES0xTWXZ6Xy1vckswa0FmTnV6d3JnQWxDbzM0LWcxRGdGTW1hVU94MU5UNjI0Yk1HMEZId2VkVlhRZENTMnJnVFVvV05KeWxYUlZSeURLR2lBMWc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-17T23:00:01+00:00",
+      "summary": "Stayway、浜松地域イノベーション推進機構へ「補助金クラウド for Gov」を提供。地域中小企業へ補助金制度を迅速かつ的確に届ける支援体制を構築 PR TIMES",
+      "id": "8c34aeb080f46b9d",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -325,18 +349,6 @@
       "published": "2026-11-17T15:00:00+00:00",
       "summary": "市民合唱団 師走の鎌倉に｢歓喜の歌｣を 鎌倉芸術館で12月20日に「第九」本番 タウンニュース",
       "id": "26ce2e11f58b53eb",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "笛田リサイクルマーケット開催　11月29日　笛田リサイクルセンターにて〈鎌倉市〉",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYVA4aFNlaXlmc3l5OHdDeDVFblEwQWxxaWxVb2ZrZ3lmVTdYRFU2U0lPY3BZQzZXRzVGNEo2WVRrS0otcFFPUGdQTGpZZlEtYXIxMVRTNVBXbGVJRUp6ek1QU1lfWWtVZGh1Y1dCT1g0RVdxLUJZbVhDbHg2RVRtSGQwN2x3WUxqci1MRGhEUGlNc3B0a1hmQWd4YTBneEpIbHNWb1llY0NxRkxHSWJhTWZycUIyVU9UMnk2cm1jN0RCZUJZWFpweW9IeWZPX0hK0gGAAUFVX3lxTE9jeVc5X1ZOQXVreFVoUm14dzA0R1RLS0l2aGVjdWt1amgzLVVhZ2RTZHZyLXZkeHBUckZORDVUaS1Hdno4cms2SW52ak9xYVkyVjlNWklZaVQ4MHlsbU1tWE5yakZIOTB5eTczN21zOWg3N3U3RzVRTk5zcUpSc1Jn?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-11-17T12:00:00+00:00",
-      "summary": "笛田リサイクルマーケット開催 11月29日 笛田リサイクルセンターにて〈鎌倉市〉 ｄメニューニュース",
-      "id": "8c7247bb1c5138b1",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -463,18 +475,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "商業不動産の“新規テナント開拓”をAIで支援する「SHOPCOUNTER リーシング」を提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NZVpwTjV5YVZTb2otcTAycGNJMXM5Q19fRlZ4NDgtSFJQMU9TOUh0UnJMMWNiVnBRXzRPMy1scU0zWE5zUVBUUXlWc2Z2TGJxTkE?oc=5",
-      "source": "調布経済新聞",
-      "published": "2026-11-17T04:22:45+00:00",
-      "summary": "商業不動産の“新規テナント開拓”をAIで支援する「SHOPCOUNTER リーシング」を提供開始 調布経済新聞",
-      "id": "34cf5d5cd7e4b304",
-      "category": "不動産",
-      "topic": "道場物件（品川・大田）",
-      "emoji": "🏠",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "初心者にやさしいコースで子どもたちがプレーを満喫！ ゴルフとエンタメが融合したイベント『Endless Summer 2026』を体験",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04OF9CVjEwUEV4WUx2cjk3eTdGejFKVWN0bjdoakpmU3hxUElWd28yd0pHLXBfM0tWLUVpYWo3aXFYN1N5LUE0N2xObVRET054dFpNWTdydVRHdVExdTNkRkQyWDhxUEMzX20tT1U4ZkdtU3lFS3c?oc=5",
       "source": "ALBA Net",
@@ -511,12 +511,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "神奈川県と新潟県を結ぶ「夜行列車」が運行へ 鎌倉市と南魚沼市を直結！ 新宿駅にも停車（乗りものニュース）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84eFR1T0pyQjBRZWVTc2dxb2l0QWdTcTZBbTBEVWxDUDE0cnFQOXVyVXUxUm5ZbkpDcVoxd01Od3htaDZRTC0tQVo4VWZZN1dwQVc0LW4wNGd4alh4VEVWeWFLdVpGb3BXMjJPb0VWdTI5MHFJbGdMTERiUzlOQnM?oc=5",
-      "source": "Yahoo!ニュース",
+      "title": "神奈川県と新潟県を結ぶ「夜行列車」が運行へ 鎌倉市と南魚沼市を直結！ 新宿駅にも停車",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd0Z4WkxDeUZFRk1QVWYtUzVWanU5NV9wRFY2aWJIa25GMzRfd200NFBhQkN6ZlRnRGdSbkdkTzh4dUhka2VqbkctZ1BmcmVKT1JsUWR4S01MUDRJVTgzUjF4NXl1WVZGUmtGbW10eWJQSkJpOHMzLVdHeEluNzZ0RHZXR0p1Q1Bq?oc=5",
+      "source": "carview!",
       "published": "2026-11-16T22:12:00+00:00",
-      "summary": "神奈川県と新潟県を結ぶ「夜行列車」が運行へ 鎌倉市と南魚沼市を直結！ 新宿駅にも停車（乗りものニュース） Yahoo!ニュース",
-      "id": "cd3e8fe16cf8ee2f",
+      "summary": "神奈川県と新潟県を結ぶ「夜行列車」が運行へ 鎌倉市と南魚沼市を直結！ 新宿駅にも停車 carview!",
+      "id": "b29268c57167f81f",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -529,6 +529,18 @@
       "published": "2026-11-16T21:44:08+00:00",
       "summary": "【鎌倉市】11月21日開催！石灰岩・鍾乳洞から日本の自然を学ぶ無料講座｜先着20名 選挙ドットコム",
       "id": "934145a6fa84777a",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "笛田リサイクルマーケット開催 11月29日 笛田リサイクルセンターにて",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JZzBwd3pPYWs0cy04RE9BT3U0UjdzNlBwYnZWbTZ4RWRlZ29TQW9BRmx0d3FKZTBvbVJZbWVyT21BalJacXJUcXZDckM0TEZJZVNuTG9SNzhGZ29FeEY2Z2pQMUg?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-11-16T15:00:00+00:00",
+      "summary": "笛田リサイクルマーケット開催 11月29日 笛田リサイクルセンターにて タウンニュース",
+      "id": "0deb659cbcf82e86",
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
@@ -568,18 +580,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "【鎌倉市】第46回鎌倉福祉まつりが11月29日開催！バザー・模擬店・福祉体験も",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ka28wQ0I0bG1XWnVmUzNENklIYzFzOXB0Um9wYnEwbEJCLUZURFV3Y2JYWm9mRHRzeDlfd29RVWhJanU1THo2QzloYjJLVUxSdUJxWUVxenpaZUVxY2pn?oc=5",
-      "source": "選挙ドットコム",
-      "published": "2026-11-15T21:32:17+00:00",
-      "summary": "【鎌倉市】第46回鎌倉福祉まつりが11月29日開催！バザー・模擬店・福祉体験も 選挙ドットコム",
-      "id": "fb7f9f38507cf2bc",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -679,18 +679,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "愛子さまと寛仁親王妃信子さまの和やかなご談笑がSNSで話題に...皇居内の済寧館で行われた皇宮警察創立140周年記念の武道大会ご観戦で - わたしとニュース【(火)-(金)ひる12時~生放送】 - 最新ニュース (ニュース) | 無料動画・見逃し配信を見るなら",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tYzlaczh4V1ZiVXk0X056Tm9zQnVBX3hZck5EdDE1a2lueXhWUmNTZWUtZnFnUHphcGpPYTVuemlOcmRVNENFRGtRR2w5cGZEU3ZBZ0MzM3Q?oc=5",
-      "source": "ABEMA",
-      "published": "2026-11-12T07:05:12+00:00",
-      "summary": "愛子さまと寛仁親王妃信子さまの和やかなご談笑がSNSで話題に...皇居内の済寧館で行われた皇宮警察創立140周年記念の武道大会ご観戦で - わたしとニュース【(火)-(金)ひる12時~生放送】 - 最新ニュース (ニュース) | 無料動画・見逃し配信を見るなら ABEMA",
-      "id": "3c12eb1536019684",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "「これは重いぞ……笑笑」中日・鵜飼航丞、合気道トレで98キロ細川成也らが“肩ぶら下がり” ユニはなぜか…ファン驚き「片腕で持ち上がるかなぁ」「物置かっ」「私もやりたい！！」：中日スポーツ・東京中日スポーツ",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZRmNtcFhOSXdhVDVLTTdqdERTaVNTZng1ZU5DLW1oLXhjdXBEYnJWRC1NWHdOczRPeTNZdmFXWjhTSzA1NVRlRGk5U3dZd0I5UjQ1Rw?oc=5",
       "source": "中日新聞Web",
@@ -728,10 +716,10 @@
     },
     {
       "title": "天皇ご一家が皇宮警察の武道大会に 愛子さまは初観戦 陛下は学習院で剣道部に所属 皇宮警察創設140年の記念大会",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYV3MydkdNbEwySXRQd1ZvQWk2WkdrY0c1NXJ5Tldxd0NvQ0FickNqU1BlclFxQS12Wk1Qdmc3OHFpMG90RXZ0RDVwQ2VpQQ?oc=5",
-      "source": "FNNプライムオンライン",
-      "published": "2026-11-11T10:36:00+00:00",
-      "summary": "天皇ご一家が皇宮警察の武道大会に 愛子さまは初観戦 陛下は学習院で剣道部に所属 皇宮警察創設140年の記念大会 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42RTVmUWFOMDZqRGtCR1F0NTNfRldlOEJ2NVA4UGZIYmROZk83aVprcFdXcXgwNEI1bVp4OXdDUmxyeVhJRW1sbzc1bGNMaWthaEc2MkVTVWpDU09WN29CcGtjcUg5SnN1aGJLS1dqa1hwelY4Y3V6TE1GUUkxQlk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-11T10:40:33+00:00",
+      "summary": "天皇ご一家が皇宮警察の武道大会に 愛子さまは初観戦 陛下は学習院で剣道部に所属 皇宮警察創設140年の記念大会 Yahoo!ニュース",
       "id": "754a89098e39197c",
       "category": "武道",
       "topic": "合気道・武道",
@@ -745,18 +733,6 @@
       "published": "2026-11-11T10:13:38+00:00",
       "summary": "天皇皇后両陛下と愛子さま 皇宮警察の武道大会を観戦 柔道や剣道の決勝戦などで勝敗決定時には護衛官らに拍手も TBS NEWS DIG",
       "id": "c3affd79e88f4599",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "天皇ご一家、武道大会に　皇宮警察140周年記念",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rcHdLNVR2UndjTkNNUjFyWWFSUGs2NGlSdmZKTmQ5dXJnNDJleTlld1NJZjNhU2dyVzJSclV0SjVpZkE4WWVkbjQ5bl9tSFdNM003MHVBNXh4MEdoc3I0cXZiX09TOExCT1hMcnZXZ9IBd0FVX3lxTE5IdTBDS2dLUVFLMXpRTERQUVFtdGZaQ3lZM2JuUFlpWksybnVLT0pzN0Znd2RkUTY4ZGVQZVR4OTBVLXFGQ05VejZRU2RMOHZlandKZllLRDB1YWgxTUdLS0owWjVRNXF6Rkx6WVhYYzNmMVhOWkhF?oc=5",
-      "source": "日刊スポーツ",
-      "published": "2026-11-11T10:03:23+00:00",
-      "summary": "天皇ご一家、武道大会に 皇宮警察140周年記念 日刊スポーツ",
-      "id": "e117a0dc896e878a",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
@@ -781,6 +757,30 @@
       "published": "2026-11-11T09:52:56+00:00",
       "summary": "天皇ご一家、信子さまが皇宮警察武道大会を観戦 熱戦に拍手送る 朝日新聞",
       "id": "25d029a7e5ae96c5",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "天皇ご一家、皇宮警察武道大会に 創立140周年を記念 皇居 (時事通信)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzNnMDlPdXd6NTNtc3RhMmpybXFqS0Q1S3Z2YjBCbDJiRmtialpsUUJhQnk2MmJHQTdYLXRoME56QVJZX1BxX3B2QS1jOGZwbGtfU3FDcGlacDdWeVhTc2VnTUlDX1lKWTBFdzRuRHlETjhMNU5uTW1jRDRLY2s0Q0kyUUpPYzFjQjBoMjhR?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-11T08:58:36+00:00",
+      "summary": "天皇ご一家、皇宮警察武道大会に 創立140周年を記念 皇居 (時事通信) Yahoo!ニュース",
+      "id": "105a62372abe66c4",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "天皇ご一家、皇宮警察武道大会に 創立１４０周年を記念―皇居",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tWnMycmkydV9zeDNJTWI4SWJNdUhkN1hxbTVNVHBkVzlVa1l0NWVTTHMzT2tKeFhSSXIyZ2xKOUkyNWJOWEsxWXlCSFh5Y2VETUkzamhSbXJ0d1FMdUlrQi1ydw?oc=5",
+      "source": "時事ドットコム",
+      "published": "2026-11-11T08:57:00+00:00",
+      "summary": "天皇ご一家、皇宮警察武道大会に 創立１４０周年を記念―皇居 時事ドットコム",
+      "id": "354b7c9b0b3d827f",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
