@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-18T00:12:01.605516+00:00",
+  "generated_at": "2026-11-18T01:12:29.279032+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -67,12 +67,84 @@
   ],
   "items": [
     {
+      "title": "ウォール街「Anthropic、2030年売上676兆ウォン」…IPOを前に「買い」初登場",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rek9LX3VDR2ZXaTluQ05wSFZvQ0JhWklmcm1Wclp0MTZZZDVremkxVkhIdVI3blFQZXZBZDVpZ3BLdUIyN2ZyMnZGTnlVempwWFp0QXFNajdKRTdqVG02c1B2Rm15RVZIQnFYOE9rQ0l5Mk41?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-18T00:56:00+00:00",
+      "summary": "ウォール街「Anthropic、2030年売上676兆ウォン」…IPOを前に「買い」初登場 BigGo ファイナンス",
+      "id": "10d96e5238911c8c",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic公募価格上振れ観測 ナスダック上場へ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16djZKWGlXLTJqeWMwWm41LUd3Yi10bUMzYm82TjVMTkRGSklQbDhDejJFT3VXTVBwSDZ6ZnJCZGlYb1FNVHZMMEFHQVJ4cWZCTGxMbVdGdXhXUGtFdy1lOGRTQ0VzTm9OdUpxN1RqNEowOG1LenVuMEd3?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-11-18T00:48:00+00:00",
+      "summary": "Anthropic公募価格上振れ観測 ナスダック上場へ Chosunbiz",
+      "id": "de1ffa6d13671355",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "OpenAI、GPT-6.2 AstraとSolを投入 AnthropicのIPO直前に価格で攻勢",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpWUpLNkpISDNWX25rQWNrV1FXb2RwZ2ZpQV9LOVhUU0JTNkpNODJrR3hnQXRFczdNSXRpQ3BwTEp2eUFTcHNNTmNTa0dYY2Y3TlNVTnBCZkxMcEhMNFBoUmN0MEFMOTlNZG90TUhOb2pBX1lk?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-18T00:25:00+00:00",
+      "summary": "OpenAI、GPT-6.2 AstraとSolを投入 AnthropicのIPO直前に価格で攻勢 BigGo ファイナンス",
+      "id": "3149c779242bce91",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic上場を控えKOSPIに「冷たい風」…「過去8回中6回は上場後に反発」",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0Vk5TcEQtNUQ3SkJGVVJMTlNpelBXMlN2ZVlqOUZJM2Vqb0hha2JUS1FWbk5aZmhKaUpPSUhNVDgydEswZXpmeWlGRlBaT3RXbFRfM25WVWFobEpOM1ZGZDhIaWZmM050WnlHY00yRnZneGxK?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-18T00:05:00+00:00",
+      "summary": "Anthropic上場を控えKOSPIに「冷たい風」…「過去8回中6回は上場後に反発」 BigGo ファイナンス",
+      "id": "01e4aeedaf2a3e81",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic、IPO前夜に「SaaS殺し」へ舵？ Claudeに表計算を内蔵した、真の狙い（1/2 ページ）",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sSFdLcVphZ01wUTlGTXhmU3l6dlpQbmstajd6d2tCMFdYbWFFVWxSY2dKRDIycy1uUkxSTHRadlBwbTNhT2paSWF3cHVFX210dFotSkVHSXYyUEtEZlluXzNqQlhBdmkyV3ZxeU5fNWFodw?oc=5",
+      "source": "ITmedia",
+      "published": "2026-11-18T00:00:00+00:00",
+      "summary": "Anthropic、IPO前夜に「SaaS殺し」へ舵？ Claudeに表計算を内蔵した、真の狙い（1/2 ページ） ITmedia",
+      "id": "460221dc2ea8ba52",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "ビットコイン、6.4万ドル付近で膠着 トレーダーがAnthropicのIPO向けに資金確保",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQeGhfaFRfaXIyclJMMl9HZ0JEdVpLWDB1NUpuNFo4ZmlrY21xMlBGZmVmT3pHc0Nkd2ZrcFA3SVRCR2laM1hXQTB5V1h0VlRqczk4WWMzYkpmV29NQUJIWG5WYmNWbEQwbHQ5N0o5UTM5aFlL?oc=5",
       "source": "BigGo ファイナンス",
       "published": "2026-11-17T23:55:00+00:00",
       "summary": "ビットコイン、6.4万ドル付近で膠着 トレーダーがAnthropicのIPO向けに資金確保 BigGo ファイナンス",
       "id": "70ecfc849fd0df9f",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Claudeへの指示だけで一晩、12ステージのゲーム完成 画像・音声・テストもAIが生成",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajZ6aDA0dzRKNGJpUElkUXRrTE1tWnhMcHBWVkZjaEktS3EwYWdLRTlmT0FQYlRxWE1qTF8wcWJKeDlzV1Z1NmZ0dWlCR0NUMVl2MmNqeDNrY084UUtoLXh3VjYxaHNmdlFhd2p6ckd6b2c3ckpDUUUwWDFUdENXSFlDcW9Zb2VGRXBOQnZHLUN1SEdROGJYS25oaUlpNmVISHpiU3lyUmxsS2VjbGhaVw?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-11-17T23:41:55+00:00",
+      "summary": "Claudeへの指示だけで一晩、12ステージのゲーム完成 画像・音声・テストもAIが生成 디지털투데이",
+      "id": "fafe5d2cd084db1f",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -175,54 +247,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ビットコイン6.4万ドル割れ、Anthropic IPOの「資本真空」が招いた24%急落",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lc0s4RkFxVDBMMlNMZFV6ZXUtNmxodzFDSE9JajI0dEZxY19YU1N3U2t0d2E5clFwQmJJOXYwRmJvWGpKdUJxTmROM1kxM00tSDBQS1hudUZuM2pvdzZQREdzQjJUYTNacDl1Z19aZGhRWFlx?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-17T19:05:00+00:00",
-      "summary": "ビットコイン6.4万ドル割れ、Anthropic IPOの「資本真空」が招いた24%急落 BigGo ファイナンス",
-      "id": "8cf70a36b278d78f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、Claude APIアプリ向けのリンク請求ベータ版を開始",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlNob2tjdk9XZHZqZ1VaN0VKNXVWMjVsTDZGaDduQ2FEdWpiWFExWUJFQlB3TV9UZ1NXaHlKbXlWemFwaHp2YWhOU1ZndDFkRURUc2ZXbTR5SWJ2LWdHNzMxVVhUREYtOXcxS0Vma3l0eWFXUnNaN2lNWDN6NTNMRk5ScEtzTHlBSFJB?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-17T17:57:02+00:00",
-      "summary": "Anthropic、Claude APIアプリ向けのリンク請求ベータ版を開始 Unite.AI",
-      "id": "ad54c91bba1c1bd4",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI Companies Seek to “Destroy Salesforce Entirely”",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdi04QXVSanFoUDdsQnpXVTh3dk9aVV9TTDQwd2xiNE5SYlhRX0JmZnNlenF6MkZldEp5QUZnOEJLUTdOUDlfRTJ2ZkgzdERXVGZpS3k2Zkkya0hpa2F4aHFOTjFmbmxnMW5Gb2t0X04wZHRYZnUteWt1ZDFTeVVlLVRJNWVTaDdua1U2dFRIXzlhcHcwSThpLTlVZ0VwMmZfU3lXQllvdUdPWWh1Z3B1bUtFbUlXSzAxMWpWd1lRb1g4WExGamVsS3FxcWd2cEMycnp5UUQ3Z29acnJDdWxtRHdZazhIcTA?oc=5",
-      "source": "TIKR.com",
-      "published": "2026-11-17T16:29:20+00:00",
-      "summary": "Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI Companies Seek to “Destroy Salesforce Entirely” TIKR.com",
-      "id": "f315e92063fb2c9f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "IPO後、Anthropicの約30%をAmazonとGoogleが保有する",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVlN4dHlMY05lVF9jOUJfRVJETmtkNUpobEJsTDZTMDZ4ZFhzOTgxZXBHU2FKWXFSOWVud1FlNVBUQThHTldzT2FYejV0Tjh5OFl6VXo0MG00eGVwSHE2SDdXa2g4Tm5YZDhaaDVEUThWWXBYV01lS1h3QmJnOGtEV3gtX25YRXRISk9tSVN4Um9CUkl5NkE?oc=5",
-      "source": "Mezha.net",
-      "published": "2026-11-17T15:38:00+00:00",
-      "summary": "IPO後、Anthropicの約30%をAmazonとGoogleが保有する Mezha.net",
-      "id": "32499e0a4f4c6a7f",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【鎌倉市】イトーヨーカドー大船店で米と健康セミナーを開催、11月18日",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJOVE4OG9McExvN1JGZGhNUVo4ai0zcDc1SmoxYzE0T2ExODhPdlp1MGlBZmg1dnR3NzRVakpfbUdRVTBFMzI2enVSVUJaVF9MN0hiVWRLSUdSWEoxYjRlOVIwRjI?oc=5",
       "source": "湘南人",
@@ -247,18 +271,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "AnthropicのIPO価格、当初の想定価格帯を上回る見通し",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3l6Y3Z1MEVZMTVsTWcwYmRmUkhRZnZRNHU4cER0U1FRWExQQmdub0ppOFZ0Snhsa2ozdW0tY2duYU9ZR05aTUdjM3N1RDdCRHNDMGVNakMwRjhBQTMzMndvbnFqMlU5aGFVY0JfYWZ4RDV2SFNHUm5jamIySnBVT0JhVU96RHM?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-17T15:00:02+00:00",
-      "summary": "AnthropicのIPO価格、当初の想定価格帯を上回る見通し Unite.AI",
-      "id": "6825713befec54e5",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "鎌倉福祉まつりが開催 鎌倉市福祉センターで11月29日",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PLWVGVnRjZENqVzkwemRpMEZTVVpFTHIweGNka2g2TmtCaHkxbDdNaUJ0X1FOUlVNMkZYQm1CYm1MbE9rY2FheG53cGVYZXRIT3dsTHIwd0YxTU1qbXBXRkQ1REM?oc=5",
       "source": "タウンニュース",
@@ -280,18 +292,6 @@
       "category": "地域",
       "topic": "地域ニュース 鎌倉",
       "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "米国市場の展望：Nvidia決算・Anthropic IPO控え、ハイテク株の下落が一服 トランプ政権が対中規制検討、米光学株上昇 ディズニーの業績予想を上回、コンテンツ投資の拡大を計画",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VZUdqUnJybTdTVHlSWHBSSnpfYWgyZjhIenBRRzJsY1JqNG12dDhpREd2cktYTzNtck96WC1hSy14dkdhbWp1NEM4LTVkd1phd25OOU8za05KaVllMGJCTWJaTWlWNTRyNjlSZjB3azZJZmVOaTJ4WEVSYVdQT1E?oc=5",
-      "source": "Moomoo",
-      "published": "2026-11-17T14:41:46+00:00",
-      "summary": "米国市場の展望：Nvidia決算・Anthropic IPO控え、ハイテク株の下落が一服 トランプ政権が対中規制検討、米光学株上昇 ディズニーの業績予想を上回、コンテンツ投資の拡大を計画 Moomoo",
-      "id": "f3fb573ce4d099ba",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -463,18 +463,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【ランサムウェア被害過去最多、6割超が中小企業】今こそ備えるセキュリティ対策と生成AI導入、補助金でお得に始める無料ウ",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41NkJuRk4zbEFCVU9IcXB5aHBWYVYwVGpIREkyRzJ2NUFRbWJFQ0ltZkZINEw1U2dlOFFrTlN3T2t6T0ZnRmRZNGw4Ni1DenRqRzl1NEI3ejFBQmVXck44N0xGcGVhTkV4?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-17T01:00:38+00:00",
-      "summary": "【ランサムウェア被害過去最多、6割超が中小企業】今こそ備えるセキュリティ対策と生成AI導入、補助金でお得に始める無料ウ ニコニコニュース",
-      "id": "571198a577dc2325",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "aiko、aiko Live Tour「Love Like Pop vol.26」開幕！",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UR2NsT0RVcU8zRklRcHhfN0g1TDBsU1ZlR2ttSHlxXzctTHVyUk04ekZEblVpMy1qbXdvRHZEOE1BUVVMQTg2WnNDc1pOb0xUU1lFa1VCbUlhSjlEMVc5VkpLM0JJWTctcnBTVUZqaXVQbms?oc=5",
       "source": "ニコニコニュース",
@@ -493,6 +481,18 @@
       "published": "2026-11-16T23:34:00+00:00",
       "summary": "円安で物価上昇し消費萎縮…日本経済、1年ぶりマイナス成長 中央日報",
       "id": "1de8766188cf16d6",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【ランサムウェア被害過去最多、6割超が中小企業】今こそ備えるセキュリティ対策と生成AI導入、補助金でお得に始める無料ウェビナー",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sQnFodG5UNXNfQ05CdFJ0Ukc1c2pUS3lDTU5ra0o3M2c3MVhGUy1kdHlLaTRIUEpYZWpTUkJzM2lQdk9jc1RRRkV1bWR2czRsOVBINzhVWEVqSVdRd0ctMHA2cUVlV2pja1E?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-16T23:00:02+00:00",
+      "summary": "【ランサムウェア被害過去最多、6割超が中小企業】今こそ備えるセキュリティ対策と生成AI導入、補助金でお得に始める無料ウェビナー PR TIMES",
+      "id": "69c9bfb287a37c15",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -775,24 +775,24 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "天皇ご一家、武道大会に　皇宮警察140周年記念",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rcHdLNVR2UndjTkNNUjFyWWFSUGs2NGlSdmZKTmQ5dXJnNDJleTlld1NJZjNhU2dyVzJSclV0SjVpZkE4WWVkbjQ5bl9tSFdNM003MHVBNXh4MEdoc3I0cXZiX09TOExCT1hMcnZXZ9IBd0FVX3lxTE5IdTBDS2dLUVFLMXpRTERQUVFtdGZaQ3lZM2JuUFlpWksybnVLT0pzN0Znd2RkUTY4ZGVQZVR4OTBVLXFGQ05VejZRU2RMOHZlandKZllLRDB1YWgxTUdLS0owWjVRNXF6Rkx6WVhYYzNmMVhOWkhF?oc=5",
-      "source": "日刊スポーツ",
-      "published": "2026-11-11T10:03:23+00:00",
-      "summary": "天皇ご一家、武道大会に 皇宮警察140周年記念 日刊スポーツ",
-      "id": "e117a0dc896e878a",
+      "title": "天皇皇后両陛下と愛子さま 皇宮警察の武道大会を観戦 柔道や剣道の決勝戦などで勝敗決定時には護衛官らに拍手も",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iQVlKZ0dRLS1YaTlFRWtnMXpDR3llejEzbFZ2eHlZcFNPXzl0ZTR3V3dOaE41WFUxTDQweHMyTk1QYVpfR19BcDdZTTNmelIyY2MzSkdaYw?oc=5",
+      "source": "TBS NEWS DIG",
+      "published": "2026-11-11T10:13:38+00:00",
+      "summary": "天皇皇后両陛下と愛子さま 皇宮警察の武道大会を観戦 柔道や剣道の決勝戦などで勝敗決定時には護衛官らに拍手も TBS NEWS DIG",
+      "id": "c3affd79e88f4599",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "天皇皇后両陛下と愛子さま、皇宮警察の武道大会に出席",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLejU0QXg0TFE1WkNfN1N1dmlHMnNrNGx2NURXNjFuY05NaDdndHN1a3ZsSFo3ektvYnZCMXlxTy1YTDBJWmlKZ1d2VjdOaEJKclRtaExzTUE5RlRKTDBKNktySmF2YkNJS3VpYw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-11T10:02:49+00:00",
-      "summary": "天皇皇后両陛下と愛子さま、皇宮警察の武道大会に出席 日本経済新聞",
-      "id": "39a953e2e5712e4b",
+      "title": "天皇ご一家、武道大会に　皇宮警察140周年記念",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rcHdLNVR2UndjTkNNUjFyWWFSUGs2NGlSdmZKTmQ5dXJnNDJleTlld1NJZjNhU2dyVzJSclV0SjVpZkE4WWVkbjQ5bl9tSFdNM003MHVBNXh4MEdoc3I0cXZiX09TOExCT1hMcnZXZ9IBd0FVX3lxTE5IdTBDS2dLUVFLMXpRTERQUVFtdGZaQ3lZM2JuUFlpWksybnVLT0pzN0Znd2RkUTY4ZGVQZVR4OTBVLXFGQ05VejZRU2RMOHZlandKZllLRDB1YWgxTUdLS0owWjVRNXF6Rkx6WVhYYzNmMVhOWkhF?oc=5",
+      "source": "日刊スポーツ",
+      "published": "2026-11-11T10:03:23+00:00",
+      "summary": "天皇ご一家、武道大会に 皇宮警察140周年記念 日刊スポーツ",
+      "id": "e117a0dc896e878a",
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
