@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-21T15:56:53.241575+00:00",
+  "generated_at": "2026-11-21T16:57:19.117288+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -20,13 +20,13 @@
       "name": "ライブ・コンサート全般",
       "category": "音楽",
       "emoji": "🎤",
-      "count": 4
+      "count": 10
     },
     {
       "name": "道場物件（品川・大田）",
       "category": "不動産",
       "emoji": "🏠",
-      "count": 0
+      "count": 2
     },
     {
       "name": "道場物件（鎌倉・湘南）",
@@ -38,7 +38,7 @@
       "name": "地域ニュース 品川",
       "category": "地域",
       "emoji": "📍",
-      "count": 4
+      "count": 9
     },
     {
       "name": "地域ニュース 鎌倉",
@@ -343,18 +343,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【12/16開催】エフアンドエムが柏崎信用金庫・かしわざき広域ビジネス応援ネットワーク主催の企業向けセミナーに登壇",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95Skg5WU9tUFROQlRWQlBSc3ZSSzU2aVNORTVCSmxmbVUtdm9BWVpSUE1TMXc1cFBWOU1USUt1bElFVVFvN043eVRDSWpQcXdEdm9VSFlBbkUxNjB4WEFFakJkd0JLZVo0?oc=5",
-      "source": "ニコニコニュース",
-      "published": "2026-11-20T20:18:34+00:00",
-      "summary": "【12/16開催】エフアンドエムが柏崎信用金庫・かしわざき広域ビジネス応援ネットワーク主催の企業向けセミナーに登壇 ニコニコニュース",
-      "id": "a5cf43025d90c5fa",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【鎌倉市】腰越行政センターで子育てサロン「ぽっけ」開催、手形足形のフリースペース 11月24日",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wRmRMc1Ewekp2NHBGRlhlQ2dTcW5ZakVVeXc3Ym01RXRsX29BM0lKdFJ0ZTM1dnlabTFKRmliYjl3dmlUM2hwU2xiYVZaM2E3Yjg2eE1Rdk5OQjljb3ZNSlpBZHp5aVE0RERR?oc=5",
       "source": "湘南人",
@@ -400,18 +388,6 @@
       "category": "音楽",
       "topic": "推しアーティスト",
       "emoji": "🎵",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "2PMのJun․ K、2027年1月に兵庫＆東京でファンコンサートを開催決定！",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OMGhNSmQ4R1RXTVc2NmVFYlFmSV9Oay1naklybzE0WG5rLXU2a1N2MkhWb3BxRHQzbDg1NGl1VHBSa1JsRzRyeGJOaGNQZmZYdVRJUHNsSHcxQ0VJ?oc=5",
-      "source": "Kstyle",
-      "published": "2026-11-20T08:56:44+00:00",
-      "summary": "2PMのJun․ K、2027年1月に兵庫＆東京でファンコンサートを開催決定！ Kstyle",
-      "id": "f9f92405dddddea0",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -583,18 +559,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "『VIVANT』コンサート千秋楽を生配信へ 大阪・東京の全5公演も先着で販売（クランクイン！）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBubndFVjVfbkg4aTdMbU5POTF5R05uWGJCblE2NHc4LTNZSlVFanBzMHZSN1FQdzQwWFduUFhpTkl2QTVoOU9VZkJmS2VMa0NXV1k2d29ubmVfQmdqWEFiVVFHZzkwazJiWlBHUmNZQVF6UVdkbzNMa1EtTFVBaTQ?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-19T10:00:00+00:00",
-      "summary": "『VIVANT』コンサート千秋楽を生配信へ 大阪・東京の全5公演も先着で販売（クランクイン！） Yahoo!ニュース",
-      "id": "03382758e372e8aa",
-      "category": "音楽",
-      "topic": "ライブ・コンサート全般",
-      "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "あいみょん年明けに新アルバム「スマイル週間」発売、初回盤に岡本太郎記念館での弾き語り音源付属（動画あり）",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6cXJGSmo4Y3Jmb09mTUs1c0M4V2pjaVdYdVoxV1JMaFRjLXJpbjBxZUgtXzFqajVIcnNkRzl2NmRtdjVmUXNXQXNjYlc?oc=5",
       "source": "ナタリー",
@@ -649,6 +613,18 @@
       "published": "2026-11-19T05:21:53+00:00",
       "summary": "東京都、賃上げと経営改善に最大600万円を助成！12月14日まで申請受付 創業手帳株式会社",
       "id": "971801b0f8da16b2",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「新事業進出・ものづくり商業サービス補助金」事業計画検討用フォーマットが公開！第2回申請は11月30日開始",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lcF9sNTkyTDFUYWxqLXN1X0FncGFMX3hNM2Jnc2U0d04tQ3dSOVFyZWpTRXppVDFpZzhWaGNQZHV1d3Q0ZUgyMlFoYWNGMWpyMjV2Y0ZBUGxBLWhvVndOS1ZzZEhjdS1F?oc=5",
+      "source": "創業手帳株式会社",
+      "published": "2026-11-19T05:02:39+00:00",
+      "summary": "「新事業進出・ものづくり商業サービス補助金」事業計画検討用フォーマットが公開！第2回申請は11月30日開始 創業手帳株式会社",
+      "id": "572b009f8b6be59a",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -715,6 +691,66 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "商業不動産の“新規テナント開拓”をAIで支援する「SHOPCOUNTER リーシング」を提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NZkZpbUJFZVBJTGNJOXphNmpoNGJxYkdjSzYtRC15LXRWMkphc1pEb043d3dBa3g1aXJDU3hiNjlVTXd1WlZ0SEQyLWM5NENaTnk5RQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-17T07:51:26+00:00",
+      "summary": "商業不動産の“新規テナント開拓”をAIで支援する「SHOPCOUNTER リーシング」を提供開始 ニコニコニュース",
+      "id": "34cf5d5cd7e4b304",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "aiko、約1年ぶりのアリーナツアー『Love Like Pop vol.26』開幕「みんなの美味しい美味しい飴ちゃんになれますように。」",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmLWlURUROS20tVkE5QnFpeVhVUFBhcEpPRFRYbTd3VzR2R1EwLXBvUnlKMDF4WEtYRXYxY2p6V1E2MllYOURCYlhicFQtc0N6VWc?oc=5",
+      "source": "音楽業界総合情報サイト",
+      "published": "2026-11-17T07:00:00+00:00",
+      "summary": "aiko、約1年ぶりのアリーナツアー『Love Like Pop vol.26』開幕「みんなの美味しい美味しい飴ちゃんになれますように。」 音楽業界総合情報サイト",
+      "id": "796ea3405ca18fdd",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "品川歴史館で「品川らくご会」初回開催へ 柳家吉緑さん独演会、「芝浜」口演（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IUFI1bWE0NjZJVFZkVWpGdXpuT2k4S0l3VWZjT1F2SFMyX2lGd2xVOE4tWThXY1ZRRjZBenUtZ0N3OGdlaV9kdnlnX1lmWHo1bzMyVl9haldIeHliSm5yLWtQYXJjV1dTdkVNd1lqcmFESGRpRTNadFFJS1ZwTkE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-16T07:35:06+00:00",
+      "summary": "品川歴史館で「品川らくご会」初回開催へ 柳家吉緑さん独演会、「芝浜」口演（みんなの経済新聞ネットワーク） Yahoo!ニュース",
+      "id": "62a8bbd1a667b34e",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "品川区長選挙、現職の森沢恭子氏が再選果たす…投票率３４・３９％（読売新聞オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RG14MDNNV1lRRnh1WG5EUXE5YjJmZmZYTjJWd0JKaWc3NnF2RGgzMHFVSUFiU2sxWV9zU04ycS1OYjd3eTItOEhTeUVWOFYtNmtKVW5ybHJfNkxYLWMtbXU2Ym9WTVlRR2NTSmFodmV6MWFVQnRZQlNvQnN6V3M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-15T13:13:33+00:00",
+      "summary": "品川区長選挙、現職の森沢恭子氏が再選果たす…投票率３４・３９％（読売新聞オンライン） Yahoo!ニュース",
+      "id": "5afe2d997e981c91",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ちゃんみな自身初の東京ドーム公演を全国100館規模の映画館でライブビューイング！一般発売1時間完売のプレミア公演",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vNjFrVTZYaldWamh5SjFKV19PNkc1MWJJZTdDaXBBZGpaZW9yU0Q0YlRkQzYtZHNteUVPa2ZGUXEtTVZ1cVc0ci1Yb3FzWk16QUFxd2N30gFbQVVfeXFMT3V6NjFiMkk5b1JvNWptNjgya0xJWDN4X0VfRHpEQ2w5LWR2MTV0QkJMVW1KNlhkTXloLU96V2NxNmNwTDFFbGRTR3VlbGZtcEdudHRPcmhqbENHYw?oc=5",
+      "source": "ウォーカープラス",
+      "published": "2026-11-15T08:00:00+00:00",
+      "summary": "ちゃんみな自身初の東京ドーム公演を全国100館規模の映画館でライブビューイング！一般発売1時間完売のプレミア公演 ウォーカープラス",
+      "id": "04b0f4c7ebcbaba4",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "品川区福祉オンブズマン制度｜品川区公式ウェブサイト",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRFZRMkYzQ0tuUnBpTnVfYXc5SWJybHlMdlltTzRFTVVfbVJTbHlXS0ZWeUp6SUxqSnRtNHpDZEdYLWszdE9WaEpNY0M2OW9vQUctRl9LdXBDUDZIbVFQZk1DY195SldLUVFfeVdGSWtrYUJPNHl2M2FoQ1lpNXhGVVRB?oc=5",
       "source": "www.city.shinagawa.tokyo.jp",
@@ -727,6 +763,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "緑黄色社会のアリーナツアー“あたまご”ファイナル・横浜アリーナ公演を12月6日にWOWOW・Leminoで生中継！舞台",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rWklVSTZQc0Y4N0NmV2ZTZXA2c1BDY01mX2ZSZjgtWjFPbkdWSmE3MGR3WFdFTmduLUx4SlZqZjFfTUpyaXJERndZWlQ1ME5yeEpKdw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-15T07:18:35+00:00",
+      "summary": "緑黄色社会のアリーナツアー“あたまご”ファイナル・横浜アリーナ公演を12月6日にWOWOW・Leminoで生中継！舞台 ニコニコニュース",
+      "id": "427702e15d8816e0",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "「大好きで仕方がないんだろうなあ」愛子さま 武道大会で「隣に座られた女性皇族」に喜びの声相次ぐ（女性自身）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Cc0xNcEtxMFppV0hXai1XSE5DTTIzeUZyZFBXXy1HMXJKUkNmYzBuT3NrWnVMUFBNUkwtY0NtaEpSTHJkQ3daSDB4R2pGUzZOVmJiZlBvUVU0V0VIemdFSWFVNVE0aUtabWh4bnIzeW5Rdm10S29KTC0xbjNsVFE?oc=5",
       "source": "Yahoo!ニュース",
@@ -736,6 +784,78 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "荏原消防署 集まれ！消防自動車！2026 in しながわ中央公園｜2026年11月14日(土)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNzZILXJQWjhYS2dHMUVKd21xQmZXam1kR25MNmd2emszenVqTlNaQUwzdVNXVUs5by1wNHhkbU1rbWdHRjcwTTZuRkRDRm94b0Z6LXNldWZXdFh4ai1LNk5EVjV5YVI0c3pscUZKRHBGeHczMmdjcEZSR2VSb2NXejhOZVdJaTk2aUE?oc=5",
+      "source": "陸自調査団",
+      "published": "2026-11-14T08:00:00+00:00",
+      "summary": "荏原消防署 集まれ！消防自動車！2026 in しながわ中央公園｜2026年11月14日(土) 陸自調査団",
+      "id": "bdcd5afdb56925dd",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "東京流通センターが第4回 テナント交流会を開催 36社約100名が参加",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DdXhzc2M1eVB3bnVqeHlkWnBjUEtUYW9MbkZRS3A5S1pPaFprRktSSlZNcmI4T2hTMllWbElSS2Y0SlJpYUE?oc=5",
+      "source": "Dellows News",
+      "published": "2026-11-13T20:54:23+00:00",
+      "summary": "東京流通センターが第4回 テナント交流会を開催 36社約100名が参加 Dellows News",
+      "id": "50cf5753736cd231",
+      "category": "不動産",
+      "topic": "道場物件（品川・大田）",
+      "emoji": "🏠",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【品川区で住みたい街】ランキング2位は「目黒」、1位は3路線が使え、買い物が便利なあの街",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWWNIMjZMenRpUDd0bi1ZeE0wQmM2WEZ6OEJFYkNSeDBzWXFtTF80QW9OTnBacXVNdXNkSGxzZTUzVkhFN0RSOEhNb0ZVeHJQZlNHR2tVNEkyWXZ6a2YwY3g1d0MxZ0RZMkd3VWo1aFFkUy1taW9kWVozN2g2VnRlMFBiSVJnVDQzWUk5WjlB?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-13T08:48:14+00:00",
+      "summary": "【品川区で住みたい街】ランキング2位は「目黒」、1位は3路線が使え、買い物が便利なあの街 Yahoo!ニュース",
+      "id": "330cff4293e12ddc",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【渋谷・品川・世田谷区】2026年11月14日・15日週末の無料イベント6選 フェス＆バザー",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uU1I1anVvblpGbzNLMURoU3B3NXoxQkNFVVBQcFFySVdpa0RSWEQ1MWJxMXhnZlNKRllPMUI1X1puUGF0eXJtcnhFam1qckxDaEE?oc=5",
+      "source": "いこーよニュース",
+      "published": "2026-11-13T08:00:55+00:00",
+      "summary": "【渋谷・品川・世田谷区】2026年11月14日・15日週末の無料イベント6選 フェス＆バザー いこーよニュース",
+      "id": "5f989dea95b166cd",
+      "category": "地域",
+      "topic": "地域ニュース 品川",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "【PIW】荒川静香さんのコメントが到着！本日よりチケット一般発売開始！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82Y2xadF92akV4cnBaTjJlRFg2cF9DRGJyVENuYVJFQWt3ZlVjNzBwcDlsSGxuYl9BM1FIbEg2WEtQZ2J3S3FuUUlyUWRlUGEwMnFaOXRua0JwZkdrd1ZYUFl0TjBBVThZNUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-13T08:00:00+00:00",
+      "summary": "【PIW】荒川静香さんのコメントが到着！本日よりチケット一般発売開始！ PR TIMES",
+      "id": "7b70de5350f703bb",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "PIW2026-2027 東京公演、一般発売開始 荒川静香さんが動画でコメント 坂本花織さん、鍵山優真ら出演",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84WWtqVWZTMDdaQk83RVFPTkg1eTRVOHdKa1NFeVlTYU1jZXNwZlBuSEhkazlWZ181N3JmNnQ4QklhMTExOG5YM29kWXZWRnAxalFEM1F4QmtGbDB5cE1V?oc=5",
+      "source": "Deep Edge Plus",
+      "published": "2026-11-13T05:51:05+00:00",
+      "summary": "PIW2026-2027 東京公演、一般発売開始 荒川静香さんが動画でコメント 坂本花織さん、鍵山優真ら出演 Deep Edge Plus",
+      "id": "c3987f4e49b7b9de",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -845,7 +965,43 @@
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ときのそら、デビュー９周年 初アリーナ公演「幸せでいっぱいです」 来年１２月に「約束の場所」横浜アリーナ公演決定",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIb3BFUWhrYjQ0ckZYQnJmYnNpd0FEeGE0dkFnTHg5aTZqSnFKaThmS3RLN1kwZzcyQmVrLUMtMVlVMFh0Uk1wSVdXX1pZTmhORHhfUlZwY0JHbndxRC1YVWp3?oc=5",
+      "source": "スポーツ報知",
+      "published": "2026-11-08T08:00:00+00:00",
+      "summary": "ときのそら、デビュー９周年 初アリーナ公演「幸せでいっぱいです」 来年１２月に「約束の場所」横浜アリーナ公演決定 スポーツ報知",
+      "id": "11f4387a6631fb91",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ミセスのチケット当落・倍率2026・2027｜SHADOWS・Harmony2の取り方",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4QkJCTnhUa2dOQ29MZkVEcm0yZW1SMEprWGxmWHFkaUVlaElrYmhtQS1iQk1SWEhuczVERVNSQW1oTVBJR3o0UDk3VXJxTUhVX2w5aA?oc=5",
+      "source": "LIGNEA",
+      "published": "2026-11-08T08:00:00+00:00",
+      "summary": "ミセスのチケット当落・倍率2026・2027｜SHADOWS・Harmony2の取り方 LIGNEA",
+      "id": "a77bebd747ae9365",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "木村拓哉ライブ2026のチケット倍率・当落「Checkpoint」千葉公演の公式リセール・取り方",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOSmVlSm5NMTYyOWthYW55UWoySm5GWEo3WmJXQmo3aU1IMDNQRlJUdFJFMmZPWW5zTWlkVnIxT1BSS2x3ajZLQkVDdkM4ZHdFMVlJ?oc=5",
+      "source": "LIGNEA",
+      "published": "2026-11-07T23:33:27+00:00",
+      "summary": "木村拓哉ライブ2026のチケット倍率・当落「Checkpoint」千葉公演の公式リセール・取り方 LIGNEA",
+      "id": "9b0840cb393dcbad",
+      "category": "音楽",
+      "topic": "ライブ・コンサート全般",
+      "emoji": "🎤",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 65
+  "count": 78
 }
