@@ -1,6 +1,6 @@
 {
   "app_title": "MyNews",
-  "generated_at": "2026-11-23T01:35:53.448796+00:00",
+  "generated_at": "2026-11-23T02:36:24.472139+00:00",
   "categories": [
     "音楽",
     "不動産",
@@ -14,7 +14,7 @@
       "name": "推しアーティスト",
       "category": "音楽",
       "emoji": "🎵",
-      "count": 11
+      "count": 9
     },
     {
       "name": "ライブ・コンサート全般",
@@ -67,6 +67,18 @@
   ],
   "items": [
     {
+      "title": "【解説】リーマン予想、Anthropicの数学者がClaudeと証明と主張 Leanの検証は大半を通過",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiX1RyNl9rb3c4d2FGODFjMU1FOENidzBtd1Z2blZBQ1pVR2hVSzhtYzk4a0Nobmt3WWFwazdjMlhDcUhGUnNyTjRqbzFnUkJBN1Zr?oc=5",
+      "source": "innovaTopia",
+      "published": "2026-11-23T01:42:23+00:00",
+      "summary": "【解説】リーマン予想、Anthropicの数学者がClaudeと証明と主張 Leanの検証は大半を通過 innovaTopia",
+      "id": "8dd7628557e71db8",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "中小機構、事業費上昇に対応する新たな債務保証を開始！設備投資の資金調達を支援",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xa0Z0TTlWWjY2cFlqLUpWMXdTNXBJQjdZa3lOMzllZ2xqbXFWdkh3OVl6VjN2R2FTbE96SjRTbmJ4NUNaTW9JeC0ta05zeVNRak5v?oc=5",
       "source": "創業手帳株式会社",
@@ -85,6 +97,42 @@
       "published": "2026-11-23T00:56:00+00:00",
       "summary": "AnthropicとSpaceX、IPO主幹事に「競合他社接触禁止」…ウォール街が反発 BigGo ファイナンス",
       "id": "7c494d6328e17240",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ビットコイン、Strategyの平均取得単価割れ Anthropic上場でAI資産に資金流入との見方",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNTNZVlh4dWNGbUJuTHBvU0NHSUhETHRudldQVHdWbXhCRFlCZEFxOFFKUHl4NlQwX29ieEhSemRxVVRhNGloZGNSLWxidnRUQzBOdWVtanJHeGtqaFVfd1BEdFViclJKZTZaWXAzbktZSjFKTVNFVFo0T2RzNXNKVGRZOWd0UnNGMHpDUFZBeHE0d0ExQm92ZUxlS1VHeGlLV3A4TmF6cmk3VnpBZjVHU0hfNk8waGJQemRMSkVrdWNnVlk0S3ozY01R?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-11-23T00:43:05+00:00",
+      "summary": "ビットコイン、Strategyの平均取得単価割れ Anthropic上場でAI資産に資金流入との見方 디지털투데이",
+      "id": "7e1a5b9f2df58ab5",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Anthropic研究者、Claudeでリーマン予想を証明と主張 Leanの1737万行超を公開",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0RfLVpfRTZDR0dpY0xrV2RLdldTRFJJOGN0R05LbXcyMEctLWF1M0FmbXNIZEhVQmJrZDNsSmVRUnVHa0xsRGFhbndhaFRWOTROVWpndDUxbXNnVm4ydy1icDdWODdoVjJWQ1ZMUDNsMFg5U0Z5OHZRN0ltMW5LNmZMa256VXIxXzl0ZWNvdkwycTNOWEtoV1BVZTZwRTB4MFFkOFJFbm5DN0FDejg5eHpsQQ?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-11-23T00:42:11+00:00",
+      "summary": "Anthropic研究者、Claudeでリーマン予想を証明と主張 Leanの1737万行超を公開 디지털투데이",
+      "id": "06a73fd892d32e7f",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "ARK、Anthropic上場初日に9,100万ドル投資 暗号資産ETFを一部売却",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDNxdnZJX1dXdkRRZU9mZGZiYXZySFhORk9lOEFOc2xrTWRQbVcyRXM4OGkyVS1xbTNXRFVhNTdvVUpadm80Z2Vfekg4QlA3TFJieDF5Q3lvcS0xVy1CT3BOenRweWY0TnVZdUdFUzJsLU4xUm11WWtCdUdEcWZBazRobjJQcnVsMXRXeXlsSFRsbjBXaERpdVpOUXYtYWhFa1FGbEMwTHZWdF9sSzZHR2NqN2lnUm9HSTZJeVJwSUlIaXFnNHc?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-11-23T00:41:51+00:00",
+      "summary": "ARK、Anthropic上場初日に9,100万ドル投資 暗号資産ETFを一部売却 디지털투데이",
+      "id": "a4b89bd403f1a7d8",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -151,48 +199,36 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "Notable Capital、GIC、Baillie GiffordはIPO前にAnthropicをどう支援したのか",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTTltcy1ESGl5MWN3SktrNjZIZXJhTHFxdUE3Z3NkYUR6cUQ2eDZhOHpMa01fTDd5SE9SeUc3VThLZTR5dzFrZThVVmFhV084cGJTNEdTcEZoWno4bUNsc2pfMXdkdnVWR1dGRXJlLUs1NjBIMHFGb3ZpRDUtQ1ByZVpKVWdHcnUyVFl5Qk8yN1hNcXEtWERQQw?oc=5",
+      "source": "Mezha.net",
+      "published": "2026-11-22T18:30:00+00:00",
+      "summary": "Notable Capital、GIC、Baillie GiffordはIPO前にAnthropicをどう支援したのか Mezha.net",
+      "id": "c42fb6a2afeaae6a",
+      "category": "テック",
+      "topic": "テクノロジー・AI",
+      "emoji": "🤖",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "金利上昇と資産運用、通説と異なり基本は株式投資 岩壷健太郎氏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qdERiZVFRTU0yc3YyQTRGZnhQeU1IdWNCRWJOWmwxWE5RNGV5OTREbGJhRVZZVDlEWXg5MXA1QUxJT3pVOVlFWkVfbkJxSGo0QlBNLXliZTFTMWp3LUppcmwtMEZnZjY1SDJWbw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-22T17:00:00+00:00",
+      "summary": "金利上昇と資産運用、通説と異なり基本は株式投資 岩壷健太郎氏 日本経済新聞",
+      "id": "330dba8a951e6b7b",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "対話型AI活用最前線 Claudeで実現、2000万円級リポートが80万円に",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zaUMxWFZyY0dqLWpiVEpqSVk0c3RURzBocVVRd0kyOFhDVXplcTNhY0xSbVd5cFdhOEtiWll4Z0dJN01nN3dFMmpiTm9iLTRGUS1OMS1OZEdJN2VTYThiVTRfN255ZDRER3FLQw?oc=5",
       "source": "日本経済新聞",
       "published": "2026-11-22T17:00:00+00:00",
       "summary": "対話型AI活用最前線 Claudeで実現、2000万円級リポートが80万円に 日本経済新聞",
       "id": "68cfbae685b163d5",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Claude Codeの検証ループ、Anthropicのコード検証の進め方",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRHBtRzZEMm1NQ0ZRdVRCa3h4TUhGaFRPLWdDQ1JKT2ZieU10LXA1ZTBzZm14LXN6UmlpNzlNMUg5TWg0eFZXMXpiUnhQcTRHQXBSb081UmUyMVc5ZjhSY29SUi1pYWZzVWNnS1FiZ1NGVDNwYnVQZWk3MkdPZ2xUWWtnNzhFcXBPRFE?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-11-22T14:26:44+00:00",
-      "summary": "Claude Codeの検証ループ、Anthropicのコード検証の進め方 Pasquale Pillitteri",
-      "id": "7d94b828f06b98d0",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "リーマン予想、Claudeによるアルペギュの証明",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLThYNHBwaXhmWDdjMThHUEFuS3N6aFNTaUZYLVh6NHJhUllfY0V6bGhpLXJNdkRGMENhZHVCOE9JQ2RqVTJoNmtKTVlKYkhabmcxeDJqUk51bmFLRE9KSFdJeklVcGoyUWF4TDBDbi15a1M5SXp2bGhxcFdQSEJUdXFlQQ?oc=5",
-      "source": "Meteora Web",
-      "published": "2026-11-22T14:13:47+00:00",
-      "summary": "リーマン予想、Claudeによるアルペギュの証明 Meteora Web",
-      "id": "ca3c8d44d682dd5c",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Anthropic、計算資源の契約を回収するには年6020億ドルの売上が必要",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGxFV29mX2JzOGp0bWdTZTBFNFhTTmRTQnJxVTFzSFJtdmZUM1llbHVUSk1pazlJY09vcjk1T21OR1hUS0dJdFVvay05cXZqSjhfMVVVZDlwMlkzVUhSeTg2MHZxZzRlc1BVRFloQ2VLUlQtd3VxVVdsTUd4dDF5R2Vmc3FidDdVT3JRcVVsRjNkaGZKQWc?oc=5",
-      "source": "Pasquale Pillitteri",
-      "published": "2026-11-22T13:35:01+00:00",
-      "summary": "Anthropic、計算資源の契約を回収するには年6020億ドルの売上が必要 Pasquale Pillitteri",
-      "id": "43a5a5ede0abbc98",
       "category": "テック",
       "topic": "テクノロジー・AI",
       "emoji": "🤖",
@@ -211,30 +247,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "アールスリーインスティテュートがgusuku Fluxonを正式リリース",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5wYS1Uejc0eklfckxGN00wT29xUFN4RVZCWEVsX3NpazJpWWxiM1BQTHJlbWhGQnNnMWowVWgtT1J2dXI3Nnc?oc=5",
-      "source": "Dellows News",
-      "published": "2026-11-22T12:55:00+00:00",
-      "summary": "アールスリーインスティテュートがgusuku Fluxonを正式リリース Dellows News",
-      "id": "75f7385f541f97b2",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "AnthropicのIPO利益、州の富裕税論争と衝突 - ニュースと統計",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUpCek1NWm9MUEtyRXBXREVOWV9GX25LRHZEaUxHZE5mMm9GV25ISm1QNklic2w0blI5eGhvaURCaDdQVW95SXhkdUJVNDdGRV9TMTZGRHRtUlJ3Y2VYbTQ0dzhMRnoyX3c1bFlDMU9kLVlFQk1BZVplMHB1bnhmUzVjd3NXc0lz?oc=5",
-      "source": "IndexBox",
-      "published": "2026-11-22T12:31:13+00:00",
-      "summary": "AnthropicのIPO利益、州の富裕税論争と衝突 - ニュースと統計 IndexBox",
-      "id": "b9262b092d8221ca",
-      "category": "テック",
-      "topic": "テクノロジー・AI",
-      "emoji": "🤖",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "“義経元服の地”で元服式 鎌倉時代を再現した色鮮やかな装束 13歳以上なら誰でも参加可 滋賀・竜王町",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PbWNranU2WGRhbWVCNm9ZSG9DX2tYa2Zpcm4weEIzdUR0T1g3OFZzRlNkUlEzU2ZienNYSTJDTV9fUGlFUFJJWnQwcWVwOUJJYTZuc1dycXI1YWZiQ0FPTUUzYUFLSmtIcDg5VWlGYUctWjZfZ2JPR3lyVDlrbUU?oc=5",
       "source": "Yahoo!ニュース",
@@ -247,15 +259,15 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【忘年会！12月6日開催】イザカヤマルカマ with 鈴木屋酒店 vol.3のご案内",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wdVZsTkxmRExwQnkyeWlWRHVyQzdZMkpiLUgzNjN3VlkwTDJZYVQ2U2QwUGY0TEJqSUNCVi1fN0NoeVpKUFpydVdDVld3WGcxNTNIamVobEFTTUJrNWxIVExZVzRYdDZSUzdqeklUaVNwTXNIUHc?oc=5",
-      "source": "クラウドファンディング - READYFOR",
-      "published": "2026-11-22T05:58:37+00:00",
-      "summary": "【忘年会！12月6日開催】イザカヤマルカマ with 鈴木屋酒店 vol.3のご案内 クラウドファンディング - READYFOR",
-      "id": "77358720d3618686",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
+      "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 松江」8/19(水) 開催",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TaXdSRDlXdVI1VlFxd093V0dkdWQ5UVBXZ3lpclRISy1MV3M1aXRLaVpyVXZpUGx3WDZoM3hSTlVVbWdDNUY0X2ZONDBiNFpBbWc?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-11-22T08:34:33+00:00",
+      "summary": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 松江」8/19(水) 開催 山陽新聞",
+      "id": "46da94e253e9aa6c",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -280,18 +292,6 @@
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "桑田佳祐×あいみょん「なごり雪」配信開始 ライブアルバム『九段下フォーク・フェスティバル'25』発売カウントダウン企画",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52UzQ2Z3hZa1VmZWJWYnh2NF9ZMnBRYXRmSUtLWXRoc1otYTVXLXZpS2Z1ZWNWWmZfX0VVZG9BZnJjbmJOMmFDa20weXVMWk1EMTVhYk5TUE9lTTQwSEFkY0NuQ25qb0lsWjdZeklLbw?oc=5",
-      "source": "山陽新聞",
-      "published": "2026-11-21T17:06:39+00:00",
-      "summary": "桑田佳祐×あいみょん「なごり雪」配信開始 ライブアルバム『九段下フォーク・フェスティバル'25』発売カウントダウン企画 山陽新聞",
-      "id": "9808c40ab211e96b",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -331,6 +331,18 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "東京都、DX関連製品などの販路拡大を支援！11月30日まで助成金申請を受付",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1WVB4NG5ZTm1aYTdraEZ0cGJOMkdlMXRqd24ycm9YcGhXY0FxWm02R0pyTm05RWFGdW43RWxvVjg1dXUzaVdXZm9uYjZOUU1jNW1yLVBJb1NrMi1jaFE?oc=5",
+      "source": "創業手帳株式会社",
+      "published": "2026-11-21T01:00:43+00:00",
+      "summary": "東京都、DX関連製品などの販路拡大を支援！11月30日まで助成金申請を受付 創業手帳株式会社",
+      "id": "ed69d30f629701e2",
+      "category": "経済",
+      "topic": "経済・ビジネス",
+      "emoji": "💹",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "11月23日、横浜アリーナで入場無料の港北ふれあいまつり",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IeUpxSXFwZTVVMTlIb3NIanRWbTBmX0dJU1JZWGF3WWwxTnRTRm5fTzRpMDdFUDRvTTlPdVpxMzROMlR6dXV6S3JNNUpRYWdJeTRia3RQNmpKTFZZRS01VQ?oc=5",
       "source": "横浜で暮らそう",
@@ -340,18 +352,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "SWEET LOVE SHOWER 2026が大盛況のうちに終幕! あいみょん、Creepy Nuts、レミオロメン、アジカン、Vaundyら96組が集結した3日間",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OcXRGUWFaMGxlM3F3eE03bkhuNHZaVGJ2RktjVXl3cmtaRFFkMEVpSTVXSW04UGNSdWQ4SjAwQXUxZzdBNUxrRDZZeG13WG9KQnc?oc=5",
-      "source": "Mikiki by TOWER RECORDS",
-      "published": "2026-11-21T00:01:08+00:00",
-      "summary": "SWEET LOVE SHOWER 2026が大盛況のうちに終幕! あいみょん、Creepy Nuts、レミオロメン、アジカン、Vaundyら96組が集結した3日間 Mikiki by TOWER RECORDS",
-      "id": "399dd6c6377ad6f0",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -487,48 +487,12 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "【12/16開催】エフアンドエムが柏崎信用金庫・かしわざき広域ビジネス応援ネットワーク主催の企業向けセミナーに登壇",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzT2ZYdnNzcWJNa1VWcy1wckpySDlMUzlCS0UtQXRrSTg1SXY5R1NqV0phUWFOVWpROWFnSGNydjdsVWZzUjlobUtEQ19oVWJpX2dFTHczZHhBZHZNcEh3dng3WXZVM2FXNWc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-20T07:00:02+00:00",
-      "summary": "【12/16開催】エフアンドエムが柏崎信用金庫・かしわざき広域ビジネス応援ネットワーク主催の企業向けセミナーに登壇 PR TIMES",
-      "id": "a5cf43025d90c5fa",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "債券15時 長期金利、2.785%に低下 投資家心理悪化で買い",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ST01JUkNTZGZGS1ZuVmNZWU8wbU8zRktydTdwM0hJckk0azdRcXZsLU4wMVdoczNFRjV4am15M0J1SHJPZXJZSTJwSENwOVhudXZ5YnJ4QTFxSHNFYmpuR1hTN1B5N2UwVWpoMg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-20T06:34:29+00:00",
-      "summary": "債券15時 長期金利、2.785%に低下 投資家心理悪化で買い 日本経済新聞",
-      "id": "458f54822e15185c",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "デジタル化・AI導入補助金2026における交付決定誤りについて",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xbUhuQ2xQUXZ2eFRNRE9VY21NN1NaV2xPa3lWUU5YVF82NEUxUkhqY2FzM1M3TWsxTGlaXzBkNjZIbDN5dFNNeEtiVkNONVFzTTNIa3N0UHFSYkIyTG9aNXJZSVpLQklIb0I4dUp6UmhkbldjdEFyTzhTN0lvZw?oc=5",
       "source": "中小企業庁",
       "published": "2026-11-20T06:11:03+00:00",
       "summary": "デジタル化・AI導入補助金2026における交付決定誤りについて 中小企業庁",
       "id": "4a7241a3354b4805",
-      "category": "経済",
-      "topic": "経済・ビジネス",
-      "emoji": "💹",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "補助金クラウド運営のStayway、新潟市へ企業版ふるさと納税により100万円を寄附",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ueVFmdG45anhjWl9oWnBWNVczUWpBUnp2c1U5M1E2LW1SQXV6aXhvQTdzRGJycXkwbExaNGNHcGxxLTJiTlNRWlpWd0ExRGZuS0FUNDZVU3o3QWRMZHJfTkJDVUx5dHh6cVE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-20T06:00:02+00:00",
-      "summary": "補助金クラウド運営のStayway、新潟市へ企業版ふるさと納税により100万円を寄附 PR TIMES",
-      "id": "2bd29a218b49ddc0",
       "category": "経済",
       "topic": "経済・ビジネス",
       "emoji": "💹",
@@ -607,18 +571,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "鎌倉の酒屋と魚屋がおくる忘年会！鳥取・大山の酒蔵「久米桜酒造」も参戦「イザカヤマルカマ with 鈴木屋酒店 vol.3」12月6日（日）開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11Q1c2aEJnSGt6Tlk4U0FXekI2R1pPMHRWT3IwSFZUWm42cnJycXFWaXhnUzktb04tOTd4ZDFRS2hsZmxjbkdhZlFSOVluMk5wZm5QYURESVhvbU1td3RXa0tQSzZTekxzZWc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-19T23:54:29+00:00",
-      "summary": "鎌倉の酒屋と魚屋がおくる忘年会！鳥取・大山の酒蔵「久米桜酒造」も参戦「イザカヤマルカマ with 鈴木屋酒店 vol.3」12月6日（日）開催 PR TIMES",
-      "id": "9889384dc96a69e8",
-      "category": "地域",
-      "topic": "地域ニュース 鎌倉",
-      "emoji": "📍",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "オリコンニュース：鎌倉の築97年古民家をリノベーション 昔ながらの梁や柱を残したモダンな住まいに",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1meklwaVpXZTBlMHJLSnpEYzRrS3RZMnkyaVo2QWRwQXd4TDgzRTZ5dDNqY0FfWk5YdW5wb0k2aGJ0TlMwN2tNSGNJbkRlU1pZUkI0WkZWdnptbExLSHR2d3VWTU9WOGJx?oc=5",
       "source": "毎日新聞",
@@ -679,8 +631,32 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "腰越アートストリート 空き店舗シャッター彩り４年 作品完成、新たな魅力づくりへ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13MmNtQS1PNThhSjRUNTU3WkVNTW9RVG5XRWM0eUh5c1lGWXdlMkhKSFYyMkZyMnY4MXBxbXJtekxia3EyUkF1VW9ibG5QWERkV3JqUXpCRlMyWW9lUHczeGtObHQ?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-11-19T15:00:00+00:00",
+      "summary": "腰越アートストリート 空き店舗シャッター彩り４年 作品完成、新たな魅力づくりへ タウンニュース",
+      "id": "19bd96fcd48a88ec",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "「つながりフェスタ＠にしかま2026」の実行委員長を務める 向 裕子さん 西鎌倉在住 59歳",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80VDJxQWFjWnpDaVpqQWczb0M5YTdkZTFCc0RTOWd4YmZBcGR5UThCdG9DSWhaeDh0dnNqX0dkcEdnRzRZQlFYSmluUVMyMjhfaHNBTUpzaGxqX0MyTnpCUWJyWlc?oc=5",
+      "source": "タウンニュース",
+      "published": "2026-11-19T15:00:00+00:00",
+      "summary": "「つながりフェスタ＠にしかま2026」の実行委員長を務める 向 裕子さん 西鎌倉在住 59歳 タウンニュース",
+      "id": "e34534789b8c855b",
+      "category": "地域",
+      "topic": "地域ニュース 鎌倉",
+      "emoji": "📍",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "あいみょん、新アルバム『スマイル週間』発売決定！ 収録曲の一部が試聴できるvery short teaser公開",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2LV9rY0ktUXI4LV9vSFFETkF1ajdZZ1pBVU56bFJ3X2U5SHJjdzZjZjJyemdFaEp5d3FZTE1kb2NrMExzVHFJdFNJT3E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rVTZvYWdMNXBGWi1PWHpUaFZWNHYwejU5NTFUQXc3LUl5LTVYZTFMU0YwVUQxZlpfVldIY0FRUldqSnJZX3liejRON0YtTjg?oc=5",
       "source": "クランクイン！",
       "published": "2026-11-19T10:00:00+00:00",
       "summary": "あいみょん、新アルバム『スマイル週間』発売決定！ 収録曲の一部が試聴できるvery short teaser公開 クランクイン！",
@@ -700,18 +676,6 @@
       "category": "音楽",
       "topic": "ライブ・コンサート全般",
       "emoji": "🎤",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "あいみょん年明けに新アルバム「スマイル週間」発売、初回盤に岡本太郎記念館での弾き語り音源付属（動画あり）",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6cXJGSmo4Y3Jmb09mTUs1c0M4V2pjaVdYdVoxV1JMaFRjLXJpbjBxZUgtXzFqajVIcnNkRzl2NmRtdjVmUXNXQXNjYlc?oc=5",
-      "source": "ナタリー",
-      "published": "2026-11-19T09:00:00+00:00",
-      "summary": "あいみょん年明けに新アルバム「スマイル週間」発売、初回盤に岡本太郎記念館での弾き語り音源付属（動画あり） ナタリー",
-      "id": "406dae131e173f06",
-      "category": "音楽",
-      "topic": "推しアーティスト",
-      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -748,6 +712,18 @@
       "category": "武道",
       "topic": "合気道・武道",
       "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "あいみょん年明けに新アルバム「スマイル週間」発売、初回盤に岡本太郎記念館での弾き語り音源付属",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QRFFVZGl2N1VaSE4tZC1qem9WZl9hcmtaX3RPazB0eHBOU0JQTnVxYmpGSTdZak4tdUZ6MzdXYloxUzg0dWpyNWNaQzVYaG5EdlE?oc=5",
+      "source": "JOYSOUND 音楽ニュース",
+      "published": "2026-11-18T16:04:00+00:00",
+      "summary": "あいみょん年明けに新アルバム「スマイル週間」発売、初回盤に岡本太郎記念館での弾き語り音源付属 JOYSOUND 音楽ニュース",
+      "id": "194b33acc66f46b1",
+      "category": "音楽",
+      "topic": "推しアーティスト",
+      "emoji": "🎵",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -811,18 +787,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "ビンドン区で、エキサイティングなシンクロナイズド体操と武道の競技会が開催されます。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZnIyT2VDRk1fRVJHeUFtNWtGLVcyRk5PZjh0TE1fU2hpalVCRHpwVkpENE1XcWxWRU9PUHdqbzdUaEY3aXhvZ0hlelNGQ09TNUpVaE9FVG9RYWcxV3d0YkFZaHlqd084TFF2cGVyZ1JvYmRYaWtzeW0wY2tDdHZnZEVOa0IyTXByVnVYZF9oRUp4TlVmcUE?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-15T19:36:25+00:00",
-      "summary": "ビンドン区で、エキサイティングなシンクロナイズド体操と武道の競技会が開催されます。 Vietnam.vn",
-      "id": "ba216d57224e4289",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "品川区福祉オンブズマン制度｜品川区公式ウェブサイト",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRFZRMkYzQ0tuUnBpTnVfYXc5SWJybHlMdlltTzRFTVVfbVJTbHlXS0ZWeUp6SUxqSnRtNHpDZEdYLWszdE9WaEpNY0M2OW9vQUctRl9LdXBDUDZIbVFQZk1DY195SldLUVFfeVdGSWtrYUJPNHl2M2FoQ1lpNXhGVVRB?oc=5",
       "source": "www.city.shinagawa.tokyo.jp",
@@ -883,18 +847,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "天皇ご一家 皇宮警察の武道大会を観戦",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52UVFfTlc1Zl8wVjU2SFJiRzdxUnI0OTl1WVlEREpxMzNMT2hQWEd6UV9sYmhqdXJMOUdreWpVY1lNLXk5VWcwLVZ3ZGN5aWhGRmlPRA?oc=5",
-      "source": "ABEMA TIMES",
-      "published": "2026-11-12T08:00:00+00:00",
-      "summary": "天皇ご一家 皇宮警察の武道大会を観戦 ABEMA TIMES",
-      "id": "7ac768892282db6f",
-      "category": "武道",
-      "topic": "合気道・武道",
-      "emoji": "🥋",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "【中日】工藤公康監督が直接オファー 合気道家・藤平信一氏からナインが体の使い方を学ぶ「けがなく鍛えていけるように」",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xNWo0TFl5WGstbWJKX0Y4VWZidDUtd3RTbWVxc3ltdlJGbWhWdGY1anJYaG8yRzNPZWJzVVlOLThGenJXNnBUZWhfcGxFS0VhUHZMV2V5LWk3dGdXSzFfR1cyeXJPel9jTGp6Q1BSLUg1aU51QV9iY05aa0p4MWs?oc=5",
       "source": "Yahoo!ニュース",
@@ -929,7 +881,31 @@
       "topic": "合気道・武道",
       "emoji": "🥋",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "天皇ご一家、信子さまが皇宮警察武道大会を観戦 熱戦に拍手送る",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lV2U1ZXB2dW9Gazlwb3JVRTEwei03OFZ5N0VldkhVR1VwdVVib2JZMDhnUDNsM2pfZ0JySHBGYUpQZ0R6NjdUSldJR0JJN3hQWF9wQUFrTXNlUFRRMnFudUFTQkdKVGs?oc=5",
+      "source": "朝日新聞",
+      "published": "2026-11-11T08:00:00+00:00",
+      "summary": "天皇ご一家、信子さまが皇宮警察武道大会を観戦 熱戦に拍手送る 朝日新聞",
+      "id": "25d029a7e5ae96c5",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "天皇皇后両陛下と愛子さま 皇宮警察の武道大会を観戦 柔道や剣道の決勝戦などで勝敗決定時には護衛官らに拍手も",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iQVlKZ0dRLS1YaTlFRWtnMXpDR3llejEzbFZ2eHlZcFNPXzl0ZTR3V3dOaE41WFUxTDQweHMyTk1QYVpfR19BcDdZTTNmelIyY2MzSkdaYw?oc=5",
+      "source": "TBS NEWS DIG",
+      "published": "2026-11-11T08:00:00+00:00",
+      "summary": "天皇皇后両陛下と愛子さま 皇宮警察の武道大会を観戦 柔道や剣道の決勝戦などで勝敗決定時には護衛官らに拍手も TBS NEWS DIG",
+      "id": "c3affd79e88f4599",
+      "category": "武道",
+      "topic": "合気道・武道",
+      "emoji": "🥋",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
-  "count": 72
+  "count": 70
 }
